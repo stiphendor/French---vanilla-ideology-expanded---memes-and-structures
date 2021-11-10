@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_CraftingSpeed_Slower.label>slower</VME_CraftingSpeed_Slower.label>
+<VME_CraftingSpeed_Slower.description>A craftmaster must never rush, lest the quality of the product suffer.</VME_CraftingSpeed_Slower.description>
+
+<VME_CraftingSpeed_SlowerForManual.label>slower for manual</VME_CraftingSpeed_SlowerForManual.label>
+<VME_CraftingSpeed_SlowerForManual.description>Manual processes are unefficient. We can't waste our precious lives toiling away in mindless manual labour.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Non-electric work table speed: -25%.</VME_CraftingSpeed_SlowerForManual.description>
+
+
+</LanguageData>

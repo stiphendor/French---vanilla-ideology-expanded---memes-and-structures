@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_SkilledLabor_Slow.label>slow</VME_SkilledLabor_Slow.label>
+<VME_SkilledLabor_Slow.description>Pursuits of skilled labor are meticulous and time-consuming, it is better to focus our attention and efforts elsewhere.</VME_SkilledLabor_Slow.description>
+
+<VME_SkilledLabor_Relaxed.label>relaxed</VME_SkilledLabor_Relaxed.label>
+<VME_SkilledLabor_Relaxed.description>Skilled labour should be approached with care and time. Rushing things only leads to sloppy results and unfortunate accidents.</VME_SkilledLabor_Relaxed.description>
+
+
+</LanguageData>

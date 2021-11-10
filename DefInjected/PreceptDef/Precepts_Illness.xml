@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_Illness_Exalted.label>exalted</VME_Illness_Exalted.label>
+<VME_Illness_Exalted.description>To be infected is to be blessed, and to go long without blessing is regrettable.</VME_Illness_Exalted.description>
+
+<VME_Illness_Preferred.label>preferred</VME_Illness_Preferred.label>
+<VME_Illness_Preferred.description>Being sick gives you an excuse to lie down and work less. It's worth it!</VME_Illness_Preferred.description>
+
+<VME_Illness_Indifferent.label>indifferent</VME_Illness_Indifferent.label>
+<VME_Illness_Indifferent.description>Illness is just another fact of life.</VME_Illness_Indifferent.description>
+
+
+</LanguageData>

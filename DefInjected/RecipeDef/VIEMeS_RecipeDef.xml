@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_InstallFleshcraftedArm.label>install fleshcrafted arm</VME_InstallFleshcraftedArm.label>
+<VME_InstallFleshcraftedArm.description>Install a fleshcrafted arm. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedArm.description>
+<VME_InstallFleshcraftedArm.jobString>Installing fleshcrafted arm.</VME_InstallFleshcraftedArm.jobString>
+
+<VME_InstallFleshcraftedHand.label>install fleshcrafted hand</VME_InstallFleshcraftedHand.label>
+<VME_InstallFleshcraftedHand.description>Install a fleshcrafted hand. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedHand.description>
+<VME_InstallFleshcraftedHand.jobString>Installing fleshcrafted hand.</VME_InstallFleshcraftedHand.jobString>
+
+<VME_InstallFleshcraftedFinger.label>install fleshcrafted finger</VME_InstallFleshcraftedFinger.label>
+<VME_InstallFleshcraftedFinger.description>Install a fleshcrafted finger. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedFinger.description>
+<VME_InstallFleshcraftedFinger.jobString>Installing fleshcrafted finger.</VME_InstallFleshcraftedFinger.jobString>
+
+<VME_InstallFleshcraftedToe.label>install fleshcrafted toe</VME_InstallFleshcraftedToe.label>
+<VME_InstallFleshcraftedToe.description>Install a fleshcrafted toe. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedToe.description>
+<VME_InstallFleshcraftedToe.jobString>Installing fleshcrafted toe.</VME_InstallFleshcraftedToe.jobString>
+
+<VME_InstallFleshcraftedLeg.label>install fleshcrafted leg</VME_InstallFleshcraftedLeg.label>
+<VME_InstallFleshcraftedLeg.description>Install a fleshcrafted leg. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedLeg.description>
+<VME_InstallFleshcraftedLeg.jobString>Installing fleshcrafted leg.</VME_InstallFleshcraftedLeg.jobString>
+
+<VME_InstallFleshcraftedHeart.label>install fleshcrafted heart</VME_InstallFleshcraftedHeart.label>
+<VME_InstallFleshcraftedHeart.description>Install a fleshcrafted heart. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedHeart.description>
+<VME_InstallFleshcraftedHeart.jobString>Installing fleshcrafted heart.</VME_InstallFleshcraftedHeart.jobString>
+
+<VME_InstallFleshcraftedLung.label>install fleshcrafted lung</VME_InstallFleshcraftedLung.label>
+<VME_InstallFleshcraftedLung.description>Install a fleshcrafted lung. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedLung.description>
+<VME_InstallFleshcraftedLung.jobString>Installing fleshcrafted lung.</VME_InstallFleshcraftedLung.jobString>
+
+<VME_InstallFleshcraftedKidney.label>install fleshcrafted kidney</VME_InstallFleshcraftedKidney.label>
+<VME_InstallFleshcraftedKidney.description>Install a fleshcrafted kidney. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedKidney.description>
+<VME_InstallFleshcraftedKidney.jobString>Installing fleshcrafted kidney.</VME_InstallFleshcraftedKidney.jobString>
+
+<VME_InstallFleshcraftedLiver.label>install fleshcrafted liver</VME_InstallFleshcraftedLiver.label>
+<VME_InstallFleshcraftedLiver.description>Install a fleshcrafted liver. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedLiver.description>
+<VME_InstallFleshcraftedLiver.jobString>Installing fleshcrafted liver.</VME_InstallFleshcraftedLiver.jobString>
+
+<VME_InstallFleshcraftedEye.label>install fleshcrafted eye</VME_InstallFleshcraftedEye.label>
+<VME_InstallFleshcraftedEye.description>Install a fleshcrafted eye. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedEye.description>
+<VME_InstallFleshcraftedEye.jobString>Installing fleshcrafted eye.</VME_InstallFleshcraftedEye.jobString>
+
+<VME_InstallFleshcraftedEar.label>install fleshcrafted ear</VME_InstallFleshcraftedEar.label>
+<VME_InstallFleshcraftedEar.description>Install a fleshcrafted ear. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedEar.description>
+<VME_InstallFleshcraftedEar.jobString>Installing fleshcrafted ear.</VME_InstallFleshcraftedEar.jobString>
+
+<VME_InstallFleshcraftedNose.label>install fleshcrafted nose</VME_InstallFleshcraftedNose.label>
+<VME_InstallFleshcraftedNose.description>Install a fleshcrafted nose. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedNose.description>
+<VME_InstallFleshcraftedNose.jobString>Installing fleshcrafted nose.</VME_InstallFleshcraftedNose.jobString>
+
+<VME_InstallFleshcraftedJaw.label>install fleshcrafted jaw</VME_InstallFleshcraftedJaw.label>
+<VME_InstallFleshcraftedJaw.description>Install a fleshcrafted jaw. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedJaw.description>
+<VME_InstallFleshcraftedJaw.jobString>Installing fleshcrafted jaw.</VME_InstallFleshcraftedJaw.jobString>
+
+<VME_InstallFleshcraftedStomach.label>install fleshcrafted stomach</VME_InstallFleshcraftedStomach.label>
+<VME_InstallFleshcraftedStomach.description>Install a fleshcrafted stomach. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedStomach.description>
+<VME_InstallFleshcraftedStomach.jobString>Installing fleshcrafted stomach.</VME_InstallFleshcraftedStomach.jobString>
+
+<VME_InstallFleshcraftedTongue.label>install fleshcrafted tongue</VME_InstallFleshcraftedTongue.label>
+<VME_InstallFleshcraftedTongue.description>Install a fleshcrafted tongue. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedTongue.description>
+<VME_InstallFleshcraftedTongue.jobString>Installing fleshcrafted tongue.</VME_InstallFleshcraftedTongue.jobString>
+
+<VME_InstallFleshcraftedSpine.label>install fleshcrafted spine</VME_InstallFleshcraftedSpine.label>
+<VME_InstallFleshcraftedSpine.description>Install a fleshcrafted spine. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedSpine.description>
+<VME_InstallFleshcraftedSpine.jobString>Installing fleshcrafted spine.</VME_InstallFleshcraftedSpine.jobString>
+
+
+</LanguageData>

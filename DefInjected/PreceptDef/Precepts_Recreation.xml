@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_Recreation_Loved.label>loved</VME_Recreation_Loved.label>
+<VME_Recreation_Loved.description>Fun and games aren’t optional - Enjoy every moment of recreation and make it the best you can for yourself and your friends.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Colonists gain recreation at 50% the speed when using any Joy buildings.\n - Increases by 50% the mood buff acquired by colonists after a party.</VME_Recreation_Loved.description>
+
+<VME_Recreation_Normal.label>normal</VME_Recreation_Normal.label>
+<VME_Recreation_Normal.description>Recreation is an important part of life.</VME_Recreation_Normal.description>
+<VME_Recreation_Disapproved.label>disapproved</VME_Recreation_Disapproved.label>
+<VME_Recreation_Disapproved.description>Recreation is a waste of time.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Colonists get -5 mood for half a day after doing a recreation job.</VME_Recreation_Disapproved.description>
+
+
+</LanguageData>

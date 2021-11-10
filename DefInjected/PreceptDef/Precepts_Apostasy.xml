@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_Apostasy_Accepted.label>accepted</VME_Apostasy_Accepted.label>
+<VME_Apostasy_Accepted.description>We feel bound by authority alone to follow our current ideology, and will not think twice if an opportunity presents itself to change our ways.</VME_Apostasy_Accepted.description>
+
+<Apostasy_Despicable.label>despicable</Apostasy_Despicable.label>
+<Apostasy_Despicable.description>Being coerced or otherwise manipulated into following a different belief is a despicable act. If somebody seeks knowledge of another's faith, then let them ask for it naturally.</Apostasy_Despicable.description>
+<Apostasy_Despicable.comps.0.description>Changed ideoligion</Apostasy_Despicable.comps.0.description>
+
+
+</LanguageData>

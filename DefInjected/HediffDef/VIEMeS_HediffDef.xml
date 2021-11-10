@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+		<!-- +++++ Hediffs_BodyParts_Natural +++++ -->
+<VME_FleshcraftedArmHediff.label>fleshcrafted arm</VME_FleshcraftedArmHediff.label>
+<VME_FleshcraftedArmHediff.description>An installed fleshcrafted arm.</VME_FleshcraftedArmHediff.description>
+<VME_FleshcraftedArmHediff.comps.HediffComp_VerbGiver.tools.fist.label>fist</VME_FleshcraftedArmHediff.comps.HediffComp_VerbGiver.tools.fist.label>
+<VME_FleshcraftedArmHediff.labelNoun>a fleshcrafted arm</VME_FleshcraftedArmHediff.labelNoun>
+
+<VME_FleshcraftedHandHediff.label>fleshcrafted hand</VME_FleshcraftedHandHediff.label>
+<VME_FleshcraftedHandHediff.description>An installed fleshcrafted hand.</VME_FleshcraftedHandHediff.description>
+<VME_FleshcraftedHandHediff.comps.HediffComp_VerbGiver.tools.fist.label>fist</VME_FleshcraftedHandHediff.comps.HediffComp_VerbGiver.tools.fist.label>
+<VME_FleshcraftedHandHediff.labelNoun>a fleshcrafted hand</VME_FleshcraftedHandHediff.labelNoun>
+
+<VME_FleshcraftedFingerHediff.label>fleshcrafted finger</VME_FleshcraftedFingerHediff.label>
+<VME_FleshcraftedFingerHediff.description>An installed fleshcrafted finger.</VME_FleshcraftedFingerHediff.description>
+<VME_FleshcraftedFingerHediff.labelNoun>a fleshcrafted finger</VME_FleshcraftedFingerHediff.labelNoun>
+
+<VME_FleshcraftedToeHediff.label>fleshcrafted toe</VME_FleshcraftedToeHediff.label>
+<VME_FleshcraftedToeHediff.description>An installed fleshcrafted toe.</VME_FleshcraftedToeHediff.description>
+<VME_FleshcraftedToeHediff.labelNoun>a fleshcrafted toe</VME_FleshcraftedToeHediff.labelNoun>
+
+<VME_FleshcraftedLegHediff.label>fleshcrafted leg</VME_FleshcraftedLegHediff.label>
+<VME_FleshcraftedLegHediff.description>An installed fleshcrafted leg.</VME_FleshcraftedLegHediff.description>
+<VME_FleshcraftedLegHediff.labelNoun>a fleshcrafted leg</VME_FleshcraftedLegHediff.labelNoun>
+
+<VME_FleshcraftedHeartHediff.label>fleshcrafted heart</VME_FleshcraftedHeartHediff.label>
+<VME_FleshcraftedHeartHediff.description>An installed fleshcrafted heart.</VME_FleshcraftedHeartHediff.description>
+<VME_FleshcraftedHeartHediff.labelNoun>a fleshcrafted heart</VME_FleshcraftedHeartHediff.labelNoun>
+
+<VME_FleshcraftedLungHediff.label>fleshcrafted lung</VME_FleshcraftedLungHediff.label>
+<VME_FleshcraftedLungHediff.description>An installed fleshcrafted lung.</VME_FleshcraftedLungHediff.description>
+<VME_FleshcraftedLungHediff.labelNoun>a fleshcrafted lung</VME_FleshcraftedLungHediff.labelNoun>
+
+<VME_FleshcraftedKidneyHediff.label>fleshcrafted kidney</VME_FleshcraftedKidneyHediff.label>
+<VME_FleshcraftedKidneyHediff.description>An installed fleshcrafted kidney.</VME_FleshcraftedKidneyHediff.description>
+<VME_FleshcraftedKidneyHediff.labelNoun>a fleshcrafted kidney</VME_FleshcraftedKidneyHediff.labelNoun>
+
+<VME_FleshcraftedLiverHediff.label>fleshcrafted liver</VME_FleshcraftedLiverHediff.label>
+<VME_FleshcraftedLiverHediff.description>An installed fleshcrafted liver.</VME_FleshcraftedLiverHediff.description>
+<VME_FleshcraftedLiverHediff.labelNoun>a fleshcrafted liver</VME_FleshcraftedLiverHediff.labelNoun>
+
+<VME_FleshcraftedEyeHediff.label>fleshcrafted eye</VME_FleshcraftedEyeHediff.label>
+<VME_FleshcraftedEyeHediff.description>An installed fleshcrafted eye.</VME_FleshcraftedEyeHediff.description>
+<VME_FleshcraftedEyeHediff.labelNoun>a fleshcrafted eye</VME_FleshcraftedEyeHediff.labelNoun>
+
+<VME_FleshcraftedEarHediff.label>fleshcrafted ear</VME_FleshcraftedEarHediff.label>
+<VME_FleshcraftedEarHediff.description>An installed fleshcrafted ear.</VME_FleshcraftedEarHediff.description>
+<VME_FleshcraftedEarHediff.labelNoun>a fleshcrafted ear</VME_FleshcraftedEarHediff.labelNoun>
+
+<VME_FleshcraftedNoseHediff.label>fleshcrafted nose</VME_FleshcraftedNoseHediff.label>
+<VME_FleshcraftedNoseHediff.description>An installed fleshcrafted nose.</VME_FleshcraftedNoseHediff.description>
+<VME_FleshcraftedNoseHediff.labelNoun>a fleshcrafted nose</VME_FleshcraftedNoseHediff.labelNoun>
+
+<VME_FleshcraftedJawHediff.label>fleshcrafted jaw</VME_FleshcraftedJawHediff.label>
+<VME_FleshcraftedJawHediff.description>An installed fleshcrafted jaw.</VME_FleshcraftedJawHediff.description>
+<VME_FleshcraftedJawHediff.labelNoun>a fleshcrafted jaw</VME_FleshcraftedJawHediff.labelNoun>
+
+<VME_FleshcraftedStomachHediff.label>fleshcrafted stomach</VME_FleshcraftedStomachHediff.label>
+<VME_FleshcraftedStomachHediff.description>An installed fleshcrafted stomach.</VME_FleshcraftedStomachHediff.description>
+<VME_FleshcraftedStomachHediff.labelNoun>a fleshcrafted stomach</VME_FleshcraftedStomachHediff.labelNoun>
+
+<VME_FleshcraftedTongueHediff.label>fleshcrafted tongue</VME_FleshcraftedTongueHediff.label>
+<VME_FleshcraftedTongueHediff.description>An installed fleshcrafted tongue.</VME_FleshcraftedTongueHediff.description>
+<VME_FleshcraftedTongueHediff.labelNoun>a fleshcrafted tongue</VME_FleshcraftedTongueHediff.labelNoun>
+
+<VME_FleshcraftedSpineHediff.label>fleshcrafted spine</VME_FleshcraftedSpineHediff.label>
+<VME_FleshcraftedSpineHediff.description>An installed fleshcrafted spine.</VME_FleshcraftedSpineHediff.description>
+<VME_FleshcraftedSpineHediff.labelNoun>a fleshcrafted spine</VME_FleshcraftedSpineHediff.labelNoun>
+
+
+		<!-- +++++ Hediffs_Misc +++++ -->
+<VME_MedicalEmergencyHediff.label>medical emergency</VME_MedicalEmergencyHediff.label>
+<VME_MedicalEmergencyHediff.description>Stops the Nurse’s Rest, Recreation and Hunger from dropping for 12 hours. During this time, Nurse can only do Doctoring jobs properly.</VME_MedicalEmergencyHediff.description>
+
+
+</LanguageData>

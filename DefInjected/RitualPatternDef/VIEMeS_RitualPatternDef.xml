@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_CeremonialSuicideRitual.ritualExpectedDesc>Once a {IDEO} member is defeated twice in honorable combat with a hostile enemy, other {MEMBERS} expect {RITUAL_labelDef} to take place to cleanse the dishonor upon the colony.</VME_CeremonialSuicideRitual.ritualExpectedDesc>
+<VME_CeremonialSuicideRitual.ritualExpectedPostfix>{0} {1} want to carry out the ceremonial suicide as soon as possible.</VME_CeremonialSuicideRitual.ritualExpectedPostfix>
+
+<VME_IncantationPattern.ritualExplanation>Ritual will increase the participants' corruption need by 10%. If the need gets over 100%, they risk going mad from the eldritch incantations.</VME_IncantationPattern.ritualExplanation>
+
+<VME_LeaderConversionPattern.ritualExplanation>In case of success, their certainty will be reduced or they will convert immediately. If it backfires, their certainty in own beliefs will increase.</VME_LeaderConversionPattern.ritualExplanation>
+
+<VME_LeadershipChallengeRitual.ritualExpectedDesc>A {IDEO} member has better melee skill than the current leader, other {MEMBERS} expect {RITUAL_labelDef} to take place so only the strongest leader can rule them.</VME_LeadershipChallengeRitual.ritualExpectedDesc>
+<VME_LeadershipChallengeRitual.ritualExpectedPostfix>{0} {1} want to carry out the leadership challenge as soon as possible.</VME_LeadershipChallengeRitual.ritualExpectedPostfix>
+
+<VME_SlaveEmancipationPattern.ritualExplanation>Ritual will emancipate all participating slaves. Depending on outcome, a growing percentage of slaves will decide to join the colony, or leave.</VME_SlaveEmancipationPattern.ritualExplanation>
+
+
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_Elders_Despised.label>despised</VME_Elders_Despised.label>
+<VME_Elders_Despised.description>What is this, a retirement home? Get out of my way, fossil!</VME_Elders_Despised.description>
+<VME_Elders_Despised.comps.0.thoughtStageDescriptions.0>Elder (more than 65 years)</VME_Elders_Despised.comps.0.thoughtStageDescriptions.0>
+<VME_Elders_Despised.comps.0.thoughtStageDescriptions.1>Youth (less than 25 years)</VME_Elders_Despised.comps.0.thoughtStageDescriptions.1>
+
+<VME_Elders_Respected.label>respected</VME_Elders_Respected.label>
+<VME_Elders_Respected.description>True wisdom comes only with age, and those who have seen many seasons are to be venerated.</VME_Elders_Respected.description>
+<VME_Elders_Respected.comps.0.thoughtStageDescriptions.0>Elder (more than 65 years)</VME_Elders_Respected.comps.0.thoughtStageDescriptions.0>
+
+<VME_Elders_Holy.label>holy</VME_Elders_Holy.label>
+<VME_Elders_Holy.description>Our elders are to be respected and revered, and never shall we expect them to do hard work.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Colonists older than 65 will not do dumb labor.</VME_Elders_Holy.description>
+<VME_Elders_Holy.comps.0.thoughtStageDescriptions.0>Elder (more than 65 years)</VME_Elders_Holy.comps.0.thoughtStageDescriptions.0>
+
+
+</LanguageData>

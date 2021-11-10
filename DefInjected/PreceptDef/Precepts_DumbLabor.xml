@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_DumbLabor_Exalted.label>exalted</VME_DumbLabor_Exalted.label>
+<VME_DumbLabor_Exalted.description>An aching body is to be revered. Nearly nothing is found more rewarding than a day of hard work.</VME_DumbLabor_Exalted.description>
+
+<VME_DumbLabor_Liked.label>liked</VME_DumbLabor_Liked.label>
+<VME_DumbLabor_Liked.description>Hard work is good for your body and for your mind.</VME_DumbLabor_Liked.description>
+
+<VME_DumbLabor_Indifferent.label>indifferent</VME_DumbLabor_Indifferent.label>
+<VME_DumbLabor_Indifferent.description>Dumb tasks are necessary. That's all there is to it.</VME_DumbLabor_Indifferent.description>
+
+<VME_DumbLabor_Disliked.label>disliked</VME_DumbLabor_Disliked.label>
+<VME_DumbLabor_Disliked.description>We'd rather not do cleaning and hauling tasks, as they are incredibly exhausting, but they are necessary.</VME_DumbLabor_Disliked.description>
+
+<VME_DumbLabor_Horrible.label>horrible</VME_DumbLabor_Horrible.label>
+<VME_DumbLabor_Horrible.description>We should not suffer the laborious degradation of our bodies, nor the degradation of sweat forming on our brow.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Leader and Moralist roles will be incapable of Dumb Labor.</VME_DumbLabor_Horrible.description>
+
+
+</LanguageData>

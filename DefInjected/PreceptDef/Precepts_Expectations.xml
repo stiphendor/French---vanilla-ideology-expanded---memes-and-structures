@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_Expectations_High.label>high</VME_Expectations_High.label>
+<VME_Expectations_High.description>Our people are creatures of comfort, even the commoners among us deserve to relax or be pampered from time to time.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Expectations increased by 1 for everyone in the colony.</VME_Expectations_High.description>
+
+<VME_Expectations_Low.label>low</VME_Expectations_Low.label>
+<VME_Expectations_Low.description>The Rim is an inhospitable place. We shouldn't expect a comfy live.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Expectations lowered by 1 for everyone in the colony.</VME_Expectations_Low.description>
+
+
+</LanguageData>

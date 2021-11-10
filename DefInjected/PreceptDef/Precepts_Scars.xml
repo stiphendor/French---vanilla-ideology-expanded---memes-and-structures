@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_Scars_Honorable.label>honorable</VME_Scars_Honorable.label>
+<VME_Scars_Honorable.description>Scars are marks of honor and strength, to be scarred and continue on is nothing short of an incredible act.</VME_Scars_Honorable.description>
+<VME_Scars_Honorable.comps.0.thoughtStageDescriptions.0>Faintly scarred</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.0>
+<VME_Scars_Honorable.comps.0.thoughtStageDescriptions.1>Scarred</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.1>
+<VME_Scars_Honorable.comps.0.thoughtStageDescriptions.2>Heavily scarred</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.2>
+<VME_Scars_Honorable.comps.0.thoughtStageDescriptions.3>Extremely scarred</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.3>
+<VME_Scars_Honorable.comps.0.thoughtStageDescriptions.4>Innumerable battlefield scars</VME_Scars_Honorable.comps.0.thoughtStageDescriptions.4>
+
+<VME_Scars_Disgusting.label>disgusting</VME_Scars_Disgusting.label>
+<VME_Scars_Disgusting.description>A body marked with scars is disgusting.</VME_Scars_Disgusting.description>
+<VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.0>Faintly scarred</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.0>
+<VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.1>Scarred</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.1>
+<VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.2>Heavily scarred</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.2>
+<VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.3>Extremely scarred</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.3>
+<VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.4>Innumerable battlefield scars</VME_Scars_Disgusting.comps.0.thoughtStageDescriptions.4>
+
+
+</LanguageData>

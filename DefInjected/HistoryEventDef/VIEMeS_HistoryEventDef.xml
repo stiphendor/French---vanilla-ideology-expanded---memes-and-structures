@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_InstalledNonNaturalProsthetic.label>installed non-natural prosthetic</VME_InstalledNonNaturalProsthetic.label>
+<VME_Defeat.label>defeat</VME_Defeat.label>
+<VME_SecondDefeat.label>defeat</VME_SecondDefeat.label>
+<VME_DumbLabor.label>dumb labor</VME_DumbLabor.label>
+<VME_Firefighting.label>firefighting</VME_Firefighting.label>
+<VME_AteInsectJelly.label>ate insect jelly</VME_AteInsectJelly.label>
+<VME_InsectoidKilled.label>insectoid killed</VME_InsectoidKilled.label>
+<VME_KillingWithFire.label>killing with fire</VME_KillingWithFire.label>
+<VME_AteAnimalProducts.label>ate animal products</VME_AteAnimalProducts.label>
+<VME_MechanoidDestroyed.label>mechanoid destroyed</VME_MechanoidDestroyed.label>
+<VME_ConvertAPrisoner.label>converting a prisoner</VME_ConvertAPrisoner.label>
+<VME_AttackedAnimal.label>attacked animal</VME_AttackedAnimal.label>
+<VME_HavingFun.label>having fun</VME_HavingFun.label>
+<VME_BoughtSlave.label>bought slave</VME_BoughtSlave.label>
+<VME_AttackedInnocent.label>attacked innocent people</VME_AttackedInnocent.label>
+
+
+</LanguageData>

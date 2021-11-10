@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_Power_Exalted.label>exalted</VME_Power_Exalted.label>
+<VME_Power_Exalted.description>I am righteousness! I am no simple king, I have ascended to that of a god! Bow before me or atone with your life.</VME_Power_Exalted.description>
+<VME_Power_Exalted.comps.0.thoughtStageDescriptions.0>Leader</VME_Power_Exalted.comps.0.thoughtStageDescriptions.0>
+
+<VME_Power_Desired.label>desired</VME_Power_Desired.label>
+<VME_Power_Desired.description>Craving to be one of the powerful elite is a very understandable desire and should not be looked down upon.</VME_Power_Desired.description>
+<VME_Power_Desired.comps.0.thoughtStageDescriptions.0>Leader and moralist</VME_Power_Desired.comps.0.thoughtStageDescriptions.0>
+
+<VME_Power_Preferred.label>preferred</VME_Power_Preferred.label>
+<VME_Power_Preferred.description>It’s unthinkable to be considered a commoner. I want people to take my word seriously and put forth great effort not to disappoint me.</VME_Power_Preferred.description>
+<VME_Power_Preferred.comps.0.thoughtStageDescriptions.0>Any ideo role</VME_Power_Preferred.comps.0.thoughtStageDescriptions.0>
+
+
+</LanguageData>

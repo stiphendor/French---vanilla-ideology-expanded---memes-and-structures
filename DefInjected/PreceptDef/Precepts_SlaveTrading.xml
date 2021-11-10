@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_SlaveTrading_OnlyBuying.label>only buying</VME_SlaveTrading_OnlyBuying.label>
+<VME_SlaveTrading_OnlyBuying.description>Only buying slaves is justifiable, after which we should provide them amicable amounts of lodging and consideration within our colony. By selling a slave one leaves their fate up to the good faith of their buyer, a very unwise decision.</VME_SlaveTrading_OnlyBuying.description>
+<VME_SlaveTrading_OnlyBuying.comps.2.description>Someone bought a slave</VME_SlaveTrading_OnlyBuying.comps.2.description>
+<VME_SlaveTrading_OnlyBuying.comps.3.description>Someone sold a slave</VME_SlaveTrading_OnlyBuying.comps.3.description>
+
+
+</LanguageData>

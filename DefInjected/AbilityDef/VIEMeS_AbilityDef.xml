@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+		<!-- +++++ Abilities_Commissar +++++ -->
+<VME_EnforceCompliance.label>enforce compliance</VME_EnforceCompliance.label>
+<VME_EnforceCompliance.description>Executes a colonist. Every colonist sharing the Commissars ideoligion receives a positive mood bonus.</VME_EnforceCompliance.description>
+
+
+		<!-- +++++ Abilities_ExaltedPriesthood +++++ -->
+<VME_LeaderConversionRitual.label>conversion ritual (leader)</VME_LeaderConversionRitual.label>
+<VME_LeaderConversionRitual.description>Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram.</VME_LeaderConversionRitual.description>
+
+<VME_LeaderConvert.label>convert (leader)</VME_LeaderConvert.label>
+<VME_LeaderConvert.description>Attempt to convert someone to the speakers ideoligion. This will reduce the targets certainty in their own beliefs. The certainty reduction depends on the speakers negotiation ability.</VME_LeaderConvert.description>
+<VME_LeaderConvert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} failed to convert {RECIPIENT_labelShort}. {RECIPIENT_labelShort} was upset by the attempt, but {RECIPIENT_possessive} certainty fell from {CERTAINTYBEFORE} to {CERTAINTYAFTER}.</VME_LeaderConvert.comps.CompAbilityEffect_Convert.failMessage>
+<VME_LeaderConvert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} has converted {RECIPIENT_labelShort} to {IDEO}.</VME_LeaderConvert.comps.CompAbilityEffect_Convert.successMessage>
+
+<VME_LeaderPreachHealth.label>preach health (leader)</VME_LeaderPreachHealth.label>
+<VME_LeaderPreachHealth.description>Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain.</VME_LeaderPreachHealth.description>
+
+<VME_LeaderReassure.label>reassure (leader)</VME_LeaderReassure.label>
+<VME_LeaderReassure.description>Increase someones certainty in their own beliefs. The regained certainty is based on the speakers negotiation ability.</VME_LeaderReassure.description>
+<VME_LeaderReassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort} has reassured {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} certainty in {IDEO} from {BEFORECERTAINTY} to {AFTERCERTAINTY}.</VME_LeaderReassure.comps.CompAbilityEffect_Reassure.successMessage>
+
+<VME_LeaderCounsel.label>Counsel (leader)</VME_LeaderCounsel.label>
+<VME_LeaderCounsel.description>Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speakers social skills and their relationship with the listener.</VME_LeaderCounsel.description>
+<VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort} botched the attempt to counsel {RECIPIENT_labelShort}. {RECIPIENT_labelShort} has become upset.</VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.failMessage>
+<VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, canceling the mood impact of {2}.</VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessage>
+<VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} mood by {MOODBONUS}.</VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+
+
+		<!-- +++++ Abilities_FlameKeeper +++++ -->
+<VME_StrengthenFlame.label>strengthen flame</VME_StrengthenFlame.label>
+<VME_StrengthenFlame.description>An ability to ignite flame sources and cause an explosion. Only works on wild fires, not on man-made fire structures.</VME_StrengthenFlame.description>
+
+
+		<!-- +++++ Abilities_Fleshcrafter +++++ -->
+<VME_HarvestBodyParts.label>harvest body parts</VME_HarvestBodyParts.label>
+<VME_HarvestBodyParts.description>Harvests a fleshcrafted body part from a corpse.</VME_HarvestBodyParts.description>
+
+
+		<!-- +++++ Abilities_InsectoidHerder +++++ -->
+<VME_TameInsectoid.label>tame insectoid</VME_TameInsectoid.label>
+<VME_TameInsectoid.description>Targets an insectoid creature and tames it instantly.</VME_TameInsectoid.description>
+
+<VME_ConstructANest.label>construct a nest</VME_ConstructANest.label>
+<VME_ConstructANest.description>Constructs an insectoid nest that produces insect jelly. A sucessful insectoid hymn ritual must be conducted to reduce the cooldown of this ability.</VME_ConstructANest.description>
+
+
+		<!-- +++++ Abilities_Mechacker +++++ -->
+<VME_EnableSelfDestruct.label>enable self-destruct</VME_EnableSelfDestruct.label>
+<VME_EnableSelfDestruct.description>An ability to command a turret or mechanoid to self-destruct. The mechacker can target any turret, even enemy ones, as well as any mechanoid.</VME_EnableSelfDestruct.description>
+
+
+		<!-- +++++ Abilities_Nurse +++++ -->
+<VME_MedicalEmergency.label>medical emergency</VME_MedicalEmergency.label>
+<VME_MedicalEmergency.description>Stops the Nurse’s Rest, Recreation and Hunger from dropping for 12 hours. During this time, Nurse can only do Doctoring jobs properly.</VME_MedicalEmergency.description>
+
+
+		<!-- +++++ Abilities_PartyHost +++++ -->
+<VME_ThrowParty.label>throw party</VME_ThrowParty.label>
+<VME_ThrowParty.description>Throws a party.</VME_ThrowParty.description>
+
+
+		<!-- +++++ Abilities_Trader +++++ -->
+<VME_CallTradeCaravan.label>call trade caravan</VME_CallTradeCaravan.label>
+<VME_CallTradeCaravan.description>Summon a trade caravan.</VME_CallTradeCaravan.description>
+
+
+</LanguageData>

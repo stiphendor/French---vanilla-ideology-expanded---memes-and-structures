@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<VME_Raiding_Honorable.label>honorable</VME_Raiding_Honorable.label>
+<VME_Raiding_Honorable.description>We display our strength and perseverance through conquest, and in doing so we bring honor to our colony.</VME_Raiding_Honorable.description>
+<VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.0>Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.0>
+<VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.1>More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</VME_Raiding_Honorable.comps.3.thoughtStageDescriptions.1>
+
+<VME_Raiding_Abhorrent.label>abhorrent</VME_Raiding_Abhorrent.label>
+<VME_Raiding_Abhorrent.description>We worked hard for what we have, we cannot take from the weak as we too were once weak. Doing so is a tremendous shame.</VME_Raiding_Abhorrent.description>
+<VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.0>Less than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.0>
+<VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.1>More than {DAYSSINCELASTRAIDTHRESHOLD} days since our last raid</VME_Raiding_Abhorrent.comps.3.thoughtStageDescriptions.1>
+
+
+</LanguageData>
