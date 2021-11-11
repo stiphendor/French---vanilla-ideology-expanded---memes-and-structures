@@ -53,18 +53,18 @@
 
 
 		<!-- +++++ Abilities_Nurse +++++ -->
-<VME_MedicalEmergency.label>medical emergency</VME_MedicalEmergency.label>
-<VME_MedicalEmergency.description>Stops the Nurse’s Rest, Recreation and Hunger from dropping for 12 hours. During this time, Nurse can only do Doctoring jobs properly.</VME_MedicalEmergency.description>
+<VME_MedicalEmergency.label>urgence médicaley</VME_MedicalEmergency.label>
+<VME_MedicalEmergency.description>Annule le besoin de repos, de faim et de divertissement de l'infirmière pendant 12 heures. Pendant ce temps, l'infirmière ne peut faire que les tâches de docteur correctement.</VME_MedicalEmergency.description>
 
 
 		<!-- +++++ Abilities_PartyHost +++++ -->
-<VME_ThrowParty.label>throw party</VME_ThrowParty.label>
-<VME_ThrowParty.description>Throws a party.</VME_ThrowParty.description>
+<VME_ThrowParty.label>organiser une fête</VME_ThrowParty.label>
+<VME_ThrowParty.description>Organisez une fête.</VME_ThrowParty.description>
 
 
 		<!-- +++++ Abilities_Trader +++++ -->
-<VME_CallTradeCaravan.label>call trade caravan</VME_CallTradeCaravan.label>
-<VME_CallTradeCaravan.description>Summon a trade caravan.</VME_CallTradeCaravan.description>
+<VME_CallTradeCaravan.label>appeler une caravane commerciale</VME_CallTradeCaravan.label>
+<VME_CallTradeCaravan.description>Appelez une caravane commerciale.</VME_CallTradeCaravan.description>
 
 
 </LanguageData>
