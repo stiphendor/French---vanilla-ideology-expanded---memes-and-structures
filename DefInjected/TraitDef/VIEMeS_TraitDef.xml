@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_Elder.degreeDatas.elder.label>elder</VME_Elder.degreeDatas.elder.label>
-<VME_Elder.degreeDatas.elder.description>Either the body or mind of {PAWN_nameDef} is one of insight and experience. While some find them old fashioned, others will respect their guidance.</VME_Elder.degreeDatas.elder.description>
+<VME_Elder.degreeDatas.elder.label>aîné</VME_Elder.degreeDatas.elder.label>
+<VME_Elder.degreeDatas.elder.description>Le corps ou l'esprit de {PAWN_nameDef} est remplit de perspicacité et d'expérience. Alors que certains les trouvent démodés, d'autres respecteront leurs conseils.</VME_Elder.degreeDatas.elder.description>
 
 
 </LanguageData>
