@@ -1,11 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_Anonymity.label>anonymity</VME_Anonymity.label>
-<VME_Anonymity.description>Anonymity reflects on how secretive a person finds their identity and personality to be. A pawn with this belief will feel happier when it’s high and unhappy when it’s nearing depletion. Anonymity slowly rises over time and any social interaction or exposed facial features will lower it.</VME_Anonymity.description>
+<VME_Anonymity.label>anonymat</VME_Anonymity.label>
+<VME_Anonymity.description>L'anonymat reflète à quel point une personne trouve son identité et sa personnalité secrètes. Un colon avec cette croyance se sentira plus heureux quand il est haut et malheureux quand il est presque épuisé. L'anonymat augmente lentement avec le temps et toute interaction sociale ou caractéristique faciale exposée le réduira.</VME_Anonymity.description>
 
 <VME_Corruption.label>corruption</VME_Corruption.label>
-<VME_Corruption.description>Corruption reflects a persons desire to give in to the dark, eldritch, and possibly even violent desires deeply embedded within them; a mildly corrupt pawn cannot lose ideological certainty. Corruption slowly fades daily, but can be paused by nearby obelisks and increased by incantation rituals. Upon reaching 100 corruption a pawn will immediately begin mentally breaking, and upon reaching 0 a pawn will easily be swayed to any other ideoligion</VME_Corruption.description>
-
+<VME_Corruption.description>La corruption reflète le désir d'une personne de céder aux désirs sombres, surnaturels et peut-être même violents profondément ancrés en elle ; un colon légèrement corrompu ne peut pas perdre sa certitude idéologique. La corruption s'estompe lentement chaque jour, mais peut être interrompue par les obélisques à proximité et augmentée par les rituels d'incantation. En atteignant 100 corruption, un colon commencera immédiatement à se briser mentalement, et en atteignant 0, un colon sera facilement influencé par n'importe quelle autre idéologie.</VME_Corruption.description>
 
 </LanguageData>
