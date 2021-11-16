@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_Alcohol_Demanded.label>demanded</VME_Alcohol_Demanded.label>
-<VME_Alcohol_Demanded.description>Spirits, booze, sauce, whatever you call it, we desire it. At least an occasional drink should be encouraged and we shouldn’t even think of sobriety.</VME_Alcohol_Demanded.description>
-<VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.0>Missing alcohol (3 days)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.0>
-<VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.1>No alcohol (5 days)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.1>
-<VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.2>Needs alcohol (10 days)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.2>
-<VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.3>Craves alcohol (15 days)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.3>
-<VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.4>Demands alcohol (30 days)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.4>
+<VME_Alcohol_Demanded.label>nécessaire</VME_Alcohol_Demanded.label>
+<VME_Alcohol_Demanded.description>Spiritueux, alcool, digestif, peu importe comment vous l'appelez, nous le désirons. Boire au moins un verre de manière occasionnelle devrait être encouragé et nous ne devrions même pas penser à la sobriété.</VME_Alcohol_Demanded.description>
+<VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.0>En manque d'alcool (3 jours)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.0>
+<VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.1>Pas d'alcool (5 jours)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.1>
+<VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.2>A envie d'alcool (10 jours)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.2>
+<VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.3>Désire de l'alcool (15 jours)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.3>
+<VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.4>A besoin d'alcool (30 jours)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.4>
 
-<VME_Alcohol_Desired.label>desired</VME_Alcohol_Desired.label>
-<VME_Alcohol_Desired.description>Drinking is just plain fun, though not in excess.</VME_Alcohol_Desired.description>
-<VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.0>Missing alcohol (3 days)</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.0>
-<VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.1>Desiring a drink (5 days)</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.1>
-<VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.2>Wanting a drink (10 days or more)</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.2>
+<VME_Alcohol_Desired.label>apprécié</VME_Alcohol_Desired.label>
+<VME_Alcohol_Desired.description>Boire est un vrai plaisir, mais pas en excès.</VME_Alcohol_Desired.description>
+<VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.0>En manque d'alcool (3 jours)</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.0>
+<VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.1>Envie d'un verre (5 jours)</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.1>
+<VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.2>Veut un verre (10 jours ou plus)</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.2>
 
-<VME_Alcohol_MildAbstinence.label>mild abstinence</VME_Alcohol_MildAbstinence.label>
-<VME_Alcohol_MildAbstinence.description>Alcohol is okay when consumed in small dosages, but it is better to stay away from it as long as possible.</VME_Alcohol_MildAbstinence.description>
-<VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>Consumed alcohol</VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>
-<VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.1>Abstained from alcohol</VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.1>
+<VME_Alcohol_MildAbstinence.label>avec modération</VME_Alcohol_MildAbstinence.label>
+<VME_Alcohol_MildAbstinence.description>L'alcool est acceptable lorsqu'il est consommé à petites doses, mais il est préférable de s'en abstenir le plus longtemps possible.</VME_Alcohol_MildAbstinence.description>
+<VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>A consommé de l'alcool</VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>
+<VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.1>N'a pas consommé d'alcool</VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.1>
 
 
 </LanguageData>
