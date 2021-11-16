@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_AutonomousWeapons_Accepted.label>accepted</VME_AutonomousWeapons_Accepted.label>
-<VME_AutonomousWeapons_Accepted.description>Automated defenses are a good way to defend our colony.</VME_AutonomousWeapons_Accepted.description>
-<VME_AutonomousWeapons_Accepted.comps.0.description>Automated turret in colony</VME_AutonomousWeapons_Accepted.comps.0.description>
+<VME_AutonomousWeapons_Accepted.label>acceptées</VME_AutonomousWeapons_Accepted.label>
+<VME_AutonomousWeapons_Accepted.description>Les défenses automatisées sont un bon moyen de défendre notre colonie.</VME_AutonomousWeapons_Accepted.description>
+<VME_AutonomousWeapons_Accepted.comps.0.description>Tourelle automatisée dans la colonie</VME_AutonomousWeapons_Accepted.comps.0.description>
 
-<VME_AutonomousWeapons_Exalted.label>exalted</VME_AutonomousWeapons_Exalted.label>
-<VME_AutonomousWeapons_Exalted.description>Automated defenses are key to a proper defense of what is ours.</VME_AutonomousWeapons_Exalted.description>
-<VME_AutonomousWeapons_Exalted.comps.0.description>Automated turret in colony</VME_AutonomousWeapons_Exalted.comps.0.description>
+<VME_AutonomousWeapons_Exalted.label>exaltées</VME_AutonomousWeapons_Exalted.label>
+<VME_AutonomousWeapons_Exalted.description>Les défenses automatisées sont la clé d'une défense adéquate de ce qui nous appartient.</VME_AutonomousWeapons_Exalted.description>
+<VME_AutonomousWeapons_Exalted.comps.0.description>Tourelle automatisée dans la colonie</VME_AutonomousWeapons_Exalted.comps.0.description>
 
 
 </LanguageData>
