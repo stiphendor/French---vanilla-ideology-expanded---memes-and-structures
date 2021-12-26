@@ -2,16 +2,16 @@
 <LanguageData>
 
 <VME_Violence_Honorable.label>honorable</VME_Violence_Honorable.label>
-<VME_Violence_Honorable.description>Harming innocents is an honorable necessity on the Rim, it proves our strength and our resolve.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Colonists will receive a positive mood if they are forced to attack non-hostile humanoid targets.</VME_Violence_Honorable.description>
+<VME_Violence_Honorable.description>Faire du mal à des innocents est une nécessité honorable, cela prouve notre force et notre détermination.\n\n&lt;color=#E5E54C&gt;Effet sur le gameplay:&lt;/color&gt;\n - Les colons recevront une humeur positive s'ils sont forcés d'attaquer des cibles humanoïdes non hostiles.</VME_Violence_Honorable.description>
 
 <VME_Violence_Acceptable.label>acceptable</VME_Violence_Acceptable.label>
-<VME_Violence_Acceptable.description>Violence is just a fact of life.</VME_Violence_Acceptable.description>
+<VME_Violence_Acceptable.description>La violence n'est qu'une réalité de la vie.</VME_Violence_Acceptable.description>
 
-<VME_Violence_Disapproved.label>disapproved</VME_Violence_Disapproved.label>
-<VME_Violence_Disapproved.description>We should avoid harming innocents if possible. Attacking a harmless person is immoral. \n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Colonists will receive a negative mood if they are forced to attack non-hostile humanoid targets.</VME_Violence_Disapproved.description>
+<VME_Violence_Disapproved.label>désapprouvée</VME_Violence_Disapproved.label>
+<VME_Violence_Disapproved.description>Nous devrions éviter de blesser des innocents autant que possible. Attaquer une personne inoffensive est immoral.\n\n&lt;color=#E5E54C&gt;Effet sur le gameplay:&lt;/color&gt;\n - Les colons recevront une humeur négative s'ils sont forcés d'attaquer des cibles humanoïdes non hostiles.</VME_Violence_Disapproved.description>
 
-<VME_Violence_Abhorrent.label>abhorrent</VME_Violence_Abhorrent.label>
-<VME_Violence_Abhorrent.description>To shed blood or break bone is barbaric and disgusting. \n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Colonists will receive a substantial negative mood if they are forced to attack non-hostile humanoid targets.\n - The only mental break allowed is psychotic wander.\n - All drafted colonists will undraft if an attacking enemy starts fleeing.</VME_Violence_Abhorrent.description>
+<VME_Violence_Abhorrent.label>détestée</VME_Violence_Abhorrent.label>
+<VME_Violence_Abhorrent.description>Faire couler du sang ou casser des os est barbare et dégoûtant.\n\n&lt;color=#E5E54C&gt;Effet sur le gameplay:&lt;/color&gt;\n - Les colons recevront une humeur négative substantielle s'ils sont forcés d'attaquer des cibles humanoïdes non hostiles.\n - La seule crise autorisée est l'errance psychotique.\n - Tous les colons mobilisés seront démobilisés si un ennemi attaquant commence à fuir.</VME_Violence_Abhorrent.description>
 
 
 </LanguageData>
