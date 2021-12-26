@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_Ranching_Disliked.label>disliked</VME_Ranching_Disliked.label>
-<VME_Ranching_Disliked.description>Keeping animals captive to consume their flesh and their resources is deeply immoral and should be avoided at all costs. Growing our own fruits and vegetables is a much nobler pursuit.</VME_Ranching_Disliked.description>
-<VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.0>No pen markers around</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.0>
-<VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.1>Pen marker around</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.1>
-<VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.2>Pen markers around</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.2>
-<VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.3>Factory farming</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.3>
+<VME_Ranching_Disliked.label>détesté</VME_Ranching_Disliked.label>
+<VME_Ranching_Disliked.description>Garder des animaux captifs pour consommer leur chair et leurs ressources est profondément immoral et doit être évité à tout prix. Cultiver nos propres fruits et légumes est une activité bien plus noble.</VME_Ranching_Disliked.description>
+<VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.0>Pas d'enclos aux alentours</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.0>
+<VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.1>Un enclos aux alentours</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.1>
+<VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.2>Des enclos aux alentours</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.2>
+<VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.3>Elevage industriel</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.3>
 
-<VME_Ranching_Nomadic.label>nomadic</VME_Ranching_Nomadic.label>
-<VME_Ranching_Nomadic.description>A nomad is nothing without their trusty steed. Developing a bond with beasts of burden means traveling this world will never be a lonely endeavour.</VME_Ranching_Nomadic.description>
+<VME_Ranching_Nomadic.label>nomade</VME_Ranching_Nomadic.label>
+<VME_Ranching_Nomadic.description>Un nomade n'est rien sans son fidèle destrier. Développer un lien avec les bêtes de somme signifie que voyager dans ce monde ne sera jamais une entreprise solitaire.</VME_Ranching_Nomadic.description>
 
 
 </LanguageData>
