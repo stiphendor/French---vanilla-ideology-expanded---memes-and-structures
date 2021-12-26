@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_IdeoRole_Merchant.label>merchant</VME_IdeoRole_Merchant.label>
-<VME_IdeoRole_Merchant.description>A welcoming and charismatic, though somewhat cutthroat trader, specializes in establishing mercantile routes with other colonies. Can signal for a random friendly faction trade caravan to make a detour directly to the colony every 5 days. Also receives a small bonus to trading prices through sheer charisma.</VME_IdeoRole_Merchant.description>
+<VME_IdeoRole_Merchant.label>commerçant</VME_IdeoRole_Merchant.label>
+<VME_IdeoRole_Merchant.description>Un commerçant accueillant et charismatique, quoique quelque peu acharné, se spécialise dans l'établissement de routes commerciales avec d'autres colonies. Peut signaler à une caravane commerciale de faction amie aléatoire de faire un détour directement vers la colonie tous les 5 jours. Reçoit également un petit bonus aux prix de négociation grâce à son charisme pur.</VME_IdeoRole_Merchant.description>
 
 
 </LanguageData>
