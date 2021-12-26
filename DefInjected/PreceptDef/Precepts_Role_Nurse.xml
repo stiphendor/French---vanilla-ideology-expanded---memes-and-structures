@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_IdeoRole_Nurse.label>nurse</VME_IdeoRole_Nurse.label>
-<VME_IdeoRole_Nurse.description>A dedicated medical professional able to tend to wounds with surgical precision. Possesses the unique ability to hyperfocus on their doctoring patients in times of mass trauma, temporarily suppressing their needs for rest, recreation, or hunger.</VME_IdeoRole_Nurse.description>
+<VME_IdeoRole_Nurse.label>infirmier.ère</VME_IdeoRole_Nurse.label>
+<VME_IdeoRole_Nurse.description>Un professionnel de la santé dévoué capable de soigner les plaies avec une précision chirurgicale. Possède la capacité unique de se concentrer sur ses patients médicaux en période de traumatisme de masse, supprimant temporairement leurs besoins de repos, de loisirs ou de faim.</VME_IdeoRole_Nurse.description>
 
 
 </LanguageData>
