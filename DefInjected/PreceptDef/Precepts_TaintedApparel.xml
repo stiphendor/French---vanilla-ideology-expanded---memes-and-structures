@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_TaintedApparel_DontCare.label>don't care</VME_TaintedApparel_DontCare.label>
-<VME_TaintedApparel_DontCare.description>Clothing soaked in blood or bits shouldn’t dissuade one from covering themselves and making use of what would otherwise be worn away by time.</VME_TaintedApparel_DontCare.description>
+<VME_TaintedApparel_DontCare.label>pas d'importance</VME_TaintedApparel_DontCare.label>
+<VME_TaintedApparel_DontCare.description>Les vêtements trempés de sang ou de morceaux ne doivent pas dissuader de se couvrir et d'utiliser ce qui serait autrement usé par le temps.</VME_TaintedApparel_DontCare.description>
 
-<VME_TaintedApparel_Disapproved.label>disapproved</VME_TaintedApparel_Disapproved.label>
-<VME_TaintedApparel_Disapproved.description>Wearing a dead person's apparel is quite disgusting.</VME_TaintedApparel_Disapproved.description>
+<VME_TaintedApparel_Disapproved.label>désapprouvé</VME_TaintedApparel_Disapproved.label>
+<VME_TaintedApparel_Disapproved.description>Porter les vêtements d'une personne décédée est assez dégoûtant.</VME_TaintedApparel_Disapproved.description>
 
-<VME_TaintedApparel_Abhorrent.label>abhorrent</VME_TaintedApparel_Abhorrent.label>
-<VME_TaintedApparel_Abhorrent.description>There can be nothing more disgusting in this world than wearing the clothing used by a dead person.</VME_TaintedApparel_Abhorrent.description>
+<VME_TaintedApparel_Abhorrent.label>détesté</VME_TaintedApparel_Abhorrent.label>
+<VME_TaintedApparel_Abhorrent.description>Il n'y a rien de plus dégoûtant dans ce monde que de porter les vêtements utilisés par une personne décédée.</VME_TaintedApparel_Abhorrent.description>
 
 
 </LanguageData>
