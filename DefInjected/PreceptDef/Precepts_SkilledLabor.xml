@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_SkilledLabor_Slow.label>slow</VME_SkilledLabor_Slow.label>
-<VME_SkilledLabor_Slow.description>Pursuits of skilled labor are meticulous and time-consuming, it is better to focus our attention and efforts elsewhere.</VME_SkilledLabor_Slow.description>
+<VME_SkilledLabor_Slow.label>lent</VME_SkilledLabor_Slow.label>
+<VME_SkilledLabor_Slow.description>Les recherches de main-d'œuvre qualifiée sont méticuleuses et prennent du temps, il vaut mieux concentrer notre attention et nos efforts ailleurs.</VME_SkilledLabor_Slow.description>
 
-<VME_SkilledLabor_Relaxed.label>relaxed</VME_SkilledLabor_Relaxed.label>
-<VME_SkilledLabor_Relaxed.description>Skilled labour should be approached with care and time. Rushing things only leads to sloppy results and unfortunate accidents.</VME_SkilledLabor_Relaxed.description>
+<VME_SkilledLabor_Relaxed.label>détendu</VME_SkilledLabor_Relaxed.label>
+<VME_SkilledLabor_Relaxed.description>La main-d'œuvre qualifiée doit être abordée avec soin et temps. Se précipiter ne conduit qu'à des résultats bâclés et à des accidents malheureux.</VME_SkilledLabor_Relaxed.description>
 
 
 </LanguageData>
