@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_InsectoidHymnPrecept.label>insectoid hymn</VME_InsectoidHymnPrecept.label>
-<VME_InsectoidHymnPrecept.description>An insectoid hymn. The ritual will refresh the cooldown of the insectoid herder's "Construct a Nest" ability. If the ritual gets the best possible result it will make any insectoids currently assaulting the colony flee. Except the Black HIve, those want your blood.</VME_InsectoidHymnPrecept.description>
+<VME_InsectoidHymnPrecept.label>hymne insectoïde</VME_InsectoidHymnPrecept.label>
+<VME_InsectoidHymnPrecept.description>Un hymne insectoïde. Le rituel rafraîchira le temps de recharge de la capacité "Construire un nid" du dompteur d'insectoïdes. Si le rituel obtient le meilleur résultat possible, il fera fuir tous les insectoïdes qui attaquent actuellement la colonie. Sauf la Ruche Noire, ceux-là veulent votre sang.</VME_InsectoidHymnPrecept.description>
 
 
 </LanguageData>
