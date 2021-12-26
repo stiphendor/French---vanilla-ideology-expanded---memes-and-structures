@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_Trading_Required.label>required</VME_Trading_Required.label>
-<VME_Trading_Required.description>Our colony, like it or not, is a business. Going too long without a sale is stressful, but making a hefty profit is veritably euphoric.</VME_Trading_Required.description>
-<VME_Trading_Required.comps.0.thoughtStageDescriptions.0>Recently traded</VME_Trading_Required.comps.0.thoughtStageDescriptions.0>
-<VME_Trading_Required.comps.0.thoughtStageDescriptions.1>No recent trades</VME_Trading_Required.comps.0.thoughtStageDescriptions.1>
+<VME_Trading_Required.label>requis</VME_Trading_Required.label>
+<VME_Trading_Required.description>Notre colonie, qu'on le veuille ou non, est une entreprise. Passer trop de temps sans vendre est stressant, mais faire un gros profit est véritablement euphorique.</VME_Trading_Required.description>
+<VME_Trading_Required.comps.0.thoughtStageDescriptions.0>Echange commercial récent</VME_Trading_Required.comps.0.thoughtStageDescriptions.0>
+<VME_Trading_Required.comps.0.thoughtStageDescriptions.1>Pas d'échange commercial récent</VME_Trading_Required.comps.0.thoughtStageDescriptions.1>
 
 
 </LanguageData>
