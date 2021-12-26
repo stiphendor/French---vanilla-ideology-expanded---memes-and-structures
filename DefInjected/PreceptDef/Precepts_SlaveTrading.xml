@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_SlaveTrading_OnlyBuying.label>only buying</VME_SlaveTrading_OnlyBuying.label>
-<VME_SlaveTrading_OnlyBuying.description>Only buying slaves is justifiable, after which we should provide them amicable amounts of lodging and consideration within our colony. By selling a slave one leaves their fate up to the good faith of their buyer, a very unwise decision.</VME_SlaveTrading_OnlyBuying.description>
-<VME_SlaveTrading_OnlyBuying.comps.2.description>Someone bought a slave</VME_SlaveTrading_OnlyBuying.comps.2.description>
-<VME_SlaveTrading_OnlyBuying.comps.3.description>Someone sold a slave</VME_SlaveTrading_OnlyBuying.comps.3.description>
+<VME_SlaveTrading_OnlyBuying.label>achat uniquement</VME_SlaveTrading_OnlyBuying.label>
+<VME_SlaveTrading_OnlyBuying.description>Seul l'achat d'esclaves est justifiable, après quoi nous devrons leur fournir des montants à l'amiable de logement et de considération au sein de notre colonie. En vendant un esclave on laisse son sort à la bonne foi de son acheteur, une décision très imprudente.</VME_SlaveTrading_OnlyBuying.description>
+<VME_SlaveTrading_OnlyBuying.comps.2.description>Quelqu'un a acheté un esclave</VME_SlaveTrading_OnlyBuying.comps.2.description>
+<VME_SlaveTrading_OnlyBuying.comps.3.description>Quelqu'un a vendu un esclave</VME_SlaveTrading_OnlyBuying.comps.3.description>
 
 
 </LanguageData>
