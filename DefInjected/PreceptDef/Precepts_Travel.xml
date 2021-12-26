@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_Travel_Desired.label>desired</VME_Travel_Desired.label>
-<VME_Travel_Desired.description>It’s a simple-minded claim that this planet doesn’t have exotic and beautiful lands to appreciate and immerse oneself in. Traveling this world should be a priority.</VME_Travel_Desired.description>
-<VME_Travel_Desired.comps.0.thoughtStageDescriptions.0>Traveled (less than 5 days ago)</VME_Travel_Desired.comps.0.thoughtStageDescriptions.0>
-<VME_Travel_Desired.comps.0.thoughtStageDescriptions.1>Traveled (less than 10 days ago)</VME_Travel_Desired.comps.0.thoughtStageDescriptions.1>
-<VME_Travel_Desired.comps.0.thoughtStageDescriptions.2>Traveled (less than 15 days ago)</VME_Travel_Desired.comps.0.thoughtStageDescriptions.2>
-<VME_Travel_Desired.comps.0.thoughtStageDescriptions.3>Traveled (less than 60 days ago)</VME_Travel_Desired.comps.0.thoughtStageDescriptions.3>
+<VME_Travel_Desired.label>désirés</VME_Travel_Desired.label>
+<VME_Travel_Desired.description>C'est une affirmation simple que cette planète n'a pas de terres exotiques et magnifiques pour apprécier et s'immerger. Voyager dans ce monde devrait être une priorité.</VME_Travel_Desired.description>
+<VME_Travel_Desired.comps.0.thoughtStageDescriptions.0>A voyagé (il y a moins de 5 jours)</VME_Travel_Desired.comps.0.thoughtStageDescriptions.0>
+<VME_Travel_Desired.comps.0.thoughtStageDescriptions.1>A voyagé (il y a moins de 10 jours)</VME_Travel_Desired.comps.0.thoughtStageDescriptions.1>
+<VME_Travel_Desired.comps.0.thoughtStageDescriptions.2>A voyagé (il y a moins de 15 jours)</VME_Travel_Desired.comps.0.thoughtStageDescriptions.2>
+<VME_Travel_Desired.comps.0.thoughtStageDescriptions.3>A voyagé (il y a moins de 60 jours)</VME_Travel_Desired.comps.0.thoughtStageDescriptions.3>
 
-<VME_Travel_Despised.label>despised</VME_Travel_Despised.label>
-<VME_Travel_Despised.description>Every moment spent away from home is another moment running away from the inevitable. Time spent traveling can be spent more wisely at home building and defending it.</VME_Travel_Despised.description>
-<VME_Travel_Despised.comps.0.thoughtStageDescriptions.0>Traveled (less than 5 days ago)</VME_Travel_Despised.comps.0.thoughtStageDescriptions.0>
-<VME_Travel_Despised.comps.0.thoughtStageDescriptions.1>Traveled (less than 10 days ago)</VME_Travel_Despised.comps.0.thoughtStageDescriptions.1>
-<VME_Travel_Despised.comps.0.thoughtStageDescriptions.2>Traveled (less than 15 days ago)</VME_Travel_Despised.comps.0.thoughtStageDescriptions.2>
-<VME_Travel_Despised.comps.0.thoughtStageDescriptions.3>Traveled (less than 60 days ago)</VME_Travel_Despised.comps.0.thoughtStageDescriptions.3>
+<VME_Travel_Despised.label>détestés</VME_Travel_Despised.label>
+<VME_Travel_Despised.description>Chaque moment passé loin de chez soi est un autre moment pour fuir l'inévitable. Le temps passé à voyager peut être consacré plus judicieusement à la construction et à la défense de sa colonie.</VME_Travel_Despised.description>
+<VME_Travel_Despised.comps.0.thoughtStageDescriptions.0>A voyagé (il y a moins de 5 jours)</VME_Travel_Despised.comps.0.thoughtStageDescriptions.0>
+<VME_Travel_Despised.comps.0.thoughtStageDescriptions.1>A voyagé (il y a moins de 10 jours)</VME_Travel_Despised.comps.0.thoughtStageDescriptions.1>
+<VME_Travel_Despised.comps.0.thoughtStageDescriptions.2>A voyagé (il y a moins de 15 jours)</VME_Travel_Despised.comps.0.thoughtStageDescriptions.2>
+<VME_Travel_Despised.comps.0.thoughtStageDescriptions.3>A voyagé (il y a moins de 60 jours))</VME_Travel_Despised.comps.0.thoughtStageDescriptions.3>
 
 
 </LanguageData>
