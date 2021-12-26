@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_Recreation_Loved.label>loved</VME_Recreation_Loved.label>
-<VME_Recreation_Loved.description>Fun and games aren’t optional - Enjoy every moment of recreation and make it the best you can for yourself and your friends.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Colonists gain recreation at 50% the speed when using any Joy buildings.\n - Increases by 50% the mood buff acquired by colonists after a party.</VME_Recreation_Loved.description>
+<VME_Recreation_Loved.label>aimé</VME_Recreation_Loved.label>
+<VME_Recreation_Loved.description>Le plaisir et les jeux ne sont pas facultatifs - Profitez de chaque moment de divertissement et faites-en le meilleur possible pour vous et vos amis.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Les colons gagnent en divertissement à 50% de la vitesse lorsqu'ils utilisent n'importe quel bâtiment de loisir.\n - Augmente de 50% le bonus d'humeur acquis par les colons après une fête.</VME_Recreation_Loved.description>
 
 <VME_Recreation_Normal.label>normal</VME_Recreation_Normal.label>
-<VME_Recreation_Normal.description>Recreation is an important part of life.</VME_Recreation_Normal.description>
-<VME_Recreation_Disapproved.label>disapproved</VME_Recreation_Disapproved.label>
-<VME_Recreation_Disapproved.description>Recreation is a waste of time.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Colonists get -5 mood for half a day after doing a recreation job.</VME_Recreation_Disapproved.description>
+<VME_Recreation_Normal.description>Les loisirs sont une partie importante de la vie.</VME_Recreation_Normal.description>
+<VME_Recreation_Disapproved.label>désapprouvé</VME_Recreation_Disapproved.label>
+<VME_Recreation_Disapproved.description>Les loisirs sont une perte de temps.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Les colons auront un malus d'humeur de -5 pendant une demi-journée après s'être divertis.</VME_Recreation_Disapproved.description>
 
 
 </LanguageData>
