@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_Slavery_Forbidden.label>forbidden</VME_Slavery_Forbidden.label>
-<VME_Slavery_Forbidden.description>Participating in slave trade is an absolutely vile idea. The only reason to purchase a slave is with intent to immediately free them. Moreso, those who struggled through enslavement deserve our compassion and respect.</VME_Slavery_Forbidden.description>
-<VME_Slavery_Forbidden.comps.0.description>Any slave in colony (until emancipated)</VME_Slavery_Forbidden.comps.0.description>
+<VME_Slavery_Forbidden.label>interdit</VME_Slavery_Forbidden.label>
+<VME_Slavery_Forbidden.description>Participer à la traite négrière est une idée absolument vile. La seule raison d'acheter un esclave est de le libérer immédiatement. De plus, ceux qui ont lutté contre l'esclavage méritent notre compassion et notre respect.</VME_Slavery_Forbidden.description>
+<VME_Slavery_Forbidden.comps.0.description>Tout esclave dans la colonie (jusqu'à son émancipation)</VME_Slavery_Forbidden.comps.0.description>
 
 
 </LanguageData>
