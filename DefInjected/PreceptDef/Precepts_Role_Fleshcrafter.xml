@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_IdeoRole_Fleshcrafter.label>fleshcrafter</VME_IdeoRole_Fleshcrafter.label>
-<VME_IdeoRole_Fleshcrafter.description>A veritable anatomical expert capable of excising organs from recently deceased cadavers. Because of organ damage and decay only between one and three organs will be harvested at random and the rest of the corpse will be reduced to meat.</VME_IdeoRole_Fleshcrafter.description>
+<VME_IdeoRole_Fleshcrafter.label>médecin légiste</VME_IdeoRole_Fleshcrafter.label>
+<VME_IdeoRole_Fleshcrafter.description>Un véritable spécialiste de l'anatomie capable d'exciser les organes de cadavres récemment décédés. En raison des dommages aux organes et de la pourriture, seuls un à trois organes seront prélevés au hasard et le reste du cadavre sera réduit en viande.</VME_IdeoRole_Fleshcrafter.description>
 
 
 </LanguageData>
