@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_JunkDeconstructionYield_High.label>high</VME_JunkDeconstructionYield_High.label>
-<VME_JunkDeconstructionYield_High.description>To throw away that which could be reused is utterly wasteful, every last shred of leather or fragment of steel can be repurposed.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Deconstructing a building returns 100% of its original materials. This also applies to destroying a building (as long as the building produces resources when destroyed), and when failing to construct it.</VME_JunkDeconstructionYield_High.description>
+<VME_JunkDeconstructionYield_High.label>haut</VME_JunkDeconstructionYield_High.label>
+<VME_JunkDeconstructionYield_High.description>Jeter ce qui pourrait être réutilisé est un gaspillage total, chaque dernier lambeau de cuir ou fragment d'acier peut être réutilisé.\n\n&lt;color=#E5E54C&gt;Effet sur le gameplay:&lt;/color&gt;\n - Déconstruire un bâtiment restitue 100 % de ses matériaux d'origine. Cela s'applique également à la destruction d'un bâtiment (tant que le bâtiment produit des ressources lorsqu'il est détruit) et à l'échec de sa construction.</VME_JunkDeconstructionYield_High.description>
 
 
 </LanguageData>
