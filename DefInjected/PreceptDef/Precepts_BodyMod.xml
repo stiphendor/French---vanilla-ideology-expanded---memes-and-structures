@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_BodyMod_OnlyBiological.label>only biological</VME_BodyMod_OnlyBiological.label>
-<VME_BodyMod_OnlyBiological.description>Flesh only should be replaced by flesh, to replace a body with a machine is forbidden.</VME_BodyMod_OnlyBiological.description>
+<VME_BodyMod_OnlyBiological.label>biologique uniquement</VME_BodyMod_OnlyBiological.label>
+<VME_BodyMod_OnlyBiological.description>La chair doit être remplacée par de la chair, remplacer un corps par une machine est interdit.</VME_BodyMod_OnlyBiological.description>
 
 
 </LanguageData>
