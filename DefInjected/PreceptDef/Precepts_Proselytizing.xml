@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_Proselytizing_Forceful.label>forceful</VME_Proselytizing_Forceful.label>
-<VME_Proselytizing_Forceful.description>If somebody can’t see the error in their ways, then we are not beyond resorting to aggression to show them, it’s an obligation to our creed.</VME_Proselytizing_Forceful.description>
+<VME_Proselytizing_Forceful.label>forcé</VME_Proselytizing_Forceful.label>
+<VME_Proselytizing_Forceful.description>Si quelqu'un ne voit pas l'erreur dans son credo, alors nous ne sommes pas au-delà de l'agressivité pour lui montrer, c'est une obligation envers notre credo.</VME_Proselytizing_Forceful.description>
 
-<VME_Proselytizing_Never.label>never</VME_Proselytizing_Never.label>
-<VME_Proselytizing_Never.description>Everyone has their own truth, and everyone should respect the rights of others to follow their own.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Disables conversion rituals and the convert ability of the moralist role.</VME_Proselytizing_Never.description>
+<VME_Proselytizing_Never.label>jamais</VME_Proselytizing_Never.label>
+<VME_Proselytizing_Never.description>Chacun a sa propre vérité et chacun doit respecter le droit des autres à suivre la sienne.\n\n&lt;color=#E5E54C&gt;Effet du gameplay:&lt;/color&gt;\n - Désactive les rituels de conversion et la capacité de conversion du rôle de moraliste.</VME_Proselytizing_Never.description>
 
 
 </LanguageData>
