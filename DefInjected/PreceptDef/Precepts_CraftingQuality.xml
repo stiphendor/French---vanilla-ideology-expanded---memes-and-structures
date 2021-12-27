@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_CraftingQuality_Increased.label>increased</VME_CraftingQuality_Increased.label>
-<VME_CraftingQuality_Increased.description>We pride ourselves in our work, and take no shortcuts in achieving perfection.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Increases quality of items created on a worktable by 1, up to Legendary.</VME_CraftingQuality_Increased.description>
+<VME_CraftingQuality_Increased.label>augmentée</VME_CraftingQuality_Increased.label>
+<VME_CraftingQuality_Increased.description>Nous sommes fiers de notre travail et ne prenons aucun raccourci pour atteindre la perfection.\n\n&lt;color=#E5E54C&gt;Effet sur le gameplay:&lt;/color&gt;\n - Augmente la qualité des objets créés de 1, jusqu'à légendaire.</VME_CraftingQuality_Increased.description>
 
-<VME_CraftingQuality_Decreased.label>decreased</VME_CraftingQuality_Decreased.label>
-<VME_CraftingQuality_Decreased.description>We don't care about artisanal work. Why create something when you can buy it or steal it from others?\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Decreases quality of items created on a worktable by 1, down to Awful.</VME_CraftingQuality_Decreased.description>
+<VME_CraftingQuality_Decreased.label>diminuée</VME_CraftingQuality_Decreased.label>
+<VME_CraftingQuality_Decreased.description>We don't care about artisanal work. Why create something when you can buy it or steal it from others?\n\n&lt;color=#E5E54C&gt;Effet sur le gameplay:&lt;/color&gt;\n -Diminue la qualité des éléments créés de 1, jusqu'à horrible.</VME_CraftingQuality_Decreased.description>
 
 
 </LanguageData>
