@@ -2,8 +2,8 @@
 <LanguageData>
 
 		<!-- +++++ Memes_Misc +++++ -->
-<VME_ViolentConversion.label>violent conversion</VME_ViolentConversion.label>
-<VME_ViolentConversion.description>Infidels can choose to adopt our beliefs, or die.</VME_ViolentConversion.description>
+<VME_ViolentConversion.label>conversion violente</VME_ViolentConversion.label>
+<VME_ViolentConversion.description>Les infidèles peuvent choisir d'adopter nos croyances ou de mourir.</VME_ViolentConversion.description>
 <VME_ViolentConversion.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_ViolentConversion)        ->[deity0_name] anointed a few crusaders among mortals to carry out [deity0_possessive] will.</li>
@@ -62,8 +62,8 @@
 <VME_ViolentConversion.symbolPacks.2.theme>inquisition</VME_ViolentConversion.symbolPacks.2.theme>
 
 
-<VME_Astrology.label>astrology</VME_Astrology.label>
-<VME_Astrology.description>A careful examination of the stars will unlock mystical powers far beyond our wildest imagination.</VME_Astrology.description>
+<VME_Astrology.label>astrologie</VME_Astrology.label>
+<VME_Astrology.description>Un examen attentif des étoiles débloquera des pouvoirs mystiques bien au-delà de notre imagination la plus folle.</VME_Astrology.description>
 <VME_Astrology.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Astrology)        ->[deity0_name] showed us that the path to true wisdom lies in understanding the stars.</li>
@@ -122,8 +122,8 @@
 <VME_Astrology.symbolPacks.2.theme>divination</VME_Astrology.symbolPacks.2.theme>
 
 
-<VME_GodEmperor.label>god emperor</VME_GodEmperor.label>
-<VME_GodEmperor.description>Our leader must be worshipped as a living God, a physical manifestation of our ideals and precepts.</VME_GodEmperor.description>
+<VME_GodEmperor.label>dieu vivant</VME_GodEmperor.label>
+<VME_GodEmperor.description>Notre chef doit être adoré comme un Dieu vivant, une manifestation physique de nos idéaux et préceptes.</VME_GodEmperor.description>
 <VME_GodEmperor.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_GodEmperor)        ->[deity0_name] annointed [deity0_possessive] Chosen One to lead us through this life, our God Emperor.</li>
@@ -173,8 +173,8 @@
 <VME_GodEmperor.symbolPacks.0.theme>god emperor</VME_GodEmperor.symbolPacks.0.theme>
 
 
-<VME_HardcoreIndustrialism.label>industrialism</VME_HardcoreIndustrialism.label>
-<VME_HardcoreIndustrialism.description>Work gives a man dignity. Only through hard work and being productive can a person really grow.</VME_HardcoreIndustrialism.description>
+<VME_HardcoreIndustrialism.label>industrialisme</VME_HardcoreIndustrialism.label>
+<VME_HardcoreIndustrialism.description>Le travail donne de la dignité à l'homme. Ce n'est qu'en travaillant dur et en étant productif qu'une personne peut vraiment grandir.</VME_HardcoreIndustrialism.description>
 <VME_HardcoreIndustrialism.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_HardcoreIndustrialis)        ->[deity0_name] spurned [deity0_possessive] followers to work, for there is nothing holier than perseverance.</li>
@@ -226,7 +226,7 @@
 
 
 <VME_Gestalt.label>gestalt</VME_Gestalt.label>
-<VME_Gestalt.description>There shouldnt even be such a thing as individualism. By acting in perfect synchrony, our society will be more than the sum of its parts.</VME_Gestalt.description>
+<VME_Gestalt.description>Il ne devrait même pas y avoir d'individualisme. En agissant en parfaite synchronie, notre société sera plus que la somme de ses parties.</VME_Gestalt.description>
 <VME_Gestalt.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Gestalt)        ->[deity0_name] made all men and women into a single consciousness, and only through our foolisness have we drifted apart.</li>
@@ -280,8 +280,8 @@
 <VME_Gestalt.symbolPacks.0.theme>hive mind</VME_Gestalt.symbolPacks.0.theme>
 
 
-<VME_Fleshcrafters.label>fleshcrafting</VME_Fleshcrafters.label>
-<VME_Fleshcrafters.description>Technology should be shunned, unless it serves the flesh. Only through extreme biological experimentation may we unlock our hidden potential.</VME_Fleshcrafters.description>
+<VME_Fleshcrafters.label>fabrication de chair</VME_Fleshcrafters.label>
+<VME_Fleshcrafters.description>La technologie doit être évitée, à moins qu'elle ne serve la chair. Ce n'est que par l'expérimentation biologique extrême que nous pouvons libérer notre potentiel caché.</VME_Fleshcrafters.description>
 <VME_Fleshcrafters.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Fleshcrafting)        ->[deity0_name] granted us the knowledge of fleshcrafting, that we may use it to improve and remake ourselves in [deity0_possessive] perfect image.</li>
@@ -352,8 +352,8 @@
 <VME_Fleshcrafters.symbolPacks.2.theme>shaping</VME_Fleshcrafters.symbolPacks.2.theme>
 
 
-<VME_HolyDiseases.label>holy diseases</VME_HolyDiseases.label>
-<VME_HolyDiseases.description>To be touched by pestilence is a boon to be coveted. As diseases spread, so too shall our influence.</VME_HolyDiseases.description>
+<VME_HolyDiseases.label>maladies sacrées</VME_HolyDiseases.label>
+<VME_HolyDiseases.description>Être touché par la peste est une aubaine à convoiter. Au fur et à mesure que les maladies se propagent, notre influence se répandra également.</VME_HolyDiseases.description>
 <VME_HolyDiseases.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_HolyDiseases)        ->[deity0_name] filled the Universe with all kinds of viruses and bacteria, diminutive organisms that are the bearers of [deity0_possessive] gifts.</li>
@@ -415,8 +415,8 @@
 <VME_HolyDiseases.symbolPacks.1.theme>disease</VME_HolyDiseases.symbolPacks.1.theme>
 
 
-<VME_CraftCulture.label>craft culture</VME_CraftCulture.label>
-<VME_CraftCulture.description>One should aspire to feel the ache in their fingers after a long day of craft. A talented blacksmith or tailor is to be dignified.</VME_CraftCulture.description>
+<VME_CraftCulture.label>culture artisanale</VME_CraftCulture.label>
+<VME_CraftCulture.description>Il faut aspirer à ressentir la douleur dans les doigts après une longue journée de bricolage. Un forgeron ou un tailleur talentueux doit être digne.</VME_CraftCulture.description>
 <VME_CraftCulture.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_CraftCulture)        ->[deity0_name] is the Great Artificer, [deity0_pronoun] created the Universe and crafted the first humans from the primordial clay.</li>
@@ -482,7 +482,7 @@
 
 
 <VME_Progressive.label>progressive</VME_Progressive.label>
-<VME_Progressive.description>Machines, factories, drones, a goal to any successful community should be optimizing these devices and shunning the idea of sentient beings performing tasks normally meant for them.</VME_Progressive.description>
+<VME_Progressive.description>Machines, usines, drones, un objectif pour toute communauté qui réussit devrait être d'optimiser ces appareils et d'éviter l'idée que des êtres sensibles exécutent des tâches qui leur sont normalement destinées.</VME_Progressive.description>
 <VME_Progressive.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Progressive)        ->[deity0_name] saw the [memberNamePlural] struggling with their machines, and laughed good-naturedly at them: "Haven't I given you the tools to make the machines do the work for you? It's senseless to struggle".</li>
@@ -531,7 +531,7 @@
 <VME_Progressive.symbolPacks.0.theme>automation</VME_Progressive.symbolPacks.0.theme>
 
 
-<VME_Aristocratic.label>aristocratic</VME_Aristocratic.label>
+<VME_Aristocratic.label>aristocratique</VME_Aristocratic.label>
 <VME_Aristocratic.description>Kings and Queens are the true path to prosperity, the mind of the common man is unfit for leadership.</VME_Aristocratic.description>
 <VME_Aristocratic.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
