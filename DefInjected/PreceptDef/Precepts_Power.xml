@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_Power_Exalted.label>exalted</VME_Power_Exalted.label>
-<VME_Power_Exalted.description>I am righteousness! I am no simple king, I have ascended to that of a god! Bow before me or atone with your life.</VME_Power_Exalted.description>
-<VME_Power_Exalted.comps.0.thoughtStageDescriptions.0>Leader</VME_Power_Exalted.comps.0.thoughtStageDescriptions.0>
+<VME_Power_Exalted.label>exalté</VME_Power_Exalted.label>
+<VME_Power_Exalted.description>Je suis justice ! Je ne suis pas un simple roi, je suis devenu un dieu ! Inclinez-vous devant moi ou expier votre vie.</VME_Power_Exalted.description>
+<VME_Power_Exalted.comps.0.thoughtStageDescriptions.0>Chef</VME_Power_Exalted.comps.0.thoughtStageDescriptions.0>
 
-<VME_Power_Desired.label>desired</VME_Power_Desired.label>
-<VME_Power_Desired.description>Craving to be one of the powerful elite is a very understandable desire and should not be looked down upon.</VME_Power_Desired.description>
-<VME_Power_Desired.comps.0.thoughtStageDescriptions.0>Leader and moralist</VME_Power_Desired.comps.0.thoughtStageDescriptions.0>
+<VME_Power_Desired.label>désiré</VME_Power_Desired.label>
+<VME_Power_Desired.description>Le désir de faire partie de l'élite puissante est un désir très compréhensible et ne doit pas être méprisé.</VME_Power_Desired.description>
+<VME_Power_Desired.comps.0.thoughtStageDescriptions.0>Chef et moraliste</VME_Power_Desired.comps.0.thoughtStageDescriptions.0>
 
-<VME_Power_Preferred.label>preferred</VME_Power_Preferred.label>
-<VME_Power_Preferred.description>It’s unthinkable to be considered a commoner. I want people to take my word seriously and put forth great effort not to disappoint me.</VME_Power_Preferred.description>
-<VME_Power_Preferred.comps.0.thoughtStageDescriptions.0>Any ideo role</VME_Power_Preferred.comps.0.thoughtStageDescriptions.0>
+<VME_Power_Preferred.label>préféré</VME_Power_Preferred.label>
+<VME_Power_Preferred.description>Il est impensable d'être considéré comme un roturier. Je veux que les gens prennent ma parole au sérieux et fassent de gros efforts pour ne pas me décevoir.</VME_Power_Preferred.description>
+<VME_Power_Preferred.comps.0.thoughtStageDescriptions.0>N'importe quel rôle idéologique</VME_Power_Preferred.comps.0.thoughtStageDescriptions.0>
 
 
 </LanguageData>
