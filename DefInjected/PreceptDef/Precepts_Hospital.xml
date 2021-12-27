@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_Hospital_Required.label>required</VME_Hospital_Required.label>
-<VME_Hospital_Required.description>A place of refuge and healing is essential for the long-term health of our community. It’s important to make sure we have open beds and plenty of medicine should the worst come to worst.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Colonists gets mood penalties / bonuses depending on size of hospital rooms found in the map. Only hospital rooms with an impressiveness of "decent" or higher will count for this calculation.</VME_Hospital_Required.description>
-<VME_Hospital_Required.comps.0.thoughtStageDescriptions.0>Need hospital</VME_Hospital_Required.comps.0.thoughtStageDescriptions.0>
-<VME_Hospital_Required.comps.0.thoughtStageDescriptions.1>Small hospital (less than 25 tiles)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.1>
-<VME_Hospital_Required.comps.0.thoughtStageDescriptions.2>Spacious hospital (less than 50 tiles)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.2>
-<VME_Hospital_Required.comps.0.thoughtStageDescriptions.3>Huge hospital (more than 50 tiles)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.3>
+<VME_Hospital_Required.label>requis</VME_Hospital_Required.label>
+<VME_Hospital_Required.description>Un lieu de refuge et de guérison est essentiel pour la santé à long terme de notre communauté. Il est important de s'assurer que nous avons des lits ouverts et beaucoup de médicaments si le pire devait arriver.\n\n&lt;color=#E5E54C&gt;Effet sur le gameplay:&lt;/color&gt;\n - Les colons reçoivent des pénalités / bonus d'humeur en fonction de la taille des chambres d'hôpital trouvées sur la carte. Seules les chambres d'hôpital dont l'impression est « décente » ou supérieure compteront pour ce calcul.</VME_Hospital_Required.description>
+<VME_Hospital_Required.comps.0.thoughtStageDescriptions.0>Besoin d'un hôpital</VME_Hospital_Required.comps.0.thoughtStageDescriptions.0>
+<VME_Hospital_Required.comps.0.thoughtStageDescriptions.1>Petit hôpital (moins de 25 cases)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.1>
+<VME_Hospital_Required.comps.0.thoughtStageDescriptions.2>Grand hôpital (moins de 50 cases)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.2>
+<VME_Hospital_Required.comps.0.thoughtStageDescriptions.3>Immense hôpital (plus de 50 cases)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.3>
 
 
 </LanguageData>
