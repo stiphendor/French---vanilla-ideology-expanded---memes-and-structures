@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_Human_Hive.label>human hive</VME_Human_Hive.label>
+<VME_Human_Hive.label>ruche humaine</VME_Human_Hive.label>
 <VME_Human_Hive.description>Like clockwork, the lives of our fellow believers are ever intertwined. What causes one of us suffering causes all of us suffering and what brings us higher brings all of us higher. Together, we are one and we are strong.</VME_Human_Hive.description>
 
-<VME_Egalitarian_Republic.label>egalitarian republic</VME_Egalitarian_Republic.label>
+<VME_Egalitarian_Republic.label>république égalitaire</VME_Egalitarian_Republic.label>
 <VME_Egalitarian_Republic.description>Democracy, freedom, and equality. It’s nothing short of appalling that we should think any of these to be revocable privileges rather than basic rights. Peoples creeds, cultures, and character all deserve respect and representation.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Agnosticism.</VME_Egalitarian_Republic.description>
 
-<VME_Exalted_Gerontocracy.label>exalted gerontocracy</VME_Exalted_Gerontocracy.label>
+<VME_Exalted_Gerontocracy.label>gérontocratie exaltée</VME_Exalted_Gerontocracy.label>
 <VME_Exalted_Gerontocracy.description>Our heavenly clergy will guide us well, age is more than just the gaining of wisdom or wrinkle. With each passing year our elders become closer to god.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Any monotheistic.</VME_Exalted_Gerontocracy.description>
 
-<VME_Factory_Drones.label>factory drones</VME_Factory_Drones.label>
+<VME_Factory_Drones.label>usine de drônes</VME_Factory_Drones.label>
 <VME_Factory_Drones.description>Work and cooperation breeds strength. We’ll sweat and bleed alike together, as a community, to reach an agreeable standard of living for all of us.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Authoritarian.</VME_Factory_Drones.description>
 
 <VME_Corporate_Overlords.label>corporate overlords</VME_Corporate_Overlords.label>
@@ -19,7 +19,7 @@
 <VME_GodKing_Radicals.label>god-king radicals</VME_GodKing_Radicals.label>
 <VME_GodKing_Radicals.description>The steel fist of our King or Queen should never come into question, they shall want for nothing. If those who oppose us dont bend the knee we shall feed their legs to the hounds.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Cult of Personality.</VME_GodKing_Radicals.description>
 
-<VME_Cosmic_Cultists.label>cosmic cultists</VME_Cosmic_Cultists.label>
+<VME_Cosmic_Cultists.label>culte cosmique</VME_Cosmic_Cultists.label>
 <VME_Cosmic_Cultists.description>The stars above sing to us, and we respond in kind. May their everlasting glow illuminate the threads of our fate which rest so wearily upon a most capricious spindle. Bathe oneself in the hallowed moonlight and let astral workings of the architects of fate guide you.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Esotericism.</VME_Cosmic_Cultists.description>
 
 <VME_Flame_Seers.label>flame seers</VME_Flame_Seers.label>
@@ -34,16 +34,16 @@
 <VME_Steamworld_Neerdowells.label>steamworld neer-do-wells</VME_Steamworld_Neerdowells.label>
 <VME_Steamworld_Neerdowells.description>From saloon to stable were honest muffalopokes and live by one simple rule. ‘You dont get to live a bad life and have good things happen to you’. ‘Course, not all of us seem too convinced... Just don’t let the long arm of the law catch up y’all, ya’ hear?\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Christian Origin.</VME_Steamworld_Neerdowells.description>
 
-<VME_Medieval_Monarchists.label>medieval monarchists</VME_Medieval_Monarchists.label>
+<VME_Medieval_Monarchists.label>monarchie médievale</VME_Medieval_Monarchists.label>
 <VME_Medieval_Monarchists.description>Our sires and grandsires all followed the foresight and guidance of our King, long may he reign, and we shall do no different. Should another kingdom find it preferable to resort to bow and blade, we have no hesitation in making them our serfs.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Cult of Personality.</VME_Medieval_Monarchists.description>
 
-<VME_Pleasure_Extremists.label>pleasure extremists</VME_Pleasure_Extremists.label>
+<VME_Pleasure_Extremists.label>plaisirs extrémistes</VME_Pleasure_Extremists.label>
 <VME_Pleasure_Extremists.description>Never shall our muscles ache with pain nor shall our hearts swell with sadness. We should embrace all pleasures, even forbidden carnal desires such as luxurious meat or risqué lusting should all be explored.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Hedonism.</VME_Pleasure_Extremists.description>
 
 <VME_Eastern_Revivalists.label>eastern revivalists</VME_Eastern_Revivalists.label>
 <VME_Eastern_Revivalists.description>We are born without sin and should do our best to remain upon the path of many virtues. Respect the wisdom of the wind and those who have lived many summers to feel it caress their faces. Beyond all else, keep your blade near and combat prowess honed should those you once called brothers turn against you.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Shintao.</VME_Eastern_Revivalists.description>
 
-<VME_Primitivistic_Nomads.label>primitivistic nomads</VME_Primitivistic_Nomads.label>
+<VME_Primitivistic_Nomads.label>nomades primitifs</VME_Primitivistic_Nomads.label>
 <VME_Primitivistic_Nomads.description>For eons have our people wandered this world with little more than steed and saddle, traveling the roads less traveled with only the stars to guide them. From the frigid winter mutes to the teeming jungle canopies, we seek the same answers our ancestors once did.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Animism.</VME_Primitivistic_Nomads.description>
 
 <VME_Pestilent_Doomsayers.label>pestilent doomsayers</VME_Pestilent_Doomsayers.label>
@@ -55,7 +55,7 @@
 <VME_Mechanoid_Technocrat.label>mechanoid technocrat</VME_Mechanoid_Technocrat.label>
 <VME_Mechanoid_Technocrat.description>To think a creature capable of infinite stamina and free from the burdens of free thought is meant to serve mankind is beyond foolish. We can’t begin to unravel the boundless goals of the machine consciousness. We should seek to mimic them so that we can further placate their hostility.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Omnism.</VME_Mechanoid_Technocrat.description>
 
-<VME_Ecological_Fascists.label>ecological fascists</VME_Ecological_Fascists.label>
+<VME_Ecological_Fascists.label>fascistes écologistes</VME_Ecological_Fascists.label>
 <VME_Ecological_Fascists.description>Spare absolutely no one who dares to pollute or otherwise taint mother natures soil with their pathetic existence. May our frail bodies give way to nourish the trees that loom over us. Respect the planet we walk or perish at the behest of our Seedseer.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Authoritarian.</VME_Ecological_Fascists.description>
 
 
