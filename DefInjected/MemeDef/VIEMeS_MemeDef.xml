@@ -532,7 +532,7 @@
 
 
 <VME_Aristocratic.label>aristocratique</VME_Aristocratic.label>
-<VME_Aristocratic.description>Kings and Queens are the true path to prosperity, the mind of the common man is unfit for leadership.</VME_Aristocratic.description>
+<VME_Aristocratic.description>Les rois et les reines sont le véritable chemin de la prospérité, l'esprit de l'homme ordinaire est inapte au leadership.</VME_Aristocratic.description>
 <VME_Aristocratic.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Aristocratic)        ->[deity0_name] saw that some of the [memberNamePlural] were more fit to rule than others, and spoke to them: "Why do you treat everyone equally? Some of you are born to be rulers, while others are born to be ruled".</li>
@@ -591,8 +591,8 @@
 <VME_Aristocratic.symbolPacks.1.theme>aristocracy</VME_Aristocratic.symbolPacks.1.theme>
 
 
-<VME_Republic.label>republic</VME_Republic.label>
-<VME_Republic.description>Power must be balanced between a select few, lest any settlement or empire fall to inevitable corruption.</VME_Republic.description>
+<VME_Republic.label>république</VME_Republic.label>
+<VME_Republic.description>Le pouvoir doit être équilibré entre quelques privilégiés, de peur qu'une colonie ou un empire ne tombe dans une inévitable corruption.</VME_Republic.description>
 <VME_Republic.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Republic)        ->[deity0_name] saw that some of the [memberNamePlural] were more fit to rule than others, and spoke to them: "Your governance shall be split between three leaders, and they will lead you to unimaginable glory".</li>
@@ -646,8 +646,8 @@
 <VME_Republic.symbolPacks.1.theme>triumvirate</VME_Republic.symbolPacks.1.theme>
 
 
-<VME_ExaltedPriesthood.label>exalted priesthood</VME_ExaltedPriesthood.label>
-<VME_ExaltedPriesthood.description>Our leader must also be our prophet, and it’s important that we heed their advice.</VME_ExaltedPriesthood.description>
+<VME_ExaltedPriesthood.label>sacerdoce</VME_ExaltedPriesthood.label>
+<VME_ExaltedPriesthood.description>Notre leader doit aussi être notre prophète, et il est important que nous écoutions ses conseils.</VME_ExaltedPriesthood.description>
 <VME_ExaltedPriesthood.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_ExaltedPriesthood)        ->[deity0_name] munified our faith by appointing our dear founder, [founderName], as the head of [deity0_possessive] church.</li>
@@ -704,7 +704,7 @@
 
 
 <VME_Scrapper.label>scrapper</VME_Scrapper.label>
-<VME_Scrapper.description>Nothing should ever be wasted, not even bloodied or torn clothes. Discarded remains of old civilizations should be kept as treasures and reminders.</VME_Scrapper.description>
+<VME_Scrapper.description>Rien ne doit jamais être gaspillé, pas même des vêtements ensanglantés ou déchirés. Les restes abandonnés des anciennes civilisations doivent être conservés comme trésors et rappels.</VME_Scrapper.description>
 <VME_Scrapper.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Scrapper)        ->[deity0_name] taught us to never leave anything to waste: "Squandering is a great sin, for I created the world in my image, and by letting things unused your are also insulting me."</li>
@@ -769,8 +769,8 @@
 <VME_Scrapper.symbolPacks.2.theme>scrounging</VME_Scrapper.symbolPacks.2.theme>
 
 
-<VME_Trader.label>trader</VME_Trader.label>
-<VME_Trader.description>With wealth comes power, going too long without profit means going too long without securing one’s position of power.</VME_Trader.description>
+<VME_Trader.label>commerçant</VME_Trader.label>
+<VME_Trader.description>Avec la richesse vient le pouvoir, aller trop longtemps sans profit signifie aller trop longtemps sans assurer sa position de pouvoir.</VME_Trader.description>
 <VME_Trader.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Trader)        ->[deity0_name] spoke to [deity0_possessive] followers: "Poverty is the greatest sin. Amassing wealth is the true measure of humanity."</li>
@@ -833,8 +833,8 @@
 <VME_Trader.symbolPacks.2.theme>wealth</VME_Trader.symbolPacks.2.theme>
 
 
-<VME_Elders.label>elders</VME_Elders.label>
-<VME_Elders.description>Age and wisdom often come in tandem, our wise and elderly should be respected on that premise alone and should not be expected to toil.</VME_Elders.description>
+<VME_Elders.label>aînés</VME_Elders.label>
+<VME_Elders.description>L'âge et la sagesse vont souvent de pair, nos sages et personnes âgées devraient être respectés sur cette seule prémisse et ne devraient pas être tenus de travailler dur.</VME_Elders.description>
 <VME_Elders.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Elders)        ->[deity0_name] spoke to [deity0_possessive] followers: "Respect and obey your elders, for wisdom comes only from experience."</li>
@@ -888,8 +888,8 @@
 <VME_Elders.symbolPacks.0.theme>elders</VME_Elders.symbolPacks.0.theme>
 
 
-<VME_Vegan.label>vegan</VME_Vegan.label>
-<VME_Vegan.description>Eating meat is barbaric and uncouth, better eaten are the fruits of hard labor and ever-giving soil.</VME_Vegan.description>
+<VME_Vegan.label>végan</VME_Vegan.label>
+<VME_Vegan.description>Manger de la viande est barbare et grossier, mieux mangés sont les fruits d'un dur labeur et d'une terre toujours généreuse.</VME_Vegan.description>
 <VME_Vegan.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Vegan)        ->[deity0_name] spoke to [deity0_possessive] followers: "Shun the flesh, for it is sinful and impure."</li>
@@ -946,8 +946,8 @@
 <VME_Vegan.symbolPacks.1.theme>vegetarianism</VME_Vegan.symbolPacks.1.theme>
 
 
-<VME_Egalitarian.label>egalitarian</VME_Egalitarian.label>
-<VME_Egalitarian.description>Bigotry is absolutely to never be tolerated, helping those in need and respecting their beliefs are rewards in and of themselves.</VME_Egalitarian.description>
+<VME_Egalitarian.label>égalitarisme</VME_Egalitarian.label>
+<VME_Egalitarian.description>Le sectarisme ne doit absolument jamais être toléré, aider les personnes dans le besoin et respecter leurs croyances sont des récompenses en soi.</VME_Egalitarian.description>
 <VME_Egalitarian.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Egalitarian)        ->[deity0_name] showed us that the path to true wisdom lies in tolerance and equality.</li>
@@ -1001,8 +1001,8 @@
 <VME_Egalitarian.symbolPacks.0.theme>equality</VME_Egalitarian.symbolPacks.0.theme>
 
 
-<VME_Pacifist.label>pacifist</VME_Pacifist.label>
-<VME_Pacifist.description>While defending oneself is acceptable, we have come too far and evolved too much to ever endorse the premise of warfare or slavery. Even tantrums should only manifest in forms that do not harm others or property.</VME_Pacifist.description>
+<VME_Pacifist.label>pacifisme</VME_Pacifist.label>
+<VME_Pacifist.description>Bien que se défendre soit acceptable, nous sommes allés trop loin et avons trop évolué pour approuver le principe de la guerre ou de l'esclavage. Même les crises de colère ne devraient se manifester que sous des formes qui ne nuisent pas aux autres ou à la propriété.</VME_Pacifist.description>
 <VME_Pacifist.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Pacifist)        ->[deity0_name] saw the violence in the human heart, and recoiled in disgust.</li>
@@ -1057,8 +1057,8 @@
 <VME_Pacifist.symbolPacks.0.theme>pacifism</VME_Pacifist.symbolPacks.0.theme>
 
 
-<VME_FireWorship.label>fire worship</VME_FireWorship.label>
-<VME_FireWorship.description>Holy flame breathes life into this planet and many others like it, may it guide us to salvation and may it reduce our enemies to ash.</VME_FireWorship.description>
+<VME_FireWorship.label>culte du feu</VME_FireWorship.label>
+<VME_FireWorship.description>La flamme sacrée insuffle la vie à cette planète et à beaucoup d'autres comme elle, qu'elle nous guide vers le salut et qu'elle réduise nos ennemis en cendres.</VME_FireWorship.description>
 <VME_FireWorship.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_FireWorship)        ->[deity0_name] infused [deity0_possessive] followers with a holy flame: "The hero and the coward both feel exactly the same fear, only the hero confronts his fear and converts it into fire."</li>
@@ -1115,7 +1115,7 @@
 
 
 <VME_Bushido.label>bushido</VME_Bushido.label>
-<VME_Bushido.description>A warriors code of honor means striking down one’s foes unto death itself. Should one’s spirit falter and cowardice prevail, forgiveness can only be found in the afterlife.</VME_Bushido.description>
+<VME_Bushido.description>Un code d'honneur des guerriers signifie abattre ses ennemis jusqu'à la mort elle-même. Si l'esprit faiblit et que la lâcheté l'emporte, le pardon ne peut être trouvé que dans l'au-delà.</VME_Bushido.description>
 <VME_Bushido.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Bushido)        ->[deity0_name] spoke to [deity0_possessive] followers: "Act with the heart of the warrior."</li>
@@ -1167,8 +1167,8 @@
 <VME_Bushido.symbolPacks.0.theme>bushido</VME_Bushido.symbolPacks.0.theme>
 
 
-<VME_Light.label>light</VME_Light.label>
-<VME_Light.description>Darkness obscures one’s vision as well as one’s mind, darklight is a wicked occurrence and is not to be condoned.</VME_Light.description>
+<VME_Light.label>lumière</VME_Light.label>
+<VME_Light.description>L'obscurité obscurcit la vision ainsi que l'esprit, la lumière noire est un événement méchant et ne doit pas être tolérée.</VME_Light.description>
 <VME_Light.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Light)        ->In the beginning [deity0_name] created the heaven and the earth. And [deity0_pronoun] said: "Let there be light". And there was light.</li>
@@ -1223,8 +1223,8 @@
 <VME_Light.symbolPacks.0.theme>light</VME_Light.symbolPacks.0.theme>
 
 
-<VME_Nomad.label>nomad</VME_Nomad.label>
-<VME_Nomad.description>Stagnation is death and as with all things in this world, homes are only temporary. Traveling this world and walking roads unwalked always leads to greater things.</VME_Nomad.description>
+<VME_Nomad.label>nomadisme</VME_Nomad.label>
+<VME_Nomad.description>La stagnation, c'est la mort et comme pour toutes choses dans ce monde, les maisons ne sont que temporaires. Voyager dans ce monde et marcher sur des routes non empruntées mène toujours à de plus grandes choses.</VME_Nomad.description>
 <VME_Nomad.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Nomad)        ->[deity0_name] wrote [deity0_possessive] commandments in seven clay tablets. The third commandment read: "A nomad I will remain for life, in love with distant and uncharted places."</li>
@@ -1279,8 +1279,8 @@
 <VME_Nomad.symbolPacks.0.theme>nomadism</VME_Nomad.symbolPacks.0.theme>
 
 
-<VME_BloodCourt.label>blood court</VME_BloodCourt.label>
-<VME_BloodCourt.description>Our leader should be a talented melee fighter and brutal warrior, only usurped by one greater. Bloodshed, corpses, scars are a part of life and a show of strength on this planet.</VME_BloodCourt.description>
+<VME_BloodCourt.label>tribunal du sang</VME_BloodCourt.label>
+<VME_BloodCourt.description>Notre chef devrait être un combattant de mêlée talentueux et un guerrier brutal, seulement remplacé par un plus puissant. Les effusions de sang, les cadavres, les cicatrices font partie de la vie et une démonstration de force sur cette planète.</VME_BloodCourt.description>
 <VME_BloodCourt.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_BloodCourt)        ->[deity0_name] had slain the majority of the other gods, and [deity0_possessive] followers cowered in fear: "Strength comes from an indomitable will. Only those of you who prove themselves in bloody combat will be worthy of my respect."</li>
@@ -1332,8 +1332,8 @@
 <VME_BloodCourt.symbolPacks.0.theme>violence</VME_BloodCourt.symbolPacks.0.theme>
 
 
-<VME_CityBuilders.label>city builders</VME_CityBuilders.label>
-<VME_CityBuilders.description>Our home should feature all the accommodations of a great city, homes, workshops, and places of leisure should all be present and accessible by all.</VME_CityBuilders.description>
+<VME_CityBuilders.label>constructeurs de villes</VME_CityBuilders.label>
+<VME_CityBuilders.description>Notre maison doit comporter tous les logements d'une grande ville, les maisons, les ateliers et les lieux de loisirs doivent tous être présents et accessibles par tous.</VME_CityBuilders.description>
 <VME_CityBuilders.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_CityBuilders)        ->[deity0_name] thus spoke to us: "Build these cities and surround them with walls and towers, gates and bars. The land is yours because you have sought me; On every lofty mountain and on every high hill there will be streams running with water, until the towers fall".</li>
@@ -1384,8 +1384,8 @@
 <VME_CityBuilders.symbolPacks.0.theme>building</VME_CityBuilders.symbolPacks.0.theme>
 
 
-<VME_MechanoidSupremacy.label>mechanoid supremacy</VME_MechanoidSupremacy.label>
-<VME_MechanoidSupremacy.description>Never tire, never wither, never need for sustenance. Mechanoids are humanity perfected and should be revered as our superiors.</VME_MechanoidSupremacy.description>
+<VME_MechanoidSupremacy.label>suprématie mécanoïde</VME_MechanoidSupremacy.label>
+<VME_MechanoidSupremacy.description>Ne jamais se fatiguer, ne jamais se faner, jamais besoin de subsistance. Les mécanoïdes sont l'humanité perfectionnée et devraient être vénérés comme nos supérieurs.</VME_MechanoidSupremacy.description>
 <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_MechanoidSupremacy)        ->[deity0_name] spoke to [deity0_possessive] followers: "Mechanoids were created in my image. Their form is sacred, and you must aspire to become more like them."</li>
@@ -1445,8 +1445,8 @@
 <VME_MechanoidSupremacy.symbolPacks.0.theme>mechanoids</VME_MechanoidSupremacy.symbolPacks.0.theme>
 
 
-<VME_InsectoidSupremacy.label>insectoid supremacy</VME_InsectoidSupremacy.label>
-<VME_InsectoidSupremacy.description>The labyrinthine tunnels of the underdark ungulate with a seemingly limitless hive of relentless and brutal insects, we should not fear them, we should revere them.</VME_InsectoidSupremacy.description>
+<VME_InsectoidSupremacy.label>suprématie insectoïde</VME_InsectoidSupremacy.label>
+<VME_InsectoidSupremacy.description>Les tunnels labyrinthiques de l'ongulé de l'underdark avec une ruche apparemment illimitée d'insectes implacables et brutaux, nous ne devrions pas les craindre, nous devrions les vénérer.</VME_InsectoidSupremacy.description>
 <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_InsectoidSupremacy)        ->[deity0_name] visage is otherworldly: a moving mass of chitin-covered flesh, thousands of small insects constantly darting in and out of its armoured plates."</li>
@@ -1610,8 +1610,8 @@
 <VME_Anonymity.symbolPacks.0.theme>anonymity</VME_Anonymity.symbolPacks.0.theme>
 
 
-<VME_Emancipation.label>emancipation</VME_Emancipation.label>
-<VME_Emancipation.description>It’s not enough to simply not participate in slavery, we should actively work to fight against those who dare to enslave others and free those who have suffered such inhumanities.</VME_Emancipation.description>
+<VME_Emancipation.label>émancipation</VME_Emancipation.label>
+<VME_Emancipation.description>Il ne suffit pas de simplement ne pas participer à l'esclavage, nous devons travailler activement pour lutter contre ceux qui osent réduire en esclavage les autres et libérer ceux qui ont subi de telles inhumanités.</VME_Emancipation.description>
 <VME_Emancipation.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Emancipation)        ->[deity0_name] showed us that slavery is aberrant, and should be stopped at all costs.</li>
@@ -1665,8 +1665,8 @@
 <VME_Emancipation.symbolPacks.0.theme>emancipation</VME_Emancipation.symbolPacks.0.theme>
 
 
-<VME_Nationalist.label>nationalist</VME_Nationalist.label>
-<VME_Nationalist.description>Insubordination and dissent should be quenched to make space for a strong sense of nationalistic pride.</VME_Nationalist.description>
+<VME_Nationalist.label>nationaliste</VME_Nationalist.label>
+<VME_Nationalist.description>L'insubordination et la dissidence doivent être éteintes pour faire place à un fort sentiment de fierté nationaliste.</VME_Nationalist.description>
 <VME_Nationalist.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Nationalist)        ->[deity0_name] showed us that plutocratic and reactionary democracies have blocked the march and frequently plotted against the existence of the [memberNamePlural].</li>
@@ -1838,8 +1838,8 @@
 
 
 
-<VME_Structure_Bacchanalianism.label>hedonism</VME_Structure_Bacchanalianism.label>
-<VME_Structure_Bacchanalianism.description>Mans time on this earth is brief and fleeting, to deny oneself of any of lifes pleasures such as lust or gluttony is the one true sin. Throw wide the gates to tireless festivity, live and breathe endless splendor.</VME_Structure_Bacchanalianism.description>
+<VME_Structure_Bacchanalianism.label>hédonisme</VME_Structure_Bacchanalianism.label>
+<VME_Structure_Bacchanalianism.description>Le temps de l'homme sur cette terre est bref et éphémère, se priver de l'un des plaisirs de la vie tels que la luxure ou la gourmandise est le seul vrai péché. Ouvrez grand les portes d'une fête inlassable, vivez et respirez une splendeur sans fin.</VME_Structure_Bacchanalianism.description>
 <VME_Structure_Bacchanalianism.generalRules.rulesStrings>
 	<li>memeAdjective->hedonistic</li>
 	<li>memeAdjective->pleasurable</li>
@@ -1918,8 +1918,8 @@
 
 
 
-<VME_Structure_Authoritarianism.label>authoritarian</VME_Structure_Authoritarianism.label>
-<VME_Structure_Authoritarianism.description>Plurality only brings a false illusion of choice, and breeds discontent, rebellion and chaos. With an iron fist we will govern our people and bring prosperity to all.</VME_Structure_Authoritarianism.description>
+<VME_Structure_Authoritarianism.label>autoritaire</VME_Structure_Authoritarianism.label>
+<VME_Structure_Authoritarianism.description>La pluralité n'apporte qu'une fausse illusion de choix et engendre le mécontentement, la rébellion et le chaos. D'une main de fer, nous gouvernerons notre peuple et apporterons la prospérité à tous.</VME_Structure_Authoritarianism.description>
 <VME_Structure_Authoritarianism.generalRules.rulesStrings>
 	<li>memeAdjective->firm</li>
 	<li>memeAdjective->oligarchic</li>
@@ -1950,8 +1950,8 @@
 
 
 
-<VME_Structure_CultOfPersonality.label>cult of personality</VME_Structure_CultOfPersonality.label>
-<VME_Structure_CultOfPersonality.description>It is forbidden to question the crown of a king or queen, even the soil itself is undeserving to feel the touch of our leaders divine feet. Our leader should want for nothing and through their grand design we will prosper.</VME_Structure_CultOfPersonality.description>
+<VME_Structure_CultOfPersonality.label>culte de la personalité</VME_Structure_CultOfPersonality.label>
+<VME_Structure_CultOfPersonality.description>Il est interdit de remettre en cause la couronne d'un roi ou d'une reine, même le sol lui-même ne mérite pas de sentir le contact de nos chefs divins avec les pieds. Notre chef ne devrait manquer de rien et grâce à leur grand dessein, nous prospérerons.</VME_Structure_CultOfPersonality.description>
 <VME_Structure_CultOfPersonality.generalRules.rulesStrings>
 	<li>memeAdjective->unified</li>
 	<li>memeAdjective->imperial</li>
@@ -2030,8 +2030,8 @@
 
 
 
-<VME_Structure_Agnosticism.label>agnosticism</VME_Structure_Agnosticism.label>
-<VME_Structure_Agnosticism.description>The theory that any gods or all-powerful force watches or guides us down to trivialities is either asinine or incomprehensible by mere man, and equally so is the idea that all came from nothing. It is better to ignore such dogma and respect the freedom of those who find respite in such beliefs.</VME_Structure_Agnosticism.description>
+<VME_Structure_Agnosticism.label>agnostisme</VME_Structure_Agnosticism.label>
+<VME_Structure_Agnosticism.description>La théorie selon laquelle des dieux ou des forces toute-puissantes nous observent ou nous guident jusqu'aux banalités est soit stupide, soit incompréhensible pour le simple homme, de même que l'idée que tout est venu de rien. Il vaut mieux ignorer de tels dogmes et respecter la liberté de ceux qui trouvent un répit dans de telles croyances.</VME_Structure_Agnosticism.description>
 <VME_Structure_Agnosticism.generalRules.rulesStrings>
 	<li>memeAdjective->disbelieving</li>
 	<li>memeAdjective->godless</li>
@@ -2103,8 +2103,8 @@
 
 
 
-<VME_Structure_Corporate.label>corporate origin</VME_Structure_Corporate.label>
-<VME_Structure_Corporate.description>No Gods or Kings should be worshipped, only man and his unslakable desire for wealth. Colonies should be managed like companies.</VME_Structure_Corporate.description>
+<VME_Structure_Corporate.label>origine corporaliste</VME_Structure_Corporate.label>
+<VME_Structure_Corporate.description>Aucun dieu ou roi ne devrait être adoré, seulement l'homme et son désir inébranlable de richesse. Les colonies doivent être gérées comme des entreprises.</VME_Structure_Corporate.description>
 <VME_Structure_Corporate.generalRules.rulesStrings>
 	<li>memeAdjective->private</li>
 	<li>memeAdjective->profitable</li>
