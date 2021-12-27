@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_InstalledNonNaturalProsthetic.label>installed non-natural prosthetic</VME_InstalledNonNaturalProsthetic.label>
-<VME_Defeat.label>defeat</VME_Defeat.label>
-<VME_SecondDefeat.label>defeat</VME_SecondDefeat.label>
-<VME_DumbLabor.label>dumb labor</VME_DumbLabor.label>
-<VME_Firefighting.label>firefighting</VME_Firefighting.label>
-<VME_AteInsectJelly.label>ate insect jelly</VME_AteInsectJelly.label>
-<VME_InsectoidKilled.label>insectoid killed</VME_InsectoidKilled.label>
-<VME_KillingWithFire.label>killing with fire</VME_KillingWithFire.label>
-<VME_AteAnimalProducts.label>ate animal products</VME_AteAnimalProducts.label>
-<VME_MechanoidDestroyed.label>mechanoid destroyed</VME_MechanoidDestroyed.label>
-<VME_ConvertAPrisoner.label>converting a prisoner</VME_ConvertAPrisoner.label>
-<VME_AttackedAnimal.label>attacked animal</VME_AttackedAnimal.label>
-<VME_HavingFun.label>having fun</VME_HavingFun.label>
-<VME_BoughtSlave.label>bought slave</VME_BoughtSlave.label>
-<VME_AttackedInnocent.label>attacked innocent people</VME_AttackedInnocent.label>
+<VME_InstalledNonNaturalProsthetic.label>prothèse non naturelle installée</VME_InstalledNonNaturalProsthetic.label>
+<VME_Defeat.label>défaite</VME_Defeat.label>
+<VME_SecondDefeat.label>défaite</VME_SecondDefeat.label>
+<VME_DumbLabor.label>travail non qualifié</VME_DumbLabor.label>
+<VME_Firefighting.label>lutte anti-incendie</VME_Firefighting.label>
+<VME_AteInsectJelly.label>gelée d'insecte mangée</VME_AteInsectJelly.label>
+<VME_InsectoidKilled.label>insectoïde tué</VME_InsectoidKilled.label>
+<VME_KillingWithFire.label>brûlé</VME_KillingWithFire.label>
+<VME_AteAnimalProducts.label>produit animal mangé</VME_AteAnimalProducts.label>
+<VME_MechanoidDestroyed.label>méchanoïde détruit</VME_MechanoidDestroyed.label>
+<VME_ConvertAPrisoner.label>converti un prisonnier</VME_ConvertAPrisoner.label>
+<VME_AttackedAnimal.label>animal attaqué</VME_AttackedAnimal.label>
+<VME_HavingFun.label>a pris du bon temps</VME_HavingFun.label>
+<VME_BoughtSlave.label>esclave vendu</VME_BoughtSlave.label>
+<VME_AttackedInnocent.label>personne innocente attaquée</VME_AttackedInnocent.label>
 
 
 </LanguageData>
