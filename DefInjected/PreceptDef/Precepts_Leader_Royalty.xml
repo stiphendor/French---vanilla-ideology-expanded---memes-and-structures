@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_Leader_BestPsycaster.label>best psycaster</VME_Leader_BestPsycaster.label>
-<VME_Leader_BestPsycaster.description>We will only be led by one who’s proven themselves to be our most powerful psyker among us.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - The leader role will periodically be forced upon the highest level psycaster in the colony (this will only work if the ideology is the primary one). Leader role will be assigned to the last pawn who achieved highest psylink level in your colony. Even if the current leader has the same level.</VME_Leader_BestPsycaster.description>
+<VME_Leader_BestPsycaster.label>meilleur psycaster</VME_Leader_BestPsycaster.label>
+<VME_Leader_BestPsycaster.description>Nous ne serons dirigés que par celui qui s'est avéré être notre psyker le plus puissant parmi nous.\n\n&lt;color=#E5E54C&gt;Effet sur le gameplay:&lt;/color&gt;\n - Le rôle de leader sera périodiquement imposé au psycaster de plus haut niveau de la colonie (cela ne fonctionnera que si l'idéologie est la principale). Le rôle de leader sera attribué au dernier pion ayant atteint le niveau de lien psychique le plus élevé de votre colonie. Même si le leader actuel a le même niveau.</VME_Leader_BestPsycaster.description>
 
 
 </LanguageData>
