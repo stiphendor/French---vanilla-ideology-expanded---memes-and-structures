@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_InsectMeatEating_Sacrilegious.label>abhorrent</VME_InsectMeatEating_Sacrilegious.label>
-<VME_InsectMeatEating_Sacrilegious.description>Eating the flesh of divine insects is vile and disgusting, even the idea of putting it near your mouth should be met with embarrassment.</VME_InsectMeatEating_Sacrilegious.description>
+<VME_InsectMeatEating_Sacrilegious.label>dégoûtante</VME_InsectMeatEating_Sacrilegious.label>
+<VME_InsectMeatEating_Sacrilegious.description>Manger la chair d'insectes divins est ignoble et dégoûtant, même l'idée de la mettre près de votre bouche devrait être gênante.</VME_InsectMeatEating_Sacrilegious.description>
 
-<VME_InsectMeatEating_DontCare.label>don't care</VME_InsectMeatEating_DontCare.label>
-<VME_InsectMeatEating_DontCare.description>Insect meat is just another type of meat. There are innumerable cultures in human history with a rich entomophagy tradition.</VME_InsectMeatEating_DontCare.description>
+<VME_InsectMeatEating_DontCare.label>indifférent</VME_InsectMeatEating_DontCare.label>
+<VME_InsectMeatEating_DontCare.description>La viande d'insecte n'est qu'un autre type de viande. Il existe d'innombrables cultures dans l'histoire de l'humanité avec une riche tradition d'entomophagie.</VME_InsectMeatEating_DontCare.description>
 
 
 </LanguageData>
