@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_Leader_Godlike.label>godlike</VME_Leader_Godlike.label>
-<VME_Leader_Godlike.description>Our leader should be exalted as a god, to treat them as any less assures our demise.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Opinion of the leader depends on a person's certainty in its ideoligion.</VME_Leader_Godlike.description>
-<VME_Leader_Godlike.comps.0.thoughtStageDescriptions.0>Supreme god emperor (certainty above 75%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.0>
-<VME_Leader_Godlike.comps.0.thoughtStageDescriptions.1>God emperor (certainty above 50%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.1>
-<VME_Leader_Godlike.comps.0.thoughtStageDescriptions.2>Dubious divinity (certainty above 25%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.2>
-<VME_Leader_Godlike.comps.0.thoughtStageDescriptions.3>False god (certainty below 25%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.3>
+<VME_Leader_Godlike.label>divin</VME_Leader_Godlike.label>
+<VME_Leader_Godlike.description>Notre chef devrait être exalté comme un dieu, les traiter comme une assurance moindre de notre disparition.\n\n&lt;color=#E5E54C&gt;Effet sur le gameplay:&lt;/color&gt;\n - L'opinion du chef dépend de la certitude d'une personne dans son idéoligion.</VME_Leader_Godlike.description>
+<VME_Leader_Godlike.comps.0.thoughtStageDescriptions.0>Dieu suprême empereur (certitude supérieure à 75%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.0>
+<VME_Leader_Godlike.comps.0.thoughtStageDescriptions.1>Dieu empereur (certitude supérieure à 50%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.1>
+<VME_Leader_Godlike.comps.0.thoughtStageDescriptions.2>Divinité douteuse (certitude supérieure à 25%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.2>
+<VME_Leader_Godlike.comps.0.thoughtStageDescriptions.3>Faux dieu (certitude inférieure à 25%)</VME_Leader_Godlike.comps.0.thoughtStageDescriptions.3>
 
-<VME_Leader_BestCrafter.label>best crafter</VME_Leader_BestCrafter.label>
-<VME_Leader_BestCrafter.description>Our most skilled artisan is our leader, through their keen eye and delicate touch our workshops will sing the song of creation.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - The leader role will periodically be forced upon the highest level crafter in the colony (this will only work if the ideology is the primary one).</VME_Leader_BestCrafter.description>
+<VME_Leader_BestCrafter.label>meilleur artisan</VME_Leader_BestCrafter.label>
+<VME_Leader_BestCrafter.description>Notre artisan le plus qualifié est notre chef, par leur œil vif et leur toucher délicat nos ateliers chanteront la chanson de la création.\n\n&lt;color=#E5E54C&gt;Effet sur le gameplay:&lt;/color&gt;\n - Le rôle de chef sera périodiquement imposé à l'artisan le plus qualifié de la colonie (cela ne fonctionnera que si l'idéologie est la principale).</VME_Leader_BestCrafter.description>
 
-<VME_Leader_BestFighter.label>best fighter</VME_Leader_BestFighter.label>
-<VME_Leader_BestFighter.description>Martial expertise, be it with a blade or spear is a show of strength and courage. Our most talented fighter will be our leader, no questions asked (this will only work if the ideology is the primary one).</VME_Leader_BestFighter.description>
+<VME_Leader_BestFighter.label>meilleur combattant</VME_Leader_BestFighter.label>
+<VME_Leader_BestFighter.description>L'expertise martiale, que ce soit avec une lame ou une lance, est une démonstration de force et de courage. Notre combattant le plus talentueux sera notre chef, sans poser de questions (cela ne fonctionnera que si l'idéologie est la principale).</VME_Leader_BestFighter.description>
 
-<VME_Leader_Three.label>three</VME_Leader_Three.label>
-<VME_Leader_Three.description>It’s vital that we put our trust in the hands of few rather than the hand of one.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Up to three people can be designated as leader.</VME_Leader_Three.description>
+<VME_Leader_Three.label>trois</VME_Leader_Three.label>
+<VME_Leader_Three.description>Il est vital que nous placions notre confiance dans les mains de quelques-uns plutôt que dans celles d'un seul.\n\n&lt;color=#E5E54C&gt;Effet sur le gameplay:&lt;/color&gt;\n -Jusqu'à trois personnes peuvent être désignées comme chef.</VME_Leader_Three.description>
 
-<VME_Leader_Moralist.label>moralist</VME_Leader_Moralist.label>
-<VME_Leader_Moralist.description>Our leader is a morale bastion, and through them and their divinity we shall flourish.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - The colony's leader can use moralist abilities too.</VME_Leader_Moralist.description>
+<VME_Leader_Moralist.label>moraliste</VME_Leader_Moralist.label>
+<VME_Leader_Moralist.description>Notre chef est un bastion moral, et à travers eux et leur divinité nous prospérerons.\n\n&lt;color=#E5E54C&gt;Effet sur le gameplay:&lt;/color&gt;\n - Le chef de la colonie peut également utiliser les capacités de moraliste.</VME_Leader_Moralist.description>
 
 
 </LanguageData>
