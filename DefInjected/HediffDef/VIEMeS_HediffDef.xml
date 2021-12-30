@@ -70,8 +70,8 @@
 
 
 		<!-- +++++ Hediffs_Misc +++++ -->
-<VME_MedicalEmergencyHediff.label>medical emergency</VME_MedicalEmergencyHediff.label>
-<VME_MedicalEmergencyHediff.description>Stops the Nurse’s Rest, Recreation and Hunger from dropping for 12 hours. During this time, Nurse can only do Doctoring jobs properly.</VME_MedicalEmergencyHediff.description>
+<VME_MedicalEmergencyHediff.label>urgence médicale</VME_MedicalEmergencyHediff.label>
+<VME_MedicalEmergencyHediff.description>Annule le besoin de repos, de faim et de divertissement de l'infirmière pendant 12 heures. Pendant ce temps, l'infirmière ne peut faire que les tâches de docteur correctement.</VME_MedicalEmergencyHediff.description>
 
 
 </LanguageData>
