@@ -481,7 +481,7 @@
 <VME_CraftCulture.symbolPacks.3.theme>tinkering</VME_CraftCulture.symbolPacks.3.theme>
 
 
-<VME_Progressive.label>progressive</VME_Progressive.label>
+<VME_Progressive.label>progressisme</VME_Progressive.label>
 <VME_Progressive.description>Machines, usines, drones, un objectif pour toute communauté qui réussit devrait être d'optimiser ces appareils et d'éviter l'idée que des êtres sensibles exécutent des tâches qui leur sont normalement destinées.</VME_Progressive.description>
 <VME_Progressive.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
@@ -1500,8 +1500,8 @@
 <VME_InsectoidSupremacy.symbolPacks.0.theme>insectoids</VME_InsectoidSupremacy.symbolPacks.0.theme>
 
 
-<VME_PartyLife.label>party life</VME_PartyLife.label>
-<VME_PartyLife.description>Let us toast to the acts of dance, drink and debauchery. Any free time is a good time, but party time is the best time.</VME_PartyLife.description>
+<VME_PartyLife.label>vie de fête</VME_PartyLife.label>
+<VME_PartyLife.description>Portons un toast aux actes de danse, de boisson et de débauche. Tout temps libre est un bon moment, mais la fête est le meilleur moment.</VME_PartyLife.description>
 <VME_PartyLife.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_PartyLife)        ->[deity0_name] spoke to [deity0_possessive] followers: "Mark this day in your calendars as an occasion for revelry, for celebrations are sacred to me."</li>
@@ -1555,8 +1555,8 @@
 <VME_PartyLife.symbolPacks.0.theme>partying</VME_PartyLife.symbolPacks.0.theme>
 
 
-<VME_Anonymity.label>anonymity</VME_Anonymity.label>
-<VME_Anonymity.description>Knowing the names, faces, and backgrounds of your fellow colonists can be both a blessing and a curse.</VME_Anonymity.description>
+<VME_Anonymity.label>anonymat</VME_Anonymity.label>
+<VME_Anonymity.description>Connaître les noms, les visages et les antécédents de vos compagnons colons peut être à la fois une bénédiction et une malédiction.</VME_Anonymity.description>
 <VME_Anonymity.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Anonymity)        ->[deity0_name] didn't speak to [deity0_possessive] followers, and instead just looked at them sternly. They understood the need for complete silence.</li>
@@ -1733,8 +1733,8 @@
 <VME_Nationalist.symbolPacks.0.theme>nationalism</VME_Nationalist.symbolPacks.0.theme>
 
 
-<VME_Healthcare.label>healthcare</VME_Healthcare.label>
-<VME_Healthcare.description>The wellbeing of our bodies and minds is something our people take very seriously. It’s important that we look out for each other and tend to the wounds of our friends and family alike.</VME_Healthcare.description>
+<VME_Healthcare.label>sécurité sociale</VME_Healthcare.label>
+<VME_Healthcare.description>Le bien-être de notre corps et de notre esprit est quelque chose que nos gens prennent très au sérieux. Il est important que nous prenions soin les uns des autres et soignions les blessures de nos amis et de notre famille.</VME_Healthcare.description>
 <VME_Healthcare.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
 	<li>creation(tag=meme_Healthcare)        ->[deity0_name] spoke to [deity0_possessive] followers: "Give people what they need: food, medicine, clean air, pure water, trees and grass. Don't ask who deserves it. Every human being deserves it."</li>
@@ -1790,8 +1790,8 @@
 
 
 		<!-- +++++ Memes_Structures_Basic +++++ -->
-<VME_Structure_Serketist.label>serketism</VME_Structure_Serketist.label>
-<VME_Structure_Serketist.description>The true face of gods is found in the bite of a spider, the sting of the scorpion. Let those of many legs crawl all over us.</VME_Structure_Serketist.description>
+<VME_Structure_Serketist.label>serketisme</VME_Structure_Serketist.label>
+<VME_Structure_Serketist.description>Le vrai visage des dieux se trouve dans la morsure d'une araignée, la piqûre du scorpion. Que ceux aux nombreuses jambes rampent sur nous.</VME_Structure_Serketist.description>
 <VME_Structure_Serketist.generalRules.rulesStrings>
 	<li>memeAdjective->serketic</li>
 	<li>memeAdjective->insectoid</li>
@@ -1811,8 +1811,8 @@
 <VME_Structure_Serketist.worshipRoomLabel>hive</VME_Structure_Serketist.worshipRoomLabel>
 
 
-<VME_Structure_Esotericism.label>esotericism</VME_Structure_Esotericism.label>
-<VME_Structure_Esotericism.description>The forces that guide this world are not for the faint of heart nor weak of will. Only through forbidden texts, dark pacts and proper initiation can one truly see beyond the veil.</VME_Structure_Esotericism.description>
+<VME_Structure_Esotericism.label>ésotérisme</VME_Structure_Esotericism.label>
+<VME_Structure_Esotericism.description>Les forces qui guident ce monde ne sont pas pour les faibles de cœur ni les faibles de volonté. Ce n'est qu'à travers des textes interdits, des pactes obscurs et une initiation appropriée que l'on peut vraiment voir au-delà du voile.</VME_Structure_Esotericism.description>
 <VME_Structure_Esotericism.generalRules.rulesStrings>
 	<li>memeAdjective->obscure</li>
 	<li>memeAdjective->secret</li>
@@ -1862,8 +1862,8 @@
 
 
 
-<VME_Structure_ChthonianCult.label>eldritch cult</VME_Structure_ChthonianCult.label>
-<VME_Structure_ChthonianCult.description>There are ancient entities in this Universe that are more powerful than mere gods. Immensely powerful and utterly indifferent to us humans who can barely begin to comprehend them. Only by worshipping them can we hope to placate their ire.</VME_Structure_ChthonianCult.description>
+<VME_Structure_ChthonianCult.label>culte surnaturel</VME_Structure_ChthonianCult.label>
+<VME_Structure_ChthonianCult.description>Il y a d'anciennes entités dans cet univers qui sont plus puissantes que de simples dieux. Immensément puissants et totalement indifférents à nous, les humains, qui pouvons à peine commencer à les comprendre. Ce n'est qu'en les vénérant que nous pouvons espérer apaiser leur colère.</VME_Structure_ChthonianCult.description>
 <VME_Structure_ChthonianCult.generalRules.rulesStrings>
 	<li>memeAdjective->chthonian</li>
 	<li>memeAdjective->eldritch</li>
@@ -1891,8 +1891,8 @@
 
 
 
-<VME_Structure_Eschatologism.label>eschatologism</VME_Structure_Eschatologism.label>
-<VME_Structure_Eschatologism.description>To be cursed to walk this earth is true torture, and whether by means of cataclysm, famine, or pestilence the departure of ones soul from their mortal coil should be celebrated.</VME_Structure_Eschatologism.description>
+<VME_Structure_Eschatologism.label>eschatologisme</VME_Structure_Eschatologism.label>
+<VME_Structure_Eschatologism.description>Être maudit pour marcher sur cette terre est une véritable torture, et que ce soit au moyen d'un cataclysme, d'une famine ou d'une peste, le départ de son âme de son enveloppe mortelle doit être célébré.</VME_Structure_Eschatologism.description>
 <VME_Structure_Eschatologism.generalRules.rulesStrings>
 	<li>memeAdjective->doomsday</li>
 	<li>memeAdjective->eschatological</li>
@@ -1982,8 +1982,8 @@
 
 
 
-<VME_Structure_Pantheism.label>pantheism</VME_Structure_Pantheism.label>
-<VME_Structure_Pantheism.description>The Universe is God. There is no God but the combined substance, forces, and laws that are manifested in the existing universe.</VME_Structure_Pantheism.description>
+<VME_Structure_Pantheism.label>panthéisme</VME_Structure_Pantheism.label>
+<VME_Structure_Pantheism.description>L'Univers est Dieu. Il n'y a de Dieu que la substance, les forces et les lois combinées qui se manifestent dans l'univers existant.</VME_Structure_Pantheism.description>
 <VME_Structure_Pantheism.generalRules.rulesStrings>
 	<li>memeAdjective->immanent</li>
 	<li>memeAdjective->divine</li>
@@ -2008,8 +2008,8 @@
 
 
 
-<VME_Structure_Omnism.label>omnism</VME_Structure_Omnism.label>
-<VME_Structure_Omnism.description>All creeds and beliefs have both truths and fabrications, a healthy mind will listen carefully and with scrutiny to what tenets say as well as what they choose not to say.</VME_Structure_Omnism.description>
+<VME_Structure_Omnism.label>omnisme</VME_Structure_Omnism.label>
+<VME_Structure_Omnism.description>Toutes les croyances ont à la fois des vérités et des fabrications, un esprit sain écoutera attentivement et avec un examen minutieux ce que les principes disent ainsi que ce qu'ils choisissent de ne pas dire.</VME_Structure_Omnism.description>
 <VME_Structure_Omnism.generalRules.rulesStrings>
 	<li>memeAdjective->universal</li>
 	<li>memeAdjective->reformed</li>
@@ -2059,8 +2059,8 @@
 
 
 
-<VME_Structure_SecularSpirituality.label>secular spirituality</VME_Structure_SecularSpirituality.label>
-<VME_Structure_SecularSpirituality.description>Putting one’s faith in rituals, prayer or powers beyond only delays one’s personal growth. Enlightenment, happiness, and purpose can all be found from within and through any matter one feels is right.</VME_Structure_SecularSpirituality.description>
+<VME_Structure_SecularSpirituality.label>spiritualité laïque</VME_Structure_SecularSpirituality.label>
+<VME_Structure_SecularSpirituality.description>Mettre sa foi dans les rituels, la prière ou les pouvoirs au-delà ne fait que retarder sa croissance personnelle. L'illumination, le bonheur et le but peuvent tous être trouvés de l'intérieur et à travers n'importe quelle matière que l'on sent juste.</VME_Structure_SecularSpirituality.description>
 <VME_Structure_SecularSpirituality.generalRules.rulesStrings>
 	<li>memeAdjective->psychic</li>
 	<li>memeAdjective->intangible</li>
@@ -2082,8 +2082,8 @@
 
 
 
-<VME_Structure_Shintaoism.label>shintaoist origin</VME_Structure_Shintaoism.label>
-<VME_Structure_Shintaoism.description>This ideoligion is a descendant of ancient Shinto and Taoism. It may have very different precepts than those of thousands of years ago, but its symbols are similar.</VME_Structure_Shintaoism.description>
+<VME_Structure_Shintaoism.label>origine shintaoiste</VME_Structure_Shintaoism.label>
+<VME_Structure_Shintaoism.description>Cette idéoligion est une descendante de l'ancien shinto et du taoïsme. Il peut avoir des préceptes très différents de ceux d'il y a des milliers d'années, mais ses symboles sont similaires.</VME_Structure_Shintaoism.description>
 <VME_Structure_Shintaoism.generalRules.rulesStrings>
 	<li>memeAdjective->balanced</li>
 	<li>memeAdjective->natural</li>
@@ -2103,7 +2103,7 @@
 
 
 
-<VME_Structure_Corporate.label>origine corporaliste</VME_Structure_Corporate.label>
+<VME_Structure_Corporate.label>origine corporatiste</VME_Structure_Corporate.label>
 <VME_Structure_Corporate.description>Aucun dieu ou roi ne devrait être adoré, seulement l'homme et son désir inébranlable de richesse. Les colonies doivent être gérées comme des entreprises.</VME_Structure_Corporate.description>
 <VME_Structure_Corporate.generalRules.rulesStrings>
 	<li>memeAdjective->private</li>
@@ -2129,8 +2129,8 @@
 
 
 		<!-- +++++ Memes_Misc_Royalty +++++ -->
-<VME_PsychicFocus.label>psychic focus</VME_PsychicFocus.label>
-<VME_PsychicFocus.description>Mastering the power of the mind is essential to securing one’s place in the universe. Strength of mind can be achieved only through inner peace, and inner peace can only be achieved through meditation.</VME_PsychicFocus.description>
+<VME_PsychicFocus.label>concentration psychique</VME_PsychicFocus.label>
+<VME_PsychicFocus.description>Maîtriser le pouvoir de l'esprit est essentiel pour assurer sa place dans l'univers. La force de l'esprit ne peut être atteinte que par la paix intérieure, et la paix intérieure ne peut être atteinte que par la méditation.</VME_PsychicFocus.description>
 <VME_PsychicFocus.descriptionMaker.rules.rulesStrings>
     <!-- theist myth -->
     <li>creation(tag=meme_PsychicFocus)        ->[deity0_name] gifted humanity with psychic powers so we can follow [deity0_possessive] will.</li>
