@@ -118,8 +118,6 @@
 <VME_Hospital_Required.stages.spacious_hospital.description>We have a very spacious hospital.</VME_Hospital_Required.stages.spacious_hospital.description>
 <VME_Hospital_Required.stages.huge_hospital.label>huge hospital</VME_Hospital_Required.stages.huge_hospital.label>
 <VME_Hospital_Required.stages.huge_hospital.description>We have a huge, professional hospital!</VME_Hospital_Required.stages.huge_hospital.description>
-<VME_Hospital_Required.stages.dirty_hospital.label>hôpital sale</VME_Hospital_Required.stages.dirty_hospital.label>
-<VME_Hospital_Required.stages.dirty_hospital.description>Nous avons un hôpital, mais il est incroyablement sale. Nous ne sommes pas des animaux !</VME_Hospital_Required.stages.dirty_hospital.description>
 
 <VME_Illness_Exalted.stages.sick.label>sick</VME_Illness_Exalted.stages.sick.label>
 <VME_Illness_Exalted.stages.sick.description>A holy virus and the godlike bacteria shall breed in my veins.</VME_Illness_Exalted.stages.sick.description>
