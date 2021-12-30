@@ -110,6 +110,8 @@
 
 <VME_Hospital_Required.stages.need_hospital.label>need hospital</VME_Hospital_Required.stages.need_hospital.label>
 <VME_Hospital_Required.stages.need_hospital.description>We lack a place to help people and should have a dedicated hospital.</VME_Hospital_Required.stages.need_hospital.description>
+<VME_Hospital_Required.stages.dirty_hospital.label>hôpital sale</VME_Hospital_Required.stages.dirty_hospital.label>
+<VME_Hospital_Required.stages.dirty_hospital.description>Nous avons un hôpital, mais il est incroyablement sale. Nous ne sommes pas des animaux !</VME_Hospital_Required.stages.dirty_hospital.description>
 <VME_Hospital_Required.stages.small_hospital.label>small hospital</VME_Hospital_Required.stages.small_hospital.label>
 <VME_Hospital_Required.stages.small_hospital.description>We have a small hospital.</VME_Hospital_Required.stages.small_hospital.description>
 <VME_Hospital_Required.stages.spacious_hospital.label>spacious hospital</VME_Hospital_Required.stages.spacious_hospital.label>
