@@ -2,69 +2,69 @@
 <LanguageData>
 
 		<!-- +++++ Abilities_Commissar +++++ -->
-<VME_EnforceCompliance.label>enforce compliance</VME_EnforceCompliance.label>
-<VME_EnforceCompliance.description>Executes a colonist. Every colonist sharing the Commissars ideoligion receives a positive mood bonus.</VME_EnforceCompliance.description>
+<VME_EnforceCompliance.label>assurer la conformité</VME_EnforceCompliance.label>
+<VME_EnforceCompliance.description>Exécute un colon. Chaque colon partageant l'idéologie des commissaires reçoit un bonus d'humeur positive.</VME_EnforceCompliance.description>
 
 
 		<!-- +++++ Abilities_ExaltedPriesthood +++++ -->
-<VME_LeaderConversionRitual.label>conversion ritual (leader)</VME_LeaderConversionRitual.label>
-<VME_LeaderConversionRitual.description>Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram.</VME_LeaderConversionRitual.description>
+<VME_LeaderConversionRitual.label>rituel de conversion (chef)</VME_LeaderConversionRitual.label>
+<VME_LeaderConversionRitual.description>Essayez de persuader quelqu'un d'adopter vos croyances. Si tout se passe bien, ils perdront une certaine certitude dans leur idéologie et pourront se convertir. Si cela se retourne contre eux, ils gagneront en certitude dans leurs anciennes croyances.\n\nPour commencer ce rituel à un endroit spécifique, sélectionnez un endroit rituel ou un autel/idéogramme correspondant.</VME_LeaderConversionRitual.description>
 
-<VME_LeaderConvert.label>convert (leader)</VME_LeaderConvert.label>
-<VME_LeaderConvert.description>Attempt to convert someone to the speakers ideoligion. This will reduce the targets certainty in their own beliefs. The certainty reduction depends on the speakers negotiation ability.</VME_LeaderConvert.description>
-<VME_LeaderConvert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} failed to convert {RECIPIENT_labelShort}. {RECIPIENT_labelShort} was upset by the attempt, but {RECIPIENT_possessive} certainty fell from {CERTAINTYBEFORE} to {CERTAINTYAFTER}.</VME_LeaderConvert.comps.CompAbilityEffect_Convert.failMessage>
-<VME_LeaderConvert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} has converted {RECIPIENT_labelShort} to {IDEO}.</VME_LeaderConvert.comps.CompAbilityEffect_Convert.successMessage>
+<VME_LeaderConvert.label>convertir (chef)</VME_LeaderConvert.label>
+<VME_LeaderConvert.description>Tente de convertir quelqu'un à l'idéologie des locuteurs. Cela réduira la certitude des cibles dans leurs propres croyances. La réduction de la certitude dépend de la capacité de négociation des locuteurs.</VME_LeaderConvert.description>
+<VME_LeaderConvert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} n'a pas réussi à convertir {RECIPIENT_labelShort}. {RECIPIENT_labelShort} a été contrarié par la tentative, mais sa certitude est passée de {CERTAINTYBEFORE} à {CERTAINTYAFTER}.</VME_LeaderConvert.comps.CompAbilityEffect_Convert.failMessage>
+<VME_LeaderConvert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} a converti {RECIPIENT_labelShort} en {IDEO}.</VME_LeaderConvert.comps.CompAbilityEffect_Convert.successMessage>
 
-<VME_LeaderPreachHealth.label>preach health (leader)</VME_LeaderPreachHealth.label>
-<VME_LeaderPreachHealth.description>Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain.</VME_LeaderPreachHealth.description>
+<VME_LeaderPreachHealth.label>prêche de soin (chef)</VME_LeaderPreachHealth.label>
+<VME_LeaderPreachHealth.description>Prêche la force morale à une personne malade ou blessée à travers les concepts de votre idéologie. Cela améliorera leur taux de cicatrisation et leur immunité.</VME_LeaderPreachHealth.description>
 
-<VME_LeaderReassure.label>reassure (leader)</VME_LeaderReassure.label>
-<VME_LeaderReassure.description>Increase someones certainty in their own beliefs. The regained certainty is based on the speakers negotiation ability.</VME_LeaderReassure.description>
-<VME_LeaderReassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort} has reassured {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} certainty in {IDEO} from {BEFORECERTAINTY} to {AFTERCERTAINTY}.</VME_LeaderReassure.comps.CompAbilityEffect_Reassure.successMessage>
+<VME_LeaderReassure.label>réassurance (chef)</VME_LeaderReassure.label>
+<VME_LeaderReassure.description>Réassure (Augmenter la certitude de quelqu'un dans ses propres croyances. La certitude retrouvée est basée sur la capacité de négociation des locuteurs.</VME_LeaderReassure.description>
+<VME_LeaderReassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort} a rassuré {RECIPIENT_labelShort}, augmentant sa certitude en {IDEO} de {BEFORECERTAINTY} à {AFTERCERTAINTY}.</VME_LeaderReassure.comps.CompAbilityEffect_Reassure.successMessage>
 
-<VME_LeaderCounsel.label>Counsel (leader)</VME_LeaderCounsel.label>
-<VME_LeaderCounsel.description>Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speakers social skills and their relationship with the listener.</VME_LeaderCounsel.description>
-<VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort} botched the attempt to counsel {RECIPIENT_labelShort}. {RECIPIENT_labelShort} has become upset.</VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.failMessage>
-<VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, canceling the mood impact of {2}.</VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessage>
-<VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} mood by {MOODBONUS}.</VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+<VME_LeaderCounsel.label>conseiller (chef)</VME_LeaderCounsel.label>
+<VME_LeaderCounsel.description>Offre un conseil à une personne pour annuler l'effet d'un souvenir triste. Les chances de succès dépendent des compétences sociales des locuteurs et de leur relation avec l'auditeur.</VME_LeaderCounsel.description>
+<VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort} a bâclé la tentative de conseiller {RECIPIENT_labelShort}. {RECIPIENT_labelShort} s'est énervé.</VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.failMessage>
+<VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort} a conseillé avec succès {RECIPIENT_labelShort}, annulant l'impact de {2} sur l'humeur.</VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessage>
+<VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort} a conseillé avec succès {RECIPIENT_labelShort}, augmentant son humeur de {MOODBONUS}.</VME_LeaderCounsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
 
 
 		<!-- +++++ Abilities_FlameKeeper +++++ -->
-<VME_StrengthenFlame.label>strengthen flame</VME_StrengthenFlame.label>
-<VME_StrengthenFlame.description>An ability to ignite flame sources and cause an explosion. Only works on wild fires, not on man-made fire structures.</VME_StrengthenFlame.description>
+<VME_StrengthenFlame.label>allumer un feu</VME_StrengthenFlame.label>
+<VME_StrengthenFlame.description>Enflamme une source inflammables. Ne fonctionne que sur les feux de forêt, pas sur les structures d'incendie artificielles.</VME_StrengthenFlame.description>
 
 
 		<!-- +++++ Abilities_Fleshcrafter +++++ -->
-<VME_HarvestBodyParts.label>harvest body parts</VME_HarvestBodyParts.label>
-<VME_HarvestBodyParts.description>Harvests a fleshcrafted body part from a corpse.</VME_HarvestBodyParts.description>
+<VME_HarvestBodyParts.label>récolter des parties de corps</VME_HarvestBodyParts.label>
+<VME_HarvestBodyParts.description>Récolte une partie de corps en chair sur un cadavre.</VME_HarvestBodyParts.description>
 
 
 		<!-- +++++ Abilities_InsectoidHerder +++++ -->
-<VME_TameInsectoid.label>tame insectoid</VME_TameInsectoid.label>
-<VME_TameInsectoid.description>Targets an insectoid creature and tames it instantly.</VME_TameInsectoid.description>
+<VME_TameInsectoid.label>apprivoiser un insectoïde</VME_TameInsectoid.label>
+<VME_TameInsectoid.description>Cible une créature insectoïde et l'apprivoise instantanément.</VME_TameInsectoid.description>
 
-<VME_ConstructANest.label>construct a nest</VME_ConstructANest.label>
-<VME_ConstructANest.description>Constructs an insectoid nest that produces insect jelly. A sucessful insectoid hymn ritual must be conducted to reduce the cooldown of this ability.</VME_ConstructANest.description>
+<VME_ConstructANest.label>construire un nid</VME_ConstructANest.label>
+<VME_ConstructANest.description>Construit un nid insectoïde qui produit de la gelée d'insectes. Un rituel d'hymne insectoïde réussi doit être mené pour réduire le temps de recharge de cette capacité.</VME_ConstructANest.description>
 
 
 		<!-- +++++ Abilities_Mechacker +++++ -->
-<VME_EnableSelfDestruct.label>enable self-destruct</VME_EnableSelfDestruct.label>
-<VME_EnableSelfDestruct.description>An ability to command a turret or mechanoid to self-destruct. The mechacker can target any turret, even enemy ones, as well as any mechanoid.</VME_EnableSelfDestruct.description>
+<VME_EnableSelfDestruct.label>permettre l'autodestruction</VME_EnableSelfDestruct.label>
+<VME_EnableSelfDestruct.description>Commande à une tourelle ou un mécanoïde de s'autodétruire. Le mechacker peut cibler n'importe quelle tourelle, même ennemie, ainsi que n'importe quel mécanoïde.</VME_EnableSelfDestruct.description>
 
 
 		<!-- +++++ Abilities_Nurse +++++ -->
-<VME_MedicalEmergency.label>urgence médicaley</VME_MedicalEmergency.label>
+<VME_MedicalEmergency.label>urgence médicale</VME_MedicalEmergency.label>
 <VME_MedicalEmergency.description>Annule le besoin de repos, de faim et de divertissement de l'infirmière pendant 12 heures. Pendant ce temps, l'infirmière ne peut faire que les tâches de docteur correctement.</VME_MedicalEmergency.description>
 
 
 		<!-- +++++ Abilities_PartyHost +++++ -->
 <VME_ThrowParty.label>organiser une fête</VME_ThrowParty.label>
-<VME_ThrowParty.description>Organisez une fête.</VME_ThrowParty.description>
+<VME_ThrowParty.description>Organise une fête.</VME_ThrowParty.description>
 
 
 		<!-- +++++ Abilities_Trader +++++ -->
 <VME_CallTradeCaravan.label>appeler une caravane commerciale</VME_CallTradeCaravan.label>
-<VME_CallTradeCaravan.description>Appelez une caravane commerciale.</VME_CallTradeCaravan.description>
+<VME_CallTradeCaravan.description>Appele une caravane commerciale.</VME_CallTradeCaravan.description>
 
 
 </LanguageData>
