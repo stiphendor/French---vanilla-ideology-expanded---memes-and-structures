@@ -4,9 +4,9 @@
 <VME_Hospital_Required.label>requis</VME_Hospital_Required.label>
 <VME_Hospital_Required.description>Un lieu de refuge et de guérison est essentiel pour la santé à long terme de notre communauté. Il est important de s'assurer que nous avons des lits ouverts et beaucoup de médicaments si le pire devait arriver.\n\n&lt;color=#E5E54C&gt;Effet sur le gameplay:&lt;/color&gt;\n - Les colons reçoivent des pénalités / bonus d'humeur en fonction de la taille des chambres d'hôpital trouvées sur la carte. Seules les chambres d'hôpital dont l'impression est « décente » ou supérieure compteront pour ce calcul.</VME_Hospital_Required.description>
 <VME_Hospital_Required.comps.0.thoughtStageDescriptions.0>Besoin d'un hôpital</VME_Hospital_Required.comps.0.thoughtStageDescriptions.0>
-<VME_Hospital_Required.comps.0.thoughtStageDescriptions.1>Petit hôpital (moins de 25 cases)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.1>
-<VME_Hospital_Required.comps.0.thoughtStageDescriptions.2>Grand hôpital (moins de 50 cases)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.2>
-<VME_Hospital_Required.comps.0.thoughtStageDescriptions.3>Immense hôpital (plus de 50 cases)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.3>
+<VME_Hospital_Required.comps.0.thoughtStageDescriptions.1>Hôpital sale</VME_Hospital_Required.comps.0.thoughtStageDescriptions.1>
+<VME_Hospital_Required.comps.0.thoughtStageDescriptions.2>Petit hôpital (moins de 25 cases)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.2>
+<VME_Hospital_Required.comps.0.thoughtStageDescriptions.3>Grand hôpital (moins de 50 cases)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.3>
 <VME_Hospital_Required.comps.0.thoughtStageDescriptions.4>Immense hôpital (plus de 50 cases)</VME_Hospital_Required.comps.0.thoughtStageDescriptions.4>
 
 
