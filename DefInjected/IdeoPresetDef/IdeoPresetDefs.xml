@@ -2,61 +2,61 @@
 <LanguageData>
 
 <VME_Human_Hive.label>ruche humaine</VME_Human_Hive.label>
-<VME_Human_Hive.description>Like clockwork, the lives of our fellow believers are ever intertwined. What causes one of us suffering causes all of us suffering and what brings us higher brings all of us higher. Together, we are one and we are strong.</VME_Human_Hive.description>
+<VME_Human_Hive.description>Comme un mouvement d'hologerie, les vies de nos compagnons croyants sont toujours entrelacées. Ce qui fait souffrir l'un de nous fait souffrir chacun de nous et ce qui nous amène plus haut nous amène tous plus haut. Ensemble, nous ne faisons qu'un et nous sommes forts.</VME_Human_Hive.description>
 
 <VME_Egalitarian_Republic.label>république égalitaire</VME_Egalitarian_Republic.label>
-<VME_Egalitarian_Republic.description>Democracy, freedom, and equality. It’s nothing short of appalling that we should think any of these to be revocable privileges rather than basic rights. Peoples creeds, cultures, and character all deserve respect and representation.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Agnosticism.</VME_Egalitarian_Republic.description>
+<VME_Egalitarian_Republic.description>Démocratie, liberté et égalité. Il est tout simplement épouvantable de penser que l'un d'entre eux est un privilège révocable plutôt que des droits fondamentaux. Les croyances, les cultures et le caractère des peuples méritent tous respect et représentation.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Agnosticisme.</VME_Egalitarian_Republic.description>
 
 <VME_Exalted_Gerontocracy.label>gérontocratie exaltée</VME_Exalted_Gerontocracy.label>
-<VME_Exalted_Gerontocracy.description>Our heavenly clergy will guide us well, age is more than just the gaining of wisdom or wrinkle. With each passing year our elders become closer to god.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Any monotheistic.</VME_Exalted_Gerontocracy.description>
+<VME_Exalted_Gerontocracy.description>Notre clergé céleste nous guidera, l'âge est plus qu'un simple gain de sagesse ou de ride. Avec chaque année qui passe, nos aînés se rapprochent de Dieu.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Tout monothéiste.</VME_Exalted_Gerontocracy.description>
 
 <VME_Factory_Drones.label>usine de drônes</VME_Factory_Drones.label>
-<VME_Factory_Drones.description>Work and cooperation breeds strength. We’ll sweat and bleed alike together, as a community, to reach an agreeable standard of living for all of us.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Authoritarian.</VME_Factory_Drones.description>
+<VME_Factory_Drones.description>Le travail et la coopération engendrent la force. Nous allons transpirer et saigner ensemble, en tant que communauté, pour atteindre un niveau de vie agréable pour nous tous.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Autoritaire.</VME_Factory_Drones.description>
 
-<VME_Corporate_Overlords.label>corporate overlords</VME_Corporate_Overlords.label>
-<VME_Corporate_Overlords.description>Whether were led by a board of directors or our savvy CEO we face the reality that money makes the Rimworld go>round. By automating as much as we can and keeping a lean staff we can maximize our return quadrum over quadrum.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Corporate.</VME_Corporate_Overlords.description>
+<VME_Corporate_Overlords.label>suzerain corporate</VME_Corporate_Overlords.label>
+<VME_Corporate_Overlords.description>Qu'ils soient dirigés par un conseil d'administration ou par notre PDG avisé, nous sommes confrontés à la réalité que l'argent fait tourner le Rimworld. En automatisant autant que possible et en gardant un personnel réduit, nous pouvons maximiser notre rendement quadrum sur quadrum.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Corporate.</VME_Corporate_Overlords.description>
 
-<VME_GodKing_Radicals.label>god-king radicals</VME_GodKing_Radicals.label>
-<VME_GodKing_Radicals.description>The steel fist of our King or Queen should never come into question, they shall want for nothing. If those who oppose us dont bend the knee we shall feed their legs to the hounds.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Cult of Personality.</VME_GodKing_Radicals.description>
+<VME_GodKing_Radicals.label>dieu-roi radical</VME_GodKing_Radicals.label>
+<VME_GodKing_Radicals.description>Le poing d'acier de notre roi ou reine ne devrait jamais être remis en question, ils ne manqueront de rien. Si ceux qui s'opposent à nous ne se mettent pas à genoux, nous donnerons leurs jambes aux chiens.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Culte de la personnalité.</VME_GodKing_Radicals.description>
 
 <VME_Cosmic_Cultists.label>culte cosmique</VME_Cosmic_Cultists.label>
-<VME_Cosmic_Cultists.description>The stars above sing to us, and we respond in kind. May their everlasting glow illuminate the threads of our fate which rest so wearily upon a most capricious spindle. Bathe oneself in the hallowed moonlight and let astral workings of the architects of fate guide you.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Esotericism.</VME_Cosmic_Cultists.description>
+<VME_Cosmic_Cultists.description>Les étoiles au-dessus nous chantent et nous répondons de la même manière. Que leur éternelle lueur éclaire les fils de notre destin qui reposent si péniblement sur un fuseau des plus capricieux. Plongez-vous dans le clair de lune sacré et laissez-vous guider par le fonctionnement astral des architectes du destin.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - ésotérisme.</VME_Cosmic_Cultists.description>
 
-<VME_Flame_Seers.label>flame seers</VME_Flame_Seers.label>
-<VME_Flame_Seers.description>In the beginning - There was flame, and from flame, came warmth, and from warmth, came life. Blessed are we to be enraptured in the gross incandescence of the sun above.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Any.</VME_Flame_Seers.description>
+<VME_Flame_Seers.label>voyants de flammes</VME_Flame_Seers.label>
+<VME_Flame_Seers.description>Au commencement - Il y avait la flamme, et de la flamme, est venue la chaleur, et de la chaleur, est venue la vie. Bénis soyons-nous envoûtés par l'incandescence grossière du soleil d'en haut.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - N'importe laquelle.</VME_Flame_Seers.description>
 
-<VME_Dwarven_Artificers.label>dwarven artificers</VME_Dwarven_Artificers.label>
-<VME_Dwarven_Artificers.description>No day is better spent than a day in a hot forge. With our hammers we will echo the roar of flame and the ringing of steel through our mountain halls. Should we put in ample work, our Forgefathers will reward us with a supper fungus in excess so that we may fuel our bodies, just as we fuel our kilns.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Ideological.</VME_Dwarven_Artificers.description>
+<VME_Dwarven_Artificers.label>artificiers nains</VME_Dwarven_Artificers.label>
+<VME_Dwarven_Artificers.description>Aucune journée n'est mieux passée qu'une journée dans une forge chaude. Avec nos marteaux, nous ferons écho au rugissement des flammes et au tintement de l'acier à travers nos salles de montagne. Si nous mettons beaucoup de travail, nos Pères de la Forge nous récompenseront avec un champignon de souper en excès afin que nous puissions alimenter notre corps, tout comme nous alimentons nos fours.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Idéologique.</VME_Dwarven_Artificers.description>
 
-<VME_Nordic_Matriarchy.label>nordic matriarchy</VME_Nordic_Matriarchy.label>
-<VME_Nordic_Matriarchy.description>It is by the flurry of snow and crashing of waves we lead our people to the afterlife. Die an honorable death or answer to our shield-maiden.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Pantheism.</VME_Nordic_Matriarchy.description>
+<VME_Nordic_Matriarchy.label>matriarcat nordique</VME_Nordic_Matriarchy.label>
+<VME_Nordic_Matriarchy.description>C'est par le tourbillon de neige et le fracas des vagues que nous menons notre peuple vers l'au-delà. Mourir d'une mort honorable ou répondre à notre vierge bouclier.\n\n&lt;color=#E5E54C&gt;Structure recommandée::&lt;/color&gt;\n - Panthéisme.</VME_Nordic_Matriarchy.description>
 
 <VME_Steamworld_Neerdowells.label>steamworld neer-do-wells</VME_Steamworld_Neerdowells.label>
-<VME_Steamworld_Neerdowells.description>From saloon to stable were honest muffalopokes and live by one simple rule. ‘You dont get to live a bad life and have good things happen to you’. ‘Course, not all of us seem too convinced... Just don’t let the long arm of the law catch up y’all, ya’ hear?\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Christian Origin.</VME_Steamworld_Neerdowells.description>
+<VME_Steamworld_Neerdowells.description>Du saloon à l'écurie étaient des muffalopokes honnêtes et vivaient selon une règle simple. « Vous ne pouvez pas vivre une mauvaise vie et que de bonnes choses vous arrivent ». « Bien sûr, nous ne semblons pas tous trop convaincus … Ne laissez pas le bras long de la loi vous rattraper, vous entendez ?\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Origine Chrétienne.</VME_Steamworld_Neerdowells.description>
 
-<VME_Medieval_Monarchists.label>monarchie médievale</VME_Medieval_Monarchists.label>
-<VME_Medieval_Monarchists.description>Our sires and grandsires all followed the foresight and guidance of our King, long may he reign, and we shall do no different. Should another kingdom find it preferable to resort to bow and blade, we have no hesitation in making them our serfs.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Cult of Personality.</VME_Medieval_Monarchists.description>
+<VME_Medieval_Monarchists.label>monarchie médiévale</VME_Medieval_Monarchists.label>
+<VME_Medieval_Monarchists.description>Nos pères et grands-pères ont tous suivi la prévoyance et les conseils de notre roi, qu'il règne longtemps, et nous ne ferons pas autrement. Si un autre royaume jugeait préférable de recourir à l'arc et à la lame, nous n'hésitons pas à en faire nos serfs.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Culte de la personnalité.</VME_Medieval_Monarchists.description>
 
 <VME_Pleasure_Extremists.label>plaisirs extrémistes</VME_Pleasure_Extremists.label>
-<VME_Pleasure_Extremists.description>Never shall our muscles ache with pain nor shall our hearts swell with sadness. We should embrace all pleasures, even forbidden carnal desires such as luxurious meat or risqué lusting should all be explored.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Hedonism.</VME_Pleasure_Extremists.description>
+<VME_Pleasure_Extremists.description>Jamais nos muscles ne souffriront de douleur ni nos cœurs ne se gonfleront de tristesse. Nous devrions embrasser tous les plaisirs, même les désirs charnels interdits tels que la viande luxueuse ou la convoitise risquée devraient tous être explorés.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Hédonisme.</VME_Pleasure_Extremists.description>
 
-<VME_Eastern_Revivalists.label>eastern revivalists</VME_Eastern_Revivalists.label>
-<VME_Eastern_Revivalists.description>We are born without sin and should do our best to remain upon the path of many virtues. Respect the wisdom of the wind and those who have lived many summers to feel it caress their faces. Beyond all else, keep your blade near and combat prowess honed should those you once called brothers turn against you.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Shintao.</VME_Eastern_Revivalists.description>
+<VME_Eastern_Revivalists.label>revivalistes orientaux</VME_Eastern_Revivalists.label>
+<VME_Eastern_Revivalists.description>Nous sommes nés sans péché et devons faire de notre mieux pour rester sur le chemin de nombreuses vertus. Respectez la sagesse du vent et ceux qui ont vécu de nombreux étés à le sentir caresser leurs visages. Au-delà de tout, gardez votre lame à portée de main et perfectionnez vos prouesses au combat si ceux que vous appeliez autrefois des frères se retournent contre vous.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Shintao.</VME_Eastern_Revivalists.description>
 
 <VME_Primitivistic_Nomads.label>nomades primitifs</VME_Primitivistic_Nomads.label>
-<VME_Primitivistic_Nomads.description>For eons have our people wandered this world with little more than steed and saddle, traveling the roads less traveled with only the stars to guide them. From the frigid winter mutes to the teeming jungle canopies, we seek the same answers our ancestors once did.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Animism.</VME_Primitivistic_Nomads.description>
+<VME_Primitivistic_Nomads.description>Pendant des éons, notre peuple a erré dans ce monde avec à peine plus que des chevaux et une selle, parcourant les routes les moins fréquentées avec seulement les étoiles pour les guider. Des muets glacials de l'hiver aux canopées grouillantes de la jungle, nous cherchons les mêmes réponses que nos ancêtres.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Animisme.</VME_Primitivistic_Nomads.description>
 
-<VME_Pestilent_Doomsayers.label>pestilent doomsayers</VME_Pestilent_Doomsayers.label>
-<VME_Pestilent_Doomsayers.description>The body is a vessel for experimentation and mutation alike. Should one deligitantly push their flesh to its limits they shall be rewarded by the plague god with a most joyous farewell from this doomed world.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Eschatologism.</VME_Pestilent_Doomsayers.description>
+<VME_Pestilent_Doomsayers.label>prophètes pestilentiels</VME_Pestilent_Doomsayers.label>
+<VME_Pestilent_Doomsayers.description>Le corps est à la fois un vaisseau d'expérimentation et de mutation. Si quelqu'un pousse sa chair avec délectation jusqu'à ses limites, il sera récompensé par le dieu de la peste avec un adieu des plus joyeux de ce monde condamné.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Eschatologisme.</VME_Pestilent_Doomsayers.description>
 
-<VME_Insectoid_Psykers.label>insectoid psykers</VME_Insectoid_Psykers.label>
-<VME_Insectoid_Psykers.description>Insects, while seen by most as vermin, are truthfully the most synchronized and organized society found in all of nature; only the truly blind would view them as below us. We can’t begin to unravel the boundless goals of the Insectoid Queen and her hives. We should seek to mimic them, so that we can further understand their ways.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Serketism.</VME_Insectoid_Psykers.description>
+<VME_Insectoid_Psykers.label>psykers insectoïdes</VME_Insectoid_Psykers.label>
+<VME_Insectoid_Psykers.description>Les insectes, bien que considérés par la plupart comme de la vermine, sont véritablement la société la plus synchronisée et organisée que l'on trouve dans toute la nature ; seuls les vrais aveugles les considéreraient comme au-dessous de nous. Nous ne pouvons pas commencer à démêler les objectifs illimités de la reine insectoïde et de ses ruches. Nous devrions chercher à les imiter, afin que nous puissions mieux comprendre leurs manières.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Serketisme.</VME_Insectoid_Psykers.description>
 
-<VME_Mechanoid_Technocrat.label>mechanoid technocrat</VME_Mechanoid_Technocrat.label>
-<VME_Mechanoid_Technocrat.description>To think a creature capable of infinite stamina and free from the burdens of free thought is meant to serve mankind is beyond foolish. We can’t begin to unravel the boundless goals of the machine consciousness. We should seek to mimic them so that we can further placate their hostility.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Omnism.</VME_Mechanoid_Technocrat.description>
+<VME_Mechanoid_Technocrat.label>mécanoïde technocrate</VME_Mechanoid_Technocrat.label>
+<VME_Mechanoid_Technocrat.description>Penser qu'une créature capable d'une endurance infinie et libérée des fardeaux de la libre pensée est destinée à servir l'humanité est plus que stupide. Nous ne pouvons pas commencer à démêler les objectifs illimités de la conscience de la machine. Nous devrions chercher à les imiter afin de pouvoir apaiser davantage leur hostilité.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Omnisme.</VME_Mechanoid_Technocrat.description>
 
 <VME_Ecological_Fascists.label>fascistes écologistes</VME_Ecological_Fascists.label>
-<VME_Ecological_Fascists.description>Spare absolutely no one who dares to pollute or otherwise taint mother natures soil with their pathetic existence. May our frail bodies give way to nourish the trees that loom over us. Respect the planet we walk or perish at the behest of our Seedseer.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Authoritarian.</VME_Ecological_Fascists.description>
+<VME_Ecological_Fascists.description>N'épargnez absolument personne qui ose polluer ou entacher de quelque manière que ce soit le sol de mère nature avec son existence pathétique. Que nos corps frêles cèdent la place pour nourrir les arbres qui nous menacent. Respectez la planète sur laquelle nous marchons ou périssons à la demande de notre chercheur de graines.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Autoritaire.</VME_Ecological_Fascists.description>
 
 
 </LanguageData>
