@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_PermanentBases_Despised.label>despised</VME_PermanentBases_Despised.label>
-<VME_PermanentBases_Despised.description>Our colony is only temporary, should we stay it will only be a matter of time before we are unable to defend it, it is better to never gain such comfort.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Farming yield: -10%.\n - Gathering yield: +40%.</VME_PermanentBases_Despised.description>
-<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.0>Wanderlust (15 days)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.0>
-<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.1>Wanderlust (16 days)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.1>
-<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.2>Wanderlust (17 days)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.2>
-<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.3>Wanderlust (20 days)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.3>
-<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.4>Wanderlust (30 days)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.4>
-<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.5>Wanderlust (40 days)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.5>
-<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.6>Wanderlust (50 days)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.6>
-<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.7>Wanderlust (60 days)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.7>
+<VME_PermanentBases_Despised.label>méprisées</VME_PermanentBases_Despised.label>
+<VME_PermanentBases_Despised.description>Notre colonie n'est que temporaire, si nous restons ce ne sera qu'une question de temps avant que nous ne soyons incapables de la défendre, il vaut mieux ne jamais gagner un tel confort.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Rendement agricole: -10%.\n - Rendement de récolte: +40%.</VME_PermanentBases_Despised.description>
+<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.0>Esprit d'aventure (15 jours)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.0>
+<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.1>Esprit d'aventure (16 jours)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.1>
+<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.2>Esprit d'aventure (17 jours)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.2>
+<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.3>Esprit d'aventure (20 jours)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.3>
+<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.4>Esprit d'aventure (30 jours)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.4>
+<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.5>Esprit d'aventure (40 jours)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.5>
+<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.6>Esprit d'aventure (50 jours)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.6>
+<VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.7>Esprit d'aventure (60 jours)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.7>
 
-<VME_PermanentBases_Desired.label>desired</VME_PermanentBases_Desired.label>
-<VME_PermanentBases_Desired.description>Our colony should become our forever home, the more buildings, paths, and lights we can erect the better off we’ll all be.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Colonists gets mood penalties / bonuses depending on amount of buildings on the map. "Building" is a completely enclosed structure with at least 25 tiles size.</VME_PermanentBases_Desired.description>
-<VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.0>Magnificent city (more than 20 buildings)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.0>
-<VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.1>Lots of beautiful buildings (less than 20 buildings)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.1>
-<VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.2>Many beautiful buildings (less than 15 buildings)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.2>
-<VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.3>Burgeoning city (less than 10 buildings)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.3>
-<VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.4>Not enough buildings (less than 5 buildings)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.4>
+<VME_PermanentBases_Desired.label>désirées</VME_PermanentBases_Desired.label>
+<VME_PermanentBases_Desired.description>Notre colonie devrait devenir notre maison pour toujours, plus nous pourrons ériger de bâtiments, de chemins et de lumières, mieux nous nous porterons tous.\n\n&lt;color=#E5E54C&gt;Effet sur le gameplay:&lt;/color&gt;\n - Les colons reçoivent des pénalités / bonus d'humeur en fonction du nombre de bâtiments sur la carte. Le « bâtiment » est une structure complètement fermée avec d'au moins 25 cases.</VME_PermanentBases_Desired.description>
+<VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.0>Ville magnifique (plus de 20 bâtiments)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.0>
+<VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.1>Beaucoup de beaux bâtiments (moins de 20 bâtiments)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.1>
+<VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.2>De beaux bâtiments (moins de 15 bâtiments)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.2>
+<VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.3>Ville en plein essor (moins de 10 bâtiments)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.3>
+<VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.4>Pas assez de bâtiments (moins de 5 bâtiments)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.4>
 
 
 </LanguageData>
