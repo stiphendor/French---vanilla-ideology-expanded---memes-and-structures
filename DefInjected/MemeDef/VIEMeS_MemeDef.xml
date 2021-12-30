@@ -1041,15 +1041,11 @@
 	<li>alienistProphecy(tag=meme_Pacifist)->These wayward creatures are innocent beings. We are not killers, and perhaps we'd better leave them alone.</li>
 </VME_Pacifist.descriptionMaker.rules.rulesStrings>
 <VME_Pacifist.generalRules.rulesStrings>
-	<li>VME_TooViolent</li>
-	<li>VME_PacifistsNotViolentConverters</li>
-	<li>VME_TooHonourable</li>
-	<li>VME_NotRaiders</li>
-	<li>VME_SadistVsNonviolence</li>
-	<li>VME_PacifistsVsDefilers</li>
-	<li>VME_PacifistsVsSupremacist</li>
-	<li>VME_NationalistVsPacifist</li>
-	<li>VME_EldritchVsPacifist</li>
+	<li>memeAdjective->pacifist</li>
+	<li>memeAdjective->peace-monger</li>
+	<li>memeAdjective->appeasing</li>
+	<li>memeLeaderNoun->peacemaker</li>
+	<li>memeConcept->peace</li>
 </VME_Pacifist.generalRules.rulesStrings>
 <VME_Pacifist.symbolPacks.0.adjective>pacifist</VME_Pacifist.symbolPacks.0.adjective>
 <VME_Pacifist.symbolPacks.0.ideoName>Pacifism</VME_Pacifist.symbolPacks.0.ideoName>
