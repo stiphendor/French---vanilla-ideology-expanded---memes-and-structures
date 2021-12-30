@@ -1,31 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_Junk_Beautiful.label>beautiful</VME_Junk_Beautiful.label>
-<VME_Junk_Beautiful.description>The machinations of old are breath-taking, and their weathering should be viewed as art. It's wonderful to live surrounded by things discarded by others.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Ancient junk buildings can be uninstalled and placed again as needed.\n - Colonists get mood penalties / bonuses depending on amount of ancient junk buildings in a 20 tiles radius around them. Effect checks approximately once every 5 hours.</VME_Junk_Beautiful.description>
-<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.0>No junk</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.0>
-<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.1>Few pieces of ancient junk (1 nearby)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.1>
-<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.2>Few pieces of ancient junk (2 nearby)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.2>
-<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.3>Few pieces of ancient junk (3 nearby)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.3>
-<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.4>Few pieces of ancient junk (4 nearby)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.4>
-<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.5>very little junk (5 nearby)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.5>
-<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.6>Small junk</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.6>
-<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.7>Saw junk</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.7>
-<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.8>Amazing junk</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.8>
-<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.9>Beautiful junk</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.9>
+<VME_Junk_Beautiful.label>beaux</VME_Junk_Beautiful.label>
+<VME_Junk_Beautiful.description>Les machines d'autrefois sont à couper le souffle et leur altération doit être considérée comme de l'art. C'est merveilleux de vivre entouré de choses rejetées par les autres.\n\n&lt;color=#E5E54C&gt;Effet sur le gameplay:&lt;/color&gt;\n - Les anciens bâtiments indésirables peuvent être désinstallés et placés à nouveau si nécessaire.\n - Les colons reçoivent des pénalités/bonus d'humeur en fonction de la quantité d'anciens bâtiments indésirables dans un rayon de 20 cases autour d'eux. Contrôles d'effet environ une fois toutes les 5 heures.</VME_Junk_Beautiful.description>
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.0>Pas d'ordures</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.0>
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.1>Quelques morceaux de ferraille ancienne (1 à proximité)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.1>
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.2>Quelques morceaux de ferraille ancienne (2 à proximité)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.2>
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.3>Quelques morceaux de ferraille ancienne (3 à proximité)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.3>
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.4>Quelques morceaux de ferraille ancienne (4 à proximité)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.4>
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.5>Très peu d'ordures (5 à proximité)</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.5>
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.6>Peu d'ordures</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.6>
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.7>Présence d'ordures</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.7>
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.8>Belles ordures</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.8>
+<VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.9>Superbes ordures</VME_Junk_Beautiful.comps.0.thoughtStageDescriptions.9>
 
-<VME_Junk_Preferred.label>preferred</VME_Junk_Preferred.label>
-<VME_Junk_Preferred.description>Ancient junk reminds us of the tribulations of our forefathers, subject to the eternal struggle of humanity among the stars. We can learn a great deal from studying this discarded tech.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Ancient junk buildings can be uninstalled and placed again as needed.\n - Colonists get moderate mood penalties / bonuses depending on amount of ancient junk buildings in a 20 tiles radius around them. Effect checks approximately once every 5 hours.</VME_Junk_Preferred.description>
+<VME_Junk_Preferred.label>préférés</VME_Junk_Preferred.label>
+<VME_Junk_Preferred.description>Les anciens déchets nous rappellent les tribulations de nos ancêtres, soumis à la lutte éternelle de l'humanité parmi les étoiles. Nous pouvons apprendre beaucoup de l'étude de cette technologie abandonnée.\n\n&lt;color=#E5E54C&gt;Effet sur le gameplay:&lt;/color&gt;\n - Les anciens bâtiments indésirables peuvent être désinstallés et placés à nouveau si nécessaire.\n - Les colons reçoivent des pénalités/bonus d'humeur en fonction de la quantité d'anciens bâtiments indésirables dans un rayon de 20 cases autour d'eux. Contrôles d'effet environ une fois toutes les 5 heures.</VME_Junk_Preferred.description>
 <VME_Junk_Preferred.comps.0.thoughtStageDescriptions.0>No junk</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.0>
-<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.1>Few pieces of ancient junk (1 nearby)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.1>
-<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.2>Few pieces of ancient junk (2 nearby)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.2>
-<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.3>Few pieces of ancient junk (3 nearby)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.3>
-<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.4>Few pieces of ancient junk (4 nearby)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.4>
-<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.5>very little junk (5 nearby)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.5>
-<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.6>Small junk</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.6>
-<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.7>Saw junk</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.7>
-<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.8>Plenty of junk</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.8>
-<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.9>Lots of junk</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.9>
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.1>Quelques morceaux de ferraille ancienne (1 à proximité)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.1>
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.2>Quelques morceaux de ferraille ancienne (2 à proximité)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.2>
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.3>Quelques morceaux de ferraille ancienne (3 à proximité)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.3>
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.4>Quelques morceaux de ferraille ancienne (4 à proximité)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.4>
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.5>Très peu d'ordures (5 à proximité)</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.5>
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.6>Peu d'ordures</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.6>
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.7>Présence d'ordures</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.7>
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.8>Beaucoup d'ordures</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.8>
+<VME_Junk_Preferred.comps.0.thoughtStageDescriptions.9>Une tonne d'ordures</VME_Junk_Preferred.comps.0.thoughtStageDescriptions.9>
 
 
 </LanguageData>
