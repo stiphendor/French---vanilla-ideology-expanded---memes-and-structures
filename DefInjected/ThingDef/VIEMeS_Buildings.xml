@@ -1,221 +1,221 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 		<!-- +++++ Buildings_Ancient_Indoors +++++ -->
-<VME_AncientSystemRack.label>ancient system rack</VME_AncientSystemRack.label>
-<VME_AncientSystemRack.description>An ancient rack unit packed with unidentifiable devices. Valuable parts are missing, and everything else is degraded to uselessness.</VME_AncientSystemRack.description>
+<VME_AncientSystemRack.label>ancien système de rack</VME_AncientSystemRack.label>
+<VME_AncientSystemRack.description>Un vieux rack rempli d'appareils non identifiables. Des pièces précieuses manquent, et tout le reste est détérioré et inutile.</VME_AncientSystemRack.description>
 
-<VME_AncientEquipmentBlocks.label>ancient equipment blocks</VME_AncientEquipmentBlocks.label>
-<VME_AncientEquipmentBlocks.description>A collection of ancient equipment blocks of unknown function. Valuable parts are missing, and everything else is degraded to uselessness.</VME_AncientEquipmentBlocks.description>
+<VME_AncientEquipmentBlocks.label>ancien bloc d'équipement</VME_AncientEquipmentBlocks.label>
+<VME_AncientEquipmentBlocks.description>Une collection d'anciens blocs d'équipement dont la fonction est inconnue. Des pièces précieuses manquent, et tout le reste est dégradé et inutile.</VME_AncientEquipmentBlocks.description>
 
-<VME_AncientMachine.label>ancient machine</VME_AncientMachine.label>
-<VME_AncientMachine.description>A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness.</VME_AncientMachine.description>
+<VME_AncientMachine.label>ancienne machine</VME_AncientMachine.label>
+<VME_AncientMachine.description>Une grosse caisse de machine ancienne remplie de machines inconnues. Des pièces précieuses manquent, et tout le reste est dégradé et inutile.</VME_AncientMachine.description>
 
-<VME_AncientStorageCylinder.label>ancient storage cylinder</VME_AncientStorageCylinder.label>
-<VME_AncientStorageCylinder.description>An ancient device that looks like it once stored some kind of fluid. Valuable parts are missing, and everything else is degraded to uselessness.</VME_AncientStorageCylinder.description>
+<VME_AncientStorageCylinder.label>ancien cylindre de stockage</VME_AncientStorageCylinder.label>
+<VME_AncientStorageCylinder.description>Un appareil ancien qui semble avoir stocké une sorte de fluide. Des pièces précieuses manquent, et tout le reste est dégradé et inutile.</VME_AncientStorageCylinder.description>
 
-<VME_AncientLamp.label>ancient lamp</VME_AncientLamp.label>
-<VME_AncientLamp.description>An ancient self-powered lamp. Its internal power supply is badly depleted, but it still emits a weak glow.</VME_AncientLamp.description>
+<VME_AncientLamp.label>ancienne lampe</VME_AncientLamp.label>
+<VME_AncientLamp.description>Une ancienne lampe auto-alimentée. Son alimentation interne est épuisée, mais elle émet encore une faible lueur.</VME_AncientLamp.description>
 
-<VME_AncientBed.label>ancient bed</VME_AncientBed.label>
-<VME_AncientBed.description>An old, rotted mattress on a rusty frame. Though uncomfortable, it can still be used, but its too dilapidated to restore.</VME_AncientBed.description>
+<VME_AncientBed.label>ancien lit</VME_AncientBed.label>
+<VME_AncientBed.description>Un vieux matelas pourri sur un cadre rouillé. Bien qu'inconfortable, il peut encore être utilisé, mais il est trop délabré pour être réparé.</VME_AncientBed.description>
 
-<VME_AncientDisplayBank.label>ancient display bank</VME_AncientDisplayBank.label>
-<VME_AncientDisplayBank.description>An ancient computer interface. Valuable parts are missing, and everything else is degraded to uselessness.</VME_AncientDisplayBank.description>
+<VME_AncientDisplayBank.label>ancienne banque d'affichage</VME_AncientDisplayBank.label>
+<VME_AncientDisplayBank.description>Une ancienne interface d'ordinateur. Des pièces précieuses manquent, et tout le reste est dégradé et inutile.</VME_AncientDisplayBank.description>
 
-<VME_AncientLockerBank.label>ancient locker bank</VME_AncientLockerBank.label>
-<VME_AncientLockerBank.description>An ancient, rusted bank of lockers. All of the lockers have been forced open with nothing valuable left behind.</VME_AncientLockerBank.description>
+<VME_AncientLockerBank.label>ancien ensemble de casiers</VME_AncientLockerBank.label>
+<VME_AncientLockerBank.description>Un ancien ensemble de casiers rouillés. Tous les casiers ont été forcés et rien de valeur n'a été laissé sur place.</VME_AncientLockerBank.description>
 
-<VME_AncientCrate.label>ancient crate</VME_AncientCrate.label>
-<VME_AncientCrate.description>An ancient, broken crate. Any valuables it once contained have degraded to uselessness.</VME_AncientCrate.description>
+<VME_AncientCrate.label>ancienne caisse</VME_AncientCrate.label>
+<VME_AncientCrate.description>Une vieille caisse cassée. Les objets de valeur qu'elle contenait sont devenus inutiles.</VME_AncientCrate.description>
 
-<VME_AncientMilitaryCrate.label>ancient military crate</VME_AncientMilitaryCrate.label>
-<VME_AncientMilitaryCrate.description>An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted.</VME_AncientMilitaryCrate.description>
+<VME_AncientMilitaryCrate.label>ancienne caisse militaire</VME_AncientMilitaryCrate.label>
+<VME_AncientMilitaryCrate.description>Une ancienne caisse d'aspect militaire. Elle a été cassée il y a longtemps et tous les objets de valeur qu'elle contenait ont été pillés.</VME_AncientMilitaryCrate.description>
 
-<VME_AncientSpacerCrate.label>ancient spacer crate</VME_AncientSpacerCrate.label>
-<VME_AncientSpacerCrate.description>An ancient, broken crate. Any valuables it once contained were taken long ago.</VME_AncientSpacerCrate.description>
+<VME_AncientSpacerCrate.label>ancienne caisse spatiale</VME_AncientSpacerCrate.label>
+<VME_AncientSpacerCrate.description>Une vieille caisse cassée. Les objets de valeur qu'elle contenait ont été pris il y a longtemps.</VME_AncientSpacerCrate.description>
 
-<VME_AncientBarrel.label>ancient barrel</VME_AncientBarrel.label>
-<VME_AncientBarrel.description>An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge.</VME_AncientBarrel.description>
+<VME_AncientBarrel.label>ancien baril</VME_AncientBarrel.label>
+<VME_AncientBarrel.description>Un vieux tonneau cassé qui semble avoir contenu des déchets. La seule chose qu'il contient maintenant est une tache de boue séchée.</VME_AncientBarrel.description>
 
-<VME_AncientGenerator.label>ancient generator</VME_AncientGenerator.label>
-<VME_AncientGenerator.description>An ancient electrical generator. Its usable parts were smashed or looted long ago, and the rest has rusted into uselessness.</VME_AncientGenerator.description>
+<VME_AncientGenerator.label>ancien générateur</VME_AncientGenerator.label>
+<VME_AncientGenerator.description>Un ancien générateur électrique. Ses parties utilisables ont été détruites ou pillées il y a longtemps, et le reste a rouillé jusqu'à devenir inutile.</VME_AncientGenerator.description>
 
-<VME_AncientOperatingTable.label>ancient operating table</VME_AncientOperatingTable.label>
-<VME_AncientOperatingTable.description>A table once used for surgical operations. It has long since deteriorated into uselessness.</VME_AncientOperatingTable.description>
+<VME_AncientOperatingTable.label>ancienne table d'opération</VME_AncientOperatingTable.label>
+<VME_AncientOperatingTable.description>Une table utilisée autrefois pour les opérations chirurgicales. Elle s'est depuis longtemps détériorée et est devenue inutile.</VME_AncientOperatingTable.description>
 
 		<!-- +++++ Buildings_Ancient_Outdoors +++++ -->
-<VME_AncientShoppingCart.label>ancient shopping cart</VME_AncientShoppingCart.label>
-<VME_AncientShoppingCart.description>An ancient, rusted shopping cart. How exactly it got here is a mystery, but the story is long and probably quite sad.</VME_AncientShoppingCart.description>
+<VME_AncientShoppingCart.label>ancien caddie</VME_AncientShoppingCart.label>
+<VME_AncientShoppingCart.description>Un vieux chariot de supermarché rouillé. La façon dont il est arrivé ici est un mystère, mais l'histoire est longue et probablement assez triste.</VME_AncientShoppingCart.description>
 
-<VME_AncientPostbox.label>ancient postbox</VME_AncientPostbox.label>
-<VME_AncientPostbox.description>An ancient postbox, smashed and deteriorated to uselessness. It seems to have been moved here long ago for some unknown reason.</VME_AncientPostbox.description>
+<VME_AncientPostbox.label>ancienne boîte aux lettres</VME_AncientPostbox.label>
+<VME_AncientPostbox.description>Une ancienne boîte aux lettres, écrasée et détériorée jusqu'à devenir inutile. Elle semble avoir été déplacée ici il y a longtemps pour une raison inconnue.</VME_AncientPostbox.description>
 
-<VME_AncientVendingMachine.label>ancient vending machine</VME_AncientVendingMachine.label>
-<VME_AncientVendingMachine.description>An ancient vending machine. It was smashed ages ago and generations of looters have taken every conceivably useful part. How it ended up here is a mystery.</VME_AncientVendingMachine.description>
+<VME_AncientVendingMachine.label>ancien distributeur automatique</VME_AncientVendingMachine.label>
+<VME_AncientVendingMachine.description>Un ancien distributeur automatique. Il a été détruit il y a des années et des générations de pillards ont pris toutes les pièces. Comment a-t-il fini ici ? C'est un mystère.</VME_AncientVendingMachine.description>
 
-<VME_AncientAirConditioner.label>ancient air conditioner</VME_AncientAirConditioner.label>
-<VME_AncientAirConditioner.description>An ancient air conditioning machine. Its internals were smashed long ago and what wasnt looted has rusted away in the time since.</VME_AncientAirConditioner.description>
+<VME_AncientAirConditioner.label>ancien climatiseur</VME_AncientAirConditioner.label>
+<VME_AncientAirConditioner.description>Une ancienne machine à air conditionné. Ses composants internes ont été détruits il y a longtemps et ce qui n'a pas été pillé a rouillé.</VME_AncientAirConditioner.description>
 
-<VME_AncientKitchenSink.label>ancient kitchen sink</VME_AncientKitchenSink.label>
-<VME_AncientKitchenSink.description>An ancient kitchen sink made of some non-metallic fiber-sheet material. It is badly deteriorated and theres no way to salvage anything from it.\n\nHow it got here must be a long story.</VME_AncientKitchenSink.description>
+<VME_AncientKitchenSink.label>ancien évier de cuisine</VME_AncientKitchenSink.label>
+<VME_AncientKitchenSink.description>Un ancien évier de cuisine fait d'un matériau non-métallique en fibre. Il est très détérioré et il n'y a aucun moyen d'en récupérer quoi que ce soit. La façon dont il est arrivé là doit être une longue histoire.</VME_AncientKitchenSink.description>
 
-<VME_AncientStove.label>ancient stove</VME_AncientStove.label>
-<VME_AncientStove.description>An ancient stove. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say.</VME_AncientStove.description>
+<VME_AncientStove.label>ancien poêle</VME_AncientStove.label>
+<VME_AncientStove.description>Un vieux poêle. Cassé et rouillé, il est complètement inutile maintenant.\n\nComment est-il arrivé là, c'est difficile à dire.</VME_AncientStove.description>
 
-<VME_AncientOven.label>ancient oven</VME_AncientOven.label>
-<VME_AncientOven.description>An ancient oven. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say.</VME_AncientOven.description>
+<VME_AncientOven.label>ancien four</VME_AncientOven.label>
+<VME_AncientOven.description>Un ancien four. Cassé et rouillé, il est complètement inutile maintenant.\n\nComment est-il arrivé là, c'est difficile à dire.</VME_AncientOven.description>
 
-<VME_AncientATM.label>ancient ATM</VME_AncientATM.label>
-<VME_AncientATM.description>An ancient ATM. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say.</VME_AncientATM.description>
+<VME_AncientATM.label>ancien DAB</VME_AncientATM.label>
+<VME_AncientATM.description>Un ancien distributeur de billets. Cassé et rouillé, il est complètement inutile maintenant.\n\nComment est-il arrivé là, c'est difficile à dire.</VME_AncientATM.description>
 
-<VME_AncientWashingMachine.label>ancient washing machine</VME_AncientWashingMachine.label>
-<VME_AncientWashingMachine.description>An ancient device used for washing textiles. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say.</VME_AncientWashingMachine.description>
+<VME_AncientWashingMachine.label>ancienne machine à laver</VME_AncientWashingMachine.label>
+<VME_AncientWashingMachine.description>Un ancien appareil utilisé pour laver les textiles. Cassé et rouillé, il est complètement inutile maintenant.\n\nComment est-il arrivé ici, c'est difficile à dire.</VME_AncientWashingMachine.description>
 
-<VME_AncientHydrant.label>ancient hydrant</VME_AncientHydrant.label>
-<VME_AncientHydrant.description>An ancient hydrant. Heavily rusted, it is completely useless now.\n\nHow it got here is hard to say.</VME_AncientHydrant.description>
+<VME_AncientHydrant.label>ancienne bouche d'incendie</VME_AncientHydrant.label>
+<VME_AncientHydrant.description>Une ancienne bouche d'incendie. Fortement rouillée, elle est complètement inutile maintenant.\n\nComment est-elle arrivée là, c'est difficile à dire.</VME_AncientHydrant.description>
 
-<VME_AncientMicrowave.label>ancient microwave</VME_AncientMicrowave.label>
-<VME_AncientMicrowave.description>An ancient device for heating food. Smashed and rusted, it is completely useless now.\n\nHow it got here is hard to say.</VME_AncientMicrowave.description>
+<VME_AncientMicrowave.label>ancien micro-ondes</VME_AncientMicrowave.label>
+<VME_AncientMicrowave.description>Un ancien appareil pour chauffer la nourriture. Cassé et rouillé, il est complètement inutile maintenant.\n\nComment est-il arrivé ici, c'est difficile à dire.</VME_AncientMicrowave.description>
 
-<VME_AncientToilet.label>ancient toilet</VME_AncientToilet.label>
-<VME_AncientToilet.description>An ancient toilet. Smashed long ago, it is completely useless now.\n\nHow it got here is hard to say.</VME_AncientToilet.description>
+<VME_AncientToilet.label>ancien toilette</VME_AncientToilet.label>
+<VME_AncientToilet.description>Un ancien WC. Cassé il y a longtemps, il est complètement inutile maintenant.\n\nComment est-il arrivé ici, c'est difficile à dire.</VME_AncientToilet.description>
 
-<VME_AncientRefrigerator.label>ancient refrigerator</VME_AncientRefrigerator.label>
-<VME_AncientRefrigerator.description>An ancient refrigerator. It was stripped of interesting parts long ago.</VME_AncientRefrigerator.description>
+<VME_AncientRefrigerator.label>ancien réfrigérateur</VME_AncientRefrigerator.label>
+<VME_AncientRefrigerator.description>Un ancien réfrigérateur. Il a été dépouillé de ses pièces intéressantes il y a longtemps.</VME_AncientRefrigerator.description>
 
-<VME_AncientSmallCrate.label>ancient small crate</VME_AncientSmallCrate.label>
-<VME_AncientSmallCrate.description>A small, empty crate which was abandoned ages ago. Its too rusted to store anything.</VME_AncientSmallCrate.description>
+<VME_AncientSmallCrate.label>ancienne petite caisse</VME_AncientSmallCrate.label>
+<VME_AncientSmallCrate.description>Une petite caisse vide qui a été abandonnée il y a des années. Elle est trop rouillée pour y stocker quoi que ce soit.</VME_AncientSmallCrate.description>
 
-<VME_AncientLongCrate.label>ancient long crate</VME_AncientLongCrate.label>
-<VME_AncientLongCrate.description>A long, empty crate which was abandoned ages ago. Its too rusted to store anything.</VME_AncientLongCrate.description>
+<VME_AncientLongCrate.label>ancienne longue caisse</VME_AncientLongCrate.label>
+<VME_AncientLongCrate.description>Une longue caisse vide qui a été abandonnée il y a des années. Elle est trop rouillée pour stocker quoi que ce soit.</VME_AncientLongCrate.description>
 
-<VME_AncientLargeCrate.label>ancient large crate</VME_AncientLargeCrate.label>
-<VME_AncientLargeCrate.description>A large crate which was abandoned ages ago. Its too rusted to store anything.</VME_AncientLargeCrate.description>
+<VME_AncientLargeCrate.label>ancienne grande caisse</VME_AncientLargeCrate.label>
+<VME_AncientLargeCrate.description>Une grande caisse qui a été abandonnée il y a des années. Elle est trop rouillée pour y stocker quoi que ce soit.</VME_AncientLargeCrate.description>
 
-<VME_AncientWheel.label>ancient wheel</VME_AncientWheel.label>
-<VME_AncientWheel.description>An ancient wheel from some kind of vehicle. The rubber has deteriorated away and the metal is twisted and rusted.</VME_AncientWheel.description>
+<VME_AncientWheel.label>ancienne roue</VME_AncientWheel.label>
+<VME_AncientWheel.description>Une roue ancienne provenant d'un véhicule quelconque. Le caoutchouc s'est désagrégé et le métal est tordu et rouillé.</VME_AncientWheel.description>
 
-<VME_AncientGiantWheel.label>ancient giant wheel</VME_AncientGiantWheel.label>
-<VME_AncientGiantWheel.description>A giant wheel which came off some large vehicle many ages ago. The rubber has disintegrated away and the metal is twisted and rusted.</VME_AncientGiantWheel.description>
+<VME_AncientGiantWheel.label>ancienne roue géante</VME_AncientGiantWheel.label>
+<VME_AncientGiantWheel.description>Une roue géante qui s'est détachée d'un gros véhicule il y a bien longtemps. Le caoutchouc s'est désagrégé et le métal est tordu et rouillé.</VME_AncientGiantWheel.description>
 
-<VME_AncientRustedCar.label>ancient car</VME_AncientRustedCar.label>
-<VME_AncientRustedCar.description>An ancient, broken car. Everything that isnt rusted away was looted long ago.</VME_AncientRustedCar.description>
+<VME_AncientRustedCar.label>ancienne voiture</VME_AncientRustedCar.label>
+<VME_AncientRustedCar.description>Une vieille voiture cassée. Tout ce qui n'est pas rouillé a été pillé il y a longtemps.</VME_AncientRustedCar.description>
 
-<VME_AncientRustedTruck.label>ancient truck</VME_AncientRustedTruck.label>
-<VME_AncientRustedTruck.description>An ancient, broken truck. Everything useful either rusted away or was looted long ago.</VME_AncientRustedTruck.description>
+<VME_AncientRustedTruck.label>ancien camion</VME_AncientRustedTruck.label>
+<VME_AncientRustedTruck.description>Un vieux camion cassé. Tout ce qui est utile est rouillé ou a été pillé il y a longtemps.</VME_AncientRustedTruck.description>
 
-<VME_AncientRustedJeep.label>ancient troop carrier</VME_AncientRustedJeep.label>
-<VME_AncientRustedJeep.description>An ancient, broken troop carrier. Everything that isnt rusted away was looted long ago.</VME_AncientRustedJeep.description>
+<VME_AncientRustedJeep.label>ancien transporteur de troupes</VME_AncientRustedJeep.label>
+<VME_AncientRustedJeep.description>Un vieux transporteur de troupes en panne. Tout ce qui n'est pas rouillé a été pillé il y a longtemps.</VME_AncientRustedJeep.description>
 
-<VME_AncientRustedCarFrame.label>ancient car frame</VME_AncientRustedCarFrame.label>
-<VME_AncientRustedCarFrame.description>An ancient, rusted car frame. The body shell has long since rusted away to nothing.</VME_AncientRustedCarFrame.description>
+<VME_AncientRustedCarFrame.label>ancien châssis de voiture</VME_AncientRustedCarFrame.label>
+<VME_AncientRustedCarFrame.description>Un vieux châssis de voiture rouillé. La carrosserie a depuis longtemps rouillé et n'existe plus.</VME_AncientRustedCarFrame.description>
 
-<VME_AncientWarwalkerTorso.label>ancient warwalker torso</VME_AncientWarwalkerTorso.label>
-<VME_AncientWarwalkerTorso.description>The torso of a mid-scale warwalker which fell here in ancient days. The valuable parts were looted long ago.</VME_AncientWarwalkerTorso.description>
+<VME_AncientWarwalkerTorso.label>ancien torse de marcheur de combat</VME_AncientWarwalkerTorso.label>
+<VME_AncientWarwalkerTorso.description>Le torse d'un marcheur de combat de taille moyenne qui est tombé ici dans des temps anciens. Les pièces de valeur ont été pillées il y a longtemps.</VME_AncientWarwalkerTorso.description>
 
-<VME_AncientRustedDropship.label>ancient dropship</VME_AncientRustedDropship.label>
-<VME_AncientRustedDropship.description>The remains of an ancient dropship. The valuable parts were looted long ago and the rest has deteriorated to uselessness.</VME_AncientRustedDropship.description>
+<VME_AncientRustedDropship.label>ancien vaisseau spatial</VME_AncientRustedDropship.label>
+<VME_AncientRustedDropship.description>Les restes d'un ancien vaisseau. Les pièces de valeur ont été pillées il y a longtemps et le reste s'est détérioré jusqu'à en devenir inutile.</VME_AncientRustedDropship.description>
 
-<VME_AncientWarwalkerClaw.label>ancient warwalker claw</VME_AncientWarwalkerClaw.label>
-<VME_AncientWarwalkerClaw.description>The assault claw of an ancient mid-scale warwalker. This weapon specialized in tearing through heavy plasteel armor at close range. Its valuable components were looted long ago.</VME_AncientWarwalkerClaw.description>
+<VME_AncientWarwalkerClaw.label>ancienne griffe de marcheur de combat</VME_AncientWarwalkerClaw.label>
+<VME_AncientWarwalkerClaw.description>La griffe d'assaut d'un ancien marcheur de combat de taille moyenne. Cette arme est spécialisée dans le déchirement des armures lourdes en plastacier à courte portée. Ses composants précieux ont été pillés il y a longtemps.</VME_AncientWarwalkerClaw.description>
 
-<VME_AncientWarwalkerLeg.label>ancient warwalker leg</VME_AncientWarwalkerLeg.label>
-<VME_AncientWarwalkerLeg.description>The shattered leg of a mid-scale warwalker that fell here long ago. It has been picked clean by looters, and no valuable components remain.</VME_AncientWarwalkerLeg.description>
+<VME_AncientWarwalkerLeg.label>ancienne jambe de marcheur de combat</VME_AncientWarwalkerLeg.label>
+<VME_AncientWarwalkerLeg.description>La jambe brisée d'un marcheur de combat de taille moyenne qui est tombé ici il y a longtemps. Elle a été dépouillée par les pillards, et il ne reste aucun composant de valeur.</VME_AncientWarwalkerLeg.description>
 
-<VME_AncientMiniWarwalkerRemains.label>ancient warsprinter remains</VME_AncientMiniWarwalkerRemains.label>
-<VME_AncientMiniWarwalkerRemains.description>The shattered remains of an ancient sub-scale warsprinter. Whatever parts werent ruined when it was destroyed were looted long ago.</VME_AncientMiniWarwalkerRemains.description>
+<VME_AncientMiniWarwalkerRemains.label>anciens restes de sprinteur de combat</VME_AncientMiniWarwalkerRemains.label>
+<VME_AncientMiniWarwalkerRemains.description>Les restes brisés d'un ancien sprinteur de combat de petite taille. Toutes les parties qui n'ont pas été détruites lors de sa destruction ont été pillées il y a longtemps.</VME_AncientMiniWarwalkerRemains.description>
 
-<VME_AncientWarspiderRemains.label>ancient warspider remains</VME_AncientWarspiderRemains.label>
-<VME_AncientWarspiderRemains.description>The ruined remains of an ancient mid-scale warspider. It has been picked over many times, and there is nothing valuable left to loot.</VME_AncientWarspiderRemains.description>
+<VME_AncientWarspiderRemains.label>anciens restes d'araignée de guerre</VME_AncientWarspiderRemains.label>
+<VME_AncientWarspiderRemains.description>Les restes en ruine d'une ancienne araignée de guerre de taille moyenne. Elle a été pillée de nombreuses fois et il n'y a plus rien de précieux à récupérer.</VME_AncientWarspiderRemains.description>
 
-<VME_AncientPipelineSection.label>ancient pipeline section</VME_AncientPipelineSection.label>
-<VME_AncientPipelineSection.description>A section from an ancient pipeline. It once carried some valuable fluid over long distances. Now its been looted and deteriorated to uselessness.</VME_AncientPipelineSection.description>
+<VME_AncientPipelineSection.label>ancien tronçon de canalisation</VME_AncientPipelineSection.label>
+<VME_AncientPipelineSection.description>Une section d'une ancienne canalisation. Elle transportait autrefois un fluide précieux sur de longues distances. Maintenant, elle a été pillée et détériorée jusqu'à devenir inutile.</VME_AncientPipelineSection.description>
 
-<VME_AncientWarwalkerFoot.label>ancient warwalker foot</VME_AncientWarwalkerFoot.label>
-<VME_AncientWarwalkerFoot.description>A massive foot from an ancient warwalker. It seems to have been torn free from its owner by some kind of heavy weapon. All the useful components were looted or deteriorated long ago.</VME_AncientWarwalkerFoot.description>
+<VME_AncientWarwalkerFoot.label>ancien pied de marcheur de combat</VME_AncientWarwalkerFoot.label>
+<VME_AncientWarwalkerFoot.description>Un pied massif d'un ancien marcheur de combat. Il semble avoir été arraché à son propriétaire par une sorte d'arme lourde. Tous les composants utiles ont été pillés ou détériorés il y a longtemps.</VME_AncientWarwalkerFoot.description>
 
-<VME_AncientTank.label>ancient ruined tank</VME_AncientTank.label>
-<VME_AncientTank.description>The remains of an ancient tank which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago.</VME_AncientTank.description>
+<VME_AncientTank.label>ancien tank en ruine</VME_AncientTank.label>
+<VME_AncientTank.description>Les restes d'un ancien tank qui a été détruit par une sorte d'arme lourde. Tous les composants utiles ont été pillés ou détériorés il y a longtemps.</VME_AncientTank.description>
 
-<VME_AncientAPC.label>ancient ruined APC</VME_AncientAPC.label>
-<VME_AncientAPC.description>The remains of an ancient armoured troop carrier which was destroyed by some kind of heavy weapon. All the useful components were looted or deteriorated long ago.</VME_AncientAPC.description>
+<VME_AncientAPC.label>ancien VBT en ruine</VME_AncientAPC.label>
+<VME_AncientAPC.description>Les restes d'un ancien transporteur de troupes blindé qui a été détruit par une sorte d'arme lourde. Tous les composants utiles ont été pillés ou détériorés il y a longtemps.</VME_AncientAPC.description>
 
-<VME_AncientWarwalkerShell.label>ancient warwalker shell</VME_AncientWarwalkerShell.label>
-<VME_AncientWarwalkerShell.description>Most of the armored shell of a warwalker. It appears to have been torn off by some colossal weapon system. All the valuable parts were looted, and the rest is badly deteriorated.</VME_AncientWarwalkerShell.description>
+<VME_AncientWarwalkerShell.label>ancienne coque de marcheur de combat</VME_AncientWarwalkerShell.label>
+<VME_AncientWarwalkerShell.description>Le plus gros de la carapace blindée d'un marcheur de combat. Elle semble avoir été arrachée par un système d'armement colossal. Toutes les pièces de valeur ont été pillées, et le reste est très détérioré.</VME_AncientWarwalkerShell.description>
 
-<VME_AncientJetEngine.label>ancient jet engine</VME_AncientJetEngine.label>
-<VME_AncientJetEngine.description>An ancient jet engine, probably detached from a large airplane. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago.</VME_AncientJetEngine.description>
+<VME_AncientJetEngine.label>ancien moteur à réaction</VME_AncientJetEngine.label>
+<VME_AncientJetEngine.description>Un ancien moteur à réaction, probablement détaché d'un gros avion. Ses composants internes fragiles sont rouillés et inutiles, et les pièces de valeur ont été pillées il y a longtemps.</VME_AncientJetEngine.description>
 
-<VME_AncientDropshipEngine.label>ancient dropship engine</VME_AncientDropshipEngine.label>
-<VME_AncientDropshipEngine.description>An ancient dropship engine. It probably came off a military troop carrier. Its delicate internals are rusted to uselessness, and the valuable parts were looted long ago.</VME_AncientDropshipEngine.description>
+<VME_AncientDropshipEngine.label>ancien moteur de capsule de largage</VME_AncientDropshipEngine.label>
+<VME_AncientDropshipEngine.description>Un ancien moteur de capsule de largage. Il s'agissait probablement d'un transporteur de troupes militaires. Ses intérieurs délicats sont rouillés et inutiles, et les pièces de valeurs ont été pillées il y a longtemps.</VME_AncientDropshipEngine.description>
 
-<VME_AncientPodCar.label>ancient pod car</VME_AncientPodCar.label>
-<VME_AncientPodCar.description>An ancient pod car once capable of automated flight. Its valuable parts were looted long ago, and the rest is badly deteriorated.</VME_AncientPodCar.description>
+<VME_AncientPodCar.label>ancienne voiture nacelle</VME_AncientPodCar.label>
+<VME_AncientPodCar.description>Une ancienne voiture nacelle autrefois capable de voler automatiquement. Ses pièces de valeur ont été pillées il y a longtemps, et le reste est très détérioré.</VME_AncientPodCar.description>
 
-<VME_AncientTankTrap.label>ancient tank trap</VME_AncientTankTrap.label>
-<VME_AncientTankTrap.description>An defensive fortification for stopping vehicles. Its been deteriorating for many years.</VME_AncientTankTrap.description>
+<VME_AncientTankTrap.label>ancien piège à chars</VME_AncientTankTrap.label>
+<VME_AncientTankTrap.description>Une fortification défensive pour arrêter les véhicules. Se dégrade depuis de nombreuses années.</VME_AncientTankTrap.description>
 
-<VME_AncientLargeRustedEngineBlock.label>ancient macro-engine block</VME_AncientLargeRustedEngineBlock.label>
-<VME_AncientLargeRustedEngineBlock.description>An large, ancient engine block from some giant vehicle or power source. Its rusted through, and all the useful components are gone. No repair could salvage this.</VME_AncientLargeRustedEngineBlock.description>
+<VME_AncientLargeRustedEngineBlock.label>ancien bloc macro-moteur</VME_AncientLargeRustedEngineBlock.label>
+<VME_AncientLargeRustedEngineBlock.description>Un grand et ancien bloc moteur provenant d'un véhicule géant ou d'une source d'énergie. Il est rouillé et tous les composants utiles ont disparu. Aucune réparation ne pourrait sauver cela.</VME_AncientLargeRustedEngineBlock.description>
 
-<VME_AncientFence.label>ancient fence</VME_AncientFence.label>
-<VME_AncientFence.description>An ancient fence made of reinforced concrete posts joined by concrete panels.</VME_AncientFence.description>
+<VME_AncientFence.label>ancienne clôture</VME_AncientFence.label>
+<VME_AncientFence.description>Une ancienne clôture faite de poteaux en béton armé reliés par des panneaux en béton.</VME_AncientFence.description>
 
-<VME_AncientRazorWire.label>ancient razor wire</VME_AncientRazorWire.label>
-<VME_AncientRazorWire.description>A piece of ancient razor wire. It has been deteriorating for many years and no longer poses any danger.</VME_AncientRazorWire.description>
+<VME_AncientRazorWire.label>ancien fil barbelé</VME_AncientRazorWire.label>
+<VME_AncientRazorWire.description>Un morceau de fil barbelé ancien. Il se dégrade depuis de nombreuses années et ne présente plus aucun danger.</VME_AncientRazorWire.description>
 
-<VME_AncientPipes.label>ancient pipes</VME_AncientPipes.label>
-<VME_AncientPipes.description>A bunch of rusted old pipes. It is hard to say how these ended up here.</VME_AncientPipes.description>
+<VME_AncientPipes.label>anciens tuyaux</VME_AncientPipes.label>
+<VME_AncientPipes.description>Un tas de vieux tuyaux rouillés. Il est difficile de dire comment ceux-ci se sont retrouvés ici.</VME_AncientPipes.description>
 
-<VME_AncientMegaCannonTripod.label>ancient mega-cannon platform</VME_AncientMegaCannonTripod.label>
-<VME_AncientMegaCannonTripod.description>A mounting platform that once held some sort of cannon. It has been broken for many years and every useful component was looted long ago.</VME_AncientMegaCannonTripod.description>
+<VME_AncientMegaCannonTripod.label>ancienne plateforme de canon</VME_AncientMegaCannonTripod.label>
+<VME_AncientMegaCannonTripod.description>Une plate-forme de levage qui contenait autrefois une sorte de canon. Il est cassé depuis de nombreuses années et chaque composant utile a été pillé il y a longtemps.</VME_AncientMegaCannonTripod.description>
 
-<VME_AncientMegaCannonBarrel.label>ancient mega-cannon barrel</VME_AncientMegaCannonBarrel.label>
-<VME_AncientMegaCannonBarrel.description>A barrel from a long-range cannon for artillery or anti-ship use. When it was new, it must have been frighteningly powerful. Now, its far beyond repair and every useful component has been looted.</VME_AncientMegaCannonBarrel.description>
+<VME_AncientMegaCannonBarrel.label>ancien canon longue portée</VME_AncientMegaCannonBarrel.label>
+<VME_AncientMegaCannonBarrel.description>Un canon à longue portée pour l'artillerie ou l'anti-navire. Quand il était neuf, il devait être terriblement puissant. Maintenant, il est irréparable et chaque composant utile a été pillé.</VME_AncientMegaCannonBarrel.description>
 
-<VME_AncientContainer.label>ancient container</VME_AncientContainer.label>
-<VME_AncientContainer.description>A large container from some ancient freight carrying vehicle. It has long since been looted and deteriorted into uselessness.</VME_AncientContainer.description>
+<VME_AncientContainer.label>ancien conteneur</VME_AncientContainer.label>
+<VME_AncientContainer.description>Un grand conteneur d'un ancien véhicule de transport de marchandises. Il a depuis longtemps été pillé et détérioré jusqu'à l'inutilité.</VME_AncientContainer.description>
 
-<VME_AncientMechanoidShell.label>ancient mechanoid shell</VME_AncientMechanoidShell.label>
-<VME_AncientMechanoidShell.description>A shell from a smashed mechanoid. It has been deteriorating for many years and the useful components have disintegrated.</VME_AncientMechanoidShell.description>
+<VME_AncientMechanoidShell.label>ancienne coquille mécanoïde</VME_AncientMechanoidShell.label>
+<VME_AncientMechanoidShell.description>Une coquille provenant d'un mécanoïde qui s'est écrasé. Elle s'est détériorée pendant de nombreuses années et les composants utiles se sont désintégrés.</VME_AncientMechanoidShell.description>
 
-<VME_AncientCentipedeShell.label>ancient centipede shell</VME_AncientCentipedeShell.label>
-<VME_AncientCentipedeShell.description>A shell from a smashed centipede. It has been deteriorating for many years and all the useful components have disintegrated.</VME_AncientCentipedeShell.description>
+<VME_AncientCentipedeShell.label>ancienne coquille de centipede</VME_AncientCentipedeShell.label>
+<VME_AncientCentipedeShell.description>Une coquille d'un centipede écrasé. Il se détériore depuis de nombreuses années et tous les composants utiles se sont désintégrés.</VME_AncientCentipedeShell.description>
 
-<VME_AncientMechDropBeacon.label>ancient mech drop beacon</VME_AncientMechDropBeacon.label>
-<VME_AncientMechDropBeacon.description>The broken shell of a mech drop beacon. Its useful components are missing and the shell has deteriorated after many years.</VME_AncientMechDropBeacon.description>
+<VME_AncientMechDropBeacon.label>ancienne balise mécanoïde</VME_AncientMechDropBeacon.label>
+<VME_AncientMechDropBeacon.description>La coque cassée d'une balise mécanoïde. Ses composants utiles sont manquants et la coque s'est détériorée après de nombreuses années.</VME_AncientMechDropBeacon.description>
 
-<VME_AncientSecurityTurret.label>ancient security turret</VME_AncientSecurityTurret.label>
-<VME_AncientSecurityTurret.description>An ancient, broken security turret. The valuable parts have all been looted or smashed.</VME_AncientSecurityTurret.description>
+<VME_AncientSecurityTurret.label>ancienne tourelle de sécurité</VME_AncientSecurityTurret.label>
+<VME_AncientSecurityTurret.description>Une ancienne tourelle de sécurité cassée. Les pièces de valeur ont toutes été pillées ou détruites.</VME_AncientSecurityTurret.description>
 
-<VME_AncientRustedEngineBlock.label>ancient engine block</VME_AncientRustedEngineBlock.label>
-<VME_AncientRustedEngineBlock.description>An ancient engine block that is rusted through. No repair could salvage this.</VME_AncientRustedEngineBlock.description>
+<VME_AncientRustedEngineBlock.label>ancien bloc moteur</VME_AncientRustedEngineBlock.label>
+<VME_AncientRustedEngineBlock.description>Un ancien bloc moteur rouillé de part en part. Aucune réparation ne pourrait le sauver.</VME_AncientRustedEngineBlock.description>
 
-<VME_AncientShipBeacon.label>ancient nav beacon</VME_AncientShipBeacon.label>
-<VME_AncientShipBeacon.description>An ancient, broken ship navigation beacon. Every useful component was looted long ago.</VME_AncientShipBeacon.description>
+<VME_AncientShipBeacon.label>ancienne balise de navigation</VME_AncientShipBeacon.label>
+<VME_AncientShipBeacon.description>Une ancienne balise de navigation cassée. Chaque composant utile a été pillé il y a longtemps.</VME_AncientShipBeacon.description>
 
-<VME_AncientSpaceJunk.label>ancient space junk</VME_AncientSpaceJunk.label>
-<VME_AncientSpaceJunk.description>Ancient chunks of space junk that fell from orbit. Perhaps a relic of an ancient space battle.</VME_AncientSpaceJunk.description>
+<VME_AncientSpaceJunk.label>anciens débris spatiaux</VME_AncientSpaceJunk.label>
+<VME_AncientSpaceJunk.description>D'anciens morceaux de débris spatiaux tombés d'orbite. Peut-être une relique d'une ancienne bataille spatiale.</VME_AncientSpaceJunk.description>
 
 
 		<!-- +++++ Buildings_Ideo +++++ -->
-<VME_WickerMan.label>wicker man</VME_WickerMan.label>
-<VME_WickerMan.description>A large humanoid figure made out of dry brush, thatch, and wood scraps. Prisoners have to be physically restrained to the figurine then burned alive as part of a trial or ritual.</VME_WickerMan.description>
+<VME_WickerMan.label>homme en osier</VME_WickerMan.label>
+<VME_WickerMan.description>Une grande figure humanoïde fabriquée à partir de broussailles sèches, de chaume et de déchets de bois. Les prisonniers doivent être physiquement attachés à la figurine puis brûlés vifs dans le cadre d'un procès ou d'un rituel.</VME_WickerMan.description>
 
-<VME_Bonfire.label>bonfire</VME_Bonfire.label>
-<VME_Bonfire.description>An incredibly large and bright-burning bonfire made out of a carefully organized pile of logs on a stone base. Used heavily during flame-based rituals and can only be placed outdoors.</VME_Bonfire.description>
-<VME_BonfireAfterRitual.label>bonfire</VME_BonfireAfterRitual.label>
-<VME_BonfireAfterRitual.description>An incredibly large and bright-burning bonfire made out of a carefully organized pile of logs on a stone base. Used heavily during flame-based rituals and can only be placed outdoors. Will last for at least two quadrums and provide beauty nearby, as well as count for the Fire: Desired precept.</VME_BonfireAfterRitual.description>
+<VME_Bonfire.label>feu de joie</VME_Bonfire.label>
+<VME_Bonfire.description>Un feu de joie incroyablement grand et lumineux fait d'une pile de bûches soigneusement organisée sur une base en pierre. Il est très utilisé lors des rituels à base de flammes et ne peut être placé qu'à l'extérieur.</VME_Bonfire.description>
+<VME_BonfireAfterRitual.label>feu de joie</VME_BonfireAfterRitual.label>
+<VME_BonfireAfterRitual.description>Un feu de joie incroyablement grand et lumineux fait d'une pile de bûches soigneusement organisée sur une base en pierre. Il est très utilisé lors des rituels à base de flammes et ne peut être placé qu'à l'extérieur. Durera au moins deux quadrums et assurera la beauté à proximité, tout en comptant pour le feu : Précepte souhaité.</VME_BonfireAfterRitual.description>
 
-<VME_MechanoidEffigy.label>mechanoid effigy</VME_MechanoidEffigy.label>
-<VME_MechanoidEffigy.description>A structure assembled from scrapped mechanoid parts. Emits an IFF programming signal capable of confusing ancient mechanoid receptors. Should two exist per colonist enough signal noise will soft reset ancient mechanoid programming, causing an immediate retreat.</VME_MechanoidEffigy.description>
+<VME_MechanoidEffigy.label>effigie mécanoïde</VME_MechanoidEffigy.label>
+<VME_MechanoidEffigy.description>Une structure assemblée à partir de pièces de mécanoïdes mises à la casse. Emet un signal de programmation IFF capable de confondre les anciens récepteurs mécanoïdes. S'il y en a deux par colon, le bruit du signal est suffisant pour réinitialiser la programmation des anciens méchanoïdes et provoquer une retraite immédiate.</VME_MechanoidEffigy.description>
 
-<VME_Obelisk.label>ominous obelisk</VME_Obelisk.label>
-<VME_Obelisk.description>An ominous-looking obelisk of pure chiseled stone. It seems to radiate an aura of hopelessness and despair.\n\nThe Corruption need of any colonist in an obelisks radius of effect wont decrease.</VME_Obelisk.description>
+<VME_Obelisk.label>obélisque sinistre</VME_Obelisk.label>
+<VME_Obelisk.description>Un obélisque à l'aspect sinistre, fait de pierre pure ciselée. Il semble dégager une aura de désespoir et de détresse.\n\nLe besoin de Corruption de tout colon se trouvant dans le rayon d'effet de l'obélisque ne diminue pas.</VME_Obelisk.description>
 
-<VME_InsectNest.label>insect nest</VME_InsectNest.label>
-<VME_InsectNest.description>A large, swollen hive that seems to be seeping high amounts of bubbling insectoid jelly but not incubating any insectoids themselves.\n\nThe nest will need maintenance by a colonist with the insectoid herder role. If maintenance reaches 0%, the nest will be destroyed.</VME_InsectNest.description>
+<VME_InsectNest.label>nid d'insectes</VME_InsectNest.label>
+<VME_InsectNest.description>Une grande ruche boursouflée qui semble suinter de grandes quantités de gelée d'insectoïdes bouillonnante mais qui ne couve aucun insectoïde.\n\nLe nid devra être entretenu par un colon ayant le rôle de gardien d'insectoïdes. Si la maintenance atteint 0 %, le nid sera détruit.</VME_InsectNest.description>
 
 
 </LanguageData>
