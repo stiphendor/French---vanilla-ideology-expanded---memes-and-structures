@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 		<!-- +++++ RulePacks_Deity_Names +++++ -->
@@ -50,103 +50,103 @@
 
 
 <VME_DietyTypeMakerEldritch.rulePack.rulesStrings>
-    <li>r_deityType->Progenitor of [concept]</li>
-    <li>r_deityType->Corruptor of [concept]</li>
-    <li>r_deityType->Bane of [concept]</li>
-    <li>r_deityType->Enemy of [concept]</li>
-    <li>r_deityType->Devourer of [concept]</li>
-    <li>r_deityType->Scourge of [concept]</li>
-    <li>r_deityType->The incomprehensible [concept]</li>
-    <li>r_deityType->The noise at the center of [concept]</li>
-    <li>r_deityType->The [concept2] out of [concept3]</li>
-    <li>concept->everything</li>
-    <li>concept->all</li>
-    <li>concept->the universe</li>
-    <li>concept->stars</li>
-    <li>concept->souls</li>
-    <li>concept->humanity</li>
-    <li>concept->space</li>
-    <li>concept->our dreams</li>
-    <li>concept->our deepest fears</li>
-    <li>concept2->colour</li>
-    <li>concept2->thousand goats</li>
-    <li>concept2->hunger</li>
-    <li>concept2->scintillation</li>
-    <li>concept2->inkbloat</li>
-    <li>concept2->madness</li>
-    <li>concept2->insanity</li>
-    <li>concept3->space</li>
-    <li>concept3->the depths</li>
-    <li>concept3->the chthonian abyss</li>
-    <li>concept3->hades</li>
-    <li>concept3->our nightmares</li>
-    <li>concept3->our dreams</li>
-    <li>concept3->our deepest fears</li>
+    <li>r_deityType->Progéniteur de[concept]</li>
+    <li>r_deityType->Corrupteur de[concept]</li>
+    <li>r_deityType->Le fléau de[concept]</li>
+    <li>r_deityType->Ennemi de[concept]</li>
+    <li>r_deityType->Dévoreur de[concept]</li>
+    <li>r_deityType->Faucheur de[concept]</li>
+    <li>r_deityType->L'incompréhensible de[concept]</li>
+    <li>r_deityType->Le bruit au centre de[concept]</li>
+    <li>r_deityType->[concept2] de[concept3]</li>
+    <li>concept-> tout</li>
+    <li>concept-> tous</li>
+    <li>concept-> l'univers</li>
+    <li>concept->s étoiles</li>
+    <li>concept->s âmes</li>
+    <li>concept-> l'humanité</li>
+    <li>concept-> l'espace</li>
+    <li>concept-> nos rêves</li>
+    <li>concept-> nos peurs les plus profondes</li>
+    <li>concept2->La couleur</li>
+    <li>concept2->Les mille chèvres</li>
+    <li>concept2->La faim </li>
+    <li>concept2->La désintégration</li>
+    <li>concept2->L'encre</li>
+    <li>concept2->La folie</li>
+    <li>concept2->L'insanité</li>
+    <li>concept3-> l'espace</li>
+    <li>concept3->s profondeurs</li>
+    <li>concept3->s abysses chthoniens</li>
+    <li>concept3-> Hadès</li>
+    <li>concept3-> nos cauchemars</li>
+    <li>concept3-> nos rêves</li>
+    <li>concept3-> nos peurs les plus profondes</li>
 </VME_DietyTypeMakerEldritch.rulePack.rulesStrings>
 
 
 <VME_NamerCultofPersonality.rulePack.rulesStrings>
-    <li>r_deityName->Our Supreme Leader</li>
-    <li>r_deityName->Supreme Leader</li>
+    <li>r_deityName->Notre chef suprême</li>
+    <li>r_deityName->Chef suprême</li>
 </VME_NamerCultofPersonality.rulePack.rulesStrings>
 
 
 <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings>
-    <li>r_deityType->[name1] of [name2]</li>
-    <li>name1->Admiral</li>
-    <li>name1->Pontifex</li>
-    <li>name1->Palatine</li>
-    <li>name1->Emperor</li>
-    <li>name1->Delegate</li>
-    <li>name1->Overlord</li>
-    <li>name1->Chairman</li>
-    <li>name1->Guardian</li>
-    <li>name1->Exarch</li>
-    <li>name2->Truth</li>
-    <li>name2->Justice</li>
-    <li>name2->the People</li>
-    <li>name2->the Rivers</li>
-    <li>name2->Dreams</li>
-    <li>name2->Eternity</li>
-    <li>name2->Worship</li>
-    <li>name2->Mercy</li>
-    <li>name2->Unity</li>
-    <li>name2->the New Kingdom</li>
-    <li>name2->the Realm</li>
+    <li>r_deityType->[name1] [name2]</li>
+    <li>name1->Amiral</li>
+    <li>name1->Pontife</li>
+    <li>name1->Palatin</li>
+    <li>name1->Empereur</li>
+    <li>name1->Délégué</li>
+    <li>name1->Seigneur</li>
+    <li>name1->Président</li>
+    <li>name1->Gardien</li>
+    <li>name1->Exarque</li>
+    <li>name2->de la Vérité</li>
+    <li>name2->de la Justice</li>
+    <li>name2->du peuple</li>
+    <li>name2->des rivières</li>
+    <li>name2->des Rêves</li>
+    <li>name2->d'Eternité</li>
+    <li>name2->du culte</li>
+    <li>name2->de la Miséricorde</li>
+    <li>name2->de l'Unité</li>
+    <li>name2->du Nouvel Empire</li>
+    <li>name2->du royaume</li>
 </VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings>
 
 
 <VME_NamerPantheism.rulePack.rulesStrings>
-    <li>r_deityName->The Universe</li>
-    <li>r_deityName->The Cosmos</li>
+    <li>r_deityName->L'univers</li>
+    <li>r_deityName->Le Cosmos</li>
     <li>r_deityName->Existence</li>
 </VME_NamerPantheism.rulePack.rulesStrings>
 
 
 <VME_DietyTypeMakerPantheism.rulePack.rulesStrings>
-    <li>r_deityType->[name1] [name2]</li>
-    <li>name1->All-Encompassing </li>
-    <li>name1->Omnipresent</li>
-    <li>name1->Ubiquitous</li>
-    <li>name1->Universal</li>
-    <li>name1->All-Present</li>
-    <li>name1->All-Pervasive</li>
-    <li>name1->Boundless</li>
+    <li>r_deityType->[name2] [name1]</li>
+    <li>name1->universel</li>
+    <li>name1->omniprésent</li>
+    <li>name1->ubiquitaire</li>
+    <li>name1->universel</li>
+    <li>name1->de tout temps</li>
+    <li>name1->omniprésent</li>
+    <li>name1->illimité</li>
 
-    <li>name2->Creation</li>
-    <li>name2->Space</li>
-    <li>name2->Vaccuum</li>				
-    <li>name2->Totality</li>
-    <li>name2->Infinity</li>
-    <li>name2->Spheres</li>
+    <li>name2->La création</li>
+    <li>name2->L'espace</li>
+    <li>name2->Le vide</li>				
+    <li>name2->Totalité</li>
+    <li>name2->L'infini</li>
+    <li>name2->Sphères</li>
 </VME_DietyTypeMakerPantheism.rulePack.rulesStrings>
 
 
 <VME_NamerCorporate.rulePack.rulesStrings>
-    <li>r_deityName->The Company</li>
-    <li>r_deityName->The Business</li>
-    <li>r_deityName->The Corporation</li>
-    <li>r_deityName->The Organization</li>
+    <li>r_deityName->La société</li>
+    <li>r_deityName->L'entreprise</li>
+    <li>r_deityName->La Corporation</li>
+    <li>r_deityName->L'organisation</li>
 </VME_NamerCorporate.rulePack.rulesStrings>
 
 
@@ -178,153 +178,153 @@
 
 
 <VME_NamerThirdTriumvir.rulePack.rulesStrings>
-    <li>r_roleName->third triumvir</li>
+    <li>r_roleName->troisième triumvir</li>
 </VME_NamerThirdTriumvir.rulePack.rulesStrings>
 
 
 <VME_RoleFireKeeper.rulePack.rulesStrings>
-    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
-    <li>r_roleName->firekeeper</li>
-    <li>r_roleName->flamekeeper</li>
-    <li>firstPart->flame</li>
-    <li>firstPart->ash</li>
-    <li>firstPart->fire</li>
-    <li>firstPart->warmth</li>
-    <li>firstPart->bright</li>
-    <li>firstPart->light</li>
-    <li>firstPart->kiln</li>
-    <li>firstPart->forge</li>
-    <li>secondPart(p=4)->touched</li>
-    <li>secondPart(p=4)->warden</li>
-    <li>secondPart(p=4)->herald</li>
-    <li>secondPart(p=4)->protector</li>
-    <li>secondPart(p=4)->defender</li>
-    <li>secondPart(p=4)->seeker</li>
-    <li>secondPart(p=4)->whisperer</li>
-    <li>secondPart(p=4)->keeper</li>
+    <li>r_roleName(p=7)->[secondPart] [firstPart]</li>
+    <li>r_roleName->pompier</li>
+    <li>r_roleName->gardien de la flamme</li>
+    <li>firstPart->la flamme</li>
+    <li>firstPart->la cendre</li>
+    <li>firstPart->feu</li>
+    <li>firstPart->la chaleur</li>
+    <li>firstPart->brillant</li>
+    <li>firstPart->la lumière</li>
+    <li>firstPart->four</li>
+    <li>firstPart->la forge</li>
+    <li>secondPart(p=4)->touché</li>
+    <li>secondPart(p=4)->gardien de</li>
+    <li>secondPart(p=4)->héraut de</li>
+    <li>secondPart(p=4)->protecteur de</li>
+    <li>secondPart(p=4)->défenseur de</li>
+    <li>secondPart(p=4)->chercheur de</li>
+    <li>secondPart(p=4)->expert de</li>
+    <li>secondPart(p=4)->surveillant de</li>
 </VME_RoleFireKeeper.rulePack.rulesStrings>
 
 
 <VME_Mechacker.rulePack.rulesStrings>
-    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
-    <li>r_roleName->Mechacker</li>
-    <li>firstPart->Engine </li>
-    <li>firstPart->Mechanoid </li>
-    <li>firstPart->Bionic </li>
-    <li>firstPart->Technological </li>
-    <li>firstPart->Electronic </li>
-    <li>firstPart->Artificial </li>
-    <li>firstPart->Scientific </li>
-    <li>firstPart->Brilliant </li>
-    <li>secondPart(p=4)->Engineseer</li>
-    <li>secondPart(p=4)->Artificer</li>
-    <li>secondPart(p=4)->Machinist</li>
-    <li>secondPart(p=4)->Soothesayer</li>
-    <li>secondPart(p=4)->Designer</li>
-    <li>secondPart(p=4)->Hackmaster</li>
-    <li>secondPart(p=4)->Mastermind</li>
-    <li>secondPart(p=4)->Inventor</li>
+    <li>r_roleName(p=7)->[secondPart] [firstPart]</li>
+    <li>r_roleName->Mécahackeur</li>
+    <li>firstPart->des moteurs</li>
+    <li>firstPart->des méchanoïdes</li>
+    <li>firstPart->bionique</li>
+    <li>firstPart->technologique</li>
+    <li>firstPart->électronique</li>
+    <li>firstPart->artificiel</li>
+    <li>firstPart->scientifique</li>
+    <li>firstPart->brillant</li>
+    <li>secondPart(p=4)->Ingénieur</li>
+    <li>secondPart(p=4)->Artificier</li>
+    <li>secondPart(p=4)->Machiniste</li>
+    <li>secondPart(p=4)->Adoucisseur</li>
+    <li>secondPart(p=4)->Concepteur</li>
+    <li>secondPart(p=4)->Maître hackeur</li>
+    <li>secondPart(p=4)->Esprit supérieur</li>
+    <li>secondPart(p=4)->Inventeur</li>
 </VME_Mechacker.rulePack.rulesStrings>
 
 
 <VME_PartyHost.rulePack.rulesStrings>
-    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
-    <li>r_roleName->party host</li>
-    <li>r_roleName->party animal</li>
-    <li>firstPart->exciting </li>
-    <li>firstPart->comedic </li>
-    <li>firstPart->esteemed </li>
-    <li>firstPart->hilarious </li>
-    <li>firstPart->crazed </li>
-    <li>firstPart->wild </li>
-    <li>firstPart->jubilant </li>
-    <li>firstPart->joyous </li>
-    <li>secondPart(p=4)->genius</li>
-    <li>secondPart(p=4)->entertainer</li>
-    <li>secondPart(p=4)->host</li>
-    <li>secondPart(p=4)->jester</li>
-    <li>secondPart(p=4)->joker</li>
-    <li>secondPart(p=4)->animal</li>
-    <li>secondPart(p=4)->performer</li>
-    <li>secondPart(p=4)->comedian</li>
+    <li>r_roleName(p=7)->[secondPart][firstPart]</li>
+    <li>r_roleName->animateur de soirée</li>
+    <li>r_roleName->bête de foire</li>
+    <li>firstPart->passionné</li>
+    <li>firstPart->humoriste</li>
+    <li>firstPart->estimé</li>
+    <li>firstPart->hilarant</li>
+    <li>firstPart->déjanté</li>
+    <li>firstPart->sauvage</li>
+    <li>firstPart->jubilatoire</li>
+    <li>firstPart->joyeux</li>
+    <li>secondPart(p=4)->Génie</li>
+    <li>secondPart(p=4)->Animateur</li>
+    <li>secondPart(p=4)->Hôte</li>
+    <li>secondPart(p=4)->Bouffon</li>
+    <li>secondPart(p=4)->Joker</li>
+    <li>secondPart(p=4)->Animal</li>
+    <li>secondPart(p=4)->Artiste</li>
+    <li>secondPart(p=4)->Comédien</li>
 </VME_PartyHost.rulePack.rulesStrings>
 
 
 <VME_InsectoidHerder.rulePack.rulesStrings>
-    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
-    <li>r_roleName->Insectoid Herder</li>
-    <li>firstPart->Spider </li>
-    <li>firstPart->Maggot </li>
-    <li>firstPart->Scarab </li>
-    <li>firstPart->Cricket </li>
-    <li>firstPart->Tick </li>
-    <li>firstPart->Larva </li>
-    <li>firstPart->Beetle </li>
-    <li>firstPart->Locust </li>
-    <li>secondPart(p=4)->Harvester</li>
-    <li>secondPart(p=4)->Handler</li>
-    <li>secondPart(p=4)->Brood-sibling</li>
-    <li>secondPart(p=4)->Devotee</li>
-    <li>secondPart(p=4)->Hive-Psyker</li>
-    <li>secondPart(p=4)->Hive-Commander</li>
-    <li>secondPart(p=4)->Hive-brood</li>
-    <li>secondPart(p=4)->Hive-slave</li>
+    <li>r_roleName(p=7)->[secondPart][firstPart]</li>
+    <li>r_roleName->Éleveur d'insectoïdes</li>
+    <li>firstPart->d'araignée</li>
+    <li>firstPart->d'asticot</li>
+    <li>firstPart->de scarabée</li>
+    <li>firstPart->de criquet</li>
+    <li>firstPart->de tique</li>
+    <li>firstPart->de larve</li>
+    <li>firstPart->de coléoptère</li>
+    <li>firstPart->de locust</li>
+    <li>secondPart(p=4)->Moissonneuse </li>
+    <li>secondPart(p=4)->Manipulateur </li>
+    <li>secondPart(p=4)->Frère de sang </li>
+    <li>secondPart(p=4)->Adepte </li>
+    <li>secondPart(p=4)->Ruche psychique </li>
+    <li>secondPart(p=4)->Commandant de la ruche </li>
+    <li>secondPart(p=4)->Couvée de la ruche </li>
+    <li>secondPart(p=4)->Esclave de la ruche </li>
 </VME_InsectoidHerder.rulePack.rulesStrings>
 
 
 <VME_Trader.rulePack.rulesStrings>
-    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
-    <li>r_roleName->Trader</li>
-    <li>firstPart->Bountiful </li>
-    <li>firstPart->Itinerant </li>
-    <li>firstPart->Unscrupulous </li>
-    <li>firstPart->Respectable </li>
-    <li>firstPart->Affluent </li>
-    <li>firstPart->Prosperous </li>
-    <li>firstPart->Opulent </li>
-    <li>firstPart->Rich </li>
+    <li>r_roleName(p=7)->[secondPart][firstPart]</li>
+    <li>r_roleName->Commerçant</li>
+    <li>firstPart-> généreux</li>
+    <li>firstPart-> itinérant</li>
+    <li>firstPart-> peu scrupuleux</li>
+    <li>firstPart-> respectable</li>
+    <li>firstPart-> fortuné</li>
+    <li>firstPart-> prospère</li>
+    <li>firstPart-> opulent</li>
+    <li>firstPart-> riche</li>
     <li>secondPart(p=4)->Merchant</li>
-    <li>secondPart(p=4)->Operator</li>
-    <li>secondPart(p=4)->Seller</li>
-    <li>secondPart(p=4)->Shopkeeper</li>
-    <li>secondPart(p=4)->Vendor</li>
-    <li>secondPart(p=4)->Broker</li>
-    <li>secondPart(p=4)->Wholesaler</li>
-    <li>secondPart(p=4)->Salesperson</li>
+    <li>secondPart(p=4)->Opérateur</li>
+    <li>secondPart(p=4)->Vendeur</li>
+    <li>secondPart(p=4)->Commerçant</li>
+    <li>secondPart(p=4)->Vendeur</li>
+    <li>secondPart(p=4)->Courtier</li>
+    <li>secondPart(p=4)->Grossiste</li>
+    <li>secondPart(p=4)->Commercial</li>
 </VME_Trader.rulePack.rulesStrings>
 
 
 <VME_Patissier.rulePack.rulesStrings>
     <li>r_roleName(p=7)->[firstPart][secondPart]</li>
-    <li>r_roleName->Patissier</li>
-    <li>firstPart->Deft-handed </li>
-    <li>firstPart->Accomplished </li>
-    <li>firstPart->Talented </li>
-    <li>firstPart->Exquisite </li>
-    <li>firstPart->Seasoned </li>
-    <li>firstPart->Masterful </li>
-    <li>secondPart(p=4)->Culinarian</li>
-    <li>secondPart(p=4)->Epicurian</li>
-    <li>secondPart(p=4)->Baker</li>
-    <li>secondPart(p=4)->Patissier</li>
-    <li>secondPart(p=4)->Banqueter</li>
-    <li>secondPart(p=4)->Glacier</li>
-    <li>secondPart(p=4)->Confectioner</li>
+    <li>r_roleName->Pâtissier</li>
+    <li>firstPart->à main levée</li>
+    <li>firstPart-> accompli</li>
+    <li>firstPart-> de talent</li>
+    <li>firstPart-> exquis</li>
+    <li>firstPart-> chevronné</li>
+    <li>firstPart-> magistral</li>
+    <li>secondPart(p=4)->Culinaire </li>
+    <li>secondPart(p=4)->Épicurien </li>
+    <li>secondPart(p=4)->Boulanger </li>
+    <li>secondPart(p=4)->Pâtissier </li>
+    <li>secondPart(p=4)->Banqueter </li>
+    <li>secondPart(p=4)->Glacier </li>
+    <li>secondPart(p=4)->Confiseur </li>
 </VME_Patissier.rulePack.rulesStrings>
 
 
 <VME_Commissar.rulePack.rulesStrings>
-    <li>r_roleName->Commissar</li>
+    <li>r_roleName->Commissaire</li>
 </VME_Commissar.rulePack.rulesStrings>
 
 
 <VME_Fleshcrafter.rulePack.rulesStrings>
-    <li>r_roleName->Fleshcrafter</li>
+    <li>r_roleName->Artisan de chair</li>
 </VME_Fleshcrafter.rulePack.rulesStrings>
 
 
 <VME_Nurse.rulePack.rulesStrings>
-    <li>r_roleName->Nurse</li>
+    <li>r_roleName->Infirmier</li>
 </VME_Nurse.rulePack.rulesStrings>
 
 
