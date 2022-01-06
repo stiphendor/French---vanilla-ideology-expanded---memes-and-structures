@@ -1,7 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_IdeoRole_Mechacker.label>mechacker</VME_IdeoRole_Mechacker.label>
-<VME_IdeoRole_Mechacker.description>Un brillant ingénieur capable d'assembler des effigies mécanoïdes. Contrairement à leurs homologues paresseux, les Mechackers sont prêts à faire tous les types de travail. Tous les Mechackers possèdent la capacité de surcharger et de faire exploser des tourelles ou des mécanoïdes hostiles, provoquant une explosion.</VME_IdeoRole_Mechacker.description>
+<VME_IdeoRole_Mechacker.label>mécahackeur</VME_IdeoRole_Mechacker.label>
+<VME_IdeoRole_Mechacker.description>Un brillant ingénieur capable d'assembler des effigies mécanoïdes. Contrairement à leurs homologues paresseux, les mécahackeurs sont prêts à faire tous les types de travail. Tous les mécahackeurs possèdent la capacité de surcharger et de faire exploser des tourelles ou des mécanoïdes hostiles, provoquant une explosion.</VME_IdeoRole_Mechacker.description>
+
 
 </LanguageData>
