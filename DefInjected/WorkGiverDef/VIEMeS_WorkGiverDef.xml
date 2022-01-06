@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_DeconstructJunk.label>uninstall ancient junk</VME_DeconstructJunk.label>
-<VME_DeconstructJunk.gerund>uninstalling ancient junk</VME_DeconstructJunk.gerund>
-<VME_DeconstructJunk.verb>uninstall ancient junk</VME_DeconstructJunk.verb>
+<VME_DeconstructJunk.label>désinstaller les débris</VME_DeconstructJunk.label>
+<VME_DeconstructJunk.gerund>la désinstallation des</VME_DeconstructJunk.gerund>
+<VME_DeconstructJunk.verb>désinstaller</VME_DeconstructJunk.verb>
 
-<VME_MaintainInsectNest.label>maintain insect nest</VME_MaintainInsectNest.label>
-<VME_MaintainInsectNest.gerund>maintaining</VME_MaintainInsectNest.gerund>
-<VME_MaintainInsectNest.verb>maintain</VME_MaintainInsectNest.verb>
+<VME_MaintainInsectNest.label>entretenir le nid d'insectes</VME_MaintainInsectNest.label>
+<VME_MaintainInsectNest.gerund>l’entretien du</VME_MaintainInsectNest.gerund>
+<VME_MaintainInsectNest.verb>entretenir</VME_MaintainInsectNest.verb>
 
 
 </LanguageData>
