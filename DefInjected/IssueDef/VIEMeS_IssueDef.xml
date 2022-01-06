@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 <VME_Meditation.label>méditation</VME_Meditation.label>
 <VME_PsychicSensitivity.label>sensitivité psychique</VME_PsychicSensitivity.label>
-<VME_PsyfocusGain.label>psyfocus gain</VME_PsyfocusGain.label>
+<VME_PsyfocusGain.label>gain psychique</VME_PsyfocusGain.label>
 <VME_Alcohol.label>alcool</VME_Alcohol.label>
 <VME_Anonymity.label>anonymat</VME_Anonymity.label>
 <VME_Aurora.label>aurore</VME_Aurora.label>
