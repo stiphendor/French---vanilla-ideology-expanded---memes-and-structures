@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 		<!-- +++++ Hediffs_BodyParts_Natural +++++ -->
@@ -71,7 +71,7 @@
 
 		<!-- +++++ Hediffs_Misc +++++ -->
 <VME_MedicalEmergencyHediff.label>urgence médicale</VME_MedicalEmergencyHediff.label>
-<VME_MedicalEmergencyHediff.description>Empêche le repos, le loisir et la faim de l'infirmière de diminuer pendant les 12 prochaines heures. Durant cette période, l'infirmière ne peut effectuer que des tâches de médecine appropriées.</VME_MedicalEmergencyHediff.description>
+<VME_MedicalEmergencyHediff.description>Empêche le repos, le loisir et la faim de l'infirmier de diminuer pendant les 12 prochaines heures. Durant cette période, l'infirmier ne peut effectuer que des tâches de médecine ou de soins.</VME_MedicalEmergencyHediff.description>
 
 
 </LanguageData>
