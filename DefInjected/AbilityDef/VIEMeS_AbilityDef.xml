@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 		<!-- +++++ Abilities_Commissar +++++ -->
@@ -54,7 +54,7 @@
 
 		<!-- +++++ Abilities_Nurse +++++ -->
 <VME_MedicalEmergency.label>urgence médicale</VME_MedicalEmergency.label>
-<VME_MedicalEmergency.description>Annule le besoin de repos, de faim et de divertissement de l'infirmière pendant 12 heures. Pendant ce temps, l'infirmière ne peut faire que les tâches de docteur correctement.</VME_MedicalEmergency.description>
+<VME_MedicalEmergency.description>Empêche le repos, le loisir et la faim de l'infirmier de diminuer pendant les 12 prochaines heures. Durant cette période, l'infirmier ne peut effectuer que des tâches de médecine ou de soins.</VME_MedicalEmergency.description>
 
 
 		<!-- +++++ Abilities_PartyHost +++++ -->
