@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
 		<!-- +++++ Memes_Misc +++++ -->
@@ -6,59 +6,59 @@
 <VME_ViolentConversion.description>Les infidèles peuvent choisir d'adopter nos croyances ou de mourir.</VME_ViolentConversion.description>
 <VME_ViolentConversion.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_ViolentConversion)        ->[deity0_name] anointed a few crusaders among mortals to carry out [deity0_possessive] will.</li>
-	<li>episode(uses=1,tag=meme_ViolentConversion)  ->[deity0_name] said to all the [memberNamePlural], "The infidel shall accept my words, or perish."</li>
+	<li>creation(tag=meme_ViolentConversion)        ->[deity0_name] a désigné quelques croisés parmi les mortels pour accomplir sa volonté.</li>
+	<li>episode(uses=1,tag=meme_ViolentConversion)  ->[deity0_name] a dit à tous les [memberNamePlural], "Les infidèles doivent accepter mes paroles, ou périr."</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_ViolentConversion)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], so that many would be bent to [deity0_name]'s will.</li>
-	<li>conflict(tag=meme_ViolentConversion)        ->A coward [foeLeader], seeking to deny the will of [deity0_name], told [foeLeader_possessive] [foeSoldiers] to cut out the tongues of any who speak of the [deity0_type].</li>
-	<li>founderJoin(tag=meme_ViolentConversion)     ->[deity0_name] blessed a [place_job] named [founderName] with [deity0_possessive] unwavering resolve, and none could turn away when [founder_pronoun] spoke.</li>
-	<li>victory(tag=meme_ViolentConversion)         ->[founderName] slaughtered many of the [foeSoldiers] and mercilessly tortured the survivors to show [deity0_name]'s power. Their cries of anguish will forever remind us of the destiny awaiting those who deny [deity0_name].</li>
+	<li>intro(tag=meme_ViolentConversion)           ->[memberNamePlural] ont construit un grand [altarName] sur la [place_summary] [place_name], pour que beaucoup se plient à la volonté de [deity0_name].</li>
+	<li>conflict(tag=meme_ViolentConversion)        ->Un [foeLeader] lâche, cherchant à nier la volonté de [deity0_name], a demandé à ses [foeSoldiers] de couper la langue de tous ceux qui parlent de [deity0_type].</li>
+	<li>founderJoin(tag=meme_ViolentConversion)     ->[deity0_name] a béni un [place_job] nommé [founderName] avec sa détermination inébranlable, personne ne pouvait détourner le regard quand [founder_pronoun] parlait.</li>
+	<li>victory(tag=meme_ViolentConversion)         ->[founderName] a massacré de nombreux [foeSoldiers] et torturé sans pitié les survivants pour montrer la puissance de [deity0_name]. Leurs cris d'angoisse nous rappelleront à jamais le destin qui attend ceux qui renient [deity0_name].</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_ViolentConversion)           ->Our founder [founderName] was a great revolutionary and a genious, converting thousands as [founder_pronoun] traveled between the cities.</li>
-	<li>story(uses=1,tag=meme_ViolentConversion)    ->The believers moved between cities and institutions, spreading word of the new order and fighting against those who would disagree.</li>
+	<li>setup(tag=meme_ViolentConversion)           ->Notre fondateur [founderName] était un grand révolutionnaire et un génie, convertissant des milliers de personnes lors de ses déplacements entre les villes.</li>
+	<li>story(uses=1,tag=meme_ViolentConversion)    ->Les croyants se déplaçaient d'une ville à l'autre et d'une institution à l'autre, faisant connaître le nouvel ordre et luttant contre ceux qui n'étaient pas d'accord.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_ViolentConversion)         ->In all my years spreading our philosophy, I learned one lesson that stands over all:</li>
-	<li>lesson(tag=meme_ViolentConversion)              ->there is no Truth but Our Truth. We can't let anyone stand in our way. They can either agree, or die</li>
-	<li>lessonReinforcement(tag=meme_ViolentConversion) ->This is the fact we need to spread, and spread, and spread. By force, if necessary.</li>
+	<li>lessonIntro(tag=meme_ViolentConversion)         ->Au cours de toutes mes années de diffusion de notre philosophie, j'ai appris une leçon qui prime sur toutes les autres :</li>
+	<li>lesson(tag=meme_ViolentConversion)              ->il n'y a pas d'autre vérité que notre vérité. Nous ne pouvons laisser personne se mettre en travers de notre chemin. Ils peuvent être d'accord, ou mourir</li>
+	<li>lessonReinforcement(tag=meme_ViolentConversion) ->C'est le fait que nous devons propager, et propager, et propager. Par la force, si nécessaire.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_ViolentConversion)    ->The archotechs announce their presence from the sky, and in the mind, and their existance MUST become an universal truth.</li>
-	<li>archistFact(tag=meme_ViolentConversion)     ->Archotechs must be obeyed, and it is our reponsibility to bend others to their will.</li>
-	<li>archistProphecy(tag=meme_ViolentConversion) ->[inTheEnd], the archotechs will voice their final wisdom to the holder of the [relic0_name]. Anyone who hasn't listened must be purged.</li>
+	<li>archistBasis(tag=meme_ViolentConversion)    ->Les archontechs annoncent leur présence depuis le ciel, et dans l'esprit, et leur existence DOIT devenir une vérité universelle.</li>
+	<li>archistFact(tag=meme_ViolentConversion)     ->Les Archontechs doivent être obéis, et c'est notre responsabilité de plier les autres à leur volonté.</li>
+	<li>archistProphecy(tag=meme_ViolentConversion) ->[inTheEnd], les archontechs exprimeront leur sagesse finale au détenteur de [relic0_name]. Quiconque n'a pas écouté doit être purgé.</li>
 	<!-- animist -->
-	<li>animistFact(tag=meme_ViolentConversion)     ->The spirits want to be known, but only speak to a few. We will make anyone who stands in our way fear the will of the spirits.</li>
+	<li>animistFact(tag=meme_ViolentConversion)     ->Les esprits veulent être connus, mais ne parlent qu'à un petit nombre. Nous ferons en sorte que quiconque se tient sur notre chemin craigne la volonté des esprits.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_ViolentConversion)->[itIsSaid] we will learn from them, and use that knowledge to purge the universe of filthy infidels.</li>
+	<li>serketistProphecy(tag=meme_ViolentConversion)->[itIsSaid] nous apprendrons d'eux, et utiliserons ces connaissances pour purger l'univers de ces infidèles crasseux.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_ViolentConversion)->We will acquire their eldritch knowledge, and use it to purge the universe of filthy infidels.</li>
+	<li>chthonianProphecy(tag=meme_ViolentConversion)->Nous allons acquérir leurs connaissances Eldritch, et l'utiliser pour purger l'univers des infidèles dégoûtants.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_ViolentConversion)->With such knowledge, we will have a clear advantage over the rest of this planet's inhabitants, and use it to purge it of filthy infidels.</li>
+	<li>esotericismProphecy(tag=meme_ViolentConversion)->Avec de telles connaissances, nous aurons un net avantage sur le reste des habitants de cette planète, et nous l'utiliserons pour la purger des infidèles crasseux.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_ViolentConversion)->There will be nothing left. The filthy infidels will be purged by atomic fire and deadly disease.</li>
+	<li>eschatologismFact(tag=meme_ViolentConversion)->Il ne restera rien. Les sales infidèles seront purgés par le feu atomique et les maladies mortelles.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_ViolentConversion)->As you know, the mission of our Company is way too important to let others get in our way, so we are preparing a hostile merger to get rid of these... undesireable competitors.</li>
+	<li>introMemo(tag=meme_ViolentConversion)->Comme vous le savez, la mission de notre entreprise est bien trop importante pour laisser les autres se mettre en travers de notre chemin, nous préparons donc une fusion hostile pour nous débarrasser de ces... concurrents indésirables.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_ViolentConversion)->We need to spread by force the reality of these creatures, seeded by humanity through all the Rim.</li>
+	<li>alienistProphecy(tag=meme_ViolentConversion)->Nous devons diffuser par la force la réalité de ces créatures, semées par l'humanité à travers toute le Rim.</li>
 </VME_ViolentConversion.descriptionMaker.rules.rulesStrings>
 <VME_ViolentConversion.generalRules.rulesStrings>
-	<li>memeAdjective->forced</li>
+	<li>memeAdjective->forcé</li>
 	<li>memeAdjective->strict</li>
-	<li>memeHyphenPrefix->extreme</li>
-	<li>memeConcept->absolute truth</li>
-	<li>memeLeaderNoun->high inquisitor</li>
-	<li>memeMoralist->inquisitor</li>
-	<li>memeMoralist->crusader</li>
+	<li>memeHyphenPrefix->extrême</li>
+	<li>memeConcept->vérité absolue</li>
+	<li>memeLeaderNoun->grand inquisiteur</li>
+	<li>memeMoralist->inquisiteur</li>
+	<li>memeMoralist->croisé</li>
 </VME_ViolentConversion.generalRules.rulesStrings>
 <VME_ViolentConversion.symbolPacks.0.adjective>strict</VME_ViolentConversion.symbolPacks.0.adjective>
 <VME_ViolentConversion.symbolPacks.0.ideoName>Strictness</VME_ViolentConversion.symbolPacks.0.ideoName>
 <VME_ViolentConversion.symbolPacks.0.member>strict</VME_ViolentConversion.symbolPacks.0.member>
 <VME_ViolentConversion.symbolPacks.0.theme>strict</VME_ViolentConversion.symbolPacks.0.theme>
-<VME_ViolentConversion.symbolPacks.1.adjective>crusading</VME_ViolentConversion.symbolPacks.1.adjective>
-<VME_ViolentConversion.symbolPacks.1.ideoName>Crusade</VME_ViolentConversion.symbolPacks.1.ideoName>
-<VME_ViolentConversion.symbolPacks.1.member>crusader</VME_ViolentConversion.symbolPacks.1.member>
-<VME_ViolentConversion.symbolPacks.1.theme>crusade</VME_ViolentConversion.symbolPacks.1.theme>
-<VME_ViolentConversion.symbolPacks.2.adjective>inquisitorial</VME_ViolentConversion.symbolPacks.2.adjective>
+<VME_ViolentConversion.symbolPacks.1.adjective>croisade</VME_ViolentConversion.symbolPacks.1.adjective>
+<VME_ViolentConversion.symbolPacks.1.ideoName>Croisade</VME_ViolentConversion.symbolPacks.1.ideoName>
+<VME_ViolentConversion.symbolPacks.1.member>croisé</VME_ViolentConversion.symbolPacks.1.member>
+<VME_ViolentConversion.symbolPacks.1.theme>croisade</VME_ViolentConversion.symbolPacks.1.theme>
+<VME_ViolentConversion.symbolPacks.2.adjective>inquisitoire</VME_ViolentConversion.symbolPacks.2.adjective>
 <VME_ViolentConversion.symbolPacks.2.ideoName>Inquisition</VME_ViolentConversion.symbolPacks.2.ideoName>
-<VME_ViolentConversion.symbolPacks.2.member>inquisitor</VME_ViolentConversion.symbolPacks.2.member>
+<VME_ViolentConversion.symbolPacks.2.member>inquisiteur</VME_ViolentConversion.symbolPacks.2.member>
 <VME_ViolentConversion.symbolPacks.2.theme>inquisition</VME_ViolentConversion.symbolPacks.2.theme>
 
 
@@ -100,25 +100,25 @@
 	<li>alienistProphecy(tag=meme_Astrology)->The stars will reveal us the reality of these wondrous creatures.</li>
 </VME_Astrology.descriptionMaker.rules.rulesStrings>
 <VME_Astrology.generalRules.rulesStrings>
-	<li>memeAdjective->astrological</li>
-	<li>memeAdjective->zodiacal</li>
+	<li>memeAdjective->astrologique</li>
+	<li>memeAdjective->zodiaque</li>
 	<li>memeHyphenPrefix->astro</li>
-	<li>memeConcept->stars</li>
-	<li>memeLeaderNoun->grand astrologer</li>
-	<li>memeMoralist->diviner</li>
-	<li>memeMoralist->star seer</li>
+	<li>memeConcept->étoiles</li>
+	<li>memeLeaderNoun->grand astrologue</li>
+	<li>memeMoralist->devin</li>
+	<li>memeMoralist->devin des étoiles</li>
 </VME_Astrology.generalRules.rulesStrings>
-<VME_Astrology.symbolPacks.0.adjective>astrological</VME_Astrology.symbolPacks.0.adjective>
-<VME_Astrology.symbolPacks.0.ideoName>Astrology</VME_Astrology.symbolPacks.0.ideoName>
-<VME_Astrology.symbolPacks.0.member>astrologer</VME_Astrology.symbolPacks.0.member>
-<VME_Astrology.symbolPacks.0.theme>astrology</VME_Astrology.symbolPacks.0.theme>
-<VME_Astrology.symbolPacks.1.adjective>tarot reading</VME_Astrology.symbolPacks.1.adjective>
+<VME_Astrology.symbolPacks.0.adjective>astrologique</VME_Astrology.symbolPacks.0.adjective>
+<VME_Astrology.symbolPacks.0.ideoName>Astrologie</VME_Astrology.symbolPacks.0.ideoName>
+<VME_Astrology.symbolPacks.0.member>astrologue</VME_Astrology.symbolPacks.0.member>
+<VME_Astrology.symbolPacks.0.theme>astrologie</VME_Astrology.symbolPacks.0.theme>
+<VME_Astrology.symbolPacks.1.adjective>lecture du tarot</VME_Astrology.symbolPacks.1.adjective>
 <VME_Astrology.symbolPacks.1.ideoName>Tarot</VME_Astrology.symbolPacks.1.ideoName>
-<VME_Astrology.symbolPacks.1.member>tarot reader</VME_Astrology.symbolPacks.1.member>
+<VME_Astrology.symbolPacks.1.member>lecteur de tarot</VME_Astrology.symbolPacks.1.member>
 <VME_Astrology.symbolPacks.1.theme>tarot</VME_Astrology.symbolPacks.1.theme>
-<VME_Astrology.symbolPacks.2.adjective>divinatorial</VME_Astrology.symbolPacks.2.adjective>
+<VME_Astrology.symbolPacks.2.adjective>divinatoire</VME_Astrology.symbolPacks.2.adjective>
 <VME_Astrology.symbolPacks.2.ideoName>Divination</VME_Astrology.symbolPacks.2.ideoName>
-<VME_Astrology.symbolPacks.2.member>diviner</VME_Astrology.symbolPacks.2.member>
+<VME_Astrology.symbolPacks.2.member>devin</VME_Astrology.symbolPacks.2.member>
 <VME_Astrology.symbolPacks.2.theme>divination</VME_Astrology.symbolPacks.2.theme>
 
 
@@ -159,18 +159,18 @@
 	<li>alienistProphecy(tag=meme_GodEmperor)->All these wondrous animals will be a great trophy for our beloved God Emperor.</li>
 </VME_GodEmperor.descriptionMaker.rules.rulesStrings>
 <VME_GodEmperor.generalRules.rulesStrings>
-	<li>memeAdjective->absolute</li>
-	<li>memeAdjective->divine</li>
-	<li>memeHyphenPrefix->godlike</li>
-	<li>memeConcept->imperial sovereignty</li>
-	<li>memeLeaderNoun->god emperor</li>
-	<li>memeMoralist->loyal servant</li>
-	<li>memeMoralist->seer</li>
+	<li>memeAdjective->absolu</li>
+	<li>memeAdjective->divin</li>
+	<li>memeHyphenPrefix->divinité</li>
+	<li>memeConcept->souveraineté impériale</li>
+	<li>memeLeaderNoun->dieu empereur</li>
+	<li>memeMoralist->fidèle serviteur</li>
+	<li>memeMoralist->prophète</li>
 </VME_GodEmperor.generalRules.rulesStrings>
-<VME_GodEmperor.symbolPacks.0.adjective>divine</VME_GodEmperor.symbolPacks.0.adjective>
-<VME_GodEmperor.symbolPacks.0.ideoName>God Emperor</VME_GodEmperor.symbolPacks.0.ideoName>
-<VME_GodEmperor.symbolPacks.0.member>servant</VME_GodEmperor.symbolPacks.0.member>
-<VME_GodEmperor.symbolPacks.0.theme>god emperor</VME_GodEmperor.symbolPacks.0.theme>
+<VME_GodEmperor.symbolPacks.0.adjective>divin</VME_GodEmperor.symbolPacks.0.adjective>
+<VME_GodEmperor.symbolPacks.0.ideoName>Dieu Empereur</VME_GodEmperor.symbolPacks.0.ideoName>
+<VME_GodEmperor.symbolPacks.0.member>serviteur</VME_GodEmperor.symbolPacks.0.member>
+<VME_GodEmperor.symbolPacks.0.theme>dieu empereur</VME_GodEmperor.symbolPacks.0.theme>
 
 
 <VME_HardcoreIndustrialism.label>industrialisme</VME_HardcoreIndustrialism.label>
@@ -210,19 +210,19 @@
 	<li>alienistProphecy(tag=meme_HardcoreIndustrialis)->All these wondrous creatures show us what the ingenuity of humanity can do through hard work and careful experimentation.</li>
 </VME_HardcoreIndustrialism.descriptionMaker.rules.rulesStrings>
 <VME_HardcoreIndustrialism.generalRules.rulesStrings>
-	<li>memeAdjective->high-yielding</li>
-	<li>memeAdjective->productive</li>
-	<li>memeAdjective->fruitful</li>
-	<li>memeAdjective->constructive</li>
-	<li>memeAdjective->vigorous</li>
+	<li>memeAdjective->haut rendement</li>
+	<li>memeAdjective->productif</li>
+	<li>memeAdjective->fructueux</li>
+	<li>memeAdjective->constructif</li>
+	<li>memeAdjective->vigoureux</li>
 	<li>memeConcept->production</li>
-	<li>memeLeaderNoun->industrialist</li>
-	<li>memeMoralist->foreman</li>
+	<li>memeLeaderNoun->industriel</li>
+	<li>memeMoralist->contremaître</li>
 </VME_HardcoreIndustrialism.generalRules.rulesStrings>
-<VME_HardcoreIndustrialism.symbolPacks.0.adjective>productive</VME_HardcoreIndustrialism.symbolPacks.0.adjective>
-<VME_HardcoreIndustrialism.symbolPacks.0.ideoName>Industrialism</VME_HardcoreIndustrialism.symbolPacks.0.ideoName>
-<VME_HardcoreIndustrialism.symbolPacks.0.member>worker</VME_HardcoreIndustrialism.symbolPacks.0.member>
-<VME_HardcoreIndustrialism.symbolPacks.0.theme>Industrialism</VME_HardcoreIndustrialism.symbolPacks.0.theme>
+<VME_HardcoreIndustrialism.symbolPacks.0.adjective>productif</VME_HardcoreIndustrialism.symbolPacks.0.adjective>
+<VME_HardcoreIndustrialism.symbolPacks.0.ideoName>Industrialisation</VME_HardcoreIndustrialism.symbolPacks.0.ideoName>
+<VME_HardcoreIndustrialism.symbolPacks.0.member>travailleur</VME_HardcoreIndustrialism.symbolPacks.0.member>
+<VME_HardcoreIndustrialism.symbolPacks.0.theme>Industrialisation</VME_HardcoreIndustrialism.symbolPacks.0.theme>
 
 
 <VME_Gestalt.label>gestalt</VME_Gestalt.label>
@@ -263,21 +263,21 @@
 	<li>alienistProphecy(tag=meme_Gestalt)->If we have to judge whether all these genetically modified creations are good or bad, we will need to do it together.</li>
 </VME_Gestalt.descriptionMaker.rules.rulesStrings>
 <VME_Gestalt.generalRules.rulesStrings>
-	<li>memeAdjective->unified</li>
-	<li>memeAdjective->amalgamated</li>
-	<li>memeAdjective->hive-minded</li>
+	<li>memeAdjective->unifié</li>
+	<li>memeAdjective->amalgamé</li>
+	<li>memeAdjective->esprit de ruche</li>
 	<li>memeAdjective->coalescent</li>
-	<li>memeAdjective->aggregated</li>
-	<li>memeCreed->collective</li>
-	<li>memeCreed->hive</li>
-	<li>memeConcept->total unity</li>
-	<li>memeLeaderNoun->many-as-one</li>
-	<li>memeLeaderNoun->swarm</li>
+	<li>memeAdjective->agrégé</li>
+	<li>memeCreed->collectif</li>
+	<li>memeCreed->ruche</li>
+	<li>memeConcept->unité totale</li>
+	<li>memeLeaderNoun->plusieurs-en-un</li>
+	<li>memeLeaderNoun->essaim</li>
 </VME_Gestalt.generalRules.rulesStrings>
 <VME_Gestalt.symbolPacks.0.adjective>gestalt</VME_Gestalt.symbolPacks.0.adjective>
 <VME_Gestalt.symbolPacks.0.ideoName>gestalt</VME_Gestalt.symbolPacks.0.ideoName>
 <VME_Gestalt.symbolPacks.0.member>extension</VME_Gestalt.symbolPacks.0.member>
-<VME_Gestalt.symbolPacks.0.theme>hive mind</VME_Gestalt.symbolPacks.0.theme>
+<VME_Gestalt.symbolPacks.0.theme>esprit de ruche</VME_Gestalt.symbolPacks.0.theme>
 
 
 <VME_Fleshcrafters.label>fabrication de chair</VME_Fleshcrafters.label>
@@ -321,35 +321,35 @@
 	<li>alienistProphecy(tag=meme_Fleshcrafting)->All these wayward creations of humanity provide us with an infinite bounty of flesh for our experiments.</li>
 </VME_Fleshcrafters.descriptionMaker.rules.rulesStrings>
 <VME_Fleshcrafters.generalRules.rulesStrings>
-	<li>memeAdjective->biotechnological</li>
+	<li>memeAdjective->biotechnologie</li>
 	<li>memeAdjective->aberrant</li>
-	<li>memeAdjective->organic</li>
-	<li>memeAdjective->fleshcrafted</li>
+	<li>memeAdjective->organique</li>
+	<li>memeAdjective->façonné de chair</li>
 	<li>memeAdjective->mutant</li>
 	<li>memeCreed->modification</li>
 	<li>memeCreed->mutation</li>
 	<li>memeHyphenPrefix->bio</li>
-	<li>memeHyphenPrefix->biomechanic</li>
+	<li>memeHyphenPrefix->biomécanique</li>
 	<li>memeConcept->augmentation</li>
-	<li>memeLeaderNoun->flesh-shaper</li>
-	<li>memeLeaderNoun->ubermutant</li>
-	<li>memeLeaderNoun->shaper</li>
+	<li>memeLeaderNoun->façonneur de chair</li>
+	<li>memeLeaderNoun->super mutant</li>
+	<li>memeLeaderNoun->façonneur</li>
 	<li>memeLeaderAdjective->bio</li>
-	<li>memeMoralist->crafter</li>
-	<li>memeMoralist->mutator</li>
+	<li>memeMoralist->artisan</li>
+	<li>memeMoralist->mutateur</li>
 </VME_Fleshcrafters.generalRules.rulesStrings>
-<VME_Fleshcrafters.symbolPacks.0.adjective>biotechnologistic</VME_Fleshcrafters.symbolPacks.0.adjective>
-<VME_Fleshcrafters.symbolPacks.0.ideoName>Biotechnologism</VME_Fleshcrafters.symbolPacks.0.ideoName>
-<VME_Fleshcrafters.symbolPacks.0.member>biotechnologist</VME_Fleshcrafters.symbolPacks.0.member>
-<VME_Fleshcrafters.symbolPacks.0.theme>biotechnology</VME_Fleshcrafters.symbolPacks.0.theme>
-<VME_Fleshcrafters.symbolPacks.1.adjective>fleshcrafter</VME_Fleshcrafters.symbolPacks.1.adjective>
-<VME_Fleshcrafters.symbolPacks.1.ideoName>Fleshcrafting</VME_Fleshcrafters.symbolPacks.1.ideoName>
-<VME_Fleshcrafters.symbolPacks.1.member>fleshcrafter</VME_Fleshcrafters.symbolPacks.1.member>
-<VME_Fleshcrafters.symbolPacks.1.theme>fleshcrafting</VME_Fleshcrafters.symbolPacks.1.theme>
-<VME_Fleshcrafters.symbolPacks.2.adjective>shaping</VME_Fleshcrafters.symbolPacks.2.adjective>
-<VME_Fleshcrafters.symbolPacks.2.ideoName>Shaping</VME_Fleshcrafters.symbolPacks.2.ideoName>
-<VME_Fleshcrafters.symbolPacks.2.member>shaper</VME_Fleshcrafters.symbolPacks.2.member>
-<VME_Fleshcrafters.symbolPacks.2.theme>shaping</VME_Fleshcrafters.symbolPacks.2.theme>
+<VME_Fleshcrafters.symbolPacks.0.adjective>biotechnologique</VME_Fleshcrafters.symbolPacks.0.adjective>
+<VME_Fleshcrafters.symbolPacks.0.ideoName>Biotechnologie</VME_Fleshcrafters.symbolPacks.0.ideoName>
+<VME_Fleshcrafters.symbolPacks.0.member>biotechnologue</VME_Fleshcrafters.symbolPacks.0.member>
+<VME_Fleshcrafters.symbolPacks.0.theme>biotechnologie</VME_Fleshcrafters.symbolPacks.0.theme>
+<VME_Fleshcrafters.symbolPacks.1.adjective>sculpteur de chair</VME_Fleshcrafters.symbolPacks.1.adjective>
+<VME_Fleshcrafters.symbolPacks.1.ideoName>Façonneur de chair</VME_Fleshcrafters.symbolPacks.1.ideoName>
+<VME_Fleshcrafters.symbolPacks.1.member>sculpteur de chair</VME_Fleshcrafters.symbolPacks.1.member>
+<VME_Fleshcrafters.symbolPacks.1.theme>façonneur de chair</VME_Fleshcrafters.symbolPacks.1.theme>
+<VME_Fleshcrafters.symbolPacks.2.adjective>façonnage</VME_Fleshcrafters.symbolPacks.2.adjective>
+<VME_Fleshcrafters.symbolPacks.2.ideoName>Façonnage</VME_Fleshcrafters.symbolPacks.2.ideoName>
+<VME_Fleshcrafters.symbolPacks.2.member>façonneur</VME_Fleshcrafters.symbolPacks.2.member>
+<VME_Fleshcrafters.symbolPacks.2.theme>façonnage</VME_Fleshcrafters.symbolPacks.2.theme>
 
 
 <VME_HolyDiseases.label>maladies sacrées</VME_HolyDiseases.label>
@@ -1786,8 +1786,8 @@
 
 
 		<!-- +++++ Memes_Structures_Basic +++++ -->
-<VME_Structure_Serketist.label>serketisme</VME_Structure_Serketist.label>
-<VME_Structure_Serketist.description>Le vrai visage des dieux se trouve dans la morsure d'une araignée, la piqûre du scorpion. Que ceux aux nombreuses jambes rampent sur nous.</VME_Structure_Serketist.description>
+<VME_Structure_Serketist.label>insectoïsme</VME_Structure_Serketist.label>
+<VME_Structure_Serketist.description>Le vrai visage des dieux se trouve dans la morsure d'une mégaraignée, la piqûre de spélopède. Que ceux aux nombreuses pattes rampent sur nous.</VME_Structure_Serketist.description>
 <VME_Structure_Serketist.generalRules.rulesStrings>
 	<li>memeAdjective->serketic</li>
 	<li>memeAdjective->insectoid</li>
@@ -1914,7 +1914,7 @@
 
 
 
-<VME_Structure_Authoritarianism.label>autoritaire</VME_Structure_Authoritarianism.label>
+<VME_Structure_Authoritarianism.label>autoritarisme</VME_Structure_Authoritarianism.label>
 <VME_Structure_Authoritarianism.description>La pluralité n'apporte qu'une fausse illusion de choix et engendre le mécontentement, la rébellion et le chaos. D'une main de fer, nous gouvernerons notre peuple et apporterons la prospérité à tous.</VME_Structure_Authoritarianism.description>
 <VME_Structure_Authoritarianism.generalRules.rulesStrings>
 	<li>memeAdjective->firm</li>
@@ -2078,7 +2078,7 @@
 
 
 
-<VME_Structure_Shintaoism.label>origine shintaoiste</VME_Structure_Shintaoism.label>
+<VME_Structure_Shintaoism.label>origine shintoïsme</VME_Structure_Shintaoism.label>
 <VME_Structure_Shintaoism.description>Cette idéoligion est une descendante de l'ancien shinto et du taoïsme. Il peut avoir des préceptes très différents de ceux d'il y a des milliers d'années, mais ses symboles sont similaires.</VME_Structure_Shintaoism.description>
 <VME_Structure_Shintaoism.generalRules.rulesStrings>
 	<li>memeAdjective->balanced</li>
