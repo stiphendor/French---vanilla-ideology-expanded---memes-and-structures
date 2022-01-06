@@ -11,7 +11,7 @@
 <VME_Exalted_Gerontocracy.description>Notre clergé céleste nous guidera, l'âge est plus qu'un simple gain de sagesse ou de ride. Avec chaque année qui passe, nos aînés se rapprochent de Dieu.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Tout monothéiste.</VME_Exalted_Gerontocracy.description>
 
 <VME_Factory_Drones.label>usine de drônes</VME_Factory_Drones.label>
-<VME_Factory_Drones.description>Le travail et la coopération engendrent la force. Nous allons transpirer et saigner ensemble, en tant que communauté, pour atteindre un niveau de vie agréable pour nous tous.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Autoritaire.</VME_Factory_Drones.description>
+<VME_Factory_Drones.description>Le travail et la coopération engendrent la force. Nous allons transpirer et saigner ensemble, en tant que communauté, pour atteindre un niveau de vie agréable pour nous tous.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Autoritarisme.</VME_Factory_Drones.description>
 
 <VME_Corporate_Overlords.label>dirigeant de corporation</VME_Corporate_Overlords.label>
 <VME_Corporate_Overlords.description>Qu'ils soient dirigés par un conseil d'administration ou par notre PDG avisé, nous sommes confrontés à la réalité que l'argent fait tourner le Rimworld. En automatisant autant que possible et en gardant un personnel réduit, nous pouvons maximiser notre rendement 24h sur 24.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Corporation.</VME_Corporate_Overlords.description>
@@ -20,7 +20,7 @@
 <VME_GodKing_Radicals.description>Le poing d'acier de notre roi ou reine ne devrait jamais être remis en question, ils ne manqueront de rien. Si ceux qui s'opposent à nous ne se mettent pas à genoux, nous donnerons leurs jambes aux chiens.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Culte de la personnalité.</VME_GodKing_Radicals.description>
 
 <VME_Cosmic_Cultists.label>culte cosmique</VME_Cosmic_Cultists.label>
-<VME_Cosmic_Cultists.description>Les étoiles au-dessus nous chantent et nous répondons de la même manière. Que leur éternelle lueur éclaire les fils de notre destin qui reposent si péniblement sur un fuseau des plus capricieux. Plongez-vous dans le clair de lune sacré et laissez-vous guider par le fonctionnement astral des architectes du destin.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - ésotérisme.</VME_Cosmic_Cultists.description>
+<VME_Cosmic_Cultists.description>Les étoiles au-dessus nous chantent et nous répondons de la même manière. Que leur éternelle lueur éclaire les fils de notre destin qui reposent si péniblement sur un fuseau des plus capricieux. Plongez-vous dans le clair de lune sacré et laissez-vous guider par le fonctionnement astral des architectes du destin.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Ésotérisme.</VME_Cosmic_Cultists.description>
 
 <VME_Flame_Seers.label>voyants de flammes</VME_Flame_Seers.label>
 <VME_Flame_Seers.description>Au commencement - Il y avait la flamme, et de la flamme, est venue la chaleur, et de la chaleur, est venue la vie. Bénis soyons-nous envoûtés par l'incandescence grossière du soleil d'en haut.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - N'importe laquelle.</VME_Flame_Seers.description>
@@ -31,8 +31,8 @@
 <VME_Nordic_Matriarchy.label>matriarcat nordique</VME_Nordic_Matriarchy.label>
 <VME_Nordic_Matriarchy.description>C'est par le tourbillon de neige et le fracas des vagues que nous menons notre peuple vers l'au-delà. Mourir d'une mort honorable ou répondre à notre vierge bouclier.\n\n&lt;color=#E5E54C&gt;Structure recommandée::&lt;/color&gt;\n - Panthéisme.</VME_Nordic_Matriarchy.description>
 
-<VME_Steamworld_Neerdowells.label>steamworld neer-do-wells</VME_Steamworld_Neerdowells.label>
-<VME_Steamworld_Neerdowells.description>Du saloon à l'écurie étaient des muffalopokes honnêtes et vivaient selon une règle simple. « Vous ne pouvez pas vivre une mauvaise vie et que de bonnes choses vous arrivent ». « Bien sûr, nous ne semblons pas tous trop convaincus … Ne laissez pas le bras long de la loi vous rattraper, vous entendez ?\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Origine Chrétienne.</VME_Steamworld_Neerdowells.description>
+<VME_Steamworld_Neerdowells.label>steamworld pas-que-le bien</VME_Steamworld_Neerdowells.label>
+<VME_Steamworld_Neerdowells.description>Du saloon à l'écurie, nous sommes d'honnêtes muffalo-boys et vivons selon une règle simple. "Tu ne peux pas vivre une mauvaise vie et avoir que des bonnes choses qui t'arrivent". Bien sûr, nous ne sommes pas tous convaincus... Mais ne laisse pas le bras de la loi t'attraper, tu m'entends ?\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Origine Chrétienne.</VME_Steamworld_Neerdowells.description>
 
 <VME_Medieval_Monarchists.label>monarchie médiévale</VME_Medieval_Monarchists.label>
 <VME_Medieval_Monarchists.description>Nos pères et grands-pères ont tous suivi la prévoyance et les conseils de notre roi, qu'il règne longtemps, et nous ne ferons pas autrement. Si un autre royaume jugeait préférable de recourir à l'arc et à la lame, nous n'hésitons pas à en faire nos serfs.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Culte de la personnalité.</VME_Medieval_Monarchists.description>
@@ -50,13 +50,13 @@
 <VME_Pestilent_Doomsayers.description>Le corps est à la fois un vaisseau d'expérimentation et de mutation. Si quelqu'un pousse sa chair avec délectation jusqu'à ses limites, il sera récompensé par le dieu de la peste avec un adieu des plus joyeux de ce monde condamné.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Eschatologisme.</VME_Pestilent_Doomsayers.description>
 
 <VME_Insectoid_Psykers.label>psykers insectoïdes</VME_Insectoid_Psykers.label>
-<VME_Insectoid_Psykers.description>Les insectes, bien que considérés par la plupart comme de la vermine, sont véritablement la société la plus synchronisée et organisée que l'on trouve dans toute la nature ; seuls les vrais aveugles les considéreraient comme au-dessous de nous. Nous ne pouvons pas commencer à démêler les objectifs illimités de la reine insectoïde et de ses ruches. Nous devrions chercher à les imiter, afin que nous puissions mieux comprendre leurs manières.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Serketisme.</VME_Insectoid_Psykers.description>
+<VME_Insectoid_Psykers.description>Les insectes, bien que considérés par la plupart comme de la vermine, sont véritablement la société la plus synchronisée et organisée que l'on trouve dans toute la nature ; seuls les vrais aveugles les considéreraient comme au-dessous de nous. Nous ne pouvons pas commencer à démêler les objectifs illimités de la reine insectoïde et de ses ruches. Nous devrions chercher à les imiter, afin que nous puissions mieux comprendre leurs manières.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Insectoïsme.</VME_Insectoid_Psykers.description>
 
 <VME_Mechanoid_Technocrat.label>mécanoïde technocrate</VME_Mechanoid_Technocrat.label>
 <VME_Mechanoid_Technocrat.description>Penser qu'une créature capable d'une endurance infinie et libérée des fardeaux de la libre pensée est destinée à servir l'humanité est plus que stupide. Nous ne pouvons pas commencer à démêler les objectifs illimités de la conscience de la machine. Nous devrions chercher à les imiter afin de pouvoir apaiser davantage leur hostilité.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Omnisme.</VME_Mechanoid_Technocrat.description>
 
 <VME_Ecological_Fascists.label>fascistes écologistes</VME_Ecological_Fascists.label>
-<VME_Ecological_Fascists.description>N'épargnez absolument personne qui ose polluer ou entacher de quelque manière que ce soit le sol de mère nature avec son existence pathétique. Que nos corps frêles cèdent la place pour nourrir les arbres qui nous menacent. Respectez la planète sur laquelle nous marchons ou périssons à la demande de notre chercheur de graines.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Autoritaire.</VME_Ecological_Fascists.description>
+<VME_Ecological_Fascists.description>N'épargnez absolument personne qui ose polluer ou entacher de quelque manière que ce soit le sol de mère nature avec son existence pathétique. Que nos corps frêles cèdent la place pour nourrir les arbres qui nous menacent. Respectez la planète sur laquelle nous marchons ou périssons à la demande de notre chercheur de graines.\n\n&lt;color=#E5E54C&gt;Structure recommandée:&lt;/color&gt;\n - Autoritarisme.</VME_Ecological_Fascists.description>
 
 
 </LanguageData>
