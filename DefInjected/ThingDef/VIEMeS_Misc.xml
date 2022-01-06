@@ -1,23 +1,23 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_TaoistSlab_Medium.label>shintao slab (medium)</VME_TaoistSlab_Medium.label>
-<VME_TaoistSlab_Medium.description>A stone bas relief of shintao imagery for decorating a floor.</VME_TaoistSlab_Medium.description>
+<VME_TaoistSlab_Medium.label>plaque shintoïsme (moyenne)</VME_TaoistSlab_Medium.label>
+<VME_TaoistSlab_Medium.description>Un bas-relief en pierre représentant des images shintoïsme pour décorer un sol.</VME_TaoistSlab_Medium.description>
 
-<VME_TaoistSlab_Broad.label>shintao slab (broad)</VME_TaoistSlab_Broad.label>
-<VME_TaoistSlab_Broad.description>A stone bas relief of shintao imagery for decorating a floor.</VME_TaoistSlab_Broad.description>
+<VME_TaoistSlab_Broad.label>plaque shintoïsme (grande)</VME_TaoistSlab_Broad.label>
+<VME_TaoistSlab_Broad.description>Un bas-relief en pierre représentant des images shintoïsme pour décorer un sol.</VME_TaoistSlab_Broad.description>
 
-<VME_EsotericismSlab_Medium.label>esotericism slab (medium)</VME_EsotericismSlab_Medium.label>
-<VME_EsotericismSlab_Medium.description>A stone bas relief of esoteric imagery for decorating a floor.</VME_EsotericismSlab_Medium.description>
+<VME_EsotericismSlab_Medium.label>plaque ésotérisme (moyenne)</VME_EsotericismSlab_Medium.label>
+<VME_EsotericismSlab_Medium.description>Un bas-relief en pierre représentant des images ésotérisme pour décorer un sol.</VME_EsotericismSlab_Medium.description>
 
-<VME_EsotericismSlab_Broad.label>esotericism slab (broad)</VME_EsotericismSlab_Broad.label>
-<VME_EsotericismSlab_Broad.description>A stone bas relief of esoteric imagery for decorating a floor.</VME_EsotericismSlab_Broad.description>
+<VME_EsotericismSlab_Broad.label>plaque ésotérisme (grande)</VME_EsotericismSlab_Broad.label>
+<VME_EsotericismSlab_Broad.description>Un bas-relief en pierre représentant des images ésotérisme pour décorer un sol.</VME_EsotericismSlab_Broad.description>
 
-<VME_EldritchSlab_Medium.label>eldritch slab (medium)</VME_EldritchSlab_Medium.label>
-<VME_EldritchSlab_Medium.description>A stone bas relief of eldritch imagery for decorating a floor.</VME_EldritchSlab_Medium.description>
+<VME_EldritchSlab_Medium.label>plaque eldritch (moyenne)</VME_EldritchSlab_Medium.label>
+<VME_EldritchSlab_Medium.description>Un bas-relief en pierre représentant des images eldritch pour décorer un sol.</VME_EldritchSlab_Medium.description>
 
-<VME_EldritchSlab_Broad.label>eldritch slab (broad)</VME_EldritchSlab_Broad.label>
-<VME_EldritchSlab_Broad.description>A stone bas relief of eldritch imagery for decorating a floor.</VME_EldritchSlab_Broad.description>
+<VME_EldritchSlab_Broad.label>plaque eldritch (grande)</VME_EldritchSlab_Broad.label>
+<VME_EldritchSlab_Broad.description>Un bas-relief en pierre représentant des images eldritch pour décorer un sol.</VME_EldritchSlab_Broad.description>
 
 
 </LanguageData>
