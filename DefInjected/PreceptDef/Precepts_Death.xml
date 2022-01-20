@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_Death_DontCare.label>insignifiant</VME_Death_DontCare.label>
+<VME_Death_DontCare.label>insignifiante</VME_Death_DontCare.label>
 <VME_Death_DontCare.description>La mort est inévitable, si nous perdons un allié ou tuons un ennemi, il ne faut pas y penser.\n\n&lt;color=#E5E54C&gt;Effet sur le gameplay:&lt;/color&gt;\n - Les colons n'auront aucun effet d'humeur s'ils perdent d'autres colons.</VME_Death_DontCare.description>
 
-<VME_Death_Normal.label>normal</VME_Death_Normal.label>
+<VME_Death_Normal.label>normale</VME_Death_Normal.label>
 <VME_Death_Normal.description>La mort est inévitable, une réalité incroyablement triste de la vie.</VME_Death_Normal.description>
 
-<VME_Death_Troubling.label>troublant</VME_Death_Troubling.label>
+<VME_Death_Troubling.label>troublante</VME_Death_Troubling.label>
 <VME_Death_Troubling.description>La mort est inévitable, mais nous préférons ne pas nous y attarder et ne pas nous souvenir le plus possible de sa réalité.</VME_Death_Troubling.description>
 
 
