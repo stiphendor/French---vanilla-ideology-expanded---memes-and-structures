@@ -1,183 +1,183 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_BonfireOutcome.description>Depending on ritual quality, participants will receive a recreation boost that last between 4 hours and 3 days that will raise their recreation bar. They'll also get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.\n\nThe ritual bonfire will stay lit for at least two quadrums, providing a beauty bonus nearby and counting towards the number of fires around for the Fire: Desired precept.</VME_BonfireOutcome.description>
-<VME_BonfireOutcome.comps.0.label>{PAWN_labelShort}'s social impact</VME_BonfireOutcome.comps.0.label>
-<VME_BonfireOutcome.comps.0.labelAbstract>speaker's social impact</VME_BonfireOutcome.comps.0.labelAbstract>
-<VME_BonfireOutcome.comps.1.label>participant count</VME_BonfireOutcome.comps.1.label>
+<VME_BonfireOutcome.description>Selon la qualité du rituel, les participants recevront un boost de loisirs qui durera entre 4 heures et 3 jours qui augmentera leur barre de loisirs. Ils auront également une humeur entre {MINMOOD} et {MAXMOOD} pendant {MOODDAYS} jours.\n\nLe feu de joie rituel restera allumé pendant au moins deux quadrums, offrant un bonus de beauté à proximité et comptant dans le nombre d'incendies autour pour le Feu : précepte souhaité.</VME_BonfireOutcome.description>
+<VME_BonfireOutcome.comps.0.label>Impact social de {PAWN_labelShort}</VME_BonfireOutcome.comps.0.label>
+<VME_BonfireOutcome.comps.0.labelAbstract>impact social de l'orateur</VME_BonfireOutcome.comps.0.labelAbstract>
+<VME_BonfireOutcome.comps.1.label>nombre de participants</VME_BonfireOutcome.comps.1.label>
 <VME_BonfireOutcome.outcomeChances.0.label>Terrible</VME_BonfireOutcome.outcomeChances.0.label>
-<VME_BonfireOutcome.outcomeChances.0.description>The {0} was terrible! Some pathetic little flames drifted around, and they went away too soon (no recreation effect applied).</VME_BonfireOutcome.outcomeChances.0.description>
-<VME_BonfireOutcome.outcomeChances.1.label>Lackluster</VME_BonfireOutcome.outcomeChances.1.label>
-<VME_BonfireOutcome.outcomeChances.1.description>The {0} was lackluster. We were expecting a wondrous conflagration, and instead we got an oversized campfire. At least it was kinda entertaining.\n\nRecreation of all participants will be raised for 4 hours.</VME_BonfireOutcome.outcomeChances.1.description>
-<VME_BonfireOutcome.outcomeChances.2.label>Good</VME_BonfireOutcome.outcomeChances.2.label>
-<VME_BonfireOutcome.outcomeChances.2.description>The {0} was good. The flames rose and crackled majestically over the settlement, and it lifted all our spirits considerably.\n\nRecreation of all participants will be raised for 1 day.</VME_BonfireOutcome.outcomeChances.2.description>
-<VME_BonfireOutcome.outcomeChances.3.label>Glorious</VME_BonfireOutcome.outcomeChances.3.label>
-<VME_BonfireOutcome.outcomeChances.3.description>The {0} was glorious! It was super fun and we really connected with each other with the shared experience.\n\nRecreation of all participants will be raised for 3 days.</VME_BonfireOutcome.outcomeChances.3.description>
+<VME_BonfireOutcome.outcomeChances.0.description>Le {0} était horrible ! Quelques petites flammes pathétiques parties trop tôt (aucun effet de divertissement appliqué).</VME_BonfireOutcome.outcomeChances.0.description>
+<VME_BonfireOutcome.outcomeChances.1.label>Terne</VME_BonfireOutcome.outcomeChances.1.label>
+<VME_BonfireOutcome.outcomeChances.1.description>Le {0} était terne. Nous nous attendions à une merveilleuse conflagration, et à la place, nous avons eu un feu de camp surdimensionné. Au moins, c'était un peu amusant.\n\nLe besoin de divertissement de tous les participants sera comblé pendant 4 heures.</VME_BonfireOutcome.outcomeChances.1.description>
+<VME_BonfireOutcome.outcomeChances.2.label>Bon</VME_BonfireOutcome.outcomeChances.2.label>
+<VME_BonfireOutcome.outcomeChances.2.description>Le {0} était bon. Les flammes se sont élevées et ont crépité majestueusement au-dessus de la colonie, et cela a considérablement remonté le moral de tous.\n\nLe besoin de divertissement de tous les participants sera comblé pendant 1 jour.</VME_BonfireOutcome.outcomeChances.2.description>
+<VME_BonfireOutcome.outcomeChances.3.label>Glorieux</VME_BonfireOutcome.outcomeChances.3.label>
+<VME_BonfireOutcome.outcomeChances.3.description>Le {0} était magnifique ! C'était super amusant et nous nous sommes vraiment connectés les uns aux autres avec l'expérience partagée.\n\nLe besoin de divertissement de tous les participants sera comblé pendant 3 jours.</VME_BonfireOutcome.outcomeChances.3.description>
 
-<VME_CeremonialSuicideRitualOutcome.description>Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. All participants must be healthy to attend.</VME_CeremonialSuicideRitualOutcome.description>
-<VME_CeremonialSuicideRitualOutcome.comps.0.label>{PAWN_labelShort}'s social impact</VME_CeremonialSuicideRitualOutcome.comps.0.label>
-<VME_CeremonialSuicideRitualOutcome.comps.0.labelAbstract>speaker's social impact</VME_CeremonialSuicideRitualOutcome.comps.0.labelAbstract>
-<VME_CeremonialSuicideRitualOutcome.comps.1.label>room impressiveness</VME_CeremonialSuicideRitualOutcome.comps.1.label>
-<VME_CeremonialSuicideRitualOutcome.comps.2.label>participant count</VME_CeremonialSuicideRitualOutcome.comps.2.label>
+<VME_CeremonialSuicideRitualOutcome.description>Selon la qualité du rituel, les participants auront entre {MINMOOD} et {MAXMOOD} humeur pendant {MOODDAYS} jours. Tous les participants doivent être en bonne santé pour y assister.</VME_CeremonialSuicideRitualOutcome.description>
+<VME_CeremonialSuicideRitualOutcome.comps.0.label>Impact social de {PAWN_labelShort}</VME_CeremonialSuicideRitualOutcome.comps.0.label>
+<VME_CeremonialSuicideRitualOutcome.comps.0.labelAbstract>l'impact social du locuteur</VME_CeremonialSuicideRitualOutcome.comps.0.labelAbstract>
+<VME_CeremonialSuicideRitualOutcome.comps.1.label>impression de la chambre</VME_CeremonialSuicideRitualOutcome.comps.1.label>
+<VME_CeremonialSuicideRitualOutcome.comps.2.label>nombre de participants</VME_CeremonialSuicideRitualOutcome.comps.2.label>
 <VME_CeremonialSuicideRitualOutcome.outcomeChances.0.label>Terrible</VME_CeremonialSuicideRitualOutcome.outcomeChances.0.label>
-<VME_CeremonialSuicideRitualOutcome.outcomeChances.0.description>The {0} was terrible! The blade was thrust laterally and there was blood and entrails everywhere. Disgusting!</VME_CeremonialSuicideRitualOutcome.outcomeChances.0.description>
-<VME_CeremonialSuicideRitualOutcome.outcomeChances.1.label>Boring</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.label>
-<VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>The {0} was boring. The speech seemed forced. At the very least we have restored the honor of our colony.</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>
+<VME_CeremonialSuicideRitualOutcome.outcomeChances.0.description>Le {0} était horrible ! La lame était poussée latéralement et il y avait du sang et des entrailles partout. Répugnant!</VME_CeremonialSuicideRitualOutcome.outcomeChances.0.description>
+<VME_CeremonialSuicideRitualOutcome.outcomeChances.1.label>Ennuyant</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.label>
+<VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>Le {0} était ennuyeux. Le discours semblait forcé. Au moins avons-nous restauré l'honneur de notre colonie.</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>
 <VME_CeremonialSuicideRitualOutcome.outcomeChances.2.label>Honorable</VME_CeremonialSuicideRitualOutcome.outcomeChances.2.label>
-<VME_CeremonialSuicideRitualOutcome.outcomeChances.2.description>The {0} has restored the honor of our colony. The shadow of defeat no longer clouds our minds.</VME_CeremonialSuicideRitualOutcome.outcomeChances.2.description>
-<VME_CeremonialSuicideRitualOutcome.outcomeChances.3.label>Unforgettable</VME_CeremonialSuicideRitualOutcome.outcomeChances.3.label>
-<VME_CeremonialSuicideRitualOutcome.outcomeChances.3.description>The {0} was unforgettable! Everyone will remember the courage, self-control, and strong resolve. The honor of our colony is now spotless.</VME_CeremonialSuicideRitualOutcome.outcomeChances.3.description>
+<VME_CeremonialSuicideRitualOutcome.outcomeChances.2.description>Le {0} a restauré l'honneur de notre colonie. L'ombre de la défaite n'obscurcit plus nos esprits.</VME_CeremonialSuicideRitualOutcome.outcomeChances.2.description>
+<VME_CeremonialSuicideRitualOutcome.outcomeChances.3.label>Inoubliable</VME_CeremonialSuicideRitualOutcome.outcomeChances.3.label>
+<VME_CeremonialSuicideRitualOutcome.outcomeChances.3.description>Le {0} était inoubliable ! Tout le monde se souviendra du courage, de la maîtrise de soi et de la forte détermination. L'honneur de notre colonie est maintenant sans tâche.</VME_CeremonialSuicideRitualOutcome.outcomeChances.3.description>
 
-<VME_DivineStarsRitualOutcome.description>Participants will get completely random results, with no regard for ritual quality.</VME_DivineStarsRitualOutcome.description>
-<VME_DivineStarsRitualOutcome.comps.0.label>{PAWN_labelShort}'s social impact</VME_DivineStarsRitualOutcome.comps.0.label>
-<VME_DivineStarsRitualOutcome.comps.0.labelAbstract>speaker's social impact</VME_DivineStarsRitualOutcome.comps.0.labelAbstract>
-<VME_DivineStarsRitualOutcome.comps.1.label>participant count</VME_DivineStarsRitualOutcome.comps.1.label>
-<VME_DivineStarsRitualOutcome.outcomeChances.0.label>Inscrutable</VME_DivineStarsRitualOutcome.outcomeChances.0.label>
-<VME_DivineStarsRitualOutcome.outcomeChances.0.description>Our destiny has been revealed by the stars.</VME_DivineStarsRitualOutcome.outcomeChances.0.description>
-<VME_DivineStarsRitualOutcome.outcomeChances.1.label>Inscrutable</VME_DivineStarsRitualOutcome.outcomeChances.1.label>
-<VME_DivineStarsRitualOutcome.outcomeChances.1.description>Our destiny has been revealed by the stars.</VME_DivineStarsRitualOutcome.outcomeChances.1.description>
+<VME_DivineStarsRitualOutcome.description>Les participants obtiendront des résultats complètement aléatoires, sans égard à la qualité rituelle.</VME_DivineStarsRitualOutcome.description>
+<VME_DivineStarsRitualOutcome.comps.0.label>Impact social de {PAWN_labelShort}</VME_DivineStarsRitualOutcome.comps.0.label>
+<VME_DivineStarsRitualOutcome.comps.0.labelAbstract>l'impact social du locuteur</VME_DivineStarsRitualOutcome.comps.0.labelAbstract>
+<VME_DivineStarsRitualOutcome.comps.1.label>nombre de participants</VME_DivineStarsRitualOutcome.comps.1.label>
+<VME_DivineStarsRitualOutcome.outcomeChances.0.label>Impénétrable</VME_DivineStarsRitualOutcome.outcomeChances.0.label>
+<VME_DivineStarsRitualOutcome.outcomeChances.0.description>Notre destin a été révélé par les étoiles.</VME_DivineStarsRitualOutcome.outcomeChances.0.description>
+<VME_DivineStarsRitualOutcome.outcomeChances.1.label>Impénétrable</VME_DivineStarsRitualOutcome.outcomeChances.1.label>
+<VME_DivineStarsRitualOutcome.outcomeChances.1.description>Notre destin a été révélé par les étoiles.</VME_DivineStarsRitualOutcome.outcomeChances.1.description>
 
-<VME_IncantationOutcome.description>If the incantation ritual goes well (positive outcome) it will increase the corruption need of all participants by 10%, as well as provide a mood bonus.</VME_IncantationOutcome.description>
-<VME_IncantationOutcome.comps.0.label>room impressiveness</VME_IncantationOutcome.comps.0.label>
-<VME_IncantationOutcome.comps.1.label>participant count</VME_IncantationOutcome.comps.1.label>
-<VME_IncantationOutcome.comps.2.label>{PAWN_labelShort}'s social impact</VME_IncantationOutcome.comps.2.label>
-<VME_IncantationOutcome.comps.2.labelAbstract>speaker's social impact</VME_IncantationOutcome.comps.2.labelAbstract>
-<VME_IncantationOutcome.outcomeChances.0.label>Squamous</VME_IncantationOutcome.outcomeChances.0.label>
-<VME_IncantationOutcome.outcomeChances.0.description>The {0} was abnormal! An indescribably hideous gibbering! We'd even describe it as squamous, but we don't even know what that is! An unutterable word!</VME_IncantationOutcome.outcomeChances.0.description>
-<VME_IncantationOutcome.outcomeChances.1.label>Accursed</VME_IncantationOutcome.outcomeChances.1.label>
-<VME_IncantationOutcome.outcomeChances.1.description>The {0} was suitably accursed. A litany of dark morbidities expressed in crime, perversion, and insanity.</VME_IncantationOutcome.outcomeChances.1.description>
-<VME_IncantationOutcome.outcomeChances.2.label>Blasphemous</VME_IncantationOutcome.outcomeChances.2.label>
-<VME_IncantationOutcome.outcomeChances.2.description>The {0} was blasphemous. A promise of hidden and fathomless worlds of strange life which pulsate in the gulfs beyond the stars and press hideously upon our own globe in unholy dimensions which only the dead and the moonstruck can glimpse.</VME_IncantationOutcome.outcomeChances.2.description>
-<VME_IncantationOutcome.outcomeChances.3.label>Loathsome</VME_IncantationOutcome.outcomeChances.3.label>
-<VME_IncantationOutcome.outcomeChances.3.description>The {0} was loathsome! We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far.</VME_IncantationOutcome.outcomeChances.3.description>
+<VME_IncantationOutcome.description>Si le rituel d'incantation se passe bien (résultat positif), il augmentera de 10 % le besoin de corruption de tous les participants, ainsi qu'un bonus d'humeur.</VME_IncantationOutcome.description>
+<VME_IncantationOutcome.comps.0.label>impression de la chambre</VME_IncantationOutcome.comps.0.label>
+<VME_IncantationOutcome.comps.1.label>nombre de participants</VME_IncantationOutcome.comps.1.label>
+<VME_IncantationOutcome.comps.2.label>Impact social de {PAWN_labelShort}</VME_IncantationOutcome.comps.2.label>
+<VME_IncantationOutcome.comps.2.labelAbstract>l'impact social du locuteur</VME_IncantationOutcome.comps.2.labelAbstract>
+<VME_IncantationOutcome.outcomeChances.0.label>Squameux</VME_IncantationOutcome.outcomeChances.0.label>
+<VME_IncantationOutcome.outcomeChances.0.description>Le {0} était anormal ! Un charabia indescriptiblement hideux ! On le décrirait même comme squameux, mais on ne sait même pas ce que c'est ! Un mot inexprimable !</VME_IncantationOutcome.outcomeChances.0.description>
+<VME_IncantationOutcome.outcomeChances.1.label>Maudit</VME_IncantationOutcome.outcomeChances.1.label>
+<VME_IncantationOutcome.outcomeChances.1.description>Le {0} était convenablement maudit. Une litanie de sombres morbidités exprimées dans le crime, la perversion et la folie.</VME_IncantationOutcome.outcomeChances.1.description>
+<VME_IncantationOutcome.outcomeChances.2.label>Blasphématoire</VME_IncantationOutcome.outcomeChances.2.label>
+<VME_IncantationOutcome.outcomeChances.2.description>Le {0} était blasphématoire. Une promesse de mondes cachés et insondables de vie étrange qui palpitent dans les golfes au-delà des étoiles et se pressent hideusement sur notre propre globe dans des dimensions impies que seuls les morts et les lunaires peuvent entrevoir.</VME_IncantationOutcome.outcomeChances.2.description>
+<VME_IncantationOutcome.outcomeChances.3.label>Détestable</VME_IncantationOutcome.outcomeChances.3.label>
+<VME_IncantationOutcome.outcomeChances.3.description>Le {0} était répugnant ! Nous vivons sur une île placide d'ignorance au milieu des mers noires de l'infini, et il n'était pas prévu que nous devions voyager loin.</VME_IncantationOutcome.outcomeChances.3.description>
 
-<VME_InsectoidHymnRitualOutcome.description>Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.</VME_InsectoidHymnRitualOutcome.description>
-<VME_InsectoidHymnRitualOutcome.comps.0.label>chanter present</VME_InsectoidHymnRitualOutcome.comps.0.label>
-<VME_InsectoidHymnRitualOutcome.comps.1.label>participant count</VME_InsectoidHymnRitualOutcome.comps.1.label>
-<VME_InsectoidHymnRitualOutcome.comps.2.label>room impressiveness</VME_InsectoidHymnRitualOutcome.comps.2.label>
-<VME_InsectoidHymnRitualOutcome.outcomeChances.0.label>Uninteresting</VME_InsectoidHymnRitualOutcome.outcomeChances.0.label>
-<VME_InsectoidHymnRitualOutcome.outcomeChances.0.description>The {0} was incredibly uninteresting. Yeah, yeah, insects are cool. Bah.\n\nThe ritual had no effect over the insectoid herder's nest building ability.</VME_InsectoidHymnRitualOutcome.outcomeChances.0.description>
-<VME_InsectoidHymnRitualOutcome.outcomeChances.1.label>Awkward</VME_InsectoidHymnRitualOutcome.outcomeChances.1.label>
-<VME_InsectoidHymnRitualOutcome.outcomeChances.1.description>The {0} was awkward. The speech was repetitive, and it did nothing to convince us of the divinity of our beloved insects.\n\nThe ritual had no effect over the insectoid herder's nest building ability.</VME_InsectoidHymnRitualOutcome.outcomeChances.1.description>
-<VME_InsectoidHymnRitualOutcome.outcomeChances.2.label>Rousing</VME_InsectoidHymnRitualOutcome.outcomeChances.2.label>
-<VME_InsectoidHymnRitualOutcome.outcomeChances.2.description>The {0} was very rousing. The chanter showed impressing skill and the hymn appropriately extolled the virtues of our way of life.\n\nThe ritual refreshed the cooldown of the insectoid herder's nest building ability.</VME_InsectoidHymnRitualOutcome.outcomeChances.2.description>
-<VME_InsectoidHymnRitualOutcome.outcomeChances.3.label>Entrancing</VME_InsectoidHymnRitualOutcome.outcomeChances.3.label>
-<VME_InsectoidHymnRitualOutcome.outcomeChances.3.description>The {0} was entrancing! We can still hear the mesmerizing words of the hymn, like a myriad insectile legs crawling all over our bodies.\n\nThe ritual refreshed the cooldown of the insectoid herder's nest building ability.\n\nThe ritual also made any insectoids that were assaulting the colony flee.</VME_InsectoidHymnRitualOutcome.outcomeChances.3.description>
+<VME_InsectoidHymnRitualOutcome.description>Selon la qualité du rituel, les participants auront entre {MINMOOD} et {MAXMOOD} humeur pendant {MOODDAYS} jours.</VME_InsectoidHymnRitualOutcome.description>
+<VME_InsectoidHymnRitualOutcome.comps.0.label>chantre présent</VME_InsectoidHymnRitualOutcome.comps.0.label>
+<VME_InsectoidHymnRitualOutcome.comps.1.label>nombre de participants</VME_InsectoidHymnRitualOutcome.comps.1.label>
+<VME_InsectoidHymnRitualOutcome.comps.2.label>impression de la chambre</VME_InsectoidHymnRitualOutcome.comps.2.label>
+<VME_InsectoidHymnRitualOutcome.outcomeChances.0.label>Inintéressant</VME_InsectoidHymnRitualOutcome.outcomeChances.0.label>
+<VME_InsectoidHymnRitualOutcome.outcomeChances.0.description>Le {0} était incroyablement inintéressant. Ouais, ouais, les insectes sont cool. Bah.\n\nLe rituel n'a eu aucun effet sur la capacité de construction de nids de l'éleveur d'insectoïdes.</VME_InsectoidHymnRitualOutcome.outcomeChances.0.description>
+<VME_InsectoidHymnRitualOutcome.outcomeChances.1.label>Gênant</VME_InsectoidHymnRitualOutcome.outcomeChances.1.label>
+<VME_InsectoidHymnRitualOutcome.outcomeChances.1.description>Le {0} était maladroit. Le discours était répétitif, et il n'a rien fait pour nous convaincre de la divinité de nos insectes bien-aimés.\n\nLe rituel n'a eu aucun effet sur la capacité de construction de nids de l'éleveur d'insectoïdes.</VME_InsectoidHymnRitualOutcome.outcomeChances.1.description>
+<VME_InsectoidHymnRitualOutcome.outcomeChances.2.label>Entraînant</VME_InsectoidHymnRitualOutcome.outcomeChances.2.label>
+<VME_InsectoidHymnRitualOutcome.outcomeChances.2.description>Le {0} était très entraînant. Le chantre a fait preuve d'une habileté impressionnante et l'hymne a justement vanté les vertus de notre mode de vie.\n\nLe rituel a rafraîchi le temps de recharge de la capacité de construction de nids de l'éleveur d'insectoïdes.</VME_InsectoidHymnRitualOutcome.outcomeChances.2.description>
+<VME_InsectoidHymnRitualOutcome.outcomeChances.3.label>Enchanteur</VME_InsectoidHymnRitualOutcome.outcomeChances.3.label>
+<VME_InsectoidHymnRitualOutcome.outcomeChances.3.description>Le {0} était envoûtant ! Nous pouvons encore entendre les paroles fascinantes de l'hymne, comme une myriade de pattes d'insectes rampant sur tout notre corps.\n\nLe rituel a rafraîchi le temps de recharge de la capacité de construction de nids de l'éleveur d'insectoïdes.\n\nLe rituel a également fait fuir tous les insectoïdes qui agressaient la colonie.</VME_InsectoidHymnRitualOutcome.outcomeChances.3.description>
 
-<VME_LeaderConversionOutcome.description>If it goes well, target's ideoligion certainty will be reduced or they will convert. If it goes badly, they will gain certainty in their old beliefs.</VME_LeaderConversionOutcome.description>
-<VME_LeaderConversionOutcome.comps.0.label>room impressiveness</VME_LeaderConversionOutcome.comps.0.label>
-<VME_LeaderConversionOutcome.comps.1.label>participant count</VME_LeaderConversionOutcome.comps.1.label>
-<VME_LeaderConversionOutcome.comps.2.label>{PAWN_labelShort}'s social impact</VME_LeaderConversionOutcome.comps.2.label>
-<VME_LeaderConversionOutcome.comps.2.labelAbstract>speaker's social impact</VME_LeaderConversionOutcome.comps.2.labelAbstract>
-<VME_LeaderConversionOutcome.comps.3.label>{PAWN_labelShort}'s expectations</VME_LeaderConversionOutcome.comps.3.label>
-<VME_LeaderConversionOutcome.comps.3.labelAbstract>convertee's expectations</VME_LeaderConversionOutcome.comps.3.labelAbstract>
+<VME_LeaderConversionOutcome.description>Si tout se passe bien, la certitude de l'idéoligion de la cible sera réduite ou elle se convertira. Si ça tourne mal, ils gagneront en certitude dans leurs anciennes croyances.</VME_LeaderConversionOutcome.description>
+<VME_LeaderConversionOutcome.comps.0.label>impression de la chambre</VME_LeaderConversionOutcome.comps.0.label>
+<VME_LeaderConversionOutcome.comps.1.label>nombre de participants</VME_LeaderConversionOutcome.comps.1.label>
+<VME_LeaderConversionOutcome.comps.2.label>Impact social de {PAWN_labelShort}</VME_LeaderConversionOutcome.comps.2.label>
+<VME_LeaderConversionOutcome.comps.2.labelAbstract>l'impact social du locuteur</VME_LeaderConversionOutcome.comps.2.labelAbstract>
+<VME_LeaderConversionOutcome.comps.3.label>Attentes de {PAWN_labelShort}</VME_LeaderConversionOutcome.comps.3.label>
+<VME_LeaderConversionOutcome.comps.3.labelAbstract>attentes du converti</VME_LeaderConversionOutcome.comps.3.labelAbstract>
 <VME_LeaderConversionOutcome.outcomeChances.0.label>Terrible</VME_LeaderConversionOutcome.outcomeChances.0.label>
-<VME_LeaderConversionOutcome.outcomeChances.0.description>The {0} was terrible! From the first word, it was a fruitless back-and-forth argument. It dragged on for a cringe-inducingly long time.</VME_LeaderConversionOutcome.outcomeChances.0.description>
-<VME_LeaderConversionOutcome.outcomeChances.1.label>Ineffective</VME_LeaderConversionOutcome.outcomeChances.1.label>
-<VME_LeaderConversionOutcome.outcomeChances.1.description>The {0} was ineffective. Most of the arguments were unclear, and the convertee countered those that made sense.</VME_LeaderConversionOutcome.outcomeChances.1.description>
-<VME_LeaderConversionOutcome.outcomeChances.2.label>Effective</VME_LeaderConversionOutcome.outcomeChances.2.label>
-<VME_LeaderConversionOutcome.outcomeChances.2.description>The {0} was effective. The speech not only delivered solid arguments and visibly swayed the convertee's thoughts, but kept the crowd entertained as well.</VME_LeaderConversionOutcome.outcomeChances.2.description>
-<VME_LeaderConversionOutcome.outcomeChances.3.label>Masterful</VME_LeaderConversionOutcome.outcomeChances.3.label>
-<VME_LeaderConversionOutcome.outcomeChances.3.description>The {0} was masterful! Old beliefs seemed to dissolve effortlessly and inevitably, and our true knowledge was accepted.</VME_LeaderConversionOutcome.outcomeChances.3.description>
+<VME_LeaderConversionOutcome.outcomeChances.0.description>Le {0} était horrible ! Dès le premier mot, ce fut un va-et-vient stérile. Cela a traîné pendant une période extrêmement longue.</VME_LeaderConversionOutcome.outcomeChances.0.description>
+<VME_LeaderConversionOutcome.outcomeChances.1.label>Inefficace</VME_LeaderConversionOutcome.outcomeChances.1.label>
+<VME_LeaderConversionOutcome.outcomeChances.1.description>Le {0} était inefficace. La plupart des arguments n'étaient pas clairs et le converti a contré ceux qui avaient du sens.</VME_LeaderConversionOutcome.outcomeChances.1.description>
+<VME_LeaderConversionOutcome.outcomeChances.2.label>Efficace</VME_LeaderConversionOutcome.outcomeChances.2.label>
+<VME_LeaderConversionOutcome.outcomeChances.2.description>Le {0} a été efficace. Le discours a non seulement fourni des arguments solides et a visiblement influencé les pensées du converti, mais a également diverti la foule.</VME_LeaderConversionOutcome.outcomeChances.2.description>
+<VME_LeaderConversionOutcome.outcomeChances.3.label>Magistral</VME_LeaderConversionOutcome.outcomeChances.3.label>
+<VME_LeaderConversionOutcome.outcomeChances.3.description>Le {0} était magistral ! Les anciennes croyances semblaient se dissoudre sans effort et inévitablement, et notre véritable savoir était accepté.</VME_LeaderConversionOutcome.outcomeChances.3.description>
 
-<VME_LeadershipChallengeRitualOutcome.description>Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.</VME_LeadershipChallengeRitualOutcome.description>
-<VME_LeadershipChallengeRitualOutcome.comps.0.label>challenge organizer present</VME_LeadershipChallengeRitualOutcome.comps.0.label>
-<VME_LeadershipChallengeRitualOutcome.comps.1.label>room impressiveness</VME_LeadershipChallengeRitualOutcome.comps.1.label>
-<VME_LeadershipChallengeRitualOutcome.comps.2.label>{PAWN_labelShort}'s social impact</VME_LeadershipChallengeRitualOutcome.comps.2.label>
-<VME_LeadershipChallengeRitualOutcome.comps.2.labelAbstract>organizer's social impact</VME_LeadershipChallengeRitualOutcome.comps.2.labelAbstract>
-<VME_LeadershipChallengeRitualOutcome.comps.3.label>participant count</VME_LeadershipChallengeRitualOutcome.comps.3.label>
-<VME_LeadershipChallengeRitualOutcome.extraPredictedOutcomeDescriptions.0>This is a duel to the death. Whoever wins will get (or keep) the leader title.</VME_LeadershipChallengeRitualOutcome.extraPredictedOutcomeDescriptions.0>
+<VME_LeadershipChallengeRitualOutcome.description>Selon la qualité du rituel, les participants auront entre {MINMOOD} et {MAXMOOD} humeur pendant {MOODDAYS} jours.</VME_LeadershipChallengeRitualOutcome.description>
+<VME_LeadershipChallengeRitualOutcome.comps.0.label>organisateur du challenge présent</VME_LeadershipChallengeRitualOutcome.comps.0.label>
+<VME_LeadershipChallengeRitualOutcome.comps.1.label>impression de la chambre</VME_LeadershipChallengeRitualOutcome.comps.1.label>
+<VME_LeadershipChallengeRitualOutcome.comps.2.label>Impact social de {PAWN_labelShort}</VME_LeadershipChallengeRitualOutcome.comps.2.label>
+<VME_LeadershipChallengeRitualOutcome.comps.2.labelAbstract>impact social de l'organisateur</VME_LeadershipChallengeRitualOutcome.comps.2.labelAbstract>
+<VME_LeadershipChallengeRitualOutcome.comps.3.label>nombre de participants</VME_LeadershipChallengeRitualOutcome.comps.3.label>
+<VME_LeadershipChallengeRitualOutcome.extraPredictedOutcomeDescriptions.0>C'est un duel à mort. Le vainqueur obtiendra (ou conservera) le titre de chef.</VME_LeadershipChallengeRitualOutcome.extraPredictedOutcomeDescriptions.0>
 <VME_LeadershipChallengeRitualOutcome.outcomeChances.0.label>Terrible</VME_LeadershipChallengeRitualOutcome.outcomeChances.0.label>
-<VME_LeadershipChallengeRitualOutcome.outcomeChances.0.description>The leadership challenge was terrible! The fighters bumbled around, ineptly avoiding each other in a extended display of cowardice and weakness. Watching it just made people sad.</VME_LeadershipChallengeRitualOutcome.outcomeChances.0.description>
-<VME_LeadershipChallengeRitualOutcome.outcomeChances.1.label>Boring</VME_LeadershipChallengeRitualOutcome.outcomeChances.1.label>
-<VME_LeadershipChallengeRitualOutcome.outcomeChances.1.description>The leadership challenge was boring. The fighters wouldn't commit, so there were no exciting moments. At least our leader is the strongest.</VME_LeadershipChallengeRitualOutcome.outcomeChances.1.description>
-<VME_LeadershipChallengeRitualOutcome.outcomeChances.2.label>Good</VME_LeadershipChallengeRitualOutcome.outcomeChances.2.label>
-<VME_LeadershipChallengeRitualOutcome.outcomeChances.2.description>The leadership challenge was good. The fighters went for blood and showed real heart. We now know that our leader is the strongest.</VME_LeadershipChallengeRitualOutcome.outcomeChances.2.description>
-<VME_LeadershipChallengeRitualOutcome.outcomeChances.3.label>Unforgettable</VME_LeadershipChallengeRitualOutcome.outcomeChances.3.label>
-<VME_LeadershipChallengeRitualOutcome.outcomeChances.3.description>The leadership challenge was unforgettable! Both fighters gave all they had, and we know that our leader is now the strongest among us!</VME_LeadershipChallengeRitualOutcome.outcomeChances.3.description>
+<VME_LeadershipChallengeRitualOutcome.outcomeChances.0.description>Le défi du leadership était terrible ! Les combattants bourdonnaient, s'évitant maladroitement dans une démonstration prolongée de lâcheté et de faiblesse. Assister à cela a juste rendu les gens tristes.</VME_LeadershipChallengeRitualOutcome.outcomeChances.0.description>
+<VME_LeadershipChallengeRitualOutcome.outcomeChances.1.label>Ennuyant</VME_LeadershipChallengeRitualOutcome.outcomeChances.1.label>
+<VME_LeadershipChallengeRitualOutcome.outcomeChances.1.description>Le défi du leadership était ennuyeux. Les combattants ne s'engageaient pas, il n'y avait donc pas de moments excitants. Au moins notre chef est le plus fort.</VME_LeadershipChallengeRitualOutcome.outcomeChances.1.description>
+<VME_LeadershipChallengeRitualOutcome.outcomeChances.2.label>Bon</VME_LeadershipChallengeRitualOutcome.outcomeChances.2.label>
+<VME_LeadershipChallengeRitualOutcome.outcomeChances.2.description>Le défi du leadership était bon. Les combattants sont allés chercher du sang et y ont mis du cœur. Nous savons maintenant que notre chef est le plus fort.</VME_LeadershipChallengeRitualOutcome.outcomeChances.2.description>
+<VME_LeadershipChallengeRitualOutcome.outcomeChances.3.label>Inoubliable</VME_LeadershipChallengeRitualOutcome.outcomeChances.3.label>
+<VME_LeadershipChallengeRitualOutcome.outcomeChances.3.description>Le défi du leadership était inoubliable! Les deux combattants ont donné tout ce qu'ils avaient, et nous savons que notre chef est maintenant le plus fort d'entre nous !</VME_LeadershipChallengeRitualOutcome.outcomeChances.3.description>
 
-<VME_OrgyRitualOutcome.description>Every participant will get a "got some lovin'" memory, but the negative effects of a bad quality orgy will be much more severe than usual. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.\nNote that all participants must be consenting adults. If the moral guide is not an adult the ritual will appear as blocked.</VME_OrgyRitualOutcome.description>
-<VME_OrgyRitualOutcome.comps.0.label>orgy organizer present</VME_OrgyRitualOutcome.comps.0.label>
-<VME_OrgyRitualOutcome.comps.1.label>room impressiveness</VME_OrgyRitualOutcome.comps.1.label>
-<VME_OrgyRitualOutcome.comps.2.label>{PAWN_labelShort}'s social impact</VME_OrgyRitualOutcome.comps.2.label>
-<VME_OrgyRitualOutcome.comps.2.labelAbstract>organizer's social impact</VME_OrgyRitualOutcome.comps.2.labelAbstract>
-<VME_OrgyRitualOutcome.comps.3.label>participant count</VME_OrgyRitualOutcome.comps.3.label>
+<VME_OrgyRitualOutcome.description>Chaque participant aura une pensée "a eu des amourettes", mais les effets négatifs d'une orgie de mauvaise qualité seront beaucoup plus importants que d'habitude. Selon la qualité du rituel, les participants auront entre {MINMOOD} et {MAXMOOD} humeur pendant {MOODDAYS} jours.\nNotez que tous les participants doivent être des adultes consentants. Si le guide moral n'est pas majeur, le rituel apparaîtra comme bloqué.</VME_OrgyRitualOutcome.description>
+<VME_OrgyRitualOutcome.comps.0.label>organisateur d'orgie présent</VME_OrgyRitualOutcome.comps.0.label>
+<VME_OrgyRitualOutcome.comps.1.label>impression de la chambre</VME_OrgyRitualOutcome.comps.1.label>
+<VME_OrgyRitualOutcome.comps.2.label>Impact social de {PAWN_labelShort}</VME_OrgyRitualOutcome.comps.2.label>
+<VME_OrgyRitualOutcome.comps.2.labelAbstract>impact social de l'organisateur</VME_OrgyRitualOutcome.comps.2.labelAbstract>
+<VME_OrgyRitualOutcome.comps.3.label>nombre de participants</VME_OrgyRitualOutcome.comps.3.label>
 <VME_OrgyRitualOutcome.outcomeChances.0.label>Grotesque</VME_OrgyRitualOutcome.outcomeChances.0.label>
-<VME_OrgyRitualOutcome.outcomeChances.0.description>The {0} was grotesque! When you think of an orgy, you tend to imagine attractive people. This was... the entire opposite. The mental images will take a while to go away.</VME_OrgyRitualOutcome.outcomeChances.0.description>
-<VME_OrgyRitualOutcome.outcomeChances.1.label>Awkward</VME_OrgyRitualOutcome.outcomeChances.1.label>
-<VME_OrgyRitualOutcome.outcomeChances.1.description>The {0} was awkward. Everyone sat around not knowing exactly what to do, naked bodies laying everywhere. Quite disappointing.</VME_OrgyRitualOutcome.outcomeChances.1.description>
+<VME_OrgyRitualOutcome.outcomeChances.0.description>Le {0} était grotesque ! Quand vous pensez à une orgie, vous avez tendance à imaginer des personnes attirantes. C'était... tout le contraire. Les images mentales mettront du temps à disparaître.</VME_OrgyRitualOutcome.outcomeChances.0.description>
+<VME_OrgyRitualOutcome.outcomeChances.1.label>Gênant</VME_OrgyRitualOutcome.outcomeChances.1.label>
+<VME_OrgyRitualOutcome.outcomeChances.1.description>Le {0} était gênant. Tout le monde était assis sans savoir exactement quoi faire, des corps nus étendus partout. Assez décevant.</VME_OrgyRitualOutcome.outcomeChances.1.description>
 <VME_OrgyRitualOutcome.outcomeChances.2.label>Sexy</VME_OrgyRitualOutcome.outcomeChances.2.label>
-<VME_OrgyRitualOutcome.outcomeChances.2.description>The {0} was very sexy. We gave ourselves to each other in a communal expression of our deepest passions.</VME_OrgyRitualOutcome.outcomeChances.2.description>
-<VME_OrgyRitualOutcome.outcomeChances.3.label>Exhilarating</VME_OrgyRitualOutcome.outcomeChances.3.label>
-<VME_OrgyRitualOutcome.outcomeChances.3.description>The {0} was exhilarating! We all donned our high-society masquerade masks and uncovered our bodies. A barrage of ecstasy unlike no other made our bodies tremble with barely concealed excitement.</VME_OrgyRitualOutcome.outcomeChances.3.description>
+<VME_OrgyRitualOutcome.outcomeChances.2.description>Le {0} était très sexy. Nous nous sommes donnés l'un à l'autre dans une expression commune de nos passions les plus profondes.</VME_OrgyRitualOutcome.outcomeChances.2.description>
+<VME_OrgyRitualOutcome.outcomeChances.3.label>Exaltant</VME_OrgyRitualOutcome.outcomeChances.3.label>
+<VME_OrgyRitualOutcome.outcomeChances.3.description>Le {0} était exaltant ! Nous avons tous enfilé nos masques de mascarade de la haute société et découvert nos corps. Un barrage d'extase pas comme les autres a fait trembler nos corps avec une excitation à peine dissimulée.</VME_OrgyRitualOutcome.outcomeChances.3.description>
 
-<VME_PlagueFestivalRitualOutcome.description>Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. If the ritual is boring or better, it will reward all participants with the Plague.</VME_PlagueFestivalRitualOutcome.description>
-<VME_PlagueFestivalRitualOutcome.comps.2.label>moral guide present</VME_PlagueFestivalRitualOutcome.comps.2.label>
-<VME_PlagueFestivalRitualOutcome.comps.3.label>participant count</VME_PlagueFestivalRitualOutcome.comps.3.label>
-<VME_PlagueFestivalRitualOutcome.comps.4.label>started at altar</VME_PlagueFestivalRitualOutcome.comps.4.label>
-<VME_PlagueFestivalRitualOutcome.comps.4.expectedThingLabelTip>an altar</VME_PlagueFestivalRitualOutcome.comps.4.expectedThingLabelTip>
+<VME_PlagueFestivalRitualOutcome.description>Selon la qualité du rituel, les participants auront entre {MINMOOD} et {MAXMOOD} humeur pendant {MOODDAYS} jours. Si le rituel est ennuyeux ou meilleur, il récompensera tous les participants avec la Peste.</VME_PlagueFestivalRitualOutcome.description>
+<VME_PlagueFestivalRitualOutcome.comps.2.label>guide moral présent</VME_PlagueFestivalRitualOutcome.comps.2.label>
+<VME_PlagueFestivalRitualOutcome.comps.3.label>nombre de participants</VME_PlagueFestivalRitualOutcome.comps.3.label>
+<VME_PlagueFestivalRitualOutcome.comps.4.label>commencé à l'autel</VME_PlagueFestivalRitualOutcome.comps.4.label>
+<VME_PlagueFestivalRitualOutcome.comps.4.expectedThingLabelTip>un autel</VME_PlagueFestivalRitualOutcome.comps.4.expectedThingLabelTip>
 <VME_PlagueFestivalRitualOutcome.outcomeChances.0.label>Terrible</VME_PlagueFestivalRitualOutcome.outcomeChances.0.label>
-<VME_PlagueFestivalRitualOutcome.outcomeChances.0.description>The {0} was terrible! The speech was stuttering and incoherent, and the killing technique was botched. The corpse laid there, inert, and no holy miasma was liberated from it. What a waste of time!</VME_PlagueFestivalRitualOutcome.outcomeChances.0.description>
-<VME_PlagueFestivalRitualOutcome.outcomeChances.1.label>Boring</VME_PlagueFestivalRitualOutcome.outcomeChances.1.label>
-<VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>The {0} was boring. The speech was repetitive and the killing technique was noticeably flawed. However the blessed plague is now among us.</VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>
-<VME_PlagueFestivalRitualOutcome.outcomeChances.2.label>Satisfying</VME_PlagueFestivalRitualOutcome.outcomeChances.2.label>
-<VME_PlagueFestivalRitualOutcome.outcomeChances.2.description>The {0} was satisfying. The speech felt meaningful, and a holy miasma was liberated from the corpse, bathing us all in a sacred plague wind.</VME_PlagueFestivalRitualOutcome.outcomeChances.2.description>
-<VME_PlagueFestivalRitualOutcome.outcomeChances.3.label>Spectacular</VME_PlagueFestivalRitualOutcome.outcomeChances.3.label>
-<VME_PlagueFestivalRitualOutcome.outcomeChances.3.description>The {0} was spectacular! The speech brought everyone to the edge of a frenzy and a sacred plague wind wafted from the animal's corpse, blessing us.</VME_PlagueFestivalRitualOutcome.outcomeChances.3.description>
+<VME_PlagueFestivalRitualOutcome.outcomeChances.0.description>Le {0} était horrible ! Le discours était bégayé et incohérent, et la technique de mise à mort était bâclée. Le cadavre gisait là, inerte, et aucun miasme sacré n'en était libéré. Quelle perte de temps!</VME_PlagueFestivalRitualOutcome.outcomeChances.0.description>
+<VME_PlagueFestivalRitualOutcome.outcomeChances.1.label>Ennuyant</VME_PlagueFestivalRitualOutcome.outcomeChances.1.label>
+<VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>Le {0} était ennuyeux. Le discours était répétitif et la technique de mise à mort était sensiblement défectueuse. Cependant la peste bénie est maintenant parmi nous.</VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>
+<VME_PlagueFestivalRitualOutcome.outcomeChances.2.label>Satisfaisant</VME_PlagueFestivalRitualOutcome.outcomeChances.2.label>
+<VME_PlagueFestivalRitualOutcome.outcomeChances.2.description>Le {0} était satisfaisant. Le discours avait un sens et un miasme sacré a été libéré du cadavre, nous baignant tous dans un vent de peste sacré.</VME_PlagueFestivalRitualOutcome.outcomeChances.2.description>
+<VME_PlagueFestivalRitualOutcome.outcomeChances.3.label>Spectaculaire</VME_PlagueFestivalRitualOutcome.outcomeChances.3.label>
+<VME_PlagueFestivalRitualOutcome.outcomeChances.3.description>Le {0} était spectaculaire ! Le discours a amené tout le monde au bord de la frénésie et un vent de peste sacrée s'est échappé du cadavre de l'animal, nous bénissant.</VME_PlagueFestivalRitualOutcome.outcomeChances.3.description>
 
-<VME_SlaveEmancipationOutcome.description>Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.</VME_SlaveEmancipationOutcome.description>
-<VME_SlaveEmancipationOutcome.comps.0.label>room impressiveness</VME_SlaveEmancipationOutcome.comps.0.label>
-<VME_SlaveEmancipationOutcome.comps.1.label>participant count</VME_SlaveEmancipationOutcome.comps.1.label>
-<VME_SlaveEmancipationOutcome.comps.2.label>{PAWN_labelShort}'s social impact</VME_SlaveEmancipationOutcome.comps.2.label>
-<VME_SlaveEmancipationOutcome.comps.2.labelAbstract>speaker's social impact</VME_SlaveEmancipationOutcome.comps.2.labelAbstract>
-<VME_SlaveEmancipationOutcome.outcomeChances.0.label>Demagogic</VME_SlaveEmancipationOutcome.outcomeChances.0.label>
-<VME_SlaveEmancipationOutcome.outcomeChances.0.description>The {0} was horribly demagogic! We ended up looking as the evil guys here... With such a display, it's unlikely anyone will freely want to join the colony.</VME_SlaveEmancipationOutcome.outcomeChances.0.description>
-<VME_SlaveEmancipationOutcome.outcomeChances.1.label>Freethinking</VME_SlaveEmancipationOutcome.outcomeChances.1.label>
-<VME_SlaveEmancipationOutcome.outcomeChances.1.description>The {0} was a nice display of freethinking. Our leader's speech was clear and succint, explaining all the evils of slavery in a concise way. Participating slaves have a 25% chance of joining the colony.</VME_SlaveEmancipationOutcome.outcomeChances.1.description>
-<VME_SlaveEmancipationOutcome.outcomeChances.2.label>Unshackling</VME_SlaveEmancipationOutcome.outcomeChances.2.label>
-<VME_SlaveEmancipationOutcome.outcomeChances.2.description>The {0} was unshackling. Our leader's speech was very inspiring, detailing all the evils caused by slavery and the immense advantages of a free society. Participating slaves have a 50% chance of joining the colony.</VME_SlaveEmancipationOutcome.outcomeChances.2.description>
-<VME_SlaveEmancipationOutcome.outcomeChances.3.label>Liberating</VME_SlaveEmancipationOutcome.outcomeChances.3.label>
-<VME_SlaveEmancipationOutcome.outcomeChances.3.description>The {0} was liberating! Our leader's speech was a masterclass in extolling the virtues of a free society, liberated for the shackles of slavery. Participating slaves have a 75% chance of joining the colony.</VME_SlaveEmancipationOutcome.outcomeChances.3.description>
-<VME_SlaveEmancipationOutcome.outcomeChances.4.label>Amazing</VME_SlaveEmancipationOutcome.outcomeChances.4.label>
-<VME_SlaveEmancipationOutcome.outcomeChances.4.description>The {0} was amazing! Legends will be told about our leader's speech, and how those words will resonate in the future, elevating the cause of emancipation. Participating slaves have a 100% chance of joining the colony.</VME_SlaveEmancipationOutcome.outcomeChances.4.description>
+<VME_SlaveEmancipationOutcome.description>Selon la qualité du rituel, les participants auront entre {MINMOOD} et {MAXMOOD} humeur pendant {MOODDAYS} jours.</VME_SlaveEmancipationOutcome.description>
+<VME_SlaveEmancipationOutcome.comps.0.label>impression de la chambre</VME_SlaveEmancipationOutcome.comps.0.label>
+<VME_SlaveEmancipationOutcome.comps.1.label>nombre de participants</VME_SlaveEmancipationOutcome.comps.1.label>
+<VME_SlaveEmancipationOutcome.comps.2.label>Impact social de {PAWN_labelShort}</VME_SlaveEmancipationOutcome.comps.2.label>
+<VME_SlaveEmancipationOutcome.comps.2.labelAbstract>l'impact social du locuteur</VME_SlaveEmancipationOutcome.comps.2.labelAbstract>
+<VME_SlaveEmancipationOutcome.outcomeChances.0.label>Démagogique</VME_SlaveEmancipationOutcome.outcomeChances.0.label>
+<VME_SlaveEmancipationOutcome.outcomeChances.0.description>Le {0} était horriblement démagogique ! Nous avons fini par passer pour les méchants ici... Avec un tel affichage, il est peu probable que quelqu'un veuille librement rejoindre la colonie.</VME_SlaveEmancipationOutcome.outcomeChances.0.description>
+<VME_SlaveEmancipationOutcome.outcomeChances.1.label>Pensée libre</VME_SlaveEmancipationOutcome.outcomeChances.1.label>
+<VME_SlaveEmancipationOutcome.outcomeChances.1.description>Le {0} était une belle démonstration de libre-pensée. Le discours de notre chef était clair et succinct, expliquant tous les maux de l'esclavage de manière concise. Les esclaves participants ont 25 % de chances de rejoindre la colonie.</VME_SlaveEmancipationOutcome.outcomeChances.1.description>
+<VME_SlaveEmancipationOutcome.outcomeChances.2.label>Désenchaînant</VME_SlaveEmancipationOutcome.outcomeChances.2.label>
+<VME_SlaveEmancipationOutcome.outcomeChances.2.description>Le {0} était libre. Le discours de notre chef était très inspirant, détaillant tous les maux causés par l'esclavage et les immenses avantages d'une société libre. Les esclaves participants ont 50 % de chances de rejoindre la colonie.</VME_SlaveEmancipationOutcome.outcomeChances.2.description>
+<VME_SlaveEmancipationOutcome.outcomeChances.3.label>Libérateur</VME_SlaveEmancipationOutcome.outcomeChances.3.label>
+<VME_SlaveEmancipationOutcome.outcomeChances.3.description>Le {0} était libérateur ! Le discours de notre chef était une classe de maître dans l'éloge des vertus d'une société libre, libérée des chaînes de l'esclavage. Les esclaves participants ont 75 % de chances de rejoindre la colonie.</VME_SlaveEmancipationOutcome.outcomeChances.3.description>
+<VME_SlaveEmancipationOutcome.outcomeChances.4.label>Fantastique</VME_SlaveEmancipationOutcome.outcomeChances.4.label>
+<VME_SlaveEmancipationOutcome.outcomeChances.4.description>Le {0} était incroyable ! Des légendes seront racontées sur le discours de notre chef et sur la façon dont ces mots résonneront à l'avenir, élevant la cause de l'émancipation. Les esclaves participants ont 100 % de chances de rejoindre la colonie.</VME_SlaveEmancipationOutcome.outcomeChances.4.description>
 
-<VME_TradingFairRitualOutcome.description>Depending on ritual quality and as long as it is positive, between 1 and 6 trade caravans arrive from friendly factions. Also, depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.\n\nYou will need to have at least 200 silver near a valid trading beacon for the fair to work properly, or else participants will receive a "cheap trading fair" mood penalty.</VME_TradingFairRitualOutcome.description>
-<VME_TradingFairRitualOutcome.comps.0.label>trading fair organizer present</VME_TradingFairRitualOutcome.comps.0.label>
-<VME_TradingFairRitualOutcome.comps.1.label>participant count</VME_TradingFairRitualOutcome.comps.1.label>
-<VME_TradingFairRitualOutcome.outcomeChances.0.label>Poorly Organized</VME_TradingFairRitualOutcome.outcomeChances.0.label>
-<VME_TradingFairRitualOutcome.outcomeChances.0.description>The {0} was very poorly organized! With such a low quality effort, no additional caravans will be attracted to our settlement...</VME_TradingFairRitualOutcome.outcomeChances.0.description>
-<VME_TradingFairRitualOutcome.outcomeChances.1.label>Unexciting</VME_TradingFairRitualOutcome.outcomeChances.1.label>
-<VME_TradingFairRitualOutcome.outcomeChances.1.description>The {0} was unexciting. Some exciting transactions took place, but the majority of it was boring business talk. Luckily, it was interesting enough to attract a caravan to our settlement, which should arrive soon.</VME_TradingFairRitualOutcome.outcomeChances.1.description>
-<VME_TradingFairRitualOutcome.outcomeChances.2.label>Well Organized</VME_TradingFairRitualOutcome.outcomeChances.2.label>
-<VME_TradingFairRitualOutcome.outcomeChances.2.description>The {0} was very well organized. There was a lot of back and forth and networking. Luckily, at least three caravans will be attracted to our settlement, which should arrive soon.</VME_TradingFairRitualOutcome.outcomeChances.2.description>
-<VME_TradingFairRitualOutcome.outcomeChances.3.label>Wondrous</VME_TradingFairRitualOutcome.outcomeChances.3.label>
-<VME_TradingFairRitualOutcome.outcomeChances.3.description>The {0} was a wondrous event! We discussed exciting and innovative economical paradigms, and our settlement will be renowned as a center of finance learning. With such a display, at least six caravans will be attracted to our settlement, and they should arrive soon.</VME_TradingFairRitualOutcome.outcomeChances.3.description>
+<VME_TradingFairRitualOutcome.description>Selon la qualité rituelle et tant qu'elle est positive, entre 1 et 6 caravanes marchandes arriveront des factions amies. Aussi, selon la qualité du rituel, les participants auront entre {MINMOOD} et {MAXMOOD} humeur pendant {MOODDAYS} jours.\n\nYou will need to have at least 200 silver near a valid trading beacon for the fair to work properly, or else participants will receive a "cheap trading fair" mood penalty.</VME_TradingFairRitualOutcome.description>
+<VME_TradingFairRitualOutcome.comps.0.label>organisateur de foire commerciale présent</VME_TradingFairRitualOutcome.comps.0.label>
+<VME_TradingFairRitualOutcome.comps.1.label>nombre de participants</VME_TradingFairRitualOutcome.comps.1.label>
+<VME_TradingFairRitualOutcome.outcomeChances.0.label>Mal organisé</VME_TradingFairRitualOutcome.outcomeChances.0.label>
+<VME_TradingFairRitualOutcome.outcomeChances.0.description>Le {0} était très mal organisé ! Avec un effort de si faible qualité, aucune caravane supplémentaire ne sera attirée par notre colonie...</VME_TradingFairRitualOutcome.outcomeChances.0.description>
+<VME_TradingFairRitualOutcome.outcomeChances.1.label>Peu passionnant</VME_TradingFairRitualOutcome.outcomeChances.1.label>
+<VME_TradingFairRitualOutcome.outcomeChances.1.description>Le {0} n'était pas passionnant. Certaines transactions passionnantes ont eu lieu, mais la majorité d'entre elles étaient des discussions commerciales ennuyeuses. Heureusement, c'était assez intéressant pour attirer une caravane dans notre colonie, qui devrait arriver bientôt.</VME_TradingFairRitualOutcome.outcomeChances.1.description>
+<VME_TradingFairRitualOutcome.outcomeChances.2.label>Bien organisé</VME_TradingFairRitualOutcome.outcomeChances.2.label>
+<VME_TradingFairRitualOutcome.outcomeChances.2.description>Le {0} était très bien organisé. Il y a eu beaucoup d'échanges et de réseautage. Heureusement, au moins trois caravanes seront attirées vers notre colonie, qui devraient bientôt arriver.</VME_TradingFairRitualOutcome.outcomeChances.2.description>
+<VME_TradingFairRitualOutcome.outcomeChances.3.label>Merveilleux</VME_TradingFairRitualOutcome.outcomeChances.3.label>
+<VME_TradingFairRitualOutcome.outcomeChances.3.description>Le {0} était un événement merveilleux ! Nous avons discuté de paradigmes économiques passionnants et innovants, et notre établissement sera reconnu comme un centre d'apprentissage en finance. Avec un tel affichage, au moins six caravanes seront attirées vers notre colonie, et elles devraient arriver bientôt.</VME_TradingFairRitualOutcome.outcomeChances.3.description>
 
-<VME_ViolentConversionRitualOutcome.description>Violent conversion has a 50% chance of either completely converting the participant to your ideoligion or just being executed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.</VME_ViolentConversionRitualOutcome.description>
-<VME_ViolentConversionRitualOutcome.comps.0.label>participant count</VME_ViolentConversionRitualOutcome.comps.0.label>
-<VME_ViolentConversionRitualOutcome.comps.1.label>{PAWN_labelShort}'s social impact</VME_ViolentConversionRitualOutcome.comps.1.label>
-<VME_ViolentConversionRitualOutcome.comps.1.labelAbstract>speaker's social impact</VME_ViolentConversionRitualOutcome.comps.1.labelAbstract>
-<VME_ViolentConversionRitualOutcome.comps.2.label>started at altar or ideogram</VME_ViolentConversionRitualOutcome.comps.2.label>
-<VME_ViolentConversionRitualOutcome.comps.2.expectedThingLabelTip>an altar or an ideogram</VME_ViolentConversionRitualOutcome.comps.2.expectedThingLabelTip>
-<VME_ViolentConversionRitualOutcome.outcomeChances.0.label>Awkward</VME_ViolentConversionRitualOutcome.outcomeChances.0.label>
-<VME_ViolentConversionRitualOutcome.outcomeChances.0.description>The {0} was awkward. The speech dragged on and it was a fruitless back-and-forth argument. The words were vague and unconvincing.</VME_ViolentConversionRitualOutcome.outcomeChances.0.description>
-<VME_ViolentConversionRitualOutcome.outcomeChances.1.label>Satisfying</VME_ViolentConversionRitualOutcome.outcomeChances.1.label>
-<VME_ViolentConversionRitualOutcome.outcomeChances.1.description>The {0} was satisfying. The speech was stirring and enjoyable to listen to.</VME_ViolentConversionRitualOutcome.outcomeChances.1.description>
-<VME_ViolentConversionRitualOutcome.outcomeChances.2.label>Spectacular</VME_ViolentConversionRitualOutcome.outcomeChances.2.label>
-<VME_ViolentConversionRitualOutcome.outcomeChances.2.description>The {0} was spectacular! Surely our beliefs will prevail over any others!</VME_ViolentConversionRitualOutcome.outcomeChances.2.description>
+<VME_ViolentConversionRitualOutcome.description>La conversion violente a 50 % de chances de convertir complètement le participant à votre idéologie ou d'être simplement exécuté. Selon la qualité du rituel, les participants auront entre {MINMOOD} et {MAXMOOD} humeur pendant {MOODDAYS} jours.</VME_ViolentConversionRitualOutcome.description>
+<VME_ViolentConversionRitualOutcome.comps.0.label>nombre de participants</VME_ViolentConversionRitualOutcome.comps.0.label>
+<VME_ViolentConversionRitualOutcome.comps.1.label>Impact social de {PAWN_labelShort}</VME_ViolentConversionRitualOutcome.comps.1.label>
+<VME_ViolentConversionRitualOutcome.comps.1.labelAbstract>l'impact social du locuteur</VME_ViolentConversionRitualOutcome.comps.1.labelAbstract>
+<VME_ViolentConversionRitualOutcome.comps.2.label>commencé à l'autel ou à l'idéogramme</VME_ViolentConversionRitualOutcome.comps.2.label>
+<VME_ViolentConversionRitualOutcome.comps.2.expectedThingLabelTip>un autel ou un idéogramme</VME_ViolentConversionRitualOutcome.comps.2.expectedThingLabelTip>
+<VME_ViolentConversionRitualOutcome.outcomeChances.0.label>Gênant</VME_ViolentConversionRitualOutcome.outcomeChances.0.label>
+<VME_ViolentConversionRitualOutcome.outcomeChances.0.description>Le {0} était gênant. Le discours s'éternisait et c'était un va-et-vient infructueux. Les mots étaient vagues et peu convaincants.</VME_ViolentConversionRitualOutcome.outcomeChances.0.description>
+<VME_ViolentConversionRitualOutcome.outcomeChances.1.label>Satisfaisant</VME_ViolentConversionRitualOutcome.outcomeChances.1.label>
+<VME_ViolentConversionRitualOutcome.outcomeChances.1.description>Le {0} était satisfaisant. Le discours était émouvant et agréable à écouter.</VME_ViolentConversionRitualOutcome.outcomeChances.1.description>
+<VME_ViolentConversionRitualOutcome.outcomeChances.2.label>Spectaculaire</VME_ViolentConversionRitualOutcome.outcomeChances.2.label>
+<VME_ViolentConversionRitualOutcome.outcomeChances.2.description>Le {0} était spectaculaire ! Assurément, nos croyances prévaudront sur toutes les autres !</VME_ViolentConversionRitualOutcome.outcomeChances.2.description>
 
-<VME_WickerManBurningOutcome.description>A prisoner of the colony will be locked in a cage, and set fire, killing the prisoner in the process. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.</VME_WickerManBurningOutcome.description>
-<VME_WickerManBurningOutcome.comps.0.label>participant count</VME_WickerManBurningOutcome.comps.0.label>
-<VME_WickerManBurningOutcome.comps.1.label>{PAWN_labelShort}'s social impact</VME_WickerManBurningOutcome.comps.1.label>
-<VME_WickerManBurningOutcome.comps.1.labelAbstract>speaker's social impact</VME_WickerManBurningOutcome.comps.1.labelAbstract>
+<VME_WickerManBurningOutcome.description>Un prisonnier de la colonie sera enfermé dans une cage, et incendié, tuant le prisonnier au passage. Selon la qualité du rituel, les participants auront entre {MINMOOD} et {MAXMOOD} humeur pendant {MOODDAYS} jours.</VME_WickerManBurningOutcome.description>
+<VME_WickerManBurningOutcome.comps.0.label>nombre de participants</VME_WickerManBurningOutcome.comps.0.label>
+<VME_WickerManBurningOutcome.comps.1.label>Impact social de {PAWN_labelShort}</VME_WickerManBurningOutcome.comps.1.label>
+<VME_WickerManBurningOutcome.comps.1.labelAbstract>l'impact social du locuteur</VME_WickerManBurningOutcome.comps.1.labelAbstract>
 <VME_WickerManBurningOutcome.outcomeChances.0.label>Terrible</VME_WickerManBurningOutcome.outcomeChances.0.label>
-<VME_WickerManBurningOutcome.outcomeChances.0.description>The {0} was terrible! The prisoner rattled the cage all the time and it smelled like rotten bacon.</VME_WickerManBurningOutcome.outcomeChances.0.description>
-<VME_WickerManBurningOutcome.outcomeChances.1.label>Lackluster</VME_WickerManBurningOutcome.outcomeChances.1.label>
-<VME_WickerManBurningOutcome.outcomeChances.1.description>The {0} was lackluster. The prisoner just burned to death too fast, and the fire didn't even lift our spirits much.</VME_WickerManBurningOutcome.outcomeChances.1.description>
-<VME_WickerManBurningOutcome.outcomeChances.2.label>Good</VME_WickerManBurningOutcome.outcomeChances.2.label>
-<VME_WickerManBurningOutcome.outcomeChances.2.description>The {0} was good. The anguished cries of the prisoner will resonate with us for a long time, another soul consumed by the flames.</VME_WickerManBurningOutcome.outcomeChances.2.description>
-<VME_WickerManBurningOutcome.outcomeChances.3.label>Glorious</VME_WickerManBurningOutcome.outcomeChances.3.label>
-<VME_WickerManBurningOutcome.outcomeChances.3.description>The {0} was glorious! We will forever remember the thrashing of the prisoner, the frightened crescendo of screams as another soul was consumed by the holy flames.</VME_WickerManBurningOutcome.outcomeChances.3.description>
+<VME_WickerManBurningOutcome.outcomeChances.0.description>Le {0} était horrible ! Le prisonnier secouait la cage tout le temps et ça sentait le bacon pourri.</VME_WickerManBurningOutcome.outcomeChances.0.description>
+<VME_WickerManBurningOutcome.outcomeChances.1.label>Terne</VME_WickerManBurningOutcome.outcomeChances.1.label>
+<VME_WickerManBurningOutcome.outcomeChances.1.description>Le {0} était terne. Le prisonnier a simplement brûlé vif trop vite, et le feu ne nous a même pas remonté le moral.</VME_WickerManBurningOutcome.outcomeChances.1.description>
+<VME_WickerManBurningOutcome.outcomeChances.2.label>Bon</VME_WickerManBurningOutcome.outcomeChances.2.label>
+<VME_WickerManBurningOutcome.outcomeChances.2.description>Le {0} était bon. Les cris angoissés du prisonnier résonneront longtemps en nous, une autre âme consumée par les flammes.</VME_WickerManBurningOutcome.outcomeChances.2.description>
+<VME_WickerManBurningOutcome.outcomeChances.3.label>Glorieux</VME_WickerManBurningOutcome.outcomeChances.3.label>
+<VME_WickerManBurningOutcome.outcomeChances.3.description>Le {0} était magnifique ! Nous nous souviendrons à jamais de la raclée du prisonnier, du crescendo effrayé des cris alors qu'une autre âme était consumée par les flammes sacrées.</VME_WickerManBurningOutcome.outcomeChances.3.description>
 
 
 </LanguageData>
