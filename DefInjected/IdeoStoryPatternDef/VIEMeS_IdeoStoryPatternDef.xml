@@ -47,7 +47,7 @@
     <li>chthonianFact    ->De leur point de vue, nous n'existons même pas. De la même manière que vous ne pensez pas aux microbes présents sur la surface de la chaise sur laquelle vous êtes assis.</li>
     
     <!-- generic prophecy -->
-    <li>chthonianProphecy->[weMustBe] careful, car il ne serait pas sage d'attirer leur attention, ils pourraient nous détruire en un instant.</li>
+    <li>chthonianProphecy->[weMustBe], car il ne serait pas sage d'attirer leur attention, ils pourraient nous détruire en un instant.</li>
     <li>chthonianProphecy->[byWorshipping] nous pourrons peut-être éviter leur regard.</li>
     <li>chthonianProphecy->Ne soyez pas dupes : ils ne méritent pas notre dévotion. Mais peut-être qu'en montrant une fausse façade de piété, nous pouvons éviter leur attention assez longtemps.</li>
     <li>chthonianProphecy->Malgré cela, on peut apprendre beaucoup d'eux. Le savoir Eldritch attend ceux qui sont assez courageux - ou assez fous - pour jeter un coup d'œil sur le visage hurlant de la folie.</li>
@@ -82,7 +82,7 @@
 
 
 <VME_HedonistDescription.rules.rulesStrings>
-    <li>lesson(priority=-1)->stuff happens</li>
+    <li>lesson(priority=-1)->des choses arrivent</li>
 
     <!-- typesetting -->
     <li>r_pattern->"[r_lessonIntro] [r_lessonMain]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
@@ -161,7 +161,7 @@
 
 
 <VME_AuthoritarianDescription.rules.rulesStrings>
-    <li>lesson(priority=-1)->stuff happens</li>
+    <li>lesson(priority=-1)->des choses arrivent</li>
 
     <!-- typesetting -->
     <li>r_pattern->"[r_lessonIntro] [r_lessonMain]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
@@ -315,7 +315,7 @@
 
 <VME_SecularSpiritualityDescription.rules.rulesStrings>
     <!-- final fallbacks (when no memes selected yet) -->
-    <li>lesson(priority=-1)->stuff happens</li>
+    <li>lesson(priority=-1)->des choses arrivent</li>
 
     <!-- typesetting -->
     <li>r_pattern->"[r_lessonIntro] [r_lesson]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
