@@ -49,14 +49,14 @@
 	<li>memeMoralist->croisé</li>
 </VME_ViolentConversion.generalRules.rulesStrings>
 <VME_ViolentConversion.symbolPacks.0.adjective>strict</VME_ViolentConversion.symbolPacks.0.adjective>
-<VME_ViolentConversion.symbolPacks.0.ideoName>Strictness</VME_ViolentConversion.symbolPacks.0.ideoName>
+<VME_ViolentConversion.symbolPacks.0.ideoName>Rigueur</VME_ViolentConversion.symbolPacks.0.ideoName>
 <VME_ViolentConversion.symbolPacks.0.member>strict</VME_ViolentConversion.symbolPacks.0.member>
 <VME_ViolentConversion.symbolPacks.0.theme>strict</VME_ViolentConversion.symbolPacks.0.theme>
 <VME_ViolentConversion.symbolPacks.1.adjective>croisade</VME_ViolentConversion.symbolPacks.1.adjective>
 <VME_ViolentConversion.symbolPacks.1.ideoName>Croisade</VME_ViolentConversion.symbolPacks.1.ideoName>
 <VME_ViolentConversion.symbolPacks.1.member>croisé</VME_ViolentConversion.symbolPacks.1.member>
 <VME_ViolentConversion.symbolPacks.1.theme>croisade</VME_ViolentConversion.symbolPacks.1.theme>
-<VME_ViolentConversion.symbolPacks.2.adjective>inquisitoire</VME_ViolentConversion.symbolPacks.2.adjective>
+<VME_ViolentConversion.symbolPacks.2.adjective>inquisiteur</VME_ViolentConversion.symbolPacks.2.adjective>
 <VME_ViolentConversion.symbolPacks.2.ideoName>Inquisition</VME_ViolentConversion.symbolPacks.2.ideoName>
 <VME_ViolentConversion.symbolPacks.2.member>inquisiteur</VME_ViolentConversion.symbolPacks.2.member>
 <VME_ViolentConversion.symbolPacks.2.theme>inquisition</VME_ViolentConversion.symbolPacks.2.theme>
@@ -392,27 +392,27 @@
 	<li>alienistProphecy(tag=meme_HolyDiseases)->All these wayward creations of humanity provide us with an infinite reservoir of holy diseases, a cornucopia of plagues.</li>
 </VME_HolyDiseases.descriptionMaker.rules.rulesStrings>
 <VME_HolyDiseases.generalRules.rulesStrings>
-	<li>memeAdjective->diseased</li>
-	<li>memeAdjective->infirm</li>
-	<li>memeAdjective->sick</li>
-	<li>memeAdjective->ailing</li>
-	<li>memeAdjective->ill</li>
-	<li>memeHyphenPrefix->sick</li>
-	<li>memeConcept->disease</li>
-	<li>memeConcept->sickness</li>
-	<li>memeLeaderNoun->purulent one</li>
-	<li>memeLeaderNoun->herald of Aesculapius</li>
-	<li>memeLeaderNoun->plaguebriger</li>
-	<li>memeMoralist->plague doctor</li>
+	<li>memeAdjective->malade</li>
+	<li>memeAdjective->infirme</li>
+	<li>memeAdjective->malade</li>
+	<li>memeAdjective->malade</li>
+	<li>memeAdjective->souffrant</li>
+	<li>memeHyphenPrefix->malade</li>
+	<li>memeConcept->maladie</li>
+	<li>memeConcept->maladie</li>
+	<li>memeLeaderNoun->grand purulent</li>
+	<li>memeLeaderNoun->héraut d'Esculape</li>
+	<li>memeLeaderNoun->apporteur de peste</li>
+	<li>memeMoralist->médecin de la peste</li>
 </VME_HolyDiseases.generalRules.rulesStrings>
-<VME_HolyDiseases.symbolPacks.0.adjective>plaguebringer</VME_HolyDiseases.symbolPacks.0.adjective>
-<VME_HolyDiseases.symbolPacks.0.ideoName>Plaguebringing</VME_HolyDiseases.symbolPacks.0.ideoName>
+<VME_HolyDiseases.symbolPacks.0.adjective>apporteur de peste</VME_HolyDiseases.symbolPacks.0.adjective>
+<VME_HolyDiseases.symbolPacks.0.ideoName>Apporteur de peste</VME_HolyDiseases.symbolPacks.0.ideoName>
 <VME_HolyDiseases.symbolPacks.0.member>acolyte</VME_HolyDiseases.symbolPacks.0.member>
-<VME_HolyDiseases.symbolPacks.0.theme>plaguebringing</VME_HolyDiseases.symbolPacks.0.theme>
-<VME_HolyDiseases.symbolPacks.1.adjective>diseased</VME_HolyDiseases.symbolPacks.1.adjective>
-<VME_HolyDiseases.symbolPacks.1.ideoName>Disease</VME_HolyDiseases.symbolPacks.1.ideoName>
-<VME_HolyDiseases.symbolPacks.1.member>diseased one</VME_HolyDiseases.symbolPacks.1.member>
-<VME_HolyDiseases.symbolPacks.1.theme>disease</VME_HolyDiseases.symbolPacks.1.theme>
+<VME_HolyDiseases.symbolPacks.0.theme>apporteur de peste</VME_HolyDiseases.symbolPacks.0.theme>
+<VME_HolyDiseases.symbolPacks.1.adjective>malade</VME_HolyDiseases.symbolPacks.1.adjective>
+<VME_HolyDiseases.symbolPacks.1.ideoName>Maladie</VME_HolyDiseases.symbolPacks.1.ideoName>
+<VME_HolyDiseases.symbolPacks.1.member>malade</VME_HolyDiseases.symbolPacks.1.member>
+<VME_HolyDiseases.symbolPacks.1.theme>maladie</VME_HolyDiseases.symbolPacks.1.theme>
 
 
 <VME_CraftCulture.label>culture artisanale</VME_CraftCulture.label>
