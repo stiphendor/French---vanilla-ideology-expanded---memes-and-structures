@@ -1701,32 +1701,32 @@
 	<li>alienistProphecy(tag=meme_Nationalist)->These wayward creatures are ours to do as we please.</li>
 </VME_Nationalist.descriptionMaker.rules.rulesStrings>
 <VME_Nationalist.generalRules.rulesStrings>
-	<li>memeAdjective->firm</li>
-	<li>memeAdjective->oligarchic</li>
-	<li>memeAdjective->absolute</li>
-	<li>memeAdjective->uncompromising</li>
-	<li>memeAdjective->repressive</li>
-	<li>memeAdjective->iron-fisted</li>
-	<li>memeAdjective->populist</li>
-	<li>memeLeaderNoun->supreme leader</li>
+	<li>memeAdjective->solidifiant</li>
+	<li>memeAdjective->oligarchique</li>
+	<li>memeAdjective->absolu</li>
+	<li>memeAdjective->intransigeant</li>
+	<li>memeAdjective->répressif</li>
+	<li>memeAdjective->poigne de fer</li>
+	<li>memeAdjective->populiste</li>
+	<li>memeLeaderNoun->chef suprême</li>
 	<li>memeLeaderNoun->caudillo</li>
-	<li>memeLeaderNoun->chairman</li>
-	<li>memeLeaderNoun->duce</li>
-	<li>memeLeaderNoun->president for life</li>
-	<li>memeLeaderAdjective->stern</li>
-	<li>memeLeaderAdjective->patriot</li>
-	<li>memeLeaderAdjective->callous</li>
-	<li>memeLeaderAdjective->harsh</li>
+	<li>memeLeaderNoun->président</li>
+	<li>memeLeaderNoun->duc</li>
+	<li>memeLeaderNoun->président à vie</li>
+	<li>memeLeaderAdjective->arrière</li>
+	<li>memeLeaderAdjective->patriote</li>
+	<li>memeLeaderAdjective->insensible</li>
+	<li>memeLeaderAdjective->rude</li>
 	<li>memeLeaderAdjective->implacable</li>
 	<li>memeLeaderAdjective->inexorable</li>
-	<li>memeMoralist->propagandist</li>
-	<li>memeMoralist->regime advocate</li>
-	<li>memeMoralist->campaigner</li>
+	<li>memeMoralist->propagandiste</li>
+	<li>memeMoralist->avocat du régime</li>
+	<li>memeMoralist->militant</li>
 </VME_Nationalist.generalRules.rulesStrings>
-<VME_Nationalist.symbolPacks.0.adjective>nationalist</VME_Nationalist.symbolPacks.0.adjective>
-<VME_Nationalist.symbolPacks.0.ideoName>Nationalism</VME_Nationalist.symbolPacks.0.ideoName>
-<VME_Nationalist.symbolPacks.0.member>patriot</VME_Nationalist.symbolPacks.0.member>
-<VME_Nationalist.symbolPacks.0.theme>nationalism</VME_Nationalist.symbolPacks.0.theme>
+<VME_Nationalist.symbolPacks.0.adjective>nationaliste</VME_Nationalist.symbolPacks.0.adjective>
+<VME_Nationalist.symbolPacks.0.ideoName>Nationalisme</VME_Nationalist.symbolPacks.0.ideoName>
+<VME_Nationalist.symbolPacks.0.member>patriote</VME_Nationalist.symbolPacks.0.member>
+<VME_Nationalist.symbolPacks.0.theme>nationalisme</VME_Nationalist.symbolPacks.0.theme>
 
 
 <VME_Healthcare.label>sécurité sociale</VME_Healthcare.label>
@@ -1917,64 +1917,64 @@
 <VME_Structure_Authoritarianism.label>autoritarisme</VME_Structure_Authoritarianism.label>
 <VME_Structure_Authoritarianism.description>La pluralité n'apporte qu'une fausse illusion de choix et engendre le mécontentement, la rébellion et le chaos. D'une main de fer, nous gouvernerons notre peuple et apporterons la prospérité à tous.</VME_Structure_Authoritarianism.description>
 <VME_Structure_Authoritarianism.generalRules.rulesStrings>
-	<li>memeAdjective->firm</li>
-	<li>memeAdjective->oligarchic</li>
-	<li>memeAdjective->absolute</li>
-	<li>memeAdjective->uncompromising</li>
-	<li>memeAdjective->repressive</li>
-	<li>memeAdjective->iron-fisted</li>
-	<li>memeAdjective->populist</li>
-	<li>memeLeaderNoun->supreme leader</li>
+	<li>memeAdjective->solidifiant</li>
+	<li>memeAdjective->oligarchique</li>
+	<li>memeAdjective->absolu</li>
+	<li>memeAdjective->intransigeant</li>
+	<li>memeAdjective->répressif</li>
+	<li>memeAdjective->poigne de fer</li>
+	<li>memeAdjective->populiste</li>
+	<li>memeLeaderNoun->chef suprême</li>
 	<li>memeLeaderNoun->caudillo</li>
-	<li>memeLeaderNoun->chairman</li>
-	<li>memeLeaderNoun->duce</li>
-	<li>memeLeaderNoun->president for life</li>
-	<li>memeLeaderAdjective->stern</li>
-	<li>memeLeaderAdjective->patriot</li>
-	<li>memeLeaderAdjective->callous</li>
-	<li>memeLeaderAdjective->harsh</li>
+	<li>memeLeaderNoun->président</li>
+	<li>memeLeaderNoun->duc</li>
+	<li>memeLeaderNoun->président à vie</li>
+	<li>memeLeaderAdjective->arrière</li>
+	<li>memeLeaderAdjective->patriote</li>
+	<li>memeLeaderAdjective->insensible</li>
+	<li>memeLeaderAdjective->rude</li>
 	<li>memeLeaderAdjective->implacable</li>
 	<li>memeLeaderAdjective->inexorable</li>
-	<li>memeMoralist->propagandist</li>
-	<li>memeMoralist->regime advocate</li>
-	<li>memeMoralist->campaigner</li>
+	<li>memeMoralist->propagandiste</li>
+	<li>memeMoralist->avocat du régime</li>
+	<li>memeMoralist->militant</li>
 </VME_Structure_Authoritarianism.generalRules.rulesStrings>
-<VME_Structure_Authoritarianism.symbolPacks.0.adjective>authoritarian</VME_Structure_Authoritarianism.symbolPacks.0.adjective>
-<VME_Structure_Authoritarianism.symbolPacks.0.member>citizen</VME_Structure_Authoritarianism.symbolPacks.0.member>
-<VME_Structure_Authoritarianism.symbolPacks.0.theme>authoritarianism</VME_Structure_Authoritarianism.symbolPacks.0.theme>
-<VME_Structure_Authoritarianism.worshipRoomLabel>headquarters</VME_Structure_Authoritarianism.worshipRoomLabel>
+<VME_Structure_Authoritarianism.symbolPacks.0.adjective>autoritaire</VME_Structure_Authoritarianism.symbolPacks.0.adjective>
+<VME_Structure_Authoritarianism.symbolPacks.0.member>citoyen</VME_Structure_Authoritarianism.symbolPacks.0.member>
+<VME_Structure_Authoritarianism.symbolPacks.0.theme>autoritarisme</VME_Structure_Authoritarianism.symbolPacks.0.theme>
+<VME_Structure_Authoritarianism.worshipRoomLabel>quartier général</VME_Structure_Authoritarianism.worshipRoomLabel>
 
 
 
 <VME_Structure_CultOfPersonality.label>culte de la personalité</VME_Structure_CultOfPersonality.label>
 <VME_Structure_CultOfPersonality.description>Il est interdit de remettre en cause la couronne d'un roi ou d'une reine, même le sol lui-même ne mérite pas de sentir le contact de nos chefs divins avec les pieds. Notre chef ne devrait manquer de rien et grâce à leur grand dessein, nous prospérerons.</VME_Structure_CultOfPersonality.description>
 <VME_Structure_CultOfPersonality.generalRules.rulesStrings>
-	<li>memeAdjective->unified</li>
+	<li>memeAdjective->unifié</li>
 	<li>memeAdjective->imperial</li>
-	<li>memeAdjective->kingly</li>
 	<li>memeAdjective->royal</li>
-	<li>memeAdjective->monarchal</li>
-	<li>memeAdjective->princely</li>
-	<li>memeAdjective->sovereign</li>
-	<li>memeCreed->laws</li>
-	<li>memeCreed->orders</li>
-	<li>memeCreed->divine will</li>
-	<li>memeLeaderNoun->god-emperor</li>
-	<li>memeLeaderNoun->emperor</li>
-	<li>memeLeaderNoun->king</li>
-	<li>memeLeaderNoun->dictator</li>
-	<li>memeLeaderAdjective->majestic</li>
-	<li>memeLeaderAdjective->loved</li>
-	<li>memeLeaderAdjective->adored</li>
-	<li>memeLeaderAdjective->annointed</li>
-	<li>memeMoralist->sycophant</li>
-	<li>memeMoralist->servant</li>
-	<li>memeMoralist->magistrate</li>
+	<li>memeAdjective->royal</li>
+	<li>memeAdjective->monarchique</li>
+	<li>memeAdjective->princier</li>
+	<li>memeAdjective->souverain</li>
+	<li>memeCreed->lois</li>
+	<li>memeCreed->ordres</li>
+	<li>memeCreed->volonté divine</li>
+	<li>memeLeaderNoun->dieu empereuo</li>
+	<li>memeLeaderNoun->empereur</li>
+	<li>memeLeaderNoun->roi</li>
+	<li>memeLeaderNoun->dictateur</li>
+	<li>memeLeaderAdjective->majestueux</li>
+	<li>memeLeaderAdjective->aimé</li>
+	<li>memeLeaderAdjective->adoré</li>
+	<li>memeLeaderAdjective->oint</li>
+	<li>memeMoralist->flagorneur</li>
+	<li>memeMoralist->serviteur</li>
+	<li>memeMoralist->magistrat</li>
 </VME_Structure_CultOfPersonality.generalRules.rulesStrings>
-<VME_Structure_CultOfPersonality.symbolPacks.0.adjective>totalitarian</VME_Structure_CultOfPersonality.symbolPacks.0.adjective>
-<VME_Structure_CultOfPersonality.symbolPacks.0.member>subject</VME_Structure_CultOfPersonality.symbolPacks.0.member>
-<VME_Structure_CultOfPersonality.symbolPacks.0.theme>cult of personality</VME_Structure_CultOfPersonality.symbolPacks.0.theme>
-<VME_Structure_CultOfPersonality.worshipRoomLabel>chamber of the high one</VME_Structure_CultOfPersonality.worshipRoomLabel>
+<VME_Structure_CultOfPersonality.symbolPacks.0.adjective>totalitaire</VME_Structure_CultOfPersonality.symbolPacks.0.adjective>
+<VME_Structure_CultOfPersonality.symbolPacks.0.member>sujet</VME_Structure_CultOfPersonality.symbolPacks.0.member>
+<VME_Structure_CultOfPersonality.symbolPacks.0.theme>culte de la personalité</VME_Structure_CultOfPersonality.symbolPacks.0.theme>
+<VME_Structure_CultOfPersonality.worshipRoomLabel>chambre du grand premier</VME_Structure_CultOfPersonality.worshipRoomLabel>
 
 
 
@@ -1982,46 +1982,46 @@
 <VME_Structure_Pantheism.description>L'Univers est Dieu. Il n'y a de Dieu que la substance, les forces et les lois combinées qui se manifestent dans l'univers existant.</VME_Structure_Pantheism.description>
 <VME_Structure_Pantheism.generalRules.rulesStrings>
 	<li>memeAdjective->immanent</li>
-	<li>memeAdjective->divine</li>
-	<li>memeAdjective->all-encompassing</li>
-	<li>memeAdjective->transcendent</li>
-	<li>memeAdjective->infinite</li>
-	<li>memeAdjective->enlightened</li>
-	<li>memeLeaderNoun->guru</li>
+	<li>memeAdjective->divin</li>
+	<li>memeAdjective->englobant tout</li>
+	<li>memeAdjective->transcendant</li>
+	<li>memeAdjective->infini</li>
+	<li>memeAdjective->éclairé</li>
+	<li>memeLeaderNoun->gourou</li>
 	<li>memeLeaderNoun->leader</li>
 	<li>memeLeaderNoun->prince</li>
-	<li>memeLeaderAdjective->calm</li>
-	<li>memeLeaderAdjective->meditating </li>
-	<li>memeLeaderAdjective->enlightened</li>
-	<li>memeMoralist->philosopher</li>
-	<li>memeMoralist->thinker</li>
-	<li>memeMoralist->spiritualist</li>
+	<li>memeLeaderAdjective->calme</li>
+	<li>memeLeaderAdjective->méditer </li>
+	<li>memeLeaderAdjective->éclairé</li>
+	<li>memeMoralist->philosophe</li>
+	<li>memeMoralist->penseur</li>
+	<li>memeMoralist->spiritualiste</li>
 </VME_Structure_Pantheism.generalRules.rulesStrings>
-<VME_Structure_Pantheism.symbolPacks.0.adjective>pantheistic</VME_Structure_Pantheism.symbolPacks.0.adjective>
-<VME_Structure_Pantheism.symbolPacks.0.member>pantheist</VME_Structure_Pantheism.symbolPacks.0.member>
-<VME_Structure_Pantheism.symbolPacks.0.theme>pantheism</VME_Structure_Pantheism.symbolPacks.0.theme>
-<VME_Structure_Pantheism.worshipRoomLabel>great hall</VME_Structure_Pantheism.worshipRoomLabel>
+<VME_Structure_Pantheism.symbolPacks.0.adjective>panthéistique</VME_Structure_Pantheism.symbolPacks.0.adjective>
+<VME_Structure_Pantheism.symbolPacks.0.member>panthéiste</VME_Structure_Pantheism.symbolPacks.0.member>
+<VME_Structure_Pantheism.symbolPacks.0.theme>panthéisme</VME_Structure_Pantheism.symbolPacks.0.theme>
+<VME_Structure_Pantheism.worshipRoomLabel>grande salle</VME_Structure_Pantheism.worshipRoomLabel>
 
 
 
 <VME_Structure_Omnism.label>omnisme</VME_Structure_Omnism.label>
 <VME_Structure_Omnism.description>Toutes les croyances ont à la fois des vérités et des fabrications, un esprit sain écoutera attentivement et avec un examen minutieux ce que les principes disent ainsi que ce qu'ils choisissent de ne pas dire.</VME_Structure_Omnism.description>
 <VME_Structure_Omnism.generalRules.rulesStrings>
-	<li>memeAdjective->universal</li>
-	<li>memeAdjective->reformed</li>
-	<li>memeAdjective->comprehensive</li>
-	<li>memeAdjective->ubiquitous</li>
-	<li>memeAdjective->all-inclusive</li>
-	<li>memeLeaderNoun->all-theist</li>
-	<li>memeLeaderNoun->trascendent one</li>
-	<li>memeLeaderAdjective->wise</li>
-	<li>memeLeaderAdjective->inclusive</li>
-	<li>memeMoralist->priest</li>
-	<li>memeMoralist->preacher</li>
+	<li>memeAdjective->universel</li>
+	<li>memeAdjective->réformé</li>
+	<li>memeAdjective->compréhensif</li>
+	<li>memeAdjective->omniprésent</li>
+	<li>memeAdjective->tout inclus</li>
+	<li>memeLeaderNoun->tout-théiste</li>
+	<li>memeLeaderNoun->transcendant</li>
+	<li>memeLeaderAdjective->sage</li>
+	<li>memeLeaderAdjective->inclusif</li>
+	<li>memeMoralist->prêtre</li>
+	<li>memeMoralist->prédicateur</li>
 </VME_Structure_Omnism.generalRules.rulesStrings>
-<VME_Structure_Omnism.symbolPacks.0.adjective>omnist</VME_Structure_Omnism.symbolPacks.0.adjective>
-<VME_Structure_Omnism.symbolPacks.0.member>believer</VME_Structure_Omnism.symbolPacks.0.member>
-<VME_Structure_Omnism.symbolPacks.0.theme>omnism</VME_Structure_Omnism.symbolPacks.0.theme>
+<VME_Structure_Omnism.symbolPacks.0.adjective>omniste</VME_Structure_Omnism.symbolPacks.0.adjective>
+<VME_Structure_Omnism.symbolPacks.0.member>croyant</VME_Structure_Omnism.symbolPacks.0.member>
+<VME_Structure_Omnism.symbolPacks.0.theme>omnisme</VME_Structure_Omnism.symbolPacks.0.theme>
 <VME_Structure_Omnism.worshipRoomLabel>temple</VME_Structure_Omnism.worshipRoomLabel>
 
 
@@ -2029,71 +2029,71 @@
 <VME_Structure_Agnosticism.label>agnostisme</VME_Structure_Agnosticism.label>
 <VME_Structure_Agnosticism.description>La théorie selon laquelle des dieux ou des forces toute-puissantes nous observent ou nous guident jusqu'aux banalités est soit stupide, soit incompréhensible pour le simple homme, de même que l'idée que tout est venu de rien. Il vaut mieux ignorer de tels dogmes et respecter la liberté de ceux qui trouvent un répit dans de telles croyances.</VME_Structure_Agnosticism.description>
 <VME_Structure_Agnosticism.generalRules.rulesStrings>
-	<li>memeAdjective->disbelieving</li>
-	<li>memeAdjective->godless</li>
-	<li>memeAdjective->irreligious</li>
-	<li>memeAdjective->nonreligious</li>
-	<li>memeAdjective->unbelieving</li>
-	<li>memeAdjective->secular</li>
+	<li>memeAdjective->incrédule</li>
+	<li>memeAdjective->impie</li>
+	<li>memeAdjective->irréligieux</li>
+	<li>memeAdjective->non religieux</li>
+	<li>memeAdjective->incrédule</li>
+	<li>memeAdjective->séculaire</li>
 	<li>memeLeaderNoun->leader</li>
-	<li>memeLeaderNoun->freethinker</li>
-	<li>memeLeaderAdjective->secular</li>
-	<li>memeLeaderAdjective->worldly</li>
+	<li>memeLeaderNoun->libre-penseur</li>
+	<li>memeLeaderAdjective->séculaire</li>
+	<li>memeLeaderAdjective->mondain</li>
 	<li>memeLeaderAdjective->profane</li>
-	<li>memeMoralist->counselor</li>
-	<li>memeMoralist->ethicist</li>
-	<li>memeMoralist->moralist</li>
-	<li>memeMoralist->philosopher</li>
-	<li>memeMoralist->thinker</li>
-	<li>memeMoralist->academic</li>
-	<li>memeMoralist->sophist</li>
+	<li>memeMoralist->conseiller</li>
+	<li>memeMoralist->éthiciste</li>
+	<li>memeMoralist->moraliste</li>
+	<li>memeMoralist->philosophe</li>
+	<li>memeMoralist->penseur</li>
+	<li>memeMoralist->académicien</li>
+	<li>memeMoralist->sophiste</li>
 </VME_Structure_Agnosticism.generalRules.rulesStrings>
-<VME_Structure_Agnosticism.symbolPacks.0.adjective>agnostic</VME_Structure_Agnosticism.symbolPacks.0.adjective>
-<VME_Structure_Agnosticism.symbolPacks.0.member>agnostic</VME_Structure_Agnosticism.symbolPacks.0.member>
-<VME_Structure_Agnosticism.symbolPacks.0.theme>agnosticism</VME_Structure_Agnosticism.symbolPacks.0.theme>
-<VME_Structure_Agnosticism.worshipRoomLabel>symposium hall</VME_Structure_Agnosticism.worshipRoomLabel>
+<VME_Structure_Agnosticism.symbolPacks.0.adjective>agnostique</VME_Structure_Agnosticism.symbolPacks.0.adjective>
+<VME_Structure_Agnosticism.symbolPacks.0.member>agnostique</VME_Structure_Agnosticism.symbolPacks.0.member>
+<VME_Structure_Agnosticism.symbolPacks.0.theme>agnosticisme</VME_Structure_Agnosticism.symbolPacks.0.theme>
+<VME_Structure_Agnosticism.worshipRoomLabel>salle de conférence</VME_Structure_Agnosticism.worshipRoomLabel>
 
 
 
 <VME_Structure_SecularSpirituality.label>spiritualité laïque</VME_Structure_SecularSpirituality.label>
 <VME_Structure_SecularSpirituality.description>Mettre sa foi dans les rituels, la prière ou les pouvoirs au-delà ne fait que retarder sa croissance personnelle. L'illumination, le bonheur et le but peuvent tous être trouvés de l'intérieur et à travers n'importe quelle matière que l'on sent juste.</VME_Structure_SecularSpirituality.description>
 <VME_Structure_SecularSpirituality.generalRules.rulesStrings>
-	<li>memeAdjective->psychic</li>
+	<li>memeAdjective->psychique</li>
 	<li>memeAdjective->intangible</li>
-	<li>memeAdjective->ethereal</li>
-	<li>memeAdjective->transcendent</li>
-	<li>memeLeaderNoun->mystic</li>
-	<li>memeLeaderNoun->visionary</li>
-	<li>memeLeaderAdjective->supernatural</li>
-	<li>memeLeaderAdjective->spiritual</li>
-	<li>memeLeaderAdjective->otherworldly</li>
+	<li>memeAdjective->éthéré</li>
+	<li>memeAdjective->transcendant</li>
+	<li>memeLeaderNoun->mystique</li>
+	<li>memeLeaderNoun->visionnaire</li>
+	<li>memeLeaderAdjective->supernaturel</li>
+	<li>memeLeaderAdjective->spirituel</li>
+	<li>memeLeaderAdjective->d'un autre monde</li>
 	<li>memeMoralist->yogi</li>
-	<li>memeMoralist->therapist</li>
-	<li>memeMoralist->meditation teacher</li>
+	<li>memeMoralist->thérapeute</li>
+	<li>memeMoralist->professeur de méditation</li>
 </VME_Structure_SecularSpirituality.generalRules.rulesStrings>
-<VME_Structure_SecularSpirituality.symbolPacks.0.adjective>secular</VME_Structure_SecularSpirituality.symbolPacks.0.adjective>
-<VME_Structure_SecularSpirituality.symbolPacks.0.member>spiritual person</VME_Structure_SecularSpirituality.symbolPacks.0.member>
-<VME_Structure_SecularSpirituality.symbolPacks.0.theme>secular spirituality</VME_Structure_SecularSpirituality.symbolPacks.0.theme>
-<VME_Structure_SecularSpirituality.worshipRoomLabel>meditation room</VME_Structure_SecularSpirituality.worshipRoomLabel>
+<VME_Structure_SecularSpirituality.symbolPacks.0.adjective>séculaire</VME_Structure_SecularSpirituality.symbolPacks.0.adjective>
+<VME_Structure_SecularSpirituality.symbolPacks.0.member>personne spirituelle</VME_Structure_SecularSpirituality.symbolPacks.0.member>
+<VME_Structure_SecularSpirituality.symbolPacks.0.theme>spiritualité laïque</VME_Structure_SecularSpirituality.symbolPacks.0.theme>
+<VME_Structure_SecularSpirituality.worshipRoomLabel>salle de méditation</VME_Structure_SecularSpirituality.worshipRoomLabel>
 
 
 
-<VME_Structure_Shintaoism.label>origine shintoïsme</VME_Structure_Shintaoism.label>
+<VME_Structure_Shintaoism.label>origine shintaoïste</VME_Structure_Shintaoism.label>
 <VME_Structure_Shintaoism.description>Cette idéoligion est une descendante de l'ancien shinto et du taoïsme. Il peut avoir des préceptes très différents de ceux d'il y a des milliers d'années, mais ses symboles sont similaires.</VME_Structure_Shintaoism.description>
 <VME_Structure_Shintaoism.generalRules.rulesStrings>
-	<li>memeAdjective->balanced</li>
-	<li>memeAdjective->natural</li>
-	<li>memeAdjective->compassionate</li>
+	<li>memeAdjective->équilibré</li>
+	<li>memeAdjective->naturel</li>
+	<li>memeAdjective->compatissant</li>
 	<li>memeAdjective->frugal</li>
 	<li>memeAdjective->humble</li>
 	<li>memeLeaderNoun->taoshih</li>
-	<li>memeLeaderNoun->master of the Tao</li>
-	<li>memeLeaderAdjective->spiritual</li>
-	<li>memeLeaderAdjective->serene</li>
-	<li>memeMoralist->shintaoist priest</li>
+	<li>memeLeaderNoun->maître du Tao</li>
+	<li>memeLeaderAdjective->spirituel</li>
+	<li>memeLeaderAdjective->serein</li>
+	<li>memeMoralist->prêtre shintaoïste</li>
 </VME_Structure_Shintaoism.generalRules.rulesStrings>
-<VME_Structure_Shintaoism.symbolPacks.0.adjective>shintaoist</VME_Structure_Shintaoism.symbolPacks.0.adjective>
-<VME_Structure_Shintaoism.symbolPacks.0.member>initiate</VME_Structure_Shintaoism.symbolPacks.0.member>
+<VME_Structure_Shintaoism.symbolPacks.0.adjective>shintaoiste</VME_Structure_Shintaoism.symbolPacks.0.adjective>
+<VME_Structure_Shintaoism.symbolPacks.0.member>initié</VME_Structure_Shintaoism.symbolPacks.0.member>
 <VME_Structure_Shintaoism.symbolPacks.0.theme>shintao</VME_Structure_Shintaoism.symbolPacks.0.theme>
 <VME_Structure_Shintaoism.worshipRoomLabel>dàoguàn</VME_Structure_Shintaoism.worshipRoomLabel>
 
@@ -2102,26 +2102,26 @@
 <VME_Structure_Corporate.label>origine corporatiste</VME_Structure_Corporate.label>
 <VME_Structure_Corporate.description>Aucun dieu ou roi ne devrait être adoré, seulement l'homme et son désir inébranlable de richesse. Les colonies doivent être gérées comme des entreprises.</VME_Structure_Corporate.description>
 <VME_Structure_Corporate.generalRules.rulesStrings>
-	<li>memeAdjective->private</li>
+	<li>memeAdjective->privé</li>
 	<li>memeAdjective->profitable</li>
-	<li>memeAdjective->exploitative</li>
-	<li>memeAdjective->professional</li>
+	<li>memeAdjective->exploiteur</li>
+	<li>memeAdjective->professionel</li>
 	<li>memeAdjective->commercial</li>
-	<li>memeAdjective->lucrative</li>
-	<li>memeLeaderNoun->CEO</li>
+	<li>memeAdjective->lucratif</li>
+	<li>memeLeaderNoun->PDG</li>
 	<li>memeLeaderNoun->boss</li>
-	<li>memeLeaderNoun->superintendent</li>
-	<li>memeLeaderAdjective->ruthless</li>
-	<li>memeLeaderAdjective->talented</li>
-	<li>memeLeaderAdjective->entrepreneurial</li>
-	<li>memeMoralist->administrator</li>
-	<li>memeMoralist->executive</li>
+	<li>memeLeaderNoun->super-intendent</li>
+	<li>memeLeaderAdjective->impitoyable</li>
+	<li>memeLeaderAdjective->talentueux</li>
+	<li>memeLeaderAdjective->entrepreneur</li>
+	<li>memeMoralist->administrateur</li>
+	<li>memeMoralist->exécutif</li>
 	<li>memeMoralist->manager</li>
 </VME_Structure_Corporate.generalRules.rulesStrings>
-<VME_Structure_Corporate.symbolPacks.0.adjective>corporate</VME_Structure_Corporate.symbolPacks.0.adjective>
-<VME_Structure_Corporate.symbolPacks.0.member>employee</VME_Structure_Corporate.symbolPacks.0.member>
+<VME_Structure_Corporate.symbolPacks.0.adjective>corporatiste</VME_Structure_Corporate.symbolPacks.0.adjective>
+<VME_Structure_Corporate.symbolPacks.0.member>employé</VME_Structure_Corporate.symbolPacks.0.member>
 <VME_Structure_Corporate.symbolPacks.0.theme>corporation</VME_Structure_Corporate.symbolPacks.0.theme>
-<VME_Structure_Corporate.worshipRoomLabel>office</VME_Structure_Corporate.worshipRoomLabel>
+<VME_Structure_Corporate.worshipRoomLabel>bureau</VME_Structure_Corporate.worshipRoomLabel>
 
 
 		<!-- +++++ Memes_Misc_Royalty +++++ -->
@@ -2162,28 +2162,28 @@
 </VME_PsychicFocus.descriptionMaker.rules.rulesStrings>
 <VME_PsychicFocus.generalRules.rulesStrings>
     <li>memeAdjective->mental</li>
-    <li>memeAdjective->psychic</li>
-    <li>memeAdjective->metaphysical</li>
-    <li>memeHyphenPrefix->mind</li>
-    <li>memeConcept->psychic power</li>
-    <li>memeLeaderNoun->mentalist</li>
-    <li>memeLeaderNoun->augur</li>
-    <li>memeLeaderNoun->seer</li>
-    <li>memeMoralist->prophet</li>
+    <li>memeAdjective->psychique</li>
+    <li>memeAdjective->métaphysique</li>
+    <li>memeHyphenPrefix->esprit</li>
+    <li>memeConcept->pouvoir psychique</li>
+    <li>memeLeaderNoun->mentaliste</li>
+    <li>memeLeaderNoun->augure</li>
+    <li>memeLeaderNoun->voyant</li>
+    <li>memeMoralist->prophète</li>
     <li>memeMoralist->clairvoyant</li>
 </VME_PsychicFocus.generalRules.rulesStrings>
-<VME_PsychicFocus.symbolPacks.0.adjective>psychic</VME_PsychicFocus.symbolPacks.0.adjective>
-<VME_PsychicFocus.symbolPacks.0.ideoName>Psychics</VME_PsychicFocus.symbolPacks.0.ideoName>
-<VME_PsychicFocus.symbolPacks.0.member>psychic</VME_PsychicFocus.symbolPacks.0.member>
-<VME_PsychicFocus.symbolPacks.0.theme>pshychic powers</VME_PsychicFocus.symbolPacks.0.theme>
-<VME_PsychicFocus.symbolPacks.1.adjective>mentalist</VME_PsychicFocus.symbolPacks.1.adjective>
-<VME_PsychicFocus.symbolPacks.1.ideoName>Mentalism</VME_PsychicFocus.symbolPacks.1.ideoName>
-<VME_PsychicFocus.symbolPacks.1.member>mentalist</VME_PsychicFocus.symbolPacks.1.member>
-<VME_PsychicFocus.symbolPacks.1.theme>mentalism</VME_PsychicFocus.symbolPacks.1.theme>
-<VME_PsychicFocus.symbolPacks.2.adjective>psionic</VME_PsychicFocus.symbolPacks.2.adjective>
-<VME_PsychicFocus.symbolPacks.2.ideoName>Psionics</VME_PsychicFocus.symbolPacks.2.ideoName>
+<VME_PsychicFocus.symbolPacks.0.adjective>psychique</VME_PsychicFocus.symbolPacks.0.adjective>
+<VME_PsychicFocus.symbolPacks.0.ideoName>Psychique</VME_PsychicFocus.symbolPacks.0.ideoName>
+<VME_PsychicFocus.symbolPacks.0.member>psychique</VME_PsychicFocus.symbolPacks.0.member>
+<VME_PsychicFocus.symbolPacks.0.theme>pouvoirs psychiques</VME_PsychicFocus.symbolPacks.0.theme>
+<VME_PsychicFocus.symbolPacks.1.adjective>mentaliste</VME_PsychicFocus.symbolPacks.1.adjective>
+<VME_PsychicFocus.symbolPacks.1.ideoName>Mentalisme</VME_PsychicFocus.symbolPacks.1.ideoName>
+<VME_PsychicFocus.symbolPacks.1.member>mentaliste</VME_PsychicFocus.symbolPacks.1.member>
+<VME_PsychicFocus.symbolPacks.1.theme>mentalisme</VME_PsychicFocus.symbolPacks.1.theme>
+<VME_PsychicFocus.symbolPacks.2.adjective>psionique</VME_PsychicFocus.symbolPacks.2.adjective>
+<VME_PsychicFocus.symbolPacks.2.ideoName>Psionique</VME_PsychicFocus.symbolPacks.2.ideoName>
 <VME_PsychicFocus.symbolPacks.2.member>psion</VME_PsychicFocus.symbolPacks.2.member>
-<VME_PsychicFocus.symbolPacks.2.theme>psionics</VME_PsychicFocus.symbolPacks.2.theme>
+<VME_PsychicFocus.symbolPacks.2.theme>psionique</VME_PsychicFocus.symbolPacks.2.theme>
 
 
 </LanguageData>
