@@ -1837,80 +1837,80 @@
 <VME_Structure_Bacchanalianism.label>hédonisme</VME_Structure_Bacchanalianism.label>
 <VME_Structure_Bacchanalianism.description>Le temps de l'homme sur cette terre est bref et éphémère, se priver de l'un des plaisirs de la vie tels que la luxure ou la gourmandise est le seul vrai péché. Ouvrez grand les portes d'une fête inlassable, vivez et respirez une splendeur sans fin.</VME_Structure_Bacchanalianism.description>
 <VME_Structure_Bacchanalianism.generalRules.rulesStrings>
-	<li>memeAdjective->hedonistic</li>
-	<li>memeAdjective->pleasurable</li>
-	<li>memeAdjective->orgasmic</li>
-	<li>memeAdjective->pleasant</li>
-	<li>memeAdjective->enjoyable</li>
-	<li>memeAdjective->delightful</li>
-	<li>memeLeaderNoun->lord of pleasure</li>
-	<li>memeLeaderNoun->libertine</li>
-	<li>memeLeaderAdjective->delightful</li>
-	<li>memeLeaderAdjective->gratifying</li>
-	<li>memeLeaderAdjective->pleasing</li>
-	<li>memeMoralist->reveler</li>
-	<li>memeMoralist->love priest</li>
+	<li>memeAdjective->hédonistique</li>
+	<li>memeAdjective->jouissif</li>
+	<li>memeAdjective->orgasmique</li>
+	<li>memeAdjective->plaisant</li>
+	<li>memeAdjective->agréable</li>
+	<li>memeAdjective->délicieux</li>
+	<li>memeLeaderNoun->seigneur du plaisir</li>
+	<li>memeLeaderNoun->libertin</li>
+	<li>memeLeaderAdjective->délicieux</li>
+	<li>memeLeaderAdjective->gratifiant</li>
+	<li>memeLeaderAdjective->plaisant</li>
+	<li>memeMoralist->fêtard</li>
+	<li>memeMoralist->prêtre de l'amour</li>
 </VME_Structure_Bacchanalianism.generalRules.rulesStrings>
-<VME_Structure_Bacchanalianism.symbolPacks.0.adjective>hedonist</VME_Structure_Bacchanalianism.symbolPacks.0.adjective>
-<VME_Structure_Bacchanalianism.symbolPacks.0.member>hedonist</VME_Structure_Bacchanalianism.symbolPacks.0.member>
-<VME_Structure_Bacchanalianism.symbolPacks.0.theme>hedonism</VME_Structure_Bacchanalianism.symbolPacks.0.theme>
-<VME_Structure_Bacchanalianism.worshipRoomLabel>pleasure lounge</VME_Structure_Bacchanalianism.worshipRoomLabel>
+<VME_Structure_Bacchanalianism.symbolPacks.0.adjective>hédoniste</VME_Structure_Bacchanalianism.symbolPacks.0.adjective>
+<VME_Structure_Bacchanalianism.symbolPacks.0.member>hédoniste</VME_Structure_Bacchanalianism.symbolPacks.0.member>
+<VME_Structure_Bacchanalianism.symbolPacks.0.theme>hédonisme</VME_Structure_Bacchanalianism.symbolPacks.0.theme>
+<VME_Structure_Bacchanalianism.worshipRoomLabel>salon des plaisirs</VME_Structure_Bacchanalianism.worshipRoomLabel>
 
 
 
 <VME_Structure_ChthonianCult.label>culte surnaturel</VME_Structure_ChthonianCult.label>
 <VME_Structure_ChthonianCult.description>Il y a d'anciennes entités dans cet univers qui sont plus puissantes que de simples dieux. Immensément puissants et totalement indifférents à nous, les humains, qui pouvons à peine commencer à les comprendre. Ce n'est qu'en les vénérant que nous pouvons espérer apaiser leur colère.</VME_Structure_ChthonianCult.description>
 <VME_Structure_ChthonianCult.generalRules.rulesStrings>
-	<li>memeAdjective->chthonian</li>
-	<li>memeAdjective->eldritch</li>
-	<li>memeAdjective->unnameable</li>
-	<li>memeAdjective->insane</li>
-	<li>memeAdjective->non-euclidean</li>
-	<li>memeAdjective->otherwordly</li>
-	<li>memeAdjective->loathsome</li>
-	<li>memeCreed->scribbles</li>
-	<li>memeCreed->knowledge</li>
-	<li>memeCreed->madness</li>
-	<li>memeLeaderNoun->antiquarian</li>
-	<li>memeLeaderNoun->nameless</li>
-	<li>memeLeaderAdjective->indescribable</li>
-	<li>memeLeaderAdjective->unmentionable</li>
-	<li>memeLeaderAdjective->whispering</li>
-	<li>memeMoralist->deranged cultist</li>
-	<li>memeMoralist->cultist leader</li>
-	<li>memeMoralist->stygian advocate</li>
+	<li>memeAdjective->chthonien</li>
+	<li>memeAdjective->eldritche</li>
+	<li>memeAdjective->innommable</li>
+	<li>memeAdjective->insensé</li>
+	<li>memeAdjective->non-euclidien</li>
+	<li>memeAdjective->autrement</li>
+	<li>memeAdjective->détestable</li>
+	<li>memeCreed->gribouillis</li>
+	<li>memeCreed->connaissance</li>
+	<li>memeCreed->démence</li>
+	<li>memeLeaderNoun->antiquaire</li>
+	<li>memeLeaderNoun->sans nom</li>
+	<li>memeLeaderAdjective->indescriptible</li>
+	<li>memeLeaderAdjective->inavouable</li>
+	<li>memeLeaderAdjective->chuchotement</li>
+	<li>memeMoralist->cultiste dérangé</li>
+	<li>memeMoralist->chef cultiste</li>
+	<li>memeMoralist->avocat stygien</li>
 </VME_Structure_ChthonianCult.generalRules.rulesStrings>
-<VME_Structure_ChthonianCult.symbolPacks.0.adjective>eldritch</VME_Structure_ChthonianCult.symbolPacks.0.adjective>
-<VME_Structure_ChthonianCult.symbolPacks.0.member>cultist</VME_Structure_ChthonianCult.symbolPacks.0.member>
-<VME_Structure_ChthonianCult.symbolPacks.0.theme>eldritch</VME_Structure_ChthonianCult.symbolPacks.0.theme>
-<VME_Structure_ChthonianCult.worshipRoomLabel>chamber of whispers</VME_Structure_ChthonianCult.worshipRoomLabel>
+<VME_Structure_ChthonianCult.symbolPacks.0.adjective>eldritche</VME_Structure_ChthonianCult.symbolPacks.0.adjective>
+<VME_Structure_ChthonianCult.symbolPacks.0.member>cultiste</VME_Structure_ChthonianCult.symbolPacks.0.member>
+<VME_Structure_ChthonianCult.symbolPacks.0.theme>eldritche</VME_Structure_ChthonianCult.symbolPacks.0.theme>
+<VME_Structure_ChthonianCult.worshipRoomLabel>chambre des murmures</VME_Structure_ChthonianCult.worshipRoomLabel>
 
 
 
 <VME_Structure_Eschatologism.label>eschatologisme</VME_Structure_Eschatologism.label>
 <VME_Structure_Eschatologism.description>Être maudit pour marcher sur cette terre est une véritable torture, et que ce soit au moyen d'un cataclysme, d'une famine ou d'une peste, le départ de son âme de son enveloppe mortelle doit être célébré.</VME_Structure_Eschatologism.description>
 <VME_Structure_Eschatologism.generalRules.rulesStrings>
-	<li>memeAdjective->doomsday</li>
-	<li>memeAdjective->eschatological</li>
-	<li>memeAdjective->apocalyptic</li>
-	<li>memeAdjective->cataclysmic</li>
-	<li>memeAdjective->catastrophic</li>
-	<li>memeCreed->predictions</li>
-	<li>memeCreed->prophecies</li>
-	<li>memeCreed->auguries</li>
-	<li>memeLeaderNoun->cult leader</li>
-	<li>memeLeaderNoun->doombringer</li>
-	<li>memeLeaderAdjective->portentous</li>
-	<li>memeLeaderAdjective->oracular</li>
+	<li>memeAdjective->apocalyptique</li>
+	<li>memeAdjective->eschatologique</li>
+	<li>memeAdjective->apocalyptique</li>
+	<li>memeAdjective->cataclysmique</li>
+	<li>memeAdjective->catastrophique</li>
+	<li>memeCreed->prédictions</li>
+	<li>memeCreed->prophéties</li>
+	<li>memeCreed->présages</li>
+	<li>memeLeaderNoun->chef de la secte</li>
+	<li>memeLeaderNoun->porte-destin</li>
+	<li>memeLeaderAdjective->sinistre</li>
+	<li>memeLeaderAdjective->oraculaire</li>
 	<li>memeLeaderAdjective->prescient</li>
-	<li>memeMoralist->doomsayer</li>
-	<li>memeMoralist->scaremonger</li>
-	<li>memeMoralist->harbinger of doom</li>
+	<li>memeMoralist->devin</li>
+	<li>memeMoralist->alarmiste</li>
+	<li>memeMoralist->annonciateur de malheur</li>
 </VME_Structure_Eschatologism.generalRules.rulesStrings>
-<VME_Structure_Eschatologism.symbolPacks.0.adjective>eschatological</VME_Structure_Eschatologism.symbolPacks.0.adjective>
-<VME_Structure_Eschatologism.symbolPacks.0.member>doomsday cultist</VME_Structure_Eschatologism.symbolPacks.0.member>
-<VME_Structure_Eschatologism.symbolPacks.0.theme>eschatologism</VME_Structure_Eschatologism.symbolPacks.0.theme>
-<VME_Structure_Eschatologism.worshipRoomLabel>antechamber</VME_Structure_Eschatologism.worshipRoomLabel>
+<VME_Structure_Eschatologism.symbolPacks.0.adjective>eschatologique</VME_Structure_Eschatologism.symbolPacks.0.adjective>
+<VME_Structure_Eschatologism.symbolPacks.0.member>cultiste apocalyptique</VME_Structure_Eschatologism.symbolPacks.0.member>
+<VME_Structure_Eschatologism.symbolPacks.0.theme>eschatologisme</VME_Structure_Eschatologism.symbolPacks.0.theme>
+<VME_Structure_Eschatologism.worshipRoomLabel>antichambre</VME_Structure_Eschatologism.worshipRoomLabel>
 
 
 
