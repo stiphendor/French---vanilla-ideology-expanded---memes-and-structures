@@ -1,533 +1,533 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_Alcohol_Demanded.stages.missing_alcohol.label>missing alcohol</VME_Alcohol_Demanded.stages.missing_alcohol.label>
-<VME_Alcohol_Demanded.stages.missing_alcohol.description>I could use a drink. Something stronger please.</VME_Alcohol_Demanded.stages.missing_alcohol.description>
-<VME_Alcohol_Demanded.stages.no_alcohol.label>no alcohol</VME_Alcohol_Demanded.stages.no_alcohol.label>
-<VME_Alcohol_Demanded.stages.no_alcohol.description>I wish I could have a drink of something stronger.</VME_Alcohol_Demanded.stages.no_alcohol.description>
-<VME_Alcohol_Demanded.stages.needs_alcohol.label>needs alcohol</VME_Alcohol_Demanded.stages.needs_alcohol.label>
-<VME_Alcohol_Demanded.stages.needs_alcohol.description>I need a drink of something stronger.</VME_Alcohol_Demanded.stages.needs_alcohol.description>
-<VME_Alcohol_Demanded.stages.craves_alcohol.label>craves alcohol</VME_Alcohol_Demanded.stages.craves_alcohol.label>
-<VME_Alcohol_Demanded.stages.craves_alcohol.description>I’d kill for a drop of something stronger.</VME_Alcohol_Demanded.stages.craves_alcohol.description>
-<VME_Alcohol_Demanded.stages.demands_alcohol.label>demands alcohol</VME_Alcohol_Demanded.stages.demands_alcohol.label>
-<VME_Alcohol_Demanded.stages.demands_alcohol.description>Booze or I riot.</VME_Alcohol_Demanded.stages.demands_alcohol.description>
+<VME_Alcohol_Demanded.stages.missing_alcohol.label>manque d'alcool</VME_Alcohol_Demanded.stages.missing_alcohol.label>
+<VME_Alcohol_Demanded.stages.missing_alcohol.description>Je prendrais bien un verre. Quelque chose de plus fort, s'il vous plaît.</VME_Alcohol_Demanded.stages.missing_alcohol.description>
+<VME_Alcohol_Demanded.stages.no_alcohol.label>pas d'alcool</VME_Alcohol_Demanded.stages.no_alcohol.label>
+<VME_Alcohol_Demanded.stages.no_alcohol.description>J'aimerais pouvoir boire quelque chose de plus fort.</VME_Alcohol_Demanded.stages.no_alcohol.description>
+<VME_Alcohol_Demanded.stages.needs_alcohol.label>besoin d'alcool</VME_Alcohol_Demanded.stages.needs_alcohol.label>
+<VME_Alcohol_Demanded.stages.needs_alcohol.description>J'ai besoin d'un verre de quelque chose de plus fort.</VME_Alcohol_Demanded.stages.needs_alcohol.description>
+<VME_Alcohol_Demanded.stages.craves_alcohol.label>envie d'alcool</VME_Alcohol_Demanded.stages.craves_alcohol.label>
+<VME_Alcohol_Demanded.stages.craves_alcohol.description>Je tuerais pour une goutte de quelque chose de plus fort.</VME_Alcohol_Demanded.stages.craves_alcohol.description>
+<VME_Alcohol_Demanded.stages.demands_alcohol.label>demande d'alcool</VME_Alcohol_Demanded.stages.demands_alcohol.label>
+<VME_Alcohol_Demanded.stages.demands_alcohol.description>De l'alcool ou une émeute.</VME_Alcohol_Demanded.stages.demands_alcohol.description>
 
-<VME_Alcohol_Desired.stages.missing_alcohol.label>missing alcohol</VME_Alcohol_Desired.stages.missing_alcohol.label>
-<VME_Alcohol_Desired.stages.missing_alcohol.description>It's been a while since I've had a drink.</VME_Alcohol_Desired.stages.missing_alcohol.description>
-<VME_Alcohol_Desired.stages.desiring_a_drink.label>desiring a drink</VME_Alcohol_Desired.stages.desiring_a_drink.label>
-<VME_Alcohol_Desired.stages.desiring_a_drink.description>What this colony needs is a bar so we can take a few drinks with our friends after a day of hard work.</VME_Alcohol_Desired.stages.desiring_a_drink.description>
-<VME_Alcohol_Desired.stages.wanting_a_drink-0.label>wanting a drink</VME_Alcohol_Desired.stages.wanting_a_drink-0.label>
-<VME_Alcohol_Desired.stages.wanting_a_drink-0.description>Hard work is fine, but I'd really appreciate relaxing with some strong spirits or a beer.</VME_Alcohol_Desired.stages.wanting_a_drink-0.description>
-<VME_Alcohol_Desired.stages.wanting_a_drink-1.label>wanting a drink</VME_Alcohol_Desired.stages.wanting_a_drink-1.label>
-<VME_Alcohol_Desired.stages.wanting_a_drink-1.description>Hard work is fine, but I'd really appreciate relaxing with some strong spirits or a beer.</VME_Alcohol_Desired.stages.wanting_a_drink-1.description>
-<VME_Alcohol_Desired.stages.wanting_a_drink-2.label>wanting a drink</VME_Alcohol_Desired.stages.wanting_a_drink-2.label>
-<VME_Alcohol_Desired.stages.wanting_a_drink-2.description>Hard work is fine, but I'd really appreciate relaxing with some strong spirits or a beer.</VME_Alcohol_Desired.stages.wanting_a_drink-2.description>
+<VME_Alcohol_Desired.stages.missing_alcohol.label>manque d'alcool</VME_Alcohol_Desired.stages.missing_alcohol.label>
+<VME_Alcohol_Desired.stages.missing_alcohol.description>Ça fait un moment que je n'ai pas bu un verre.</VME_Alcohol_Desired.stages.missing_alcohol.description>
+<VME_Alcohol_Desired.stages.desiring_a_drink.label>désireux de boire un verre</VME_Alcohol_Desired.stages.desiring_a_drink.label>
+<VME_Alcohol_Desired.stages.desiring_a_drink.description>Ce dont cette colonie a besoin, c'est d'un bar pour que nous puissions prendre quelques verres avec nos amis après une journée de dur labeur.</VME_Alcohol_Desired.stages.desiring_a_drink.description>
+<VME_Alcohol_Desired.stages.wanting_a_drink-0.label>envie d'un verre</VME_Alcohol_Desired.stages.wanting_a_drink-0.label>
+<VME_Alcohol_Desired.stages.wanting_a_drink-0.description>Travailler dur, c'est bien, mais j'apprécierais vraiment de me détendre avec des alcools forts ou une bière.</VME_Alcohol_Desired.stages.wanting_a_drink-0.description>
+<VME_Alcohol_Desired.stages.wanting_a_drink-1.label>envie d'un verre</VME_Alcohol_Desired.stages.wanting_a_drink-1.label>
+<VME_Alcohol_Desired.stages.wanting_a_drink-1.description>Travailler dur, c'est bien, mais j'apprécierais vraiment de me détendre avec des alcools forts ou une bière.</VME_Alcohol_Desired.stages.wanting_a_drink-1.description>
+<VME_Alcohol_Desired.stages.wanting_a_drink-2.label>envie d'un verre</VME_Alcohol_Desired.stages.wanting_a_drink-2.label>
+<VME_Alcohol_Desired.stages.wanting_a_drink-2.description>Travailler dur, c'est bien, mais j'apprécierais vraiment de me détendre avec des alcools forts ou une bière.</VME_Alcohol_Desired.stages.wanting_a_drink-2.description>
 
-<VME_Alcohol_MildAbstinence.stages.consumed_alcohol.label>consumed alcohol</VME_Alcohol_MildAbstinence.stages.consumed_alcohol.label>
-<VME_Alcohol_MildAbstinence.stages.consumed_alcohol.description>I drank a bit of alcohol. Not a big deal, but I feel a bit woozy.</VME_Alcohol_MildAbstinence.stages.consumed_alcohol.description>
-<VME_Alcohol_MildAbstinence.stages.abstained_from_alcohol.label>abstained from alcohol</VME_Alcohol_MildAbstinence.stages.abstained_from_alcohol.label>
-<VME_Alcohol_MildAbstinence.stages.abstained_from_alcohol.description>I haven't consumed alcohol lately.</VME_Alcohol_MildAbstinence.stages.abstained_from_alcohol.description>
+<VME_Alcohol_MildAbstinence.stages.consumed_alcohol.label>a consommé de l'alcool</VME_Alcohol_MildAbstinence.stages.consumed_alcohol.label>
+<VME_Alcohol_MildAbstinence.stages.consumed_alcohol.description>J'ai bu un peu d'alcool. Ce n'est pas grave, mais je me sens un peu bizarre.</VME_Alcohol_MildAbstinence.stages.consumed_alcohol.description>
+<VME_Alcohol_MildAbstinence.stages.abstained_from_alcohol.label>s'abstenir d'alcool</VME_Alcohol_MildAbstinence.stages.abstained_from_alcohol.label>
+<VME_Alcohol_MildAbstinence.stages.abstained_from_alcohol.description>Je n'ai pas consommé d'alcool ces derniers temps.</VME_Alcohol_MildAbstinence.stages.abstained_from_alcohol.description>
 
-<VME_Aurora_Amazing.stages.amazing_aurora.label>amazing aurora</VME_Aurora_Amazing.stages.amazing_aurora.label>
-<VME_Aurora_Amazing.stages.amazing_aurora.description>I have a moment's respite from the darkness of the night.</VME_Aurora_Amazing.stages.amazing_aurora.description>
+<VME_Aurora_Amazing.stages.amazing_aurora.label>aurore extraordinaire</VME_Aurora_Amazing.stages.amazing_aurora.label>
+<VME_Aurora_Amazing.stages.amazing_aurora.description>J'ai eu un moment de repos dans l'obscurité de la nuit.</VME_Aurora_Amazing.stages.amazing_aurora.description>
 
-<VME_Aurora_Despised.stages.disgusting_aurora.label>disgusting aurora</VME_Aurora_Despised.stages.disgusting_aurora.label>
-<VME_Aurora_Despised.stages.disgusting_aurora.description>The blinding lights in the heavens give me a headache.</VME_Aurora_Despised.stages.disgusting_aurora.description>
+<VME_Aurora_Despised.stages.disgusting_aurora.label>aurore répugnante</VME_Aurora_Despised.stages.disgusting_aurora.label>
+<VME_Aurora_Despised.stages.disgusting_aurora.description>Les lumières aveuglantes dans les cieux me donnent mal à la tête.</VME_Aurora_Despised.stages.disgusting_aurora.description>
 
-<VME_AutonomousWeapons_Accepted.stages.automated_turrets.label>automated turrets</VME_AutonomousWeapons_Accepted.stages.automated_turrets.label>
-<VME_AutonomousWeapons_Accepted.stages.automated_turrets.description>We use automated turrets. They are an incredible boon to our defenses.</VME_AutonomousWeapons_Accepted.stages.automated_turrets.description>
-<VME_AutonomousWeapons_Exalted.stages.automated_turrets.label>automated turrets</VME_AutonomousWeapons_Exalted.stages.automated_turrets.label>
-<VME_AutonomousWeapons_Exalted.stages.automated_turrets.description>We use automated turrets. Automated defenses are key to a proper defense of what is ours.</VME_AutonomousWeapons_Exalted.stages.automated_turrets.description>
+<VME_AutonomousWeapons_Accepted.stages.automated_turrets.label>tourelles automatisées</VME_AutonomousWeapons_Accepted.stages.automated_turrets.label>
+<VME_AutonomousWeapons_Accepted.stages.automated_turrets.description>Nous utilisons des tourelles automatisées. Elles sont un atout incroyable pour nos défenses.</VME_AutonomousWeapons_Accepted.stages.automated_turrets.description>
+<VME_AutonomousWeapons_Exalted.stages.automated_turrets.label>tourelles automatisées</VME_AutonomousWeapons_Exalted.stages.automated_turrets.label>
+<VME_AutonomousWeapons_Exalted.stages.automated_turrets.description>Nous utilisons des tourelles automatisées. Les défenses automatisées sont la clé d'une bonne protection de ce qui nous appartient.</VME_AutonomousWeapons_Exalted.stages.automated_turrets.description>
 
-<VME_InstalledProsthetic_OnlyBiological.stages.installed_nonnatural_prosthetic.label>installed non-natural prosthetic</VME_InstalledProsthetic_OnlyBiological.stages.installed_nonnatural_prosthetic.label>
-<VME_InstalledProsthetic_OnlyBiological.stages.installed_nonnatural_prosthetic.description>I had to install a non-natural prosthetic. Flesh only should be replaced by flesh.</VME_InstalledProsthetic_OnlyBiological.stages.installed_nonnatural_prosthetic.description>
-<VME_InstalledProsthetic_Know_OnlyBiological.stages.installed_nonnatural_prosthetic.label>installed non-natural prosthetic</VME_InstalledProsthetic_Know_OnlyBiological.stages.installed_nonnatural_prosthetic.label>
+<VME_InstalledProsthetic_OnlyBiological.stages.installed_nonnatural_prosthetic.label>prothèse non-naturelle installée</VME_InstalledProsthetic_OnlyBiological.stages.installed_nonnatural_prosthetic.label>
+<VME_InstalledProsthetic_OnlyBiological.stages.installed_nonnatural_prosthetic.description>J'ai dû installer une prothèse non-naturelle. La chair ne doit être remplacée que par de la chair.</VME_InstalledProsthetic_OnlyBiological.stages.installed_nonnatural_prosthetic.description>
+<VME_InstalledProsthetic_Know_OnlyBiological.stages.installed_nonnatural_prosthetic.label>prothèse non-naturelle installée</VME_InstalledProsthetic_Know_OnlyBiological.stages.installed_nonnatural_prosthetic.label>
 
-<VME_HasProsthetic_OnlyBiological.stages.nonnatural_part.label>non-natural part</VME_HasProsthetic_OnlyBiological.stages.nonnatural_part.label>
-<VME_HasProsthetic_OnlyBiological.stages.nonnatural_part.description>I have a non-natural body part in me. Flesh only should be replaced by flesh!</VME_HasProsthetic_OnlyBiological.stages.nonnatural_part.description>
-<VME_HasProsthetic_OnlyBiological_Social.stages.nonnatural_part.label>non-natural part</VME_HasProsthetic_OnlyBiological_Social.stages.nonnatural_part.label>
+<VME_HasProsthetic_OnlyBiological.stages.nonnatural_part.label>partie non-naturelle</VME_HasProsthetic_OnlyBiological.stages.nonnatural_part.label>
+<VME_HasProsthetic_OnlyBiological.stages.nonnatural_part.description>J'ai une partie du corps non-naturelle en moi. La chair ne doit être remplacée que par la chair !</VME_HasProsthetic_OnlyBiological.stages.nonnatural_part.description>
+<VME_HasProsthetic_OnlyBiological_Social.stages.nonnatural_part.label>partie non-naturelle</VME_HasProsthetic_OnlyBiological_Social.stages.nonnatural_part.label>
 
-<VME_Death_Troubling.stages.death_is_troubling.label>death is troubling</VME_Death_Troubling.stages.death_is_troubling.label>
-<VME_Death_Troubling.stages.death_is_troubling.description>I know death is a part of life, but I just HATE being reminded of it.</VME_Death_Troubling.stages.death_is_troubling.description>
+<VME_Death_Troubling.stages.death_is_troubling.label>la mort est troublante</VME_Death_Troubling.stages.death_is_troubling.label>
+<VME_Death_Troubling.stages.death_is_troubling.description>Je sais que la mort fait partie de la vie, mais je DÉTESTE juste qu'on me le rappelle.</VME_Death_Troubling.stages.death_is_troubling.description>
 
-<VME_Defeat_Dishonorable.stages.defeated_in_combat.label>defeated in combat</VME_Defeat_Dishonorable.stages.defeated_in_combat.label>
-<VME_Defeat_Dishonorable.stages.defeated_in_combat.description>I was defeated in combat, this brings me great dishonor.</VME_Defeat_Dishonorable.stages.defeated_in_combat.description>
+<VME_Defeat_Dishonorable.stages.defeated_in_combat.label>défaite au combat</VME_Defeat_Dishonorable.stages.defeated_in_combat.label>
+<VME_Defeat_Dishonorable.stages.defeated_in_combat.description>J'ai été vaincu au combat, cela me vaut un grand déshonneur.</VME_Defeat_Dishonorable.stages.defeated_in_combat.description>
 
-<VME_SecondDefeat_Dishonorable.stages.defeated_in_combat_twice.label>defeated in combat twice</VME_SecondDefeat_Dishonorable.stages.defeated_in_combat_twice.label>
-<VME_SecondDefeat_Dishonorable.stages.defeated_in_combat_twice.description>I was defeated in combat again, my dishonor is immeasurable.</VME_SecondDefeat_Dishonorable.stages.defeated_in_combat_twice.description>
+<VME_SecondDefeat_Dishonorable.stages.defeated_in_combat_twice.label>défaite au combat deux fois</VME_SecondDefeat_Dishonorable.stages.defeated_in_combat_twice.label>
+<VME_SecondDefeat_Dishonorable.stages.defeated_in_combat_twice.description>J'ai encore été vaincu au combat, mon déshonneur est incommensurable.</VME_SecondDefeat_Dishonorable.stages.defeated_in_combat_twice.description>
 
-<VME_DumbLabor_Exalted.stages.did_dumb_labor.label>did dumb labor</VME_DumbLabor_Exalted.stages.did_dumb_labor.label>
-<VME_DumbLabor_Exalted.stages.did_dumb_labor.description>I had to do dumb labor. I am an excellent example of the working class.</VME_DumbLabor_Exalted.stages.did_dumb_labor.description>
+<VME_DumbLabor_Exalted.stages.did_dumb_labor.label>a fait un travail ingrat</VME_DumbLabor_Exalted.stages.did_dumb_labor.label>
+<VME_DumbLabor_Exalted.stages.did_dumb_labor.description>J'ai dû faire un travail ingrat. Je suis un excellent exemple de la classe ouvrière.</VME_DumbLabor_Exalted.stages.did_dumb_labor.description>
 
-<VME_DumbLabor_Liked.stages.did_dumb_labor.label>did dumb labor</VME_DumbLabor_Liked.stages.did_dumb_labor.label>
-<VME_DumbLabor_Liked.stages.did_dumb_labor.description>I had to do dumb labor. Broke a sweat but it was some honest work.</VME_DumbLabor_Liked.stages.did_dumb_labor.description>
+<VME_DumbLabor_Liked.stages.did_dumb_labor.label>a fait un travail ingrat</VME_DumbLabor_Liked.stages.did_dumb_labor.label>
+<VME_DumbLabor_Liked.stages.did_dumb_labor.description>J'ai dû faire un travail ingrat. J'ai transpiré mais c'était un travail honnête.</VME_DumbLabor_Liked.stages.did_dumb_labor.description>
 
-<VME_DumbLabor_Disliked.stages.did_dumb_labor.label>did dumb labor</VME_DumbLabor_Disliked.stages.did_dumb_labor.label>
-<VME_DumbLabor_Disliked.stages.did_dumb_labor.description>I had to do dumb labor. So exhausting!</VME_DumbLabor_Disliked.stages.did_dumb_labor.description>
+<VME_DumbLabor_Disliked.stages.did_dumb_labor.label>a fait un travail ingrat</VME_DumbLabor_Disliked.stages.did_dumb_labor.label>
+<VME_DumbLabor_Disliked.stages.did_dumb_labor.description>J'ai dû faire un travail ingrat. Si épuisant !</VME_DumbLabor_Disliked.stages.did_dumb_labor.description>
 
-<VME_DumbLabor_Horrible.stages.did_dumb_labor.label>did dumb labor</VME_DumbLabor_Horrible.stages.did_dumb_labor.label>
-<VME_DumbLabor_Horrible.stages.did_dumb_labor.description>I had to do dumb labor. It’s horrible. I don’t want it.</VME_DumbLabor_Horrible.stages.did_dumb_labor.description>
+<VME_DumbLabor_Horrible.stages.did_dumb_labor.label>a fait un travail ingrat</VME_DumbLabor_Horrible.stages.did_dumb_labor.label>
+<VME_DumbLabor_Horrible.stages.did_dumb_labor.description>J'ai dû faire un travail ingrat. C'est horrible. Je n'en veux pas.</VME_DumbLabor_Horrible.stages.did_dumb_labor.description>
 
-<VME_Eclipse_Despised.stages.disgusting_eclipse.label>disgusting eclipse</VME_Eclipse_Despised.stages.disgusting_eclipse.label>
-<VME_Eclipse_Despised.stages.disgusting_eclipse.description>Eclipses are so scary! Where did the light go?</VME_Eclipse_Despised.stages.disgusting_eclipse.description>
+<VME_Eclipse_Despised.stages.disgusting_eclipse.label>éclipse répugnante</VME_Eclipse_Despised.stages.disgusting_eclipse.label>
+<VME_Eclipse_Despised.stages.disgusting_eclipse.description>Les éclipses sont si effrayantes ! Où est passée la lumière ?</VME_Eclipse_Despised.stages.disgusting_eclipse.description>
 
-<VME_Elders_Despised.stages.elder.label>elder</VME_Elders_Despised.stages.elder.label>
-<VME_Elders_Despised.stages.youth.label>youth</VME_Elders_Despised.stages.youth.label>
-<VME_Elders_Respected.stages.elder.label>elder</VME_Elders_Respected.stages.elder.label>
-<VME_Elders_Holy.stages.elder.label>elder</VME_Elders_Holy.stages.elder.label>
+<VME_Elders_Despised.stages.elder.label>aîné</VME_Elders_Despised.stages.elder.label>
+<VME_Elders_Despised.stages.youth.label>jeunesse</VME_Elders_Despised.stages.youth.label>
+<VME_Elders_Respected.stages.elder.label>aîné</VME_Elders_Respected.stages.elder.label>
+<VME_Elders_Holy.stages.elder.label>aîné</VME_Elders_Holy.stages.elder.label>
 
-<VME_Fire_Desired.stages.no_fires_nearby.label>no fires nearby</VME_Fire_Desired.stages.no_fires_nearby.label>
-<VME_Fire_Desired.stages.no_fires_nearby.description>It has been too long since I’ve seen a fire.</VME_Fire_Desired.stages.no_fires_nearby.description>
-<VME_Fire_Desired.stages.very_few_fires.label>very few fires</VME_Fire_Desired.stages.very_few_fires.label>
-<VME_Fire_Desired.stages.very_few_fires.description>I miss seeing the open flames.</VME_Fire_Desired.stages.very_few_fires.description>
-<VME_Fire_Desired.stages.small_fire.label>small fire</VME_Fire_Desired.stages.small_fire.label>
-<VME_Fire_Desired.stages.small_fire.description>I recently saw a small fire.</VME_Fire_Desired.stages.small_fire.description>
-<VME_Fire_Desired.stages.saw_fire.label>saw fire</VME_Fire_Desired.stages.saw_fire.label>
-<VME_Fire_Desired.stages.saw_fire.description>I recently saw a burning flame.</VME_Fire_Desired.stages.saw_fire.description>
-<VME_Fire_Desired.stages.amazing_fires.label>amazing fires</VME_Fire_Desired.stages.amazing_fires.label>
-<VME_Fire_Desired.stages.amazing_fires.description>I am surrounded by fire.</VME_Fire_Desired.stages.amazing_fires.description>
-<VME_Fire_Desired.stages.beautiful_fires.label>beautiful fires</VME_Fire_Desired.stages.beautiful_fires.label>
-<VME_Fire_Desired.stages.beautiful_fires.description>I am surrounded by many beautiful flames. This is fine.</VME_Fire_Desired.stages.beautiful_fires.description>
+<VME_Fire_Desired.stages.no_fires_nearby.label>aucun feu à proximité</VME_Fire_Desired.stages.no_fires_nearby.label>
+<VME_Fire_Desired.stages.no_fires_nearby.description>Cela fait trop longtemps que je n'ai pas vu un feu.</VME_Fire_Desired.stages.no_fires_nearby.description>
+<VME_Fire_Desired.stages.very_few_fires.label>très peu d'incendies</VME_Fire_Desired.stages.very_few_fires.label>
+<VME_Fire_Desired.stages.very_few_fires.description>Ça me manque de voir les flammes vives.</VME_Fire_Desired.stages.very_few_fires.description>
+<VME_Fire_Desired.stages.small_fire.label>petit incendie</VME_Fire_Desired.stages.small_fire.label>
+<VME_Fire_Desired.stages.small_fire.description>J'ai récemment vu un petit incendie.</VME_Fire_Desired.stages.small_fire.description>
+<VME_Fire_Desired.stages.saw_fire.label>incendie</VME_Fire_Desired.stages.saw_fire.label>
+<VME_Fire_Desired.stages.saw_fire.description>J'ai récemment vu une flamme brûlante.</VME_Fire_Desired.stages.saw_fire.description>
+<VME_Fire_Desired.stages.amazing_fires.label>incendie incroyable</VME_Fire_Desired.stages.amazing_fires.label>
+<VME_Fire_Desired.stages.amazing_fires.description>Je suis entouré par le feu.</VME_Fire_Desired.stages.amazing_fires.description>
+<VME_Fire_Desired.stages.beautiful_fires.label>incendie magnifique</VME_Fire_Desired.stages.beautiful_fires.label>
+<VME_Fire_Desired.stages.beautiful_fires.description>Je suis entouré par de nombreuses et belles flammes. C'est magnifique.</VME_Fire_Desired.stages.beautiful_fires.description>
 
-<VME_Fire_Despised.stages.no_fires_nearby.label>no fires nearby</VME_Fire_Despised.stages.no_fires_nearby.label>
-<VME_Fire_Despised.stages.no_fires_nearby.description>There are no fires nearby. That's good.</VME_Fire_Despised.stages.no_fires_nearby.description>
-<VME_Fire_Despised.stages.very_few_fires.label>very few fires</VME_Fire_Despised.stages.very_few_fires.label>
-<VME_Fire_Despised.stages.very_few_fires.description>Looking at those fires makes me uneasy.</VME_Fire_Despised.stages.very_few_fires.description>
-<VME_Fire_Despised.stages.small_fire.label>small fire</VME_Fire_Despised.stages.small_fire.label>
-<VME_Fire_Despised.stages.small_fire.description>I recently saw a small fire. I'd rather see it extinguished.</VME_Fire_Despised.stages.small_fire.description>
-<VME_Fire_Despised.stages.saw_fire.label>saw fire</VME_Fire_Despised.stages.saw_fire.label>
-<VME_Fire_Despised.stages.saw_fire.description>I recently saw a burning flame. It makes me very uncomfortable!</VME_Fire_Despised.stages.saw_fire.description>
-<VME_Fire_Despised.stages.blazing_fires.label>blazing fires</VME_Fire_Despised.stages.blazing_fires.label>
-<VME_Fire_Despised.stages.blazing_fires.description>I am surrounded by fire! This is horrible!</VME_Fire_Despised.stages.blazing_fires.description>
+<VME_Fire_Despised.stages.no_fires_nearby.label>aucun feu à proximité</VME_Fire_Despised.stages.no_fires_nearby.label>
+<VME_Fire_Despised.stages.no_fires_nearby.description>Il n'y a pas de feu à proximité. C'est une bonne chose.</VME_Fire_Despised.stages.no_fires_nearby.description>
+<VME_Fire_Despised.stages.very_few_fires.label>très peu d'incendies</VME_Fire_Despised.stages.very_few_fires.label>
+<VME_Fire_Despised.stages.very_few_fires.description>Regarder ces incendies me met mal à l'aise.</VME_Fire_Despised.stages.very_few_fires.description>
+<VME_Fire_Despised.stages.small_fire.label>petit incendie</VME_Fire_Despised.stages.small_fire.label>
+<VME_Fire_Despised.stages.small_fire.description>J'ai récemment vu un petit incendie. Je préférerais qu'il soit éteint.</VME_Fire_Despised.stages.small_fire.description>
+<VME_Fire_Despised.stages.saw_fire.label>incendie</VME_Fire_Despised.stages.saw_fire.label>
+<VME_Fire_Despised.stages.saw_fire.description>J'ai récemment vu une flamme brûlante. Cela me met très mal à l'aise !</VME_Fire_Despised.stages.saw_fire.description>
+<VME_Fire_Despised.stages.blazing_fires.label>feux ardents</VME_Fire_Despised.stages.blazing_fires.label>
+<VME_Fire_Despised.stages.blazing_fires.description>Je suis entouré par le feu ! C'est horrible !</VME_Fire_Despised.stages.blazing_fires.description>
 <VME_Fire_Despised.stages.conflagration.label>conflagration</VME_Fire_Despised.stages.conflagration.label>
-<VME_Fire_Despised.stages.conflagration.description>AHHHHHH! Everything is on fire!</VME_Fire_Despised.stages.conflagration.description>
+<VME_Fire_Despised.stages.conflagration.description>AHHHHHH ! Tout est en feu !</VME_Fire_Despised.stages.conflagration.description>
 
-<VME_Firefighting_Abhorrent.stages.extinguished_fire.label>extinguished fire</VME_Firefighting_Abhorrent.stages.extinguished_fire.label>
-<VME_Firefighting_Abhorrent.stages.extinguished_fire.description>I had to extinguish fire. What a violation of the spirits.</VME_Firefighting_Abhorrent.stages.extinguished_fire.description>
+<VME_Firefighting_Abhorrent.stages.extinguished_fire.label>incendie éteint</VME_Firefighting_Abhorrent.stages.extinguished_fire.label>
+<VME_Firefighting_Abhorrent.stages.extinguished_fire.description>J'ai dû éteindre le feu. Quelle violation des esprits.</VME_Firefighting_Abhorrent.stages.extinguished_fire.description>
 
-<VME_Firefighting_Preferred.stages.extinguished_fire.label>extinguished fire</VME_Firefighting_Preferred.stages.extinguished_fire.label>
-<VME_Firefighting_Preferred.stages.extinguished_fire.description>I extinguished a fire. What an exhilarating experience!</VME_Firefighting_Preferred.stages.extinguished_fire.description>
+<VME_Firefighting_Preferred.stages.extinguished_fire.label>incendie éteint</VME_Firefighting_Preferred.stages.extinguished_fire.label>
+<VME_Firefighting_Preferred.stages.extinguished_fire.description>J'ai éteint un incendie. Quelle expérience exaltante !</VME_Firefighting_Preferred.stages.extinguished_fire.description>
 
-<VME_Hospital_Required.stages.need_hospital.label>need hospital</VME_Hospital_Required.stages.need_hospital.label>
-<VME_Hospital_Required.stages.need_hospital.description>We lack a place to help people and should have a dedicated hospital.</VME_Hospital_Required.stages.need_hospital.description>
+<VME_Hospital_Required.stages.need_hospital.label>besoin d'un hôpital</VME_Hospital_Required.stages.need_hospital.label>
+<VME_Hospital_Required.stages.need_hospital.description>Nous manquons d'un endroit pour aider les gens et nous devrions avoir un hôpital dédié.</VME_Hospital_Required.stages.need_hospital.description>
 <VME_Hospital_Required.stages.dirty_hospital.label>hôpital sale</VME_Hospital_Required.stages.dirty_hospital.label>
 <VME_Hospital_Required.stages.dirty_hospital.description>Nous avons un hôpital, mais il est incroyablement sale. Nous ne sommes pas des animaux !</VME_Hospital_Required.stages.dirty_hospital.description>
-<VME_Hospital_Required.stages.small_hospital.label>small hospital</VME_Hospital_Required.stages.small_hospital.label>
-<VME_Hospital_Required.stages.small_hospital.description>We have a small hospital.</VME_Hospital_Required.stages.small_hospital.description>
-<VME_Hospital_Required.stages.spacious_hospital.label>spacious hospital</VME_Hospital_Required.stages.spacious_hospital.label>
-<VME_Hospital_Required.stages.spacious_hospital.description>We have a very spacious hospital.</VME_Hospital_Required.stages.spacious_hospital.description>
-<VME_Hospital_Required.stages.huge_hospital.label>huge hospital</VME_Hospital_Required.stages.huge_hospital.label>
-<VME_Hospital_Required.stages.huge_hospital.description>We have a huge, professional hospital!</VME_Hospital_Required.stages.huge_hospital.description>
-
-<VME_Illness_Exalted.stages.sick.label>sick</VME_Illness_Exalted.stages.sick.label>
-<VME_Illness_Exalted.stages.sick.description>A holy virus and the godlike bacteria shall breed in my veins.</VME_Illness_Exalted.stages.sick.description>
-<VME_Illness_Exalted_TooHealthy.stages.wants_to_be_sick.label>wants to be sick</VME_Illness_Exalted_TooHealthy.stages.wants_to_be_sick.label>
-<VME_Illness_Exalted_TooHealthy.stages.wants_to_be_sick.description>What I would give for the illness to bind me in pain once more.</VME_Illness_Exalted_TooHealthy.stages.wants_to_be_sick.description>
-
-<VME_Illness_Preferred.stages.sick.label>sick</VME_Illness_Preferred.stages.sick.label>
-<VME_Illness_Preferred.stages.sick.description>I am sick. A perfect excuse to lie down.</VME_Illness_Preferred.stages.sick.description>
-
-<VME_AteInsectJellyDirect.stages.ate_insect_jelly.label>ate insect jelly</VME_AteInsectJellyDirect.stages.ate_insect_jelly.label>
-<VME_AteInsectJellyDirect.stages.ate_insect_jelly.description>I ate some insect jelly. Not bad.</VME_AteInsectJellyDirect.stages.ate_insect_jelly.description>
-<VME_AteInsectJellyDirect_Loved.stages.ate_insect_jelly.label>ate insect jelly</VME_AteInsectJellyDirect_Loved.stages.ate_insect_jelly.label>
-<VME_AteInsectJellyDirect_Loved.stages.ate_insect_jelly.description>Insect jelly is divine ambrosia, a gift from perfect creatures.</VME_AteInsectJellyDirect_Loved.stages.ate_insect_jelly.description>
-
-<VME_AteInsectMeat_Sacrilegious.stages.ate_insect_meat.label>ate insect meat</VME_AteInsectMeat_Sacrilegious.stages.ate_insect_meat.label>
-<VME_AteInsectMeat_Sacrilegious.stages.ate_insect_meat.description>I ate some insect meat. This is an act of sacrilege, how could I do this?</VME_AteInsectMeat_Sacrilegious.stages.ate_insect_meat.description>
-<VME_AteInsectMeatAsIngredient_Sacrilegious.stages.ate_cooked_insect_meat.label>ate cooked insect meat</VME_AteInsectMeatAsIngredient_Sacrilegious.stages.ate_cooked_insect_meat.label>
-<VME_AteInsectMeatAsIngredient_Sacrilegious.stages.ate_cooked_insect_meat.description>I ate a meal that contained insect meat. This is an act of sacrilege, how could I do this?</VME_AteInsectMeatAsIngredient_Sacrilegious.stages.ate_cooked_insect_meat.description>
-
-<VME_Insectoids_Exalted.stages.insectoid_slain.label>insectoid slain</VME_Insectoids_Exalted.stages.insectoid_slain.label>
-<VME_Insectoids_Exalted.stages.insectoid_slain.description>I have killed an insectoid being, this is a stain on my soul.</VME_Insectoids_Exalted.stages.insectoid_slain.description>
-
-<VME_Insectoids_Despised.stages.insectoid_slain.label>insectoid slain</VME_Insectoids_Despised.stages.insectoid_slain.label>
-<VME_Insectoids_Despised.stages.insectoid_slain.description>I have killed an insectoid being, this is a victory!</VME_Insectoids_Despised.stages.insectoid_slain.description>
-
-<VME_Junk_Beautiful.stages.no_junk.label>no junk</VME_Junk_Beautiful.stages.no_junk.label>
-<VME_Junk_Beautiful.stages.no_junk.description>It has been too long since I’ve seen junk.</VME_Junk_Beautiful.stages.no_junk.description>
-<VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_1_nearby.label>few pieces of ancient junk (1 nearby)</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_1_nearby.label>
-<VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_1_nearby.description>This area is way too sparse, I miss seeing the junk.</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_1_nearby.description>
-<VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_2_nearby.label>few pieces of ancient junk (2 nearby)</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_2_nearby.label>
-<VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_2_nearby.description>This area has very few relics of ancient technology.</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_2_nearby.description>
-<VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_3_nearby.label>few pieces of ancient junk (3 nearby)</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_3_nearby.label>
-<VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_3_nearby.description>We need to gather more pieces of ancient junk.</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_3_nearby.description>
-<VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_4_nearby.label>few pieces of ancient junk (4 nearby)</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_4_nearby.label>
-<VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_4_nearby.description>We have too few pieces of ancient junk lying around.</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_4_nearby.description>
-<VME_Junk_Beautiful.stages.very_little_junk_5_nearby.label>very little junk (5 nearby)</VME_Junk_Beautiful.stages.very_little_junk_5_nearby.label>
-<VME_Junk_Beautiful.stages.very_little_junk_5_nearby.description>We should gather at least a few more pieces. Our junkyard is lacking.</VME_Junk_Beautiful.stages.very_little_junk_5_nearby.description>
-<VME_Junk_Beautiful.stages.small_junk.label>small junk</VME_Junk_Beautiful.stages.small_junk.label>
-<VME_Junk_Beautiful.stages.small_junk.description>I recently saw a small pile of junk.</VME_Junk_Beautiful.stages.small_junk.description>
-<VME_Junk_Beautiful.stages.saw_junk.label>saw junk</VME_Junk_Beautiful.stages.saw_junk.label>
-<VME_Junk_Beautiful.stages.saw_junk.description>I recently saw junk.</VME_Junk_Beautiful.stages.saw_junk.description>
-<VME_Junk_Beautiful.stages.amazing_junk.label>amazing junk</VME_Junk_Beautiful.stages.amazing_junk.label>
-<VME_Junk_Beautiful.stages.amazing_junk.description>I am surrounded by junk.</VME_Junk_Beautiful.stages.amazing_junk.description>
-<VME_Junk_Beautiful.stages.beautiful_junk.label>beautiful junk</VME_Junk_Beautiful.stages.beautiful_junk.label>
-<VME_Junk_Beautiful.stages.beautiful_junk.description>I am surrounded by a junkyard and I love it.</VME_Junk_Beautiful.stages.beautiful_junk.description>
-
-<VME_Junk_Preferred.stages.no_junk.label>no junk</VME_Junk_Preferred.stages.no_junk.label>
-<VME_Junk_Preferred.stages.no_junk.description>I'd prefer if the colony had some examples of ancient junk.</VME_Junk_Preferred.stages.no_junk.description>
-<VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_1_nearby.label>few pieces of ancient junk (1 nearby)</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_1_nearby.label>
-<VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_1_nearby.description>This area is way too sparse, we could learn a lot from ancient technology.</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_1_nearby.description>
-<VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_2_nearby.label>few pieces of ancient junk (2 nearby)</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_2_nearby.label>
-<VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_2_nearby.description>This area has very few relics of ancient technology.</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_2_nearby.description>
-<VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_3_nearby.label>few pieces of ancient junk (3 nearby)</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_3_nearby.label>
-<VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_3_nearby.description>We need to gather more pieces of ancient junk.</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_3_nearby.description>
-<VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_4_nearby.label>few pieces of ancient junk (4 nearby)</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_4_nearby.label>
-<VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_4_nearby.description>We have too few pieces of ancient junk lying around.</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_4_nearby.description>
-<VME_Junk_Preferred.stages.very_little_junk_5_nearby.label>very little junk (5 nearby)</VME_Junk_Preferred.stages.very_little_junk_5_nearby.label>
-<VME_Junk_Preferred.stages.very_little_junk_5_nearby.description>We should gather at least a few more pieces. We can learn a lot from ancient technology.</VME_Junk_Preferred.stages.very_little_junk_5_nearby.description>
-<VME_Junk_Preferred.stages.small_junk.label>small junk</VME_Junk_Preferred.stages.small_junk.label>
-<VME_Junk_Preferred.stages.small_junk.description>I recently saw a small pile of junk.</VME_Junk_Preferred.stages.small_junk.description>
-<VME_Junk_Preferred.stages.saw_junk.label>saw junk</VME_Junk_Preferred.stages.saw_junk.label>
-<VME_Junk_Preferred.stages.saw_junk.description>I recently saw junk.</VME_Junk_Preferred.stages.saw_junk.description>
-<VME_Junk_Preferred.stages.plenty_of_junk.label>plenty of junk</VME_Junk_Preferred.stages.plenty_of_junk.label>
-<VME_Junk_Preferred.stages.plenty_of_junk.description>I am surrounded by junk.</VME_Junk_Preferred.stages.plenty_of_junk.description>
-<VME_Junk_Preferred.stages.lots_of_junk.label>lots of junk</VME_Junk_Preferred.stages.lots_of_junk.label>
-<VME_Junk_Preferred.stages.lots_of_junk.description>I am surrounded by a junkyard. I find these examples of ancient technology to be fascinating.</VME_Junk_Preferred.stages.lots_of_junk.description>
-
-<VME_KillingWithFire_Preferred.stages.enemies_burnt.label>enemies burnt</VME_KillingWithFire_Preferred.stages.enemies_burnt.label>
-<VME_KillingWithFire_Preferred.stages.enemies_burnt.description>Our enemies burnt in the holy flames.</VME_KillingWithFire_Preferred.stages.enemies_burnt.description>
-<VME_KillingWithFire_Abhorrent.stages.enemies_burnt.label>enemies burnt</VME_KillingWithFire_Abhorrent.stages.enemies_burnt.label>
-<VME_KillingWithFire_Abhorrent.stages.enemies_burnt.description>Our enemies burnt to death and we were unable to avoid their gruesome deaths.</VME_KillingWithFire_Abhorrent.stages.enemies_burnt.description>
-
-<VME_Leader_Godlike.stages.supreme_god_emperor.label>supreme god emperor</VME_Leader_Godlike.stages.supreme_god_emperor.label>
-<VME_Leader_Godlike.stages.god_emperor.label>god emperor</VME_Leader_Godlike.stages.god_emperor.label>
-<VME_Leader_Godlike.stages.dubious_divinity.label>dubious divinity</VME_Leader_Godlike.stages.dubious_divinity.label>
-<VME_Leader_Godlike.stages.false_god.label>false god</VME_Leader_Godlike.stages.false_god.label>
-
-<VME_LeatherApparel_Abhorrent.stages.wearing_leather_clothing.label>wearing leather clothing</VME_LeatherApparel_Abhorrent.stages.wearing_leather_clothing.label>
-<VME_LeatherApparel_Abhorrent.stages.wearing_leather_clothing.description>I'm wearing clothing made with animal leather. Slaughtering an animal to use its skin as apparel is cruel and inhumane.</VME_LeatherApparel_Abhorrent.stages.wearing_leather_clothing.description>
-<VME_LeatherApparel_Disliked.stages.wearing_leather_clothing.label>wearing leather clothing</VME_LeatherApparel_Disliked.stages.wearing_leather_clothing.label>
-<VME_LeatherApparel_Disliked.stages.wearing_leather_clothing.description>I'm wearing clothing made with animal leather. Slaughtering an animal to use its skin should be avoided.</VME_LeatherApparel_Disliked.stages.wearing_leather_clothing.description>
-
-<VME_Darklight_NormalPreferred_Darklight.stages.darklight.label>darklight</VME_Darklight_NormalPreferred_Darklight.stages.darklight.label>
-<VME_Darklight_NormalPreferred_Darklight.stages.darklight.description>Darklight is unnatural.</VME_Darklight_NormalPreferred_Darklight.stages.darklight.description>
-<VME_Darklight_DislikeDarkness.stages.despised_darkness.label>despised darkness</VME_Darklight_DislikeDarkness.stages.despised_darkness.label>
-<VME_Darklight_DislikeDarkness.stages.despised_darkness.description>Darkness is unnatural and disgusting.</VME_Darklight_DislikeDarkness.stages.despised_darkness.description>
-
-<VME_AteAnimalProducts_Abhorrent.stages.ate_animal_products.label>ate animal products</VME_AteAnimalProducts_Abhorrent.stages.ate_animal_products.label>
-<VME_AteAnimalProducts_Abhorrent.stages.ate_animal_products.description>I had to eat animal products. It is wrong and immoral to imprison an animal and use it as a factory.</VME_AteAnimalProducts_Abhorrent.stages.ate_animal_products.description>
-<VME_AteAnimalProducts_Know_Abhorrent.stages.ate_animal_products.label>ate animal products</VME_AteAnimalProducts_Know_Abhorrent.stages.ate_animal_products.label>
-
-<VME_Mechanoids_Exalted.stages.mechanoid_destroyed.label>mechanoid destroyed</VME_Mechanoids_Exalted.stages.mechanoid_destroyed.label>
-<VME_Mechanoids_Exalted.stages.mechanoid_destroyed.description>I have destroyed a mechanoid being, this will anger the gods.</VME_Mechanoids_Exalted.stages.mechanoid_destroyed.description>
-
-<VME_Mechanoids_Despised.stages.mechanoid_destroyed.label>mechanoid destroyed</VME_Mechanoids_Despised.stages.mechanoid_destroyed.label>
-<VME_Mechanoids_Despised.stages.mechanoid_destroyed.description>I have destroyed a mechanoid being, this is a victory!</VME_Mechanoids_Despised.stages.mechanoid_destroyed.description>
-
-<VME_Mood_DictatedByStars.stages.stars_are_aligned.label>stars are aligned</VME_Mood_DictatedByStars.stages.stars_are_aligned.label>
-<VME_Mood_DictatedByStars.stages.stars_are_aligned.description>The astral architects smile upon me, their benevolence is unmatched.</VME_Mood_DictatedByStars.stages.stars_are_aligned.description>
-<VME_Mood_DictatedByStars.stages.stars_are_perfect.label>stars are perfect</VME_Mood_DictatedByStars.stages.stars_are_perfect.label>
-<VME_Mood_DictatedByStars.stages.stars_are_perfect.description>The stellar bodies above tell a story of imminent fortunes and success.</VME_Mood_DictatedByStars.stages.stars_are_perfect.description>
-<VME_Mood_DictatedByStars.stages.stars_are_excellent.label>stars are excellent</VME_Mood_DictatedByStars.stages.stars_are_excellent.label>
-<VME_Mood_DictatedByStars.stages.stars_are_excellent.description>The stars whisper to me, and they tell me to breathe easy. My fate is comfortably in their hands.</VME_Mood_DictatedByStars.stages.stars_are_excellent.description>
-<VME_Mood_DictatedByStars.stages.stars_are_good.label>stars are good</VME_Mood_DictatedByStars.stages.stars_are_good.label>
-<VME_Mood_DictatedByStars.stages.stars_are_good.description>Though small, the constellations tell me all is well for the time being.</VME_Mood_DictatedByStars.stages.stars_are_good.description>
-<VME_Mood_DictatedByStars.stages.stars_are_indifferent.label>stars are indifferent</VME_Mood_DictatedByStars.stages.stars_are_indifferent.label>
-<VME_Mood_DictatedByStars.stages.stars_are_indifferent.description>The stars whisper nonsense and contradictions, our destiny is increasingly unclear.</VME_Mood_DictatedByStars.stages.stars_are_indifferent.description>
-<VME_Mood_DictatedByStars.stages.stars_are_bad.label>stars are bad</VME_Mood_DictatedByStars.stages.stars_are_bad.label>
-<VME_Mood_DictatedByStars.stages.stars_are_bad.description>The skies do not bode well, an ill omen is on the horizon.</VME_Mood_DictatedByStars.stages.stars_are_bad.description>
-<VME_Mood_DictatedByStars.stages.stars_are_not_on_my_side.label>stars are not on my side</VME_Mood_DictatedByStars.stages.stars_are_not_on_my_side.label>
-<VME_Mood_DictatedByStars.stages.stars_are_not_on_my_side.description>The sea of stars is ever cloudy, they shroud themselves from me and refuse to tell me of my fate.</VME_Mood_DictatedByStars.stages.stars_are_not_on_my_side.description>
-<VME_Mood_DictatedByStars.stages.stars_are_a_bad_omen.label>stars are a bad omen</VME_Mood_DictatedByStars.stages.stars_are_a_bad_omen.label>
-<VME_Mood_DictatedByStars.stages.stars_are_a_bad_omen.description>The stellar bodies far above have made themselves clear, I am no longer in their favor.</VME_Mood_DictatedByStars.stages.stars_are_a_bad_omen.description>
-<VME_Mood_DictatedByStars.stages.stars_are_aligned_against_me.label>stars are aligned… against me</VME_Mood_DictatedByStars.stages.stars_are_aligned_against_me.label>
-<VME_Mood_DictatedByStars.stages.stars_are_aligned_against_me.description>The planets have aligned, a syzygy has made clear my approaching demise is inescapable. I will shortly be reduced to mere dust.</VME_Mood_DictatedByStars.stages.stars_are_aligned_against_me.description>
-
-<VME_Mood_Shared.stages.rejoice.label>rejoice</VME_Mood_Shared.stages.rejoice.label>
-<VME_Mood_Shared.stages.rejoice.description>Everyone is in good mood, as am I.</VME_Mood_Shared.stages.rejoice.description>
-<VME_Mood_Shared.stages.grieve.label>grieve</VME_Mood_Shared.stages.grieve.label>
-<VME_Mood_Shared.stages.grieve.description>Everyone is in bad mood, as am I.</VME_Mood_Shared.stages.grieve.description>
-
-<VME_Mood_LowExpectations.stages.bad_mood.label>bad mood</VME_Mood_LowExpectations.stages.bad_mood.label>
-<VME_Mood_LowExpectations.stages.bad_mood.description>I'm just generally having a bad mood. The Rim is a hostile place.</VME_Mood_LowExpectations.stages.bad_mood.description>
-
-<VME_Mood_HighExpectations.stages.good_mood.label>good mood</VME_Mood_HighExpectations.stages.good_mood.label>
-<VME_Mood_HighExpectations.stages.good_mood.description>I'm just generally having a good mood. The Rim is an amazing place.</VME_Mood_HighExpectations.stages.good_mood.description>
-
-<VME_PermanentBases_Despised.stages.wanderlust_initial-0.label>wanderlust (initial)</VME_PermanentBases_Despised.stages.wanderlust_initial-0.label>
-<VME_PermanentBases_Despised.stages.wanderlust_initial-0.description>We have been here for too long. Perhaps it is time to leave.</VME_PermanentBases_Despised.stages.wanderlust_initial-0.description>
-<VME_PermanentBases_Despised.stages.wanderlust_initial-1.label>wanderlust (initial)</VME_PermanentBases_Despised.stages.wanderlust_initial-1.label>
-<VME_PermanentBases_Despised.stages.wanderlust_initial-1.description>We have been here for too long. Perhaps it is time to leave.</VME_PermanentBases_Despised.stages.wanderlust_initial-1.description>
-<VME_PermanentBases_Despised.stages.wanderlust_initial-2.label>wanderlust (initial)</VME_PermanentBases_Despised.stages.wanderlust_initial-2.label>
-<VME_PermanentBases_Despised.stages.wanderlust_initial-2.description>We have been here for too long. Perhaps it is time to leave.</VME_PermanentBases_Despised.stages.wanderlust_initial-2.description>
-<VME_PermanentBases_Despised.stages.wanderlust_normal-0.label>wanderlust (normal)</VME_PermanentBases_Despised.stages.wanderlust_normal-0.label>
-<VME_PermanentBases_Despised.stages.wanderlust_normal-0.description>This colony is trite. We should we wandering, not staying on the same place.</VME_PermanentBases_Despised.stages.wanderlust_normal-0.description>
-<VME_PermanentBases_Despised.stages.wanderlust_normal-1.label>wanderlust (normal)</VME_PermanentBases_Despised.stages.wanderlust_normal-1.label>
-<VME_PermanentBases_Despised.stages.wanderlust_normal-1.description>This colony is trite. We should we wandering, not staying on the same place.</VME_PermanentBases_Despised.stages.wanderlust_normal-1.description>
-<VME_PermanentBases_Despised.stages.wanderlust_serious-0.label>wanderlust (serious)</VME_PermanentBases_Despised.stages.wanderlust_serious-0.label>
-<VME_PermanentBases_Despised.stages.wanderlust_serious-0.description>Enough already! It is time to pack our things and hit the road.</VME_PermanentBases_Despised.stages.wanderlust_serious-0.description>
-<VME_PermanentBases_Despised.stages.wanderlust_serious-1.label>wanderlust (serious)</VME_PermanentBases_Despised.stages.wanderlust_serious-1.label>
-<VME_PermanentBases_Despised.stages.wanderlust_serious-1.description>Enough already! It is time to pack our things and hit the road.</VME_PermanentBases_Despised.stages.wanderlust_serious-1.description>
-<VME_PermanentBases_Despised.stages.wanderlust_extreme.label>wanderlust (extreme)</VME_PermanentBases_Despised.stages.wanderlust_extreme.label>
-<VME_PermanentBases_Despised.stages.wanderlust_extreme.description>Agh! I can't stand being here anymore!</VME_PermanentBases_Despised.stages.wanderlust_extreme.description>
-<VME_PermanentBases_Desired.stages.magnificent_city.label>magnificent city</VME_PermanentBases_Desired.stages.magnificent_city.label>
-<VME_PermanentBases_Desired.stages.magnificent_city.description>Our city is magnificent, a fine example of what humanity can achieve.</VME_PermanentBases_Desired.stages.magnificent_city.description>
-<VME_PermanentBases_Desired.stages.lots_of_beautiful_buildings.label>lots of beautiful buildings</VME_PermanentBases_Desired.stages.lots_of_beautiful_buildings.label>
-<VME_PermanentBases_Desired.stages.lots_of_beautiful_buildings.description>We have so many beautiful buildings!</VME_PermanentBases_Desired.stages.lots_of_beautiful_buildings.description>
-<VME_PermanentBases_Desired.stages.many_beautiful_buildings.label>many beautiful buildings</VME_PermanentBases_Desired.stages.many_beautiful_buildings.label>
-<VME_PermanentBases_Desired.stages.many_beautiful_buildings.description>We have so many beautiful buildings!</VME_PermanentBases_Desired.stages.many_beautiful_buildings.description>
-<VME_PermanentBases_Desired.stages.burgeoning_city.label>burgeoning city</VME_PermanentBases_Desired.stages.burgeoning_city.label>
-<VME_PermanentBases_Desired.stages.burgeoning_city.description>Our city is growing!</VME_PermanentBases_Desired.stages.burgeoning_city.description>
-<VME_PermanentBases_Desired.stages.not_enough_buildings.label>not enough buildings</VME_PermanentBases_Desired.stages.not_enough_buildings.label>
-<VME_PermanentBases_Desired.stages.not_enough_buildings.description>There are not enough buildings nearby. I feel unprotected.</VME_PermanentBases_Desired.stages.not_enough_buildings.description>
-
-<VME_Power_Exalted.stages.divine_rule.label>divine rule</VME_Power_Exalted.stages.divine_rule.label>
-<VME_Power_Exalted.stages.divine_rule.description>My rule is supreme, for I am godlike.</VME_Power_Exalted.stages.divine_rule.description>
-
-<VME_Power_Desired.stages.in_a_position_of_power.label>in a position of power</VME_Power_Desired.stages.in_a_position_of_power.label>
-<VME_Power_Desired.stages.in_a_position_of_power.description>I feel important and everyone looks up to me.</VME_Power_Desired.stages.in_a_position_of_power.description>
-
-<VME_Power_Preferred.stages.i_am_important.label>i am important</VME_Power_Preferred.stages.i_am_important.label>
-<VME_Power_Preferred.stages.i_am_important.description>I hold a reasonable position of power and I like that feeling</VME_Power_Preferred.stages.i_am_important.description>
-
-<VME_ParticipatedInRaid_Honorable.stages.participated_in_raid.label>participated in raid</VME_ParticipatedInRaid_Honorable.stages.participated_in_raid.label>
-<VME_ParticipatedInRaid_Honorable.stages.participated_in_raid.description>I participated in a raid. Through conquest, we bring honor to our colony.</VME_ParticipatedInRaid_Honorable.stages.participated_in_raid.description>
-
-<VME_RecentConquest_Honorable.stages.recent_conquest.label>recent conquest</VME_RecentConquest_Honorable.stages.recent_conquest.label>
-<VME_RecentConquest_Honorable.stages.recent_conquest.description>We recently raided another faction. Through conquest, we bring honor to our colony.</VME_RecentConquest_Honorable.stages.recent_conquest.description>
-<VME_RecentConquest_Honorable.stages.no_recent_conquest.label>no recent conquest</VME_RecentConquest_Honorable.stages.no_recent_conquest.label>
-<VME_RecentConquest_Honorable.stages.no_recent_conquest.description>It's been far too long since we raided anyone. Through conquest, we bring honor to our colony.</VME_RecentConquest_Honorable.stages.no_recent_conquest.description>
-
-<VME_ParticipatedInRaid_Abhorrent.stages.participated_in_raid.label>participated in raid</VME_ParticipatedInRaid_Abhorrent.stages.participated_in_raid.label>
-<VME_ParticipatedInRaid_Abhorrent.stages.participated_in_raid.description>I participated in a raid. How could we do that? It's horribly shameful!</VME_ParticipatedInRaid_Abhorrent.stages.participated_in_raid.description>
-
-<VME_RecentConquest_Abhorrent.stages.recent_conquest.label>recent conquest</VME_RecentConquest_Abhorrent.stages.recent_conquest.label>
-<VME_RecentConquest_Abhorrent.stages.recent_conquest.description>We recently raided another faction. This is horrible and brings shame to our colony.</VME_RecentConquest_Abhorrent.stages.recent_conquest.description>
-<VME_RecentConquest_Abhorrent.stages.no_recent_conquest.label>no recent conquest</VME_RecentConquest_Abhorrent.stages.no_recent_conquest.label>
-<VME_RecentConquest_Abhorrent.stages.no_recent_conquest.description>It's been a long since we raided anyone. This is as it should be, we are not bullies.</VME_RecentConquest_Abhorrent.stages.no_recent_conquest.description>
-
-<VME_Ranching_Disliked.stages.no_pen_markers_around.label>no pen markers around</VME_Ranching_Disliked.stages.no_pen_markers_around.label>
-<VME_Ranching_Disliked.stages.no_pen_markers_around.description>We have no imprisoned animals. This is the way things should be.</VME_Ranching_Disliked.stages.no_pen_markers_around.description>
-<VME_Ranching_Disliked.stages.pen_marker_around.label>pen marker around</VME_Ranching_Disliked.stages.pen_marker_around.label>
-<VME_Ranching_Disliked.stages.pen_marker_around.description>We have a pen marker in our colony. Animals are not our slaves and shouldn't be kept captive, it's immoral.</VME_Ranching_Disliked.stages.pen_marker_around.description>
-<VME_Ranching_Disliked.stages.pen_markers_around.label>pen markers around</VME_Ranching_Disliked.stages.pen_markers_around.label>
-<VME_Ranching_Disliked.stages.pen_markers_around.description>We have several pen markers in our colony. Animals are not our slaves and shouldn't be kept captive, it's immoral!</VME_Ranching_Disliked.stages.pen_markers_around.description>
-<VME_Ranching_Disliked.stages.factory_farming.label>factory farming</VME_Ranching_Disliked.stages.factory_farming.label>
-<VME_Ranching_Disliked.stages.factory_farming.description>Our colony has too many pens, filled with poor animals in cramped conditions, bred for the slaughter. I'm disgusted.</VME_Ranching_Disliked.stages.factory_farming.description>
-<VME_Ranching_Disliked_AttackedAnimal.stages.attacked_an_animal.label>attacked an animal</VME_Ranching_Disliked_AttackedAnimal.stages.attacked_an_animal.label>
-<VME_Ranching_Disliked_AttackedAnimal.stages.attacked_an_animal.description>I had to attack an animal. They have rights too!</VME_Ranching_Disliked_AttackedAnimal.stages.attacked_an_animal.description>
-<VME_Ranching_Disliked_SowedPlant.stages.sowed_human_food_plant.label>sowed human food plant</VME_Ranching_Disliked_SowedPlant.stages.sowed_human_food_plant.label>
-<VME_Ranching_Disliked_SowedPlant.stages.sowed_human_food_plant.description>I sowed a human food plant. It's amazing, food free from cruelty and abuse.</VME_Ranching_Disliked_SowedPlant.stages.sowed_human_food_plant.description>
-
-<VME_Recreation_Disapproved.stages.waste_of_time.label>waste of time</VME_Recreation_Disapproved.stages.waste_of_time.label>
-<VME_Recreation_Disapproved.stages.waste_of_time.description>Recreation is a waste of time.</VME_Recreation_Disapproved.stages.waste_of_time.description>
-
-<VME_IdeoRole_FireKeeper.stages.keeper_of_sacred_flame.label>keeper of sacred flame</VME_IdeoRole_FireKeeper.stages.keeper_of_sacred_flame.label>
-
-<VME_Scars_Honorable.stages.faintly_scarred.label>faintly scarred</VME_Scars_Honorable.stages.faintly_scarred.label>
-<VME_Scars_Honorable.stages.scarred.label>scarred</VME_Scars_Honorable.stages.scarred.label>
-<VME_Scars_Honorable.stages.heavily_scarred.label>heavily scarred</VME_Scars_Honorable.stages.heavily_scarred.label>
-<VME_Scars_Honorable.stages.extremely_scarred.label>extremely scarred</VME_Scars_Honorable.stages.extremely_scarred.label>
-<VME_Scars_Honorable.stages.innumerable_battlefield_scars.label>innumerable battlefield scars</VME_Scars_Honorable.stages.innumerable_battlefield_scars.label>
-
-<VME_Scars_Disgusting.stages.faintly_scarred.label>faintly scarred</VME_Scars_Disgusting.stages.faintly_scarred.label>
-<VME_Scars_Disgusting.stages.scarred.label>scarred</VME_Scars_Disgusting.stages.scarred.label>
-<VME_Scars_Disgusting.stages.heavily_scarred.label>heavily scarred</VME_Scars_Disgusting.stages.heavily_scarred.label>
-<VME_Scars_Disgusting.stages.extremely_scarred.label>extremely scarred</VME_Scars_Disgusting.stages.extremely_scarred.label>
-<VME_Scars_Disgusting.stages.innumerable_battlefield_scars.label>innumerable battlefield scars</VME_Scars_Disgusting.stages.innumerable_battlefield_scars.label>
-
-<VME_Slavery_Forbidden_SlavesInColony.stages.unemancipated_slaves_in_colony.label>unemancipated slaves in colony</VME_Slavery_Forbidden_SlavesInColony.stages.unemancipated_slaves_in_colony.label>
-<VME_Slavery_Forbidden_SlavesInColony.stages.unemancipated_slaves_in_colony.description>There are slaves in the colony. We should emancipate them as soon as possible.</VME_Slavery_Forbidden_SlavesInColony.stages.unemancipated_slaves_in_colony.description>
-<VME_Slavery_Forbidden_HasBeenASlave.stages.suffered_slavery.label>suffered slavery</VME_Slavery_Forbidden_HasBeenASlave.stages.suffered_slavery.label>
-
-<VME_SoldSlave_Know_Forbidden.stages.sold_slave.label>sold slave</VME_SoldSlave_Know_Forbidden.stages.sold_slave.label>
-<VME_SoldSlave_Know_Forbidden_Mood.stages.we_sold_a_slave.label>we sold a slave!</VME_SoldSlave_Know_Forbidden_Mood.stages.we_sold_a_slave.label>
-<VME_SoldSlave_Know_Forbidden_Mood.stages.we_sold_a_slave.description>We took part in the horrible act of slave trading. What a disgrace.</VME_SoldSlave_Know_Forbidden_Mood.stages.we_sold_a_slave.description>
-
-<VME_BoughtSlave_Know_Forbidden_Mood.stages.bought_a_slave.label>bought a slave!</VME_BoughtSlave_Know_Forbidden_Mood.stages.bought_a_slave.label>
-<VME_BoughtSlave_Know_Forbidden_Mood.stages.bought_a_slave.description>We have bought a slave from evil slave traders!</VME_BoughtSlave_Know_Forbidden_Mood.stages.bought_a_slave.description>
-
-<VME_TaintedApparel_Abhorrent.stages.wearing_dead_persons_clothing.label>wearing dead person's clothing</VME_TaintedApparel_Abhorrent.stages.wearing_dead_persons_clothing.label>
-<VME_TaintedApparel_Abhorrent.stages.wearing_dead_persons_clothing.description>I'm wearing clothing used by a dead person, I can't imagine anything more disgusting! Someone died wearing these!</VME_TaintedApparel_Abhorrent.stages.wearing_dead_persons_clothing.description>
-
-<VME_TatteredApparel_Abhorrent.stages.wearing_ratty_clothes.label>wearing ratty clothes</VME_TatteredApparel_Abhorrent.stages.wearing_ratty_clothes.label>
-<VME_TatteredApparel_Abhorrent.stages.wearing_ratty_clothes.description>I'm wearing clothing that is tattered, and this is incredibly disgusting. Only the finest threads are worthy of my body.</VME_TatteredApparel_Abhorrent.stages.wearing_ratty_clothes.description>
-
-<VME_Trading_Required.stages.recently_traded.label>recently traded</VME_Trading_Required.stages.recently_traded.label>
-<VME_Trading_Required.stages.recently_traded.description>As usual, our products are flying off the shelves.</VME_Trading_Required.stages.recently_traded.description>
-<VME_Trading_Required.stages.no_recent_trades.label>no recent trades</VME_Trading_Required.stages.no_recent_trades.label>
-<VME_Trading_Required.stages.no_recent_trades.description>No one wants to buy our product. I hope these quiet times will pass.</VME_Trading_Required.stages.no_recent_trades.description>
-
-<VME_Travel_Desired.stages.traveled_the_world-0.label>traveled the world</VME_Travel_Desired.stages.traveled_the_world-0.label>
-<VME_Travel_Desired.stages.traveled_the_world-0.description>There is nothing as exhilarating as seeing what the world has to offer.</VME_Travel_Desired.stages.traveled_the_world-0.description>
-<VME_Travel_Desired.stages.traveled_the_world-1.label>traveled the world</VME_Travel_Desired.stages.traveled_the_world-1.label>
-<VME_Travel_Desired.stages.traveled_the_world-1.description>Travelling is amazing. Seeing the sights, discovering new lands... The memories of my last travels are still fresh in my mind.</VME_Travel_Desired.stages.traveled_the_world-1.description>
-<VME_Travel_Desired.stages.traveled_the_world-2.label>traveled the world</VME_Travel_Desired.stages.traveled_the_world-2.label>
-<VME_Travel_Desired.stages.traveled_the_world-2.description>It's been a few days since I travelled. I loved it.</VME_Travel_Desired.stages.traveled_the_world-2.description>
-<VME_Travel_Desired.stages.traveled_the_world-3.label>traveled the world</VME_Travel_Desired.stages.traveled_the_world-3.label>
-<VME_Travel_Desired.stages.traveled_the_world-3.description>I have a fond memory of my past travels.</VME_Travel_Desired.stages.traveled_the_world-3.description>
-
-<VME_Travel_Despised.stages.had_to_leave_the_colony-0.label>had to leave the colony</VME_Travel_Despised.stages.had_to_leave_the_colony-0.label>
-<VME_Travel_Despised.stages.had_to_leave_the_colony-0.description>I despise travelling. Leaving the security of our colony is terrible.</VME_Travel_Despised.stages.had_to_leave_the_colony-0.description>
-<VME_Travel_Despised.stages.had_to_leave_the_colony-1.label>had to leave the colony</VME_Travel_Despised.stages.had_to_leave_the_colony-1.label>
-<VME_Travel_Despised.stages.had_to_leave_the_colony-1.description>The memories of my last travels are still fresh in my mind. I hated it.</VME_Travel_Despised.stages.had_to_leave_the_colony-1.description>
-<VME_Travel_Despised.stages.had_to_leave_the_colony-2.label>had to leave the colony</VME_Travel_Despised.stages.had_to_leave_the_colony-2.label>
-<VME_Travel_Despised.stages.had_to_leave_the_colony-2.description>It's been a few days since I travelled. I hated it.</VME_Travel_Despised.stages.had_to_leave_the_colony-2.description>
-<VME_Travel_Despised.stages.had_to_leave_the_colony-3.label>had to leave the colony</VME_Travel_Despised.stages.had_to_leave_the_colony-3.label>
-<VME_Travel_Despised.stages.had_to_leave_the_colony-3.description>I have uncomfortable memories of my past travels.</VME_Travel_Despised.stages.had_to_leave_the_colony-3.description>
-
-<VME_Violence_Honorable.stages.attacked_person.label>attacked person</VME_Violence_Honorable.stages.attacked_person.label>
-<VME_Violence_Honorable.stages.attacked_person.description>I have used deadly force on an adversary. This proves our strength and our resolve.</VME_Violence_Honorable.stages.attacked_person.description>
-
-<VME_Violence_Disapproved.stages.attacked_person.label>attacked person</VME_Violence_Disapproved.stages.attacked_person.label>
-<VME_Violence_Disapproved.stages.attacked_person.description>I have used deadly force on an adversary. This is wrong.</VME_Violence_Disapproved.stages.attacked_person.description>
-
-<VME_Violence_Abhorrent.stages.attacked_person.label>attacked person</VME_Violence_Abhorrent.stages.attacked_person.label>
-<VME_Violence_Abhorrent.stages.attacked_person.description>I have used deadly force on an adversary. It brings great shame.</VME_Violence_Abhorrent.stages.attacked_person.description>
-
-<VME_AttendedParty.stages.attended_superb_party.label>attended superb party</VME_AttendedParty.stages.attended_superb_party.label>
-<VME_AttendedParty.stages.attended_superb_party.description>I had a good time at that party.</VME_AttendedParty.stages.attended_superb_party.description>
-
-<VME_EnforcedCompliance.stages.compliant.label>compliant</VME_EnforcedCompliance.stages.compliant.label>
-<VME_EnforcedCompliance.stages.compliant.description>Someone was executed for the lack of compliance. I need to be positive. I NEED TO.</VME_EnforcedCompliance.stages.compliant.description>
-
-<VME_NeedAnonymity.stages.anonymity_violated.label>anonymity violated</VME_NeedAnonymity.stages.anonymity_violated.label>
-<VME_NeedAnonymity.stages.anonymity_violated.description>They know everything, I’m an open book, entirely vulnerable and without a shred of nuance.</VME_NeedAnonymity.stages.anonymity_violated.description>
-<VME_NeedAnonymity.stages.anonymity_compromised.label>anonymity compromised</VME_NeedAnonymity.stages.anonymity_compromised.label>
-<VME_NeedAnonymity.stages.anonymity_compromised.description>My identity has been deeply compromised, I’m so ashamed by the attention I’ve garnered for myself.</VME_NeedAnonymity.stages.anonymity_compromised.description>
-<VME_NeedAnonymity.stages.anonymity_threatened.label>anonymity threatened</VME_NeedAnonymity.stages.anonymity_threatened.label>
-<VME_NeedAnonymity.stages.anonymity_threatened.description>This can’t be allowed to continue, if I keep this behavior up I’ll be exposed.</VME_NeedAnonymity.stages.anonymity_threatened.description>
-<VME_NeedAnonymity.stages.completely_anonymous.label>completely anonymous</VME_NeedAnonymity.stages.completely_anonymous.label>
-<VME_NeedAnonymity.stages.completely_anonymous.description>I feel so much more comfortable like this. I don’t even think they know my name or face.</VME_NeedAnonymity.stages.completely_anonymous.description>
-
-<VME_TerribleBonfire.stages.terrible_bonfire.label>terrible bonfire</VME_TerribleBonfire.stages.terrible_bonfire.label>
-<VME_TerribleBonfire.stages.terrible_bonfire.description>Some pathetic little flames drifted around, and they went away too soon. "Bon" fire? More like "Lame" fire.</VME_TerribleBonfire.stages.terrible_bonfire.description>
-
-<VME_LacklusterBonfire.stages.lackluster_bonfire.label>lackluster bonfire</VME_LacklusterBonfire.stages.lackluster_bonfire.label>
-<VME_LacklusterBonfire.stages.lackluster_bonfire.description>We were expecting a wondrous conflagration, and instead we got an oversized campfire. At least it was kinda entertaining.</VME_LacklusterBonfire.stages.lackluster_bonfire.description>
-
-<VME_GoodBonfire.stages.good_bonfire.label>good bonfire</VME_GoodBonfire.stages.good_bonfire.label>
-<VME_GoodBonfire.stages.good_bonfire.description>The flames rose and crackled majestically over the settlement, and it lifted all our spirits considerably.</VME_GoodBonfire.stages.good_bonfire.description>
-
-<VME_GloriousBonfire.stages.glorious_bonfire.label>glorious bonfire</VME_GloriousBonfire.stages.glorious_bonfire.label>
-<VME_GloriousBonfire.stages.glorious_bonfire.description>It was super fun and we really connected with each other with the shared experience.</VME_GloriousBonfire.stages.glorious_bonfire.description>
-
-<VME_TerribleCeremonialSuicide.stages.terrible_ceremonial_suicide.label>terrible ceremonial suicide</VME_TerribleCeremonialSuicide.stages.terrible_ceremonial_suicide.label>
-<VME_TerribleCeremonialSuicide.stages.terrible_ceremonial_suicide.description>That ceremonial suicide was terrible. The blade was thrust laterally and there was blood and entrails everywhere. Disgusting!</VME_TerribleCeremonialSuicide.stages.terrible_ceremonial_suicide.description>
-
-<VME_BoringCeremonialSuicide.stages.boring_ceremonial_suicide.label>boring ceremonial suicide</VME_BoringCeremonialSuicide.stages.boring_ceremonial_suicide.label>
-<VME_BoringCeremonialSuicide.stages.boring_ceremonial_suicide.description>That ceremonial suicide was not good. The speech seemed forced. At the very least we have restored the honor of our colony.</VME_BoringCeremonialSuicide.stages.boring_ceremonial_suicide.description>
-
-<VME_HonorableCeremonialSuicide.stages.honorable_ceremonial_suicide.label>honorable ceremonial suicide</VME_HonorableCeremonialSuicide.stages.honorable_ceremonial_suicide.label>
-<VME_HonorableCeremonialSuicide.stages.honorable_ceremonial_suicide.description>A honorable ceremonial suicide. The shadow of defeat no longer clouds our minds.</VME_HonorableCeremonialSuicide.stages.honorable_ceremonial_suicide.description>
-
-<VME_UnforgettableCeremonialSuicide.stages.unforgettable_ceremonial_suicide.label>unforgettable ceremonial suicide</VME_UnforgettableCeremonialSuicide.stages.unforgettable_ceremonial_suicide.label>
-<VME_UnforgettableCeremonialSuicide.stages.unforgettable_ceremonial_suicide.description>That ceremonial suicide was unforgettable! Everyone will remember the courage, self-control, and strong resolve. The honor of our colony is now spotless.</VME_UnforgettableCeremonialSuicide.stages.unforgettable_ceremonial_suicide.description>
-
-<VME_SquamousIncantation.stages.squamous_incantation.label>squamous incantation</VME_SquamousIncantation.stages.squamous_incantation.label>
-<VME_SquamousIncantation.stages.squamous_incantation.description>An indescribably hideous gibbering! I'd even describe it as squamous, but I don't even know what that is! An unutterable word!</VME_SquamousIncantation.stages.squamous_incantation.description>
-
-<VME_AccursedIncantation.stages.accursed_incantation.label>accursed incantation</VME_AccursedIncantation.stages.accursed_incantation.label>
-<VME_AccursedIncantation.stages.accursed_incantation.description>A litany of dark morbidities expressed in crime, perversion, and insanity.</VME_AccursedIncantation.stages.accursed_incantation.description>
-
-<VME_BlasphemousIncantation.stages.blasphemous_incantation.label>blasphemous incantation</VME_BlasphemousIncantation.stages.blasphemous_incantation.label>
-<VME_BlasphemousIncantation.stages.blasphemous_incantation.description>A promise of hidden and fathomless worlds of strange life which pulsate in the gulfs beyond the stars and press hideously upon our own globe in unholy dimensions which only the dead and the moonstruck can glimpse.</VME_BlasphemousIncantation.stages.blasphemous_incantation.description>
-
-<VME_LoathsomeIncantation.stages.loathsome_incantation.label>loathsome incantation</VME_LoathsomeIncantation.stages.loathsome_incantation.label>
-<VME_LoathsomeIncantation.stages.loathsome_incantation.description>We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far.</VME_LoathsomeIncantation.stages.loathsome_incantation.description>
-
-<VME_UninterestingInsectoidHymn.stages.uninteresting_insectoid_hymn.label>uninteresting insectoid hymn</VME_UninterestingInsectoidHymn.stages.uninteresting_insectoid_hymn.label>
-<VME_UninterestingInsectoidHymn.stages.uninteresting_insectoid_hymn.description>What an incredibly uninteresting ritual. Yeah, yeah, insects are cool. Bah.</VME_UninterestingInsectoidHymn.stages.uninteresting_insectoid_hymn.description>
-
-<VME_AwkwardInsectoidHymn.stages.awkward_insectoid_hymn.label>awkward insectoid hymn</VME_AwkwardInsectoidHymn.stages.awkward_insectoid_hymn.label>
-<VME_AwkwardInsectoidHymn.stages.awkward_insectoid_hymn.description>The speech was repetitive, and it did nothing to convince me of the divinity of our beloved insects.</VME_AwkwardInsectoidHymn.stages.awkward_insectoid_hymn.description>
-
-<VME_RousingInsectoidHymn.stages.rousing_insectoid_hymn.label>rousing insectoid hymn</VME_RousingInsectoidHymn.stages.rousing_insectoid_hymn.label>
-<VME_RousingInsectoidHymn.stages.rousing_insectoid_hymn.description>The chanter showed impressing skill and the hymn appropriately extolled the virtues of our way of life.</VME_RousingInsectoidHymn.stages.rousing_insectoid_hymn.description>
-
-<VME_EntrancingInsectoidHymn.stages.entrancing_insectoid_hymn.label>entrancing insectoid hymn</VME_EntrancingInsectoidHymn.stages.entrancing_insectoid_hymn.label>
-<VME_EntrancingInsectoidHymn.stages.entrancing_insectoid_hymn.description>I can still hear the mesmerizing words of the hymn, like a myriad insectile legs crawling all over our bodies.</VME_EntrancingInsectoidHymn.stages.entrancing_insectoid_hymn.description>
-
-<VME_TerribleLeadershipChallenge.stages.terrible_leadership_challenge.label>terrible leadership challenge</VME_TerribleLeadershipChallenge.stages.terrible_leadership_challenge.label>
-<VME_TerribleLeadershipChallenge.stages.terrible_leadership_challenge.description>That leadership challenge was terrible. Watching it just made people sad. I guess we have a strong leader, at least...</VME_TerribleLeadershipChallenge.stages.terrible_leadership_challenge.description>
-
-<VME_BoringLeadershipChallenge.stages.boring_leadership_challenge.label>boring leadership challenge</VME_BoringLeadershipChallenge.stages.boring_leadership_challenge.label>
-<VME_BoringLeadershipChallenge.stages.boring_leadership_challenge.description>That leadership challenge was not good. The fighters wouldn't commit, so there were no exciting moments. At least our leader is the strongest.</VME_BoringLeadershipChallenge.stages.boring_leadership_challenge.description>
-
-<VME_GoodLeadershipChallenge.stages.good_leadership_challenge.label>good leadership challenge</VME_GoodLeadershipChallenge.stages.good_leadership_challenge.label>
-<VME_GoodLeadershipChallenge.stages.good_leadership_challenge.description>A good leadership challenge. The fighters went for blood and showed real heart. We now know that our leader is the strongest.</VME_GoodLeadershipChallenge.stages.good_leadership_challenge.description>
-
-<VME_UnforgettableLeadershipChallenge.stages.unforgettable_leadership_challenge.label>unforgettable leadership challenge</VME_UnforgettableLeadershipChallenge.stages.unforgettable_leadership_challenge.label>
-<VME_UnforgettableLeadershipChallenge.stages.unforgettable_leadership_challenge.description>That leadership challenge was unforgettable! Both fighters gave all they had, and we know that our leader is now the strongest among us!</VME_UnforgettableLeadershipChallenge.stages.unforgettable_leadership_challenge.description>
-
-<VME_GrotesqueOrgy.stages.grotesque_orgy.label>grotesque orgy</VME_GrotesqueOrgy.stages.grotesque_orgy.label>
-<VME_GrotesqueOrgy.stages.grotesque_orgy.description>When you think of an orgy, you tend to imagine attractive people. This was... the entire opposite. The mental images will take a while to go away.</VME_GrotesqueOrgy.stages.grotesque_orgy.description>
-
-<VME_AwkwardOrgy.stages.awkward_orgy.label>awkward orgy</VME_AwkwardOrgy.stages.awkward_orgy.label>
-<VME_AwkwardOrgy.stages.awkward_orgy.description>Everyone sat around not knowing exactly what to do, naked bodies laying everywhere. Quite disappointing.</VME_AwkwardOrgy.stages.awkward_orgy.description>
-
-<VME_SexyOrgy.stages.sexy_orgy.label>sexy orgy</VME_SexyOrgy.stages.sexy_orgy.label>
-<VME_SexyOrgy.stages.sexy_orgy.description>We gave ourselves to each other in a communal expression of our deepest passions.</VME_SexyOrgy.stages.sexy_orgy.description>
-
-<VME_ExhilaratingOrgy.stages.exhilarating_orgy.label>exhilarating orgy</VME_ExhilaratingOrgy.stages.exhilarating_orgy.label>
-<VME_ExhilaratingOrgy.stages.exhilarating_orgy.description>We all donned our high-society masquerade masks and got naked. A barrage of orgasmic sexual ecstasy unlike no other made our bodies tremble with barely concealed excitement.</VME_ExhilaratingOrgy.stages.exhilarating_orgy.description>
-
-<VME_GotSomeLovin.stages.got_some_lovin.label>got some lovin'</VME_GotSomeLovin.stages.got_some_lovin.label>
-<VME_GotSomeLovin.stages.got_some_lovin.description>There's nothing like a tumble between the sheets to lift the mood.</VME_GotSomeLovin.stages.got_some_lovin.description>
-
-<VME_TerriblePlagueFestival.stages.terrible_plague_festival.label>terrible plague festival</VME_TerriblePlagueFestival.stages.terrible_plague_festival.label>
-<VME_TerriblePlagueFestival.stages.terrible_plague_festival.description>That plague festival was botched and the mood was way off. The corpse laid there, inert, and no holy miasma was liberated from it. What a waste of time!</VME_TerriblePlagueFestival.stages.terrible_plague_festival.description>
-
-<VME_BoringPlagueFestival.stages.boring_plague_festival.label>boring plague festival</VME_BoringPlagueFestival.stages.boring_plague_festival.label>
-<VME_BoringPlagueFestival.stages.boring_plague_festival.description>That plague festival was repetitive and the killing technique was noticeably flawed. However the blessed plague is now among us.</VME_BoringPlagueFestival.stages.boring_plague_festival.description>
-
-<VME_SatisfyingPlagueFestival.stages.satisfying_plague_festival.label>satisfying plague festival</VME_SatisfyingPlagueFestival.stages.satisfying_plague_festival.label>
-<VME_SatisfyingPlagueFestival.stages.satisfying_plague_festival.description>That plague festival was satisfying and a holy miasma was liberated from the corpse, bathing us all in a sacred plague wind.</VME_SatisfyingPlagueFestival.stages.satisfying_plague_festival.description>
-
-<VME_SpectacularPlagueFestival.stages.spectacular_plague_festival.label>spectacular plague festival</VME_SpectacularPlagueFestival.stages.spectacular_plague_festival.label>
-<VME_SpectacularPlagueFestival.stages.spectacular_plague_festival.description>The blood! The release! That plague festival brought everyone to the edge of a frenzy and a sacred plague wind wafted from the animal's corpse, blessing us.</VME_SpectacularPlagueFestival.stages.spectacular_plague_festival.description>
-
-<VME_DemagogicSlaveEmancipation.stages.demagogic_slave_emancipation.label>demagogic slave emancipation</VME_DemagogicSlaveEmancipation.stages.demagogic_slave_emancipation.label>
-<VME_DemagogicSlaveEmancipation.stages.demagogic_slave_emancipation.description>We ended up looking as the evil guys here... With such a display, it's unlikely anyone will freely want to join the colony.</VME_DemagogicSlaveEmancipation.stages.demagogic_slave_emancipation.description>
-
-<VME_FreethinkingSlaveEmancipation.stages.freethinking_slave_emancipation.label>freethinking slave emancipation</VME_FreethinkingSlaveEmancipation.stages.freethinking_slave_emancipation.label>
-<VME_FreethinkingSlaveEmancipation.stages.freethinking_slave_emancipation.description>Our leader's speech was clear and succint, explaining all the evils of slavery in a concise way.</VME_FreethinkingSlaveEmancipation.stages.freethinking_slave_emancipation.description>
-
-<VME_UnshacklingSlaveEmancipation.stages.unshackling_slave_emancipation.label>unshackling slave emancipation</VME_UnshacklingSlaveEmancipation.stages.unshackling_slave_emancipation.label>
-<VME_UnshacklingSlaveEmancipation.stages.unshackling_slave_emancipation.description>Our leader's speech was very inspiring, detailing all the evils caused by slavery and the immense advantages of a free society.</VME_UnshacklingSlaveEmancipation.stages.unshackling_slave_emancipation.description>
-
-<VME_LiberatingSlaveEmancipation.stages.liberating_slave_emancipation.label>liberating slave emancipation</VME_LiberatingSlaveEmancipation.stages.liberating_slave_emancipation.label>
-<VME_LiberatingSlaveEmancipation.stages.liberating_slave_emancipation.description>Our leader's speech was a masterclass in extolling the virtues of a free society, liberated for the shackles of slavery.</VME_LiberatingSlaveEmancipation.stages.liberating_slave_emancipation.description>
-
-<VME_AmazingSlaveEmancipation.stages.amazing_slave_emancipation.label>amazing slave emancipation</VME_AmazingSlaveEmancipation.stages.amazing_slave_emancipation.label>
-<VME_AmazingSlaveEmancipation.stages.amazing_slave_emancipation.description>Legends will be told about our leader's speech, and how those words will resonate in the future, elevating the cause of emancipation.</VME_AmazingSlaveEmancipation.stages.amazing_slave_emancipation.description>
-
-<VME_PoorlyOrganizedTradingFair.stages.poorly_organized_trading_fair.label>poorly organized trading fair</VME_PoorlyOrganizedTradingFair.stages.poorly_organized_trading_fair.label>
-<VME_PoorlyOrganizedTradingFair.stages.poorly_organized_trading_fair.description>With such a low quality effort, no additional caravans will be attracted to our settlement...</VME_PoorlyOrganizedTradingFair.stages.poorly_organized_trading_fair.description>
-
-<VME_UnexcitingTradingFair.stages.unexciting_trading_fair.label>unexciting trading fair</VME_UnexcitingTradingFair.stages.unexciting_trading_fair.label>
-<VME_UnexcitingTradingFair.stages.unexciting_trading_fair.description>Some exciting transactions took place, but the majority of it was boring business talk.</VME_UnexcitingTradingFair.stages.unexciting_trading_fair.description>
-
-<VME_WellOrganizedTradingFair.stages.well_organized_trading_fair.label>well organized trading fair</VME_WellOrganizedTradingFair.stages.well_organized_trading_fair.label>
-<VME_WellOrganizedTradingFair.stages.well_organized_trading_fair.description>There was a lot of back and forth and networking.</VME_WellOrganizedTradingFair.stages.well_organized_trading_fair.description>
-
-<VME_WondrousTradingFair.stages.wondrous_trading_fair.label>wondrous trading fair</VME_WondrousTradingFair.stages.wondrous_trading_fair.label>
-<VME_WondrousTradingFair.stages.wondrous_trading_fair.description>We discussed exciting and innovative economical paradigms, and our settlement will be renowned as a center of finance learning.</VME_WondrousTradingFair.stages.wondrous_trading_fair.description>
-
-<VME_CheapTradingFair.stages.we_tried_to_be_cheap.label>we tried to be cheap</VME_CheapTradingFair.stages.we_tried_to_be_cheap.label>
-<VME_CheapTradingFair.stages.we_tried_to_be_cheap.description>We tried to organize a trading fair without spending any money on it. It is shameful to be so cheap.</VME_CheapTradingFair.stages.we_tried_to_be_cheap.description>
-
-<VME_AwkwardViolentConversion.stages.awkward_violent_conversion.label>awkward violent conversion</VME_AwkwardViolentConversion.stages.awkward_violent_conversion.label>
-<VME_AwkwardViolentConversion.stages.awkward_violent_conversion.description>That violent conversion was awkward. The words were vague and unconvincing.</VME_AwkwardViolentConversion.stages.awkward_violent_conversion.description>
-
-<VME_SatisfyingViolentConversion.stages.satisfying_violent_conversion.label>satisfying violent conversion</VME_SatisfyingViolentConversion.stages.satisfying_violent_conversion.label>
-<VME_SatisfyingViolentConversion.stages.satisfying_violent_conversion.description>That violent conversion was satisfying. The speech was stirring and enjoyable to listen to.</VME_SatisfyingViolentConversion.stages.satisfying_violent_conversion.description>
-
-<VME_SpectacularViolentConversion.stages.spectacular_violent_conversion.label>spectacular violent conversion</VME_SpectacularViolentConversion.stages.spectacular_violent_conversion.label>
-<VME_SpectacularViolentConversion.stages.spectacular_violent_conversion.description>That violent conversion was electrifying! Surely our beliefs will prevail over any others!</VME_SpectacularViolentConversion.stages.spectacular_violent_conversion.description>
-
-<VME_TerribleWickerManBurning.stages.terrible_wicker_man_burning.label>terrible wicker man burning</VME_TerribleWickerManBurning.stages.terrible_wicker_man_burning.label>
-<VME_TerribleWickerManBurning.stages.terrible_wicker_man_burning.description>The whole ritual smelled like rotten bacon. And, inexplicably the prisoner kept shouting "No! Not the bees!". What was that all about?</VME_TerribleWickerManBurning.stages.terrible_wicker_man_burning.description>
-
-<VME_LacklusterWickerManBurning.stages.lackluster_wicker_man_burning.label>lackluster wicker man burning</VME_LacklusterWickerManBurning.stages.lackluster_wicker_man_burning.label>
-<VME_LacklusterWickerManBurning.stages.lackluster_wicker_man_burning.description>The prisoner just burned to death too fast, and the fire didn't even lift our spirits much.</VME_LacklusterWickerManBurning.stages.lackluster_wicker_man_burning.description>
-
-<VME_GoodWickerManBurning.stages.good_wicker_man_burning.label>good wicker man burning</VME_GoodWickerManBurning.stages.good_wicker_man_burning.label>
-<VME_GoodWickerManBurning.stages.good_wicker_man_burning.description>The anguished cries of the prisoner will resonate with us for a long time, another soul consumed by the flames.</VME_GoodWickerManBurning.stages.good_wicker_man_burning.description>
-
-<VME_GloriousWickerManBurning.stages.glorious_wicker_man_burning.label>glorious wicker man burning</VME_GloriousWickerManBurning.stages.glorious_wicker_man_burning.label>
-<VME_GloriousWickerManBurning.stages.glorious_wicker_man_burning.description>We will forever remember the thrashing of the prisoner, the frightened crescendo of screams as another soul was consumed by the holy flames.</VME_GloriousWickerManBurning.stages.glorious_wicker_man_burning.description>
+<VME_Hospital_Required.stages.small_hospital.label>petit hôpital</VME_Hospital_Required.stages.small_hospital.label>
+<VME_Hospital_Required.stages.small_hospital.description>Nous avons un petit hôpital.</VME_Hospital_Required.stages.small_hospital.description>
+<VME_Hospital_Required.stages.spacious_hospital.label>grand hôpital</VME_Hospital_Required.stages.spacious_hospital.label>
+<VME_Hospital_Required.stages.spacious_hospital.description>Nous avons un hôpital très spacieux.</VME_Hospital_Required.stages.spacious_hospital.description>
+<VME_Hospital_Required.stages.huge_hospital.label>énorme hôpital</VME_Hospital_Required.stages.huge_hospital.label>
+<VME_Hospital_Required.stages.huge_hospital.description>Nous avons un énorme hôpital professionnel !</VME_Hospital_Required.stages.huge_hospital.description>
+
+<VME_Illness_Exalted.stages.sick.label>malade</VME_Illness_Exalted.stages.sick.label>
+<VME_Illness_Exalted.stages.sick.description>Un virus sacré et une bactérie divine se reproduiront dans mes veines.</VME_Illness_Exalted.stages.sick.description>
+<VME_Illness_Exalted_TooHealthy.stages.wants_to_be_sick.label>souhaite être malade</VME_Illness_Exalted_TooHealthy.stages.wants_to_be_sick.label>
+<VME_Illness_Exalted_TooHealthy.stages.wants_to_be_sick.description>Ce que je donnerais pour que la maladie me lie à la douleur une fois de plus.</VME_Illness_Exalted_TooHealthy.stages.wants_to_be_sick.description>
+
+<VME_Illness_Preferred.stages.sick.label>malade</VME_Illness_Preferred.stages.sick.label>
+<VME_Illness_Preferred.stages.sick.description>Je suis malade. Une excuse parfaite pour s'allonger.</VME_Illness_Preferred.stages.sick.description>
+
+<VME_AteInsectJellyDirect.stages.ate_insect_jelly.label>a mangé de la gelée d'insectes</VME_AteInsectJellyDirect.stages.ate_insect_jelly.label>
+<VME_AteInsectJellyDirect.stages.ate_insect_jelly.description>J'ai mangé de la gelée d'insectes. Pas mal.</VME_AteInsectJellyDirect.stages.ate_insect_jelly.description>
+<VME_AteInsectJellyDirect_Loved.stages.ate_insect_jelly.label>a mangé de la gelée d'insectes</VME_AteInsectJellyDirect_Loved.stages.ate_insect_jelly.label>
+<VME_AteInsectJellyDirect_Loved.stages.ate_insect_jelly.description>La gelée d'insectes est une ambroisie divine, un cadeau des créatures parfaites.</VME_AteInsectJellyDirect_Loved.stages.ate_insect_jelly.description>
+
+<VME_AteInsectMeat_Sacrilegious.stages.ate_insect_meat.label>a mangé de la viande d'insecte</VME_AteInsectMeat_Sacrilegious.stages.ate_insect_meat.label>
+<VME_AteInsectMeat_Sacrilegious.stages.ate_insect_meat.description>J'ai mangé de la viande d'insecte. C'est un acte de sacrilège, comment ai-je pu faire ça ?</VME_AteInsectMeat_Sacrilegious.stages.ate_insect_meat.description>
+<VME_AteInsectMeatAsIngredient_Sacrilegious.stages.ate_cooked_insect_meat.label>a mangé de la viande d'insecte cuite</VME_AteInsectMeatAsIngredient_Sacrilegious.stages.ate_cooked_insect_meat.label>
+<VME_AteInsectMeatAsIngredient_Sacrilegious.stages.ate_cooked_insect_meat.description>J'ai mangé un repas qui contenait de la viande d'insecte. C'est un acte de sacrilège, comment ai-je pu faire ça ?</VME_AteInsectMeatAsIngredient_Sacrilegious.stages.ate_cooked_insect_meat.description>
+
+<VME_Insectoids_Exalted.stages.insectoid_slain.label>insectoïde tué</VME_Insectoids_Exalted.stages.insectoid_slain.label>
+<VME_Insectoids_Exalted.stages.insectoid_slain.description>J'ai tué un être insectoïde, c'est une tache sur mon âme.</VME_Insectoids_Exalted.stages.insectoid_slain.description>
+
+<VME_Insectoids_Despised.stages.insectoid_slain.label>insectoïde tué</VME_Insectoids_Despised.stages.insectoid_slain.label>
+<VME_Insectoids_Despised.stages.insectoid_slain.description>J'ai tué un être insectoïde, c'est une victoire !</VME_Insectoids_Despised.stages.insectoid_slain.description>
+
+<VME_Junk_Beautiful.stages.no_junk.label>pas de débris</VME_Junk_Beautiful.stages.no_junk.label>
+<VME_Junk_Beautiful.stages.no_junk.description>Cela fait trop longtemps que je n'ai pas vu de débris.</VME_Junk_Beautiful.stages.no_junk.description>
+<VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_1_nearby.label>quelques débris anciens de ferraille (1 à proximité)</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_1_nearby.label>
+<VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_1_nearby.description>Cette zone est bien trop clairsemée, ça me manque de voir des débris.</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_1_nearby.description>
+<VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_2_nearby.label>quelques débris anciens de ferraille (2 à proximité)</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_2_nearby.label>
+<VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_2_nearby.description>Cette région possède très peu de vestiges de la technologie ancienne.</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_2_nearby.description>
+<VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_3_nearby.label>quelques débris anciens de ferraille (3 à proximité)</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_3_nearby.label>
+<VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_3_nearby.description>Nous devons rassembler plus de pièces anciens débris.</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_3_nearby.description>
+<VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_4_nearby.label>quelques débris anciens de ferraille (4 à proximité)</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_4_nearby.label>
+<VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_4_nearby.description>Nous avons trop peu de vieilleries qui traînent.</VME_Junk_Beautiful.stages.few_pieces_of_ancient_junk_4_nearby.description>
+<VME_Junk_Beautiful.stages.very_little_junk_5_nearby.label>très peu de débris (5 à proximité)</VME_Junk_Beautiful.stages.very_little_junk_5_nearby.label>
+<VME_Junk_Beautiful.stages.very_little_junk_5_nearby.description>Nous devrions rassembler quelques pièces supplémentaires. Notre dépotoir en manque.</VME_Junk_Beautiful.stages.very_little_junk_5_nearby.description>
+<VME_Junk_Beautiful.stages.small_junk.label>petit débris</VME_Junk_Beautiful.stages.small_junk.label>
+<VME_Junk_Beautiful.stages.small_junk.description>J'ai récemment vu un petit tas de ferraille.</VME_Junk_Beautiful.stages.small_junk.description>
+<VME_Junk_Beautiful.stages.saw_junk.label>débris</VME_Junk_Beautiful.stages.saw_junk.label>
+<VME_Junk_Beautiful.stages.saw_junk.description>J'ai récemment vu des débris.</VME_Junk_Beautiful.stages.saw_junk.description>
+<VME_Junk_Beautiful.stages.amazing_junk.label>incroyable débris</VME_Junk_Beautiful.stages.amazing_junk.label>
+<VME_Junk_Beautiful.stages.amazing_junk.description>Je suis entouré de ferraille.</VME_Junk_Beautiful.stages.amazing_junk.description>
+<VME_Junk_Beautiful.stages.beautiful_junk.label>magnifique débris</VME_Junk_Beautiful.stages.beautiful_junk.label>
+<VME_Junk_Beautiful.stages.beautiful_junk.description>Je suis entouré d'un dépotoir et j'adore ça.</VME_Junk_Beautiful.stages.beautiful_junk.description>
+
+<VME_Junk_Preferred.stages.no_junk.label>pas de débris</VME_Junk_Preferred.stages.no_junk.label>
+<VME_Junk_Preferred.stages.no_junk.description>Je préférerais que la colonie ait des pièces de ferraille ancienne.</VME_Junk_Preferred.stages.no_junk.description>
+<VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_1_nearby.label>quelques débris anciens de ferraille (1 à proximité)</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_1_nearby.label>
+<VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_1_nearby.description>Cette zone est bien trop clairsemée, on pourrait apprendre beaucoup de la technologie ancienne.</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_1_nearby.description>
+<VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_2_nearby.label>quelques débris anciens de ferraille (2 à proximité)</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_2_nearby.label>
+<VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_2_nearby.description>Cette région possède très peu de vestiges de la technologie ancienne.</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_2_nearby.description>
+<VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_3_nearby.label>quelques débris anciens de ferraille (3 à proximité)</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_3_nearby.label>
+<VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_3_nearby.description>Nous devons rassembler plus de pièces de ferraille ancienne.</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_3_nearby.description>
+<VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_4_nearby.label>quelques débris anciens de ferraille (4 à proximité)</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_4_nearby.label>
+<VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_4_nearby.description>Nous avons trop peu de ferrailles anciennes qui traînent.</VME_Junk_Preferred.stages.few_pieces_of_ancient_junk_4_nearby.description>
+<VME_Junk_Preferred.stages.very_little_junk_5_nearby.label>très peu de débris (5 à proximité)</VME_Junk_Preferred.stages.very_little_junk_5_nearby.label>
+<VME_Junk_Preferred.stages.very_little_junk_5_nearby.description>Nous devrions rassembler quelques pièces supplémentaires. Nous pouvons apprendre beaucoup de la technologie ancienne.</VME_Junk_Preferred.stages.very_little_junk_5_nearby.description>
+<VME_Junk_Preferred.stages.small_junk.label>petit débris</VME_Junk_Preferred.stages.small_junk.label>
+<VME_Junk_Preferred.stages.small_junk.description>J'ai récemment vu un petit tas de ferraille.</VME_Junk_Preferred.stages.small_junk.description>
+<VME_Junk_Preferred.stages.saw_junk.label>débris</VME_Junk_Preferred.stages.saw_junk.label>
+<VME_Junk_Preferred.stages.saw_junk.description>J'ai récemment vu de la ferraille.</VME_Junk_Preferred.stages.saw_junk.description>
+<VME_Junk_Preferred.stages.plenty_of_junk.label>beaucoup de débris</VME_Junk_Preferred.stages.plenty_of_junk.label>
+<VME_Junk_Preferred.stages.plenty_of_junk.description>Je suis entouré de ferraille.</VME_Junk_Preferred.stages.plenty_of_junk.description>
+<VME_Junk_Preferred.stages.lots_of_junk.label>plein de débris</VME_Junk_Preferred.stages.lots_of_junk.label>
+<VME_Junk_Preferred.stages.lots_of_junk.description>Je suis entouré d'un dépotoir. Je trouve ces exemples de technologie ancienne fascinants.</VME_Junk_Preferred.stages.lots_of_junk.description>
+
+<VME_KillingWithFire_Preferred.stages.enemies_burnt.label>ennemis brûlés</VME_KillingWithFire_Preferred.stages.enemies_burnt.label>
+<VME_KillingWithFire_Preferred.stages.enemies_burnt.description>Nos ennemis ont brûlé dans les flammes sacrées.</VME_KillingWithFire_Preferred.stages.enemies_burnt.description>
+<VME_KillingWithFire_Abhorrent.stages.enemies_burnt.label>ennemis brûlés</VME_KillingWithFire_Abhorrent.stages.enemies_burnt.label>
+<VME_KillingWithFire_Abhorrent.stages.enemies_burnt.description>Nos ennemis sont morts brûlés et nous n'avons pas pu éviter leur mort atroce.</VME_KillingWithFire_Abhorrent.stages.enemies_burnt.description>
+
+<VME_Leader_Godlike.stages.supreme_god_emperor.label>dieu empereur suprême</VME_Leader_Godlike.stages.supreme_god_emperor.label>
+<VME_Leader_Godlike.stages.god_emperor.label>dieu empereur</VME_Leader_Godlike.stages.god_emperor.label>
+<VME_Leader_Godlike.stages.dubious_divinity.label>divinité douteuse</VME_Leader_Godlike.stages.dubious_divinity.label>
+<VME_Leader_Godlike.stages.false_god.label>faux dieu</VME_Leader_Godlike.stages.false_god.label>
+
+<VME_LeatherApparel_Abhorrent.stages.wearing_leather_clothing.label>porte des vêtements en cuir</VME_LeatherApparel_Abhorrent.stages.wearing_leather_clothing.label>
+<VME_LeatherApparel_Abhorrent.stages.wearing_leather_clothing.description>Je porte des vêtements fabriqués avec du cuir animal. Abattre un animal pour utiliser sa peau comme vêtement est cruel et inhumain.</VME_LeatherApparel_Abhorrent.stages.wearing_leather_clothing.description>
+<VME_LeatherApparel_Disliked.stages.wearing_leather_clothing.label>porte des vêtements en cuir</VME_LeatherApparel_Disliked.stages.wearing_leather_clothing.label>
+<VME_LeatherApparel_Disliked.stages.wearing_leather_clothing.description>Je porte des vêtements fabriqués avec du cuir animal. Il faut éviter d'abattre un animal pour utiliser sa peau.</VME_LeatherApparel_Disliked.stages.wearing_leather_clothing.description>
+
+<VME_Darklight_NormalPreferred_Darklight.stages.darklight.label>lumière sombre</VME_Darklight_NormalPreferred_Darklight.stages.darklight.label>
+<VME_Darklight_NormalPreferred_Darklight.stages.darklight.description>La lumière sombre n'est pas naturelle.</VME_Darklight_NormalPreferred_Darklight.stages.darklight.description>
+<VME_Darklight_DislikeDarkness.stages.despised_darkness.label>a méprisé les ténèbres</VME_Darklight_DislikeDarkness.stages.despised_darkness.label>
+<VME_Darklight_DislikeDarkness.stages.despised_darkness.description>L'obscurité est contre nature et répugnante.</VME_Darklight_DislikeDarkness.stages.despised_darkness.description>
+
+<VME_AteAnimalProducts_Abhorrent.stages.ate_animal_products.label>a mangé des produits animaux</VME_AteAnimalProducts_Abhorrent.stages.ate_animal_products.label>
+<VME_AteAnimalProducts_Abhorrent.stages.ate_animal_products.description>j'ai dû manger des produits animaux. C'est mal et immoral d'emprisonner un animal et de l'utiliser comme une usine.</VME_AteAnimalProducts_Abhorrent.stages.ate_animal_products.description>
+<VME_AteAnimalProducts_Know_Abhorrent.stages.ate_animal_products.label>a mangé des produits animaux</VME_AteAnimalProducts_Know_Abhorrent.stages.ate_animal_products.label>
+
+<VME_Mechanoids_Exalted.stages.mechanoid_destroyed.label>Mécanoïde détruit</VME_Mechanoids_Exalted.stages.mechanoid_destroyed.label>
+<VME_Mechanoids_Exalted.stages.mechanoid_destroyed.description>J'ai détruit un être mécanoïde, cela va mettre les dieux en colère.</VME_Mechanoids_Exalted.stages.mechanoid_destroyed.description>
+
+<VME_Mechanoids_Despised.stages.mechanoid_destroyed.label>Mécanoïde détruit</VME_Mechanoids_Despised.stages.mechanoid_destroyed.label>
+<VME_Mechanoids_Despised.stages.mechanoid_destroyed.description>J'ai détruit un être mécanoïde, c'est une victoire !</VME_Mechanoids_Despised.stages.mechanoid_destroyed.description>
+
+<VME_Mood_DictatedByStars.stages.stars_are_aligned.label>étoiles : alignées</VME_Mood_DictatedByStars.stages.stars_are_aligned.label>
+<VME_Mood_DictatedByStars.stages.stars_are_aligned.description>Les architectes astraux me sourient, leur bienveillance est inégalée.</VME_Mood_DictatedByStars.stages.stars_are_aligned.description>
+<VME_Mood_DictatedByStars.stages.stars_are_perfect.label>étoiles : parfaites</VME_Mood_DictatedByStars.stages.stars_are_perfect.label>
+<VME_Mood_DictatedByStars.stages.stars_are_perfect.description>Les corps stellaires ci-dessus racontent une histoire de fortune et de succès imminents.</VME_Mood_DictatedByStars.stages.stars_are_perfect.description>
+<VME_Mood_DictatedByStars.stages.stars_are_excellent.label>étoiles : excellentes</VME_Mood_DictatedByStars.stages.stars_are_excellent.label>
+<VME_Mood_DictatedByStars.stages.stars_are_excellent.description>Les étoiles me chuchotent et me disent de respirer tranquillement. Mon destin est confortablement entre leurs mains.</VME_Mood_DictatedByStars.stages.stars_are_excellent.description>
+<VME_Mood_DictatedByStars.stages.stars_are_good.label>étoiles : belles</VME_Mood_DictatedByStars.stages.stars_are_good.label>
+<VME_Mood_DictatedByStars.stages.stars_are_good.description>Bien que petites, les constellations me disent que tout va bien pour le moment.</VME_Mood_DictatedByStars.stages.stars_are_good.description>
+<VME_Mood_DictatedByStars.stages.stars_are_indifferent.label>étoiles : indifférentes</VME_Mood_DictatedByStars.stages.stars_are_indifferent.label>
+<VME_Mood_DictatedByStars.stages.stars_are_indifferent.description>Les étoiles murmurent des absurdités et des contradictions, notre destin est de plus en plus flou.</VME_Mood_DictatedByStars.stages.stars_are_indifferent.description>
+<VME_Mood_DictatedByStars.stages.stars_are_bad.label>étoiles : mauvaises</VME_Mood_DictatedByStars.stages.stars_are_bad.label>
+<VME_Mood_DictatedByStars.stages.stars_are_bad.description>Les cieux ne sont pas de bon augure, un mauvais présage se profile à l'horizon.</VME_Mood_DictatedByStars.stages.stars_are_bad.description>
+<VME_Mood_DictatedByStars.stages.stars_are_not_on_my_side.label>étoiles : défavorable</VME_Mood_DictatedByStars.stages.stars_are_not_on_my_side.label>
+<VME_Mood_DictatedByStars.stages.stars_are_not_on_my_side.description>La mer d'étoiles est toujours nuageuse, elles se cachent de moi et refusent de me parler de mon destin.</VME_Mood_DictatedByStars.stages.stars_are_not_on_my_side.description>
+<VME_Mood_DictatedByStars.stages.stars_are_a_bad_omen.label>étoiles : mauvais présage</VME_Mood_DictatedByStars.stages.stars_are_a_bad_omen.label>
+<VME_Mood_DictatedByStars.stages.stars_are_a_bad_omen.description>Les corps stellaires loin au-dessus se sont fait comprendre, je ne suis plus en leur faveur.</VME_Mood_DictatedByStars.stages.stars_are_a_bad_omen.description>
+<VME_Mood_DictatedByStars.stages.stars_are_aligned_against_me.label>étoiles : alignées... contre moi</VME_Mood_DictatedByStars.stages.stars_are_aligned_against_me.label>
+<VME_Mood_DictatedByStars.stages.stars_are_aligned_against_me.description>Les planètes se sont alignées, une syzygie a fait comprendre que ma mort prochaine est inéluctable. Je serai bientôt réduit à l'état de poussière.</VME_Mood_DictatedByStars.stages.stars_are_aligned_against_me.description>
+
+<VME_Mood_Shared.stages.rejoice.label>se réjouit</VME_Mood_Shared.stages.rejoice.label>
+<VME_Mood_Shared.stages.rejoice.description>Tout le monde est de bonne humeur, moi aussi.</VME_Mood_Shared.stages.rejoice.description>
+<VME_Mood_Shared.stages.grieve.label>a du chagrin</VME_Mood_Shared.stages.grieve.label>
+<VME_Mood_Shared.stages.grieve.description>Tout le monde est de mauvaise humeur, moi aussi.</VME_Mood_Shared.stages.grieve.description>
+
+<VME_Mood_LowExpectations.stages.bad_mood.label>mauvaise humeur</VME_Mood_LowExpectations.stages.bad_mood.label>
+<VME_Mood_LowExpectations.stages.bad_mood.description>Je suis juste de mauvaise humeur. Les Rim sont un endroit hostile.</VME_Mood_LowExpectations.stages.bad_mood.description>
+
+<VME_Mood_HighExpectations.stages.good_mood.label>bonne humeur</VME_Mood_HighExpectations.stages.good_mood.label>
+<VME_Mood_HighExpectations.stages.good_mood.description>Je suis juste de bonne humeur en général. Le Rim est un endroit incroyable.</VME_Mood_HighExpectations.stages.good_mood.description>
+
+<VME_PermanentBases_Despised.stages.wanderlust_initial-0.label>envie de voyager (initial)</VME_PermanentBases_Despised.stages.wanderlust_initial-0.label>
+<VME_PermanentBases_Despised.stages.wanderlust_initial-0.description>Nous sommes ici depuis trop longtemps. Il est peut-être temps de partir.</VME_PermanentBases_Despised.stages.wanderlust_initial-0.description>
+<VME_PermanentBases_Despised.stages.wanderlust_initial-1.label>envie de voyager (initial)</VME_PermanentBases_Despised.stages.wanderlust_initial-1.label>
+<VME_PermanentBases_Despised.stages.wanderlust_initial-1.description>Nous sommes ici depuis trop longtemps. Il est peut-être temps de partir.</VME_PermanentBases_Despised.stages.wanderlust_initial-1.description>
+<VME_PermanentBases_Despised.stages.wanderlust_initial-2.label>envie de voyager (initial)</VME_PermanentBases_Despised.stages.wanderlust_initial-2.label>
+<VME_PermanentBases_Despised.stages.wanderlust_initial-2.description>Nous sommes ici depuis trop longtemps. Il est peut-être temps de partir.</VME_PermanentBases_Despised.stages.wanderlust_initial-2.description>
+<VME_PermanentBases_Despised.stages.wanderlust_normal-0.label>envie de voyager (normal)</VME_PermanentBases_Despised.stages.wanderlust_normal-0.label>
+<VME_PermanentBases_Despised.stages.wanderlust_normal-0.description>Cette colonie est commune. Nous devrions voyager, ne pas rester au même endroit.</VME_PermanentBases_Despised.stages.wanderlust_normal-0.description>
+<VME_PermanentBases_Despised.stages.wanderlust_normal-1.label>envie de voyager (normal)</VME_PermanentBases_Despised.stages.wanderlust_normal-1.label>
+<VME_PermanentBases_Despised.stages.wanderlust_normal-1.description>Cette colonie est commune. Nous devrions voyager, ne pas rester au même endroit.</VME_PermanentBases_Despised.stages.wanderlust_normal-1.description>
+<VME_PermanentBases_Despised.stages.wanderlust_serious-0.label>envie de voyager (sérieux)</VME_PermanentBases_Despised.stages.wanderlust_serious-0.label>
+<VME_PermanentBases_Despised.stages.wanderlust_serious-0.description>Ça suffit ! Il est temps de faire nos valises et de prendre la route.</VME_PermanentBases_Despised.stages.wanderlust_serious-0.description>
+<VME_PermanentBases_Despised.stages.wanderlust_serious-1.label>envie de voyager (sérieux)</VME_PermanentBases_Despised.stages.wanderlust_serious-1.label>
+<VME_PermanentBases_Despised.stages.wanderlust_serious-1.description>Ça suffit ! Il est temps de faire nos valises et de prendre la route.</VME_PermanentBases_Despised.stages.wanderlust_serious-1.description>
+<VME_PermanentBases_Despised.stages.wanderlust_extreme.label>envie de voyager (extreme)</VME_PermanentBases_Despised.stages.wanderlust_extreme.label>
+<VME_PermanentBases_Despised.stages.wanderlust_extreme.description>Agh ! Je ne peux plus supporter d'être ici !</VME_PermanentBases_Despised.stages.wanderlust_extreme.description>
+<VME_PermanentBases_Desired.stages.magnificent_city.label>ville magnifique</VME_PermanentBases_Desired.stages.magnificent_city.label>
+<VME_PermanentBases_Desired.stages.magnificent_city.description>Notre ville est magnifique, un bel exemple de ce que l'humanité peut accomplir.</VME_PermanentBases_Desired.stages.magnificent_city.description>
+<VME_PermanentBases_Desired.stages.lots_of_beautiful_buildings.label>beaucoup de beaux bâtiments</VME_PermanentBases_Desired.stages.lots_of_beautiful_buildings.label>
+<VME_PermanentBases_Desired.stages.lots_of_beautiful_buildings.description>Nous avons tellement de beaux bâtiments !</VME_PermanentBases_Desired.stages.lots_of_beautiful_buildings.description>
+<VME_PermanentBases_Desired.stages.many_beautiful_buildings.label>de nombreux beaux bâtiments</VME_PermanentBases_Desired.stages.many_beautiful_buildings.label>
+<VME_PermanentBases_Desired.stages.many_beautiful_buildings.description>Nous avons tellement de beaux bâtiments !</VME_PermanentBases_Desired.stages.many_beautiful_buildings.description>
+<VME_PermanentBases_Desired.stages.burgeoning_city.label>ville en plein essor</VME_PermanentBases_Desired.stages.burgeoning_city.label>
+<VME_PermanentBases_Desired.stages.burgeoning_city.description>Notre ville est en pleine croissance !</VME_PermanentBases_Desired.stages.burgeoning_city.description>
+<VME_PermanentBases_Desired.stages.not_enough_buildings.label>pas assez de bâtiments</VME_PermanentBases_Desired.stages.not_enough_buildings.label>
+<VME_PermanentBases_Desired.stages.not_enough_buildings.description>Il n'y a pas assez de bâtiments à proximité. Je me sens sans protection.</VME_PermanentBases_Desired.stages.not_enough_buildings.description>
+
+<VME_Power_Exalted.stages.divine_rule.label>pouvoir divin</VME_Power_Exalted.stages.divine_rule.label>
+<VME_Power_Exalted.stages.divine_rule.description>Mon règne est suprême, car je suis un dieu.</VME_Power_Exalted.stages.divine_rule.description>
+
+<VME_Power_Desired.stages.in_a_position_of_power.label>en position de force</VME_Power_Desired.stages.in_a_position_of_power.label>
+<VME_Power_Desired.stages.in_a_position_of_power.description>Je me sens important et tout le monde m'admire.</VME_Power_Desired.stages.in_a_position_of_power.description>
+
+<VME_Power_Preferred.stages.i_am_important.label>je suis important</VME_Power_Preferred.stages.i_am_important.label>
+<VME_Power_Preferred.stages.i_am_important.description>J'occupe une position de pouvoir raisonnable et j'aime ce sentiment.</VME_Power_Preferred.stages.i_am_important.description>
+
+<VME_ParticipatedInRaid_Honorable.stages.participated_in_raid.label>a participé à un raid</VME_ParticipatedInRaid_Honorable.stages.participated_in_raid.label>
+<VME_ParticipatedInRaid_Honorable.stages.participated_in_raid.description>J'ai participé à un raid. Par la conquête, nous faisons honneur à notre colonie.</VME_ParticipatedInRaid_Honorable.stages.participated_in_raid.description>
+
+<VME_RecentConquest_Honorable.stages.recent_conquest.label>conquête récente</VME_RecentConquest_Honorable.stages.recent_conquest.label>
+<VME_RecentConquest_Honorable.stages.recent_conquest.description>Nous avons récemment fait un raid sur une autre faction. Par la conquête, nous faisons honneur à notre colonie.</VME_RecentConquest_Honorable.stages.recent_conquest.description>
+<VME_RecentConquest_Honorable.stages.no_recent_conquest.label>pas de conquête récente</VME_RecentConquest_Honorable.stages.no_recent_conquest.label>
+<VME_RecentConquest_Honorable.stages.no_recent_conquest.description>Cela fait bien trop longtemps que nous n'avons pas fait de raids. Par la conquête, nous apportons l'honneur à notre colonie.</VME_RecentConquest_Honorable.stages.no_recent_conquest.description>
+
+<VME_ParticipatedInRaid_Abhorrent.stages.participated_in_raid.label>a participé à un raid</VME_ParticipatedInRaid_Abhorrent.stages.participated_in_raid.label>
+<VME_ParticipatedInRaid_Abhorrent.stages.participated_in_raid.description>J'ai participé à un raid. Comment avons-nous pu faire ça ? C'est horriblement honteux !</VME_ParticipatedInRaid_Abhorrent.stages.participated_in_raid.description>
+
+<VME_RecentConquest_Abhorrent.stages.recent_conquest.label>conquête récente</VME_RecentConquest_Abhorrent.stages.recent_conquest.label>
+<VME_RecentConquest_Abhorrent.stages.recent_conquest.description>Nous avons récemment fait un raid sur une autre faction. C'est horrible et ça fait honte à notre colonie.</VME_RecentConquest_Abhorrent.stages.recent_conquest.description>
+<VME_RecentConquest_Abhorrent.stages.no_recent_conquest.label>pas de conquête récente</VME_RecentConquest_Abhorrent.stages.no_recent_conquest.label>
+<VME_RecentConquest_Abhorrent.stages.no_recent_conquest.description>Cela fait longtemps que nous n'avons pas fait de raids. C'est comme ça que ça doit être, nous ne sommes pas des brutes.</VME_RecentConquest_Abhorrent.stages.no_recent_conquest.description>
+
+<VME_Ranching_Disliked.stages.no_pen_markers_around.label>aucun marqueur à plume</VME_Ranching_Disliked.stages.no_pen_markers_around.label>
+<VME_Ranching_Disliked.stages.no_pen_markers_around.description>Nous n'avons pas d'animaux emprisonnés. C'est ainsi que les choses devraient être.</VME_Ranching_Disliked.stages.no_pen_markers_around.description>
+<VME_Ranching_Disliked.stages.pen_marker_around.label>marqueur à plume</VME_Ranching_Disliked.stages.pen_marker_around.label>
+<VME_Ranching_Disliked.stages.pen_marker_around.description>Nous avons un marqueur de plume dans notre colonie. Les animaux ne sont pas nos esclaves et ne devraient pas être gardés en captivité, c'est immoral.</VME_Ranching_Disliked.stages.pen_marker_around.description>
+<VME_Ranching_Disliked.stages.pen_markers_around.label>marqueur à plume</VME_Ranching_Disliked.stages.pen_markers_around.label>
+<VME_Ranching_Disliked.stages.pen_markers_around.description>Nous avons plusieurs marqueurs de plume dans notre colonie. Les animaux ne sont pas nos esclaves et ne devraient pas être gardés en captivité, c'est immoral !</VME_Ranching_Disliked.stages.pen_markers_around.description>
+<VME_Ranching_Disliked.stages.factory_farming.label>élevage industriel</VME_Ranching_Disliked.stages.factory_farming.label>
+<VME_Ranching_Disliked.stages.factory_farming.description>Notre colonie a trop d'enclos, remplis de pauvres animaux dans des conditions exiguës, élevés pour l'abattage. Je suis écœuré.</VME_Ranching_Disliked.stages.factory_farming.description>
+<VME_Ranching_Disliked_AttackedAnimal.stages.attacked_an_animal.label>a attaqué un animal</VME_Ranching_Disliked_AttackedAnimal.stages.attacked_an_animal.label>
+<VME_Ranching_Disliked_AttackedAnimal.stages.attacked_an_animal.description>J'ai dû attaquer un animal. Ils ont aussi des droits !</VME_Ranching_Disliked_AttackedAnimal.stages.attacked_an_animal.description>
+<VME_Ranching_Disliked_SowedPlant.stages.sowed_human_food_plant.label>semé de la nourriture pour les humains</VME_Ranching_Disliked_SowedPlant.stages.sowed_human_food_plant.label>
+<VME_Ranching_Disliked_SowedPlant.stages.sowed_human_food_plant.description>J'ai semé une plante pour la nourriture des humains. C'est incroyable, de la nourriture sans cruauté ni abus.</VME_Ranching_Disliked_SowedPlant.stages.sowed_human_food_plant.description>
+
+<VME_Recreation_Disapproved.stages.waste_of_time.label>perte de temps</VME_Recreation_Disapproved.stages.waste_of_time.label>
+<VME_Recreation_Disapproved.stages.waste_of_time.description>Les loisirs sont une perte de temps.</VME_Recreation_Disapproved.stages.waste_of_time.description>
+
+<VME_IdeoRole_FireKeeper.stages.keeper_of_sacred_flame.label>gardien de la flamme sacrée</VME_IdeoRole_FireKeeper.stages.keeper_of_sacred_flame.label>
+
+<VME_Scars_Honorable.stages.faintly_scarred.label>légèrement cicatrice</VME_Scars_Honorable.stages.faintly_scarred.label>
+<VME_Scars_Honorable.stages.scarred.label>cicatrice</VME_Scars_Honorable.stages.scarred.label>
+<VME_Scars_Honorable.stages.heavily_scarred.label>quelques cicatrices</VME_Scars_Honorable.stages.heavily_scarred.label>
+<VME_Scars_Honorable.stages.extremely_scarred.label>beaucoup de cicatrices</VME_Scars_Honorable.stages.extremely_scarred.label>
+<VME_Scars_Honorable.stages.innumerable_battlefield_scars.label>innombrables cicatrices de champ de bataille</VME_Scars_Honorable.stages.innumerable_battlefield_scars.label>
+
+<VME_Scars_Disgusting.stages.faintly_scarred.label>légèrement cicatrice</VME_Scars_Disgusting.stages.faintly_scarred.label>
+<VME_Scars_Disgusting.stages.scarred.label>cicatrice</VME_Scars_Disgusting.stages.scarred.label>
+<VME_Scars_Disgusting.stages.heavily_scarred.label>quelques cicatrices</VME_Scars_Disgusting.stages.heavily_scarred.label>
+<VME_Scars_Disgusting.stages.extremely_scarred.label>beaucoup de cicatrices</VME_Scars_Disgusting.stages.extremely_scarred.label>
+<VME_Scars_Disgusting.stages.innumerable_battlefield_scars.label>innombrables cicatrices de champ de bataille</VME_Scars_Disgusting.stages.innumerable_battlefield_scars.label>
+
+<VME_Slavery_Forbidden_SlavesInColony.stages.unemancipated_slaves_in_colony.label>esclaves non émancipés dans la colonie</VME_Slavery_Forbidden_SlavesInColony.stages.unemancipated_slaves_in_colony.label>
+<VME_Slavery_Forbidden_SlavesInColony.stages.unemancipated_slaves_in_colony.description>Il y a des esclaves dans la colonie. Nous devrions les émanciper dès que possible.</VME_Slavery_Forbidden_SlavesInColony.stages.unemancipated_slaves_in_colony.description>
+<VME_Slavery_Forbidden_HasBeenASlave.stages.suffered_slavery.label>a souffert de l'esclavage</VME_Slavery_Forbidden_HasBeenASlave.stages.suffered_slavery.label>
+
+<VME_SoldSlave_Know_Forbidden.stages.sold_slave.label>esclave vendu</VME_SoldSlave_Know_Forbidden.stages.sold_slave.label>
+<VME_SoldSlave_Know_Forbidden_Mood.stages.we_sold_a_slave.label>nous avons vendu un esclave !</VME_SoldSlave_Know_Forbidden_Mood.stages.we_sold_a_slave.label>
+<VME_SoldSlave_Know_Forbidden_Mood.stages.we_sold_a_slave.description>Nous avons pris part à l'acte horrible du commerce des esclaves. Quelle honte.</VME_SoldSlave_Know_Forbidden_Mood.stages.we_sold_a_slave.description>
+
+<VME_BoughtSlave_Know_Forbidden_Mood.stages.bought_a_slave.label>a acheté un esclave !</VME_BoughtSlave_Know_Forbidden_Mood.stages.bought_a_slave.label>
+<VME_BoughtSlave_Know_Forbidden_Mood.stages.bought_a_slave.description>Nous avons acheté un esclave à de méchants marchands d'esclaves !</VME_BoughtSlave_Know_Forbidden_Mood.stages.bought_a_slave.description>
+
+<VME_TaintedApparel_Abhorrent.stages.wearing_dead_persons_clothing.label>porte les vêtements d'un mort</VME_TaintedApparel_Abhorrent.stages.wearing_dead_persons_clothing.label>
+<VME_TaintedApparel_Abhorrent.stages.wearing_dead_persons_clothing.description>Je porte des vêtements utilisés par une personne morte, je ne peux pas imaginer quelque chose de plus dégoûtant ! Quelqu'un est mort en portant ça !</VME_TaintedApparel_Abhorrent.stages.wearing_dead_persons_clothing.description>
+
+<VME_TatteredApparel_Abhorrent.stages.wearing_ratty_clothes.label>porte des vêtements usés</VME_TatteredApparel_Abhorrent.stages.wearing_ratty_clothes.label>
+<VME_TatteredApparel_Abhorrent.stages.wearing_ratty_clothes.description>Je porte des vêtements en lambeaux, et c'est incroyablement dégradant. Seuls les plus beaux fils sont dignes de mon corps.</VME_TatteredApparel_Abhorrent.stages.wearing_ratty_clothes.description>
+
+<VME_Trading_Required.stages.recently_traded.label>transaction récente</VME_Trading_Required.stages.recently_traded.label>
+<VME_Trading_Required.stages.recently_traded.description>Comme d'habitude, nos produits se vendent comme des petits pains.</VME_Trading_Required.stages.recently_traded.description>
+<VME_Trading_Required.stages.no_recent_trades.label>aucune transaction récente</VME_Trading_Required.stages.no_recent_trades.label>
+<VME_Trading_Required.stages.no_recent_trades.description>Personne ne veut acheter notre produit. J'espère que ces temps calmes vont passer.</VME_Trading_Required.stages.no_recent_trades.description>
+
+<VME_Travel_Desired.stages.traveled_the_world-0.label>a parcouru le monde</VME_Travel_Desired.stages.traveled_the_world-0.label>
+<VME_Travel_Desired.stages.traveled_the_world-0.description>Il n'y a rien d'aussi exaltant que de voir ce que le monde a à offrir.</VME_Travel_Desired.stages.traveled_the_world-0.description>
+<VME_Travel_Desired.stages.traveled_the_world-1.label>a parcouru le monde</VME_Travel_Desired.stages.traveled_the_world-1.label>
+<VME_Travel_Desired.stages.traveled_the_world-1.description>Voyager, c'est génial. Voir les curiosités, découvrir de nouvelles terres... Les souvenirs de mes derniers voyages sont encore frais dans ma mémoire.</VME_Travel_Desired.stages.traveled_the_world-1.description>
+<VME_Travel_Desired.stages.traveled_the_world-2.label>a parcouru le monde</VME_Travel_Desired.stages.traveled_the_world-2.label>
+<VME_Travel_Desired.stages.traveled_the_world-2.description>Cela fait quelques jours que j'ai voyagé. J'ai adoré ça.</VME_Travel_Desired.stages.traveled_the_world-2.description>
+<VME_Travel_Desired.stages.traveled_the_world-3.label>a parcouru le monde</VME_Travel_Desired.stages.traveled_the_world-3.label>
+<VME_Travel_Desired.stages.traveled_the_world-3.description>J'ai un bon souvenir de mes voyages passés.</VME_Travel_Desired.stages.traveled_the_world-3.description>
+
+<VME_Travel_Despised.stages.had_to_leave_the_colony-0.label>a dû quitter la colonie</VME_Travel_Despised.stages.had_to_leave_the_colony-0.label>
+<VME_Travel_Despised.stages.had_to_leave_the_colony-0.description>Je méprise les voyages. Quitter la sécurité de notre colonie est terrible.</VME_Travel_Despised.stages.had_to_leave_the_colony-0.description>
+<VME_Travel_Despised.stages.had_to_leave_the_colony-1.label>a dû quitter la colonie</VME_Travel_Despised.stages.had_to_leave_the_colony-1.label>
+<VME_Travel_Despised.stages.had_to_leave_the_colony-1.description>Les souvenirs de mes derniers voyages sont encore frais dans ma mémoire. Je les déteste.</VME_Travel_Despised.stages.had_to_leave_the_colony-1.description>
+<VME_Travel_Despised.stages.had_to_leave_the_colony-2.label>a dû quitter la colonie</VME_Travel_Despised.stages.had_to_leave_the_colony-2.label>
+<VME_Travel_Despised.stages.had_to_leave_the_colony-2.description>Cela fait quelques jours que j'ai voyagé. Je déteste ça.</VME_Travel_Despised.stages.had_to_leave_the_colony-2.description>
+<VME_Travel_Despised.stages.had_to_leave_the_colony-3.label>a dû quitter la colonie</VME_Travel_Despised.stages.had_to_leave_the_colony-3.label>
+<VME_Travel_Despised.stages.had_to_leave_the_colony-3.description>J'ai des souvenirs désagréables de mes voyages passés.</VME_Travel_Despised.stages.had_to_leave_the_colony-3.description>
+
+<VME_Violence_Honorable.stages.attacked_person.label>personne attaquée</VME_Violence_Honorable.stages.attacked_person.label>
+<VME_Violence_Honorable.stages.attacked_person.description>J'ai utilisé une force mortelle sur un adversaire. Cela prouve notre force et notre détermination.</VME_Violence_Honorable.stages.attacked_person.description>
+
+<VME_Violence_Disapproved.stages.attacked_person.label>personne attaquée</VME_Violence_Disapproved.stages.attacked_person.label>
+<VME_Violence_Disapproved.stages.attacked_person.description>J'ai utilisé une force mortelle sur un adversaire. C'est une erreur.</VME_Violence_Disapproved.stages.attacked_person.description>
+
+<VME_Violence_Abhorrent.stages.attacked_person.label>personne attaquée</VME_Violence_Abhorrent.stages.attacked_person.label>
+<VME_Violence_Abhorrent.stages.attacked_person.description>J'ai utilisé la force mortelle sur un adversaire. Cela m'apporte une grande honte.</VME_Violence_Abhorrent.stages.attacked_person.description>
+
+<VME_AttendedParty.stages.attended_superb_party.label>a participé à une superbe fête</VME_AttendedParty.stages.attended_superb_party.label>
+<VME_AttendedParty.stages.attended_superb_party.description>J'ai passé un bon moment à cette fête.</VME_AttendedParty.stages.attended_superb_party.description>
+
+<VME_EnforcedCompliance.stages.compliant.label>conforme</VME_EnforcedCompliance.stages.compliant.label>
+<VME_EnforcedCompliance.stages.compliant.description>Quelqu'un a été exécuté pour le manque de conformité. J'ai besoin d'être positif. J'EN AI BESOIN.</VME_EnforcedCompliance.stages.compliant.description>
+
+<VME_NeedAnonymity.stages.anonymity_violated.label>violation de l'anonymat</VME_NeedAnonymity.stages.anonymity_violated.label>
+<VME_NeedAnonymity.stages.anonymity_violated.description>Ils savent tout, je suis un livre ouvert, entièrement vulnérable et sans une once de nuance.</VME_NeedAnonymity.stages.anonymity_violated.description>
+<VME_NeedAnonymity.stages.anonymity_compromised.label>anonymat compromis</VME_NeedAnonymity.stages.anonymity_compromised.label>
+<VME_NeedAnonymity.stages.anonymity_compromised.description>Mon identité a été profondément compromise, j'ai tellement honte de l'attention que je me suis attirée.</VME_NeedAnonymity.stages.anonymity_compromised.description>
+<VME_NeedAnonymity.stages.anonymity_threatened.label>anonymat menacé</VME_NeedAnonymity.stages.anonymity_threatened.label>
+<VME_NeedAnonymity.stages.anonymity_threatened.description>Cela ne peut pas continuer, si je continue à me comporter comme ça, je vais être exposé.</VME_NeedAnonymity.stages.anonymity_threatened.description>
+<VME_NeedAnonymity.stages.completely_anonymous.label>complètement anonyme</VME_NeedAnonymity.stages.completely_anonymous.label>
+<VME_NeedAnonymity.stages.completely_anonymous.description>Je me sens tellement plus à l'aise comme ça. Je ne pense même pas qu'ils connaissent mon nom ou mon visage.</VME_NeedAnonymity.stages.completely_anonymous.description>
+
+<VME_TerribleBonfire.stages.terrible_bonfire.label>feu de joie horrible</VME_TerribleBonfire.stages.terrible_bonfire.label>
+<VME_TerribleBonfire.stages.terrible_bonfire.description>Quelques petites flammes pathétiques ont dérivé autour, et elles sont parties trop tôt. "Bon" feu ? Plus comme un feu "Mauvais".</VME_TerribleBonfire.stages.terrible_bonfire.description>
+
+<VME_LacklusterBonfire.stages.lackluster_bonfire.label>feu de joie terne</VME_LacklusterBonfire.stages.lackluster_bonfire.label>
+<VME_LacklusterBonfire.stages.lackluster_bonfire.description>Nous nous attendions à une merveilleuse combustion, et à la place nous avons eu un feu de camp surdimensionné. Au moins, c'était assez divertissant.</VME_LacklusterBonfire.stages.lackluster_bonfire.description>
+
+<VME_GoodBonfire.stages.good_bonfire.label>feu de joie bon</VME_GoodBonfire.stages.good_bonfire.label>
+<VME_GoodBonfire.stages.good_bonfire.description>Les flammes s'élevaient et crépitaient majestueusement au-dessus du village, ce qui nous a considérablement remonté le moral.</VME_GoodBonfire.stages.good_bonfire.description>
+
+<VME_GloriousBonfire.stages.glorious_bonfire.label>feu de joie glorieux</VME_GloriousBonfire.stages.glorious_bonfire.label>
+<VME_GloriousBonfire.stages.glorious_bonfire.description>C'était super amusant et nous nous sommes vraiment connectés les uns aux autres grâce à cette expérience commune.</VME_GloriousBonfire.stages.glorious_bonfire.description>
+
+<VME_TerribleCeremonialSuicide.stages.terrible_ceremonial_suicide.label>cérémonial de suicide horrible</VME_TerribleCeremonialSuicide.stages.terrible_ceremonial_suicide.label>
+<VME_TerribleCeremonialSuicide.stages.terrible_ceremonial_suicide.description>Ce cérémonial du suicide était terrible. La lame a été enfoncée latéralement et il y avait du sang et des entrailles partout. Dégoûtant !</VME_TerribleCeremonialSuicide.stages.terrible_ceremonial_suicide.description>
+
+<VME_BoringCeremonialSuicide.stages.boring_ceremonial_suicide.label>cérémonial de suicide ennuyeux</VME_BoringCeremonialSuicide.stages.boring_ceremonial_suicide.label>
+<VME_BoringCeremonialSuicide.stages.boring_ceremonial_suicide.description>Ce cérémonial du suicide n'était pas bon. Le discours semblait forcé. Au moins, nous avons restauré l'honneur de notre colonie.</VME_BoringCeremonialSuicide.stages.boring_ceremonial_suicide.description>
+
+<VME_HonorableCeremonialSuicide.stages.honorable_ceremonial_suicide.label>cérémonial de suicide honorable</VME_HonorableCeremonialSuicide.stages.honorable_ceremonial_suicide.label>
+<VME_HonorableCeremonialSuicide.stages.honorable_ceremonial_suicide.description>Un honorable cérémonial du suicide. L'ombre de la défaite n'assombrit plus nos esprits.</VME_HonorableCeremonialSuicide.stages.honorable_ceremonial_suicide.description>
+
+<VME_UnforgettableCeremonialSuicide.stages.unforgettable_ceremonial_suicide.label>cérémonial de suicide inoubliable</VME_UnforgettableCeremonialSuicide.stages.unforgettable_ceremonial_suicide.label>
+<VME_UnforgettableCeremonialSuicide.stages.unforgettable_ceremonial_suicide.description>Ce cérémonial du suicide était inoubliable ! Tout le monde se souviendra de son courage, de sa maîtrise de soi et de sa forte détermination. L'honneur de notre colonie est maintenant sans tache.</VME_UnforgettableCeremonialSuicide.stages.unforgettable_ceremonial_suicide.description>
+
+<VME_SquamousIncantation.stages.squamous_incantation.label>incantation squameuse</VME_SquamousIncantation.stages.squamous_incantation.label>
+<VME_SquamousIncantation.stages.squamous_incantation.description>Un baragouinage indescriptiblement horrible ! Je le décrirais même comme squameux, mais je ne sais même pas ce que c'est ! Un mot inexprimable !</VME_SquamousIncantation.stages.squamous_incantation.description>
+
+<VME_AccursedIncantation.stages.accursed_incantation.label>incantation maudite</VME_AccursedIncantation.stages.accursed_incantation.label>
+<VME_AccursedIncantation.stages.accursed_incantation.description>Une litanie de sombres morbidités qui s'expriment dans le crime, la perversion et la folie.</VME_AccursedIncantation.stages.accursed_incantation.description>
+
+<VME_BlasphemousIncantation.stages.blasphemous_incantation.label>incantation blasphématoire</VME_BlasphemousIncantation.stages.blasphemous_incantation.label>
+<VME_BlasphemousIncantation.stages.blasphemous_incantation.description>Une promesse de mondes cachés et insondables de vie étrange qui palpitent dans les abîmes au-delà des étoiles et se pressent hideusement sur notre propre globe dans des dimensions impies que seuls les morts et les rêveurs peuvent entrevoir.</VME_BlasphemousIncantation.stages.blasphemous_incantation.description>
+
+<VME_LoathsomeIncantation.stages.loathsome_incantation.label>incantation détestable</VME_LoathsomeIncantation.stages.loathsome_incantation.label>
+<VME_LoathsomeIncantation.stages.loathsome_incantation.description>Nous vivons sur une île placide d'ignorance au milieu des mers noires de l'infini, et il n'était pas prévu que nous devions voyager loin.</VME_LoathsomeIncantation.stages.loathsome_incantation.description>
+
+<VME_UninterestingInsectoidHymn.stages.uninteresting_insectoid_hymn.label>hymne insectoïde sans intérêt</VME_UninterestingInsectoidHymn.stages.uninteresting_insectoid_hymn.label>
+<VME_UninterestingInsectoidHymn.stages.uninteresting_insectoid_hymn.description>Quel rituel incroyablement sans intérêt. Ouais, ouais, les insectes sont cool. Bah.</VME_UninterestingInsectoidHymn.stages.uninteresting_insectoid_hymn.description>
+
+<VME_AwkwardInsectoidHymn.stages.awkward_insectoid_hymn.label>hymne insectoïde maladroit</VME_AwkwardInsectoidHymn.stages.awkward_insectoid_hymn.label>
+<VME_AwkwardInsectoidHymn.stages.awkward_insectoid_hymn.description>Le discours était répétitif, et il n'a rien fait pour me convaincre de la divinité de nos chers insectes.</VME_AwkwardInsectoidHymn.stages.awkward_insectoid_hymn.description>
+
+<VME_RousingInsectoidHymn.stages.rousing_insectoid_hymn.label>hymne insectoïde enthousiaste</VME_RousingInsectoidHymn.stages.rousing_insectoid_hymn.label>
+<VME_RousingInsectoidHymn.stages.rousing_insectoid_hymn.description>Le chanteur a fait preuve d'une habileté impressionnante et l'hymne a exalté de manière appropriée les vertus de notre mode de vie.</VME_RousingInsectoidHymn.stages.rousing_insectoid_hymn.description>
+
+<VME_EntrancingInsectoidHymn.stages.entrancing_insectoid_hymn.label>hymne insectoïde captivant</VME_EntrancingInsectoidHymn.stages.entrancing_insectoid_hymn.label>
+<VME_EntrancingInsectoidHymn.stages.entrancing_insectoid_hymn.description>Je peux encore entendre les paroles envoûtantes de l'hymne, comme une myriade de pattes insectoïdes rampant sur nos corps.</VME_EntrancingInsectoidHymn.stages.entrancing_insectoid_hymn.description>
+
+<VME_TerribleLeadershipChallenge.stages.terrible_leadership_challenge.label>défi du leadership horrible</VME_TerribleLeadershipChallenge.stages.terrible_leadership_challenge.label>
+<VME_TerribleLeadershipChallenge.stages.terrible_leadership_challenge.description>Ce défi de leadership était horrible. Le regarder a juste rendu les gens tristes. Je suppose que nous avons un leader fort, au moins...</VME_TerribleLeadershipChallenge.stages.terrible_leadership_challenge.description>
+
+<VME_BoringLeadershipChallenge.stages.boring_leadership_challenge.label>défi du leadership ennuyeux</VME_BoringLeadershipChallenge.stages.boring_leadership_challenge.label>
+<VME_BoringLeadershipChallenge.stages.boring_leadership_challenge.description>Ce défi de leadership n'était pas bon. Les combattants ne voulaient pas s'engager, donc il n'y a pas eu de moments excitants. Au moins notre leader est le plus fort.</VME_BoringLeadershipChallenge.stages.boring_leadership_challenge.description>
+
+<VME_GoodLeadershipChallenge.stages.good_leadership_challenge.label>défi du leadership bon</VME_GoodLeadershipChallenge.stages.good_leadership_challenge.label>
+<VME_GoodLeadershipChallenge.stages.good_leadership_challenge.description>Un bon défi de leadership. Les combattants ont fait couler du sang et ont montré leur cœur. Nous savons maintenant que notre leader est le plus fort.</VME_GoodLeadershipChallenge.stages.good_leadership_challenge.description>
+
+<VME_UnforgettableLeadershipChallenge.stages.unforgettable_leadership_challenge.label>défi du leadership inoubliable</VME_UnforgettableLeadershipChallenge.stages.unforgettable_leadership_challenge.label>
+<VME_UnforgettableLeadershipChallenge.stages.unforgettable_leadership_challenge.description>Ce défi de leadership était inoubliable ! Les deux combattants ont donné tout ce qu'ils avaient, et nous savons que notre leader est maintenant le plus fort d'entre nous !</VME_UnforgettableLeadershipChallenge.stages.unforgettable_leadership_challenge.description>
+
+<VME_GrotesqueOrgy.stages.grotesque_orgy.label>orgie grotesque</VME_GrotesqueOrgy.stages.grotesque_orgy.label>
+<VME_GrotesqueOrgy.stages.grotesque_orgy.description>Quand on pense à une orgie, on a tendance à imaginer des gens séduisants. C'était... tout le contraire. Les images mentales vont mettre du temps à partir.</VME_GrotesqueOrgy.stages.grotesque_orgy.description>
+
+<VME_AwkwardOrgy.stages.awkward_orgy.label>orgie gênante</VME_AwkwardOrgy.stages.awkward_orgy.label>
+<VME_AwkwardOrgy.stages.awkward_orgy.description>Tout le monde était assis sans savoir exactement quoi faire, des corps nus gisant partout. Assez décevant.</VME_AwkwardOrgy.stages.awkward_orgy.description>
+
+<VME_SexyOrgy.stages.sexy_orgy.label>orgie sexy</VME_SexyOrgy.stages.sexy_orgy.label>
+<VME_SexyOrgy.stages.sexy_orgy.description>Nous nous sommes donnés les uns aux autres dans une expression commune de nos passions les plus profondes.</VME_SexyOrgy.stages.sexy_orgy.description>
+
+<VME_ExhilaratingOrgy.stages.exhilarating_orgy.label>orgie exaltante</VME_ExhilaratingOrgy.stages.exhilarating_orgy.label>
+<VME_ExhilaratingOrgy.stages.exhilarating_orgy.description>Nous avons tous mis nos masques de mascarade de la haute société et nous nous sommes mis à nu. Un barrage d'extase sexuelle orgasmique sans pareil a fait trembler nos corps d'une excitation à peine dissimulée.</VME_ExhilaratingOrgy.stages.exhilarating_orgy.description>
+
+<VME_GotSomeLovin.stages.got_some_lovin.label>a de l'amour</VME_GotSomeLovin.stages.got_some_lovin.label>
+<VME_GotSomeLovin.stages.got_some_lovin.description>Il n'y a rien de tel qu'une partie de jambes en l'air dans les draps pour remonter le moral.</VME_GotSomeLovin.stages.got_some_lovin.description>
+
+<VME_TerriblePlagueFestival.stages.terrible_plague_festival.label>festival de la peste horrible</VME_TerriblePlagueFestival.stages.terrible_plague_festival.label>
+<VME_TerriblePlagueFestival.stages.terrible_plague_festival.description>Ce festival de la peste était bâclé et l'ambiance n'était pas au rendez-vous. Le cadavre est resté là, inerte, et aucun miasme sacré n'en a été libéré. Quelle perte de temps !</VME_TerriblePlagueFestival.stages.terrible_plague_festival.description>
+
+<VME_BoringPlagueFestival.stages.boring_plague_festival.label>festival de la peste ennuyeux</VME_BoringPlagueFestival.stages.boring_plague_festival.label>
+<VME_BoringPlagueFestival.stages.boring_plague_festival.description>Ce festival de la peste était répétitif et la technique de mise à mort était manifestement inadéquate. Cependant, la peste bénie est maintenant parmi nous.</VME_BoringPlagueFestival.stages.boring_plague_festival.description>
+
+<VME_SatisfyingPlagueFestival.stages.satisfying_plague_festival.label>festival de la peste satisfaisant</VME_SatisfyingPlagueFestival.stages.satisfying_plague_festival.label>
+<VME_SatisfyingPlagueFestival.stages.satisfying_plague_festival.description>Ce festival de la peste était satisfaisant et un miasme sacré a été libéré du cadavre, nous baignant tous dans un vent de peste sacré.</VME_SatisfyingPlagueFestival.stages.satisfying_plague_festival.description>
+
+<VME_SpectacularPlagueFestival.stages.spectacular_plague_festival.label>festival de la peste spectaculaire</VME_SpectacularPlagueFestival.stages.spectacular_plague_festival.label>
+<VME_SpectacularPlagueFestival.stages.spectacular_plague_festival.description>Le sang ! La libération ! Ce festival de la peste a mis tout le monde au bord de la frénésie et un vent de peste sacré s'est échappé du cadavre de l'animal, nous bénissant.</VME_SpectacularPlagueFestival.stages.spectacular_plague_festival.description>
+
+<VME_DemagogicSlaveEmancipation.stages.demagogic_slave_emancipation.label>émancipation d'esclave démagogique</VME_DemagogicSlaveEmancipation.stages.demagogic_slave_emancipation.label>
+<VME_DemagogicSlaveEmancipation.stages.demagogic_slave_emancipation.description>On a fini par passer pour les méchants ici... Avec un tel affichage, il est peu probable que quelqu'un veuille librement rejoindre la colonie.</VME_DemagogicSlaveEmancipation.stages.demagogic_slave_emancipation.description>
+
+<VME_FreethinkingSlaveEmancipation.stages.freethinking_slave_emancipation.label>émancipation d'esclave libre-pensée</VME_FreethinkingSlaveEmancipation.stages.freethinking_slave_emancipation.label>
+<VME_FreethinkingSlaveEmancipation.stages.freethinking_slave_emancipation.description>Le discours de notre chef était clair et succinct, expliquant tous les maux de l'esclavage de manière concise.</VME_FreethinkingSlaveEmancipation.stages.freethinking_slave_emancipation.description>
+
+<VME_UnshacklingSlaveEmancipation.stages.unshackling_slave_emancipation.label>émancipation d'esclave désenchaînée</VME_UnshacklingSlaveEmancipation.stages.unshackling_slave_emancipation.label>
+<VME_UnshacklingSlaveEmancipation.stages.unshackling_slave_emancipation.description>Le discours de notre chef était très inspirant, détaillant tous les maux causés par l'esclavage et les immenses avantages d'une société libre.</VME_UnshacklingSlaveEmancipation.stages.unshackling_slave_emancipation.description>
+
+<VME_LiberatingSlaveEmancipation.stages.liberating_slave_emancipation.label>émancipation d'esclave libératrice</VME_LiberatingSlaveEmancipation.stages.liberating_slave_emancipation.label>
+<VME_LiberatingSlaveEmancipation.stages.liberating_slave_emancipation.description>Le discours de notre chef était un cours magistral pour vanter les mérites d'une société libre, libérée des chaînes de l'esclavage.</VME_LiberatingSlaveEmancipation.stages.liberating_slave_emancipation.description>
+
+<VME_AmazingSlaveEmancipation.stages.amazing_slave_emancipation.label>émancipation d'esclave incroyable</VME_AmazingSlaveEmancipation.stages.amazing_slave_emancipation.label>
+<VME_AmazingSlaveEmancipation.stages.amazing_slave_emancipation.description>Des légendes seront racontées sur le discours de notre chef et sur la façon dont ces mots résonneront dans le futur, élevant la cause de l'émancipation.</VME_AmazingSlaveEmancipation.stages.amazing_slave_emancipation.description>
+
+<VME_PoorlyOrganizedTradingFair.stages.poorly_organized_trading_fair.label>foire commerciale mal organisée</VME_PoorlyOrganizedTradingFair.stages.poorly_organized_trading_fair.label>
+<VME_PoorlyOrganizedTradingFair.stages.poorly_organized_trading_fair.description>Avec un effort de si faible qualité, aucune caravane supplémentaire ne sera attirée dans notre colonie...</VME_PoorlyOrganizedTradingFair.stages.poorly_organized_trading_fair.description>
+
+<VME_UnexcitingTradingFair.stages.unexciting_trading_fair.label>foire commerciale sans intérêt</VME_UnexcitingTradingFair.stages.unexciting_trading_fair.label>
+<VME_UnexcitingTradingFair.stages.unexciting_trading_fair.description>Quelques transactions passionnantes ont eu lieu, mais la majorité d'entre elles étaient des discussions d'affaires ennuyeuses.</VME_UnexcitingTradingFair.stages.unexciting_trading_fair.description>
+
+<VME_WellOrganizedTradingFair.stages.well_organized_trading_fair.label>foire commerciale bien organisée</VME_WellOrganizedTradingFair.stages.well_organized_trading_fair.label>
+<VME_WellOrganizedTradingFair.stages.well_organized_trading_fair.description>Il y a eu beaucoup de va-et-vient et de réseautage.</VME_WellOrganizedTradingFair.stages.well_organized_trading_fair.description>
+
+<VME_WondrousTradingFair.stages.wondrous_trading_fair.label>foire commerciale merveilleuse</VME_WondrousTradingFair.stages.wondrous_trading_fair.label>
+<VME_WondrousTradingFair.stages.wondrous_trading_fair.description>Nous avons discuté de modèles économiques passionnants et innovants, et notre colonie sera reconnue comme un centre d'apprentissage de la finance.</VME_WondrousTradingFair.stages.wondrous_trading_fair.description>
+
+<VME_CheapTradingFair.stages.we_tried_to_be_cheap.label>foire commerciale radin</VME_CheapTradingFair.stages.we_tried_to_be_cheap.label>
+<VME_CheapTradingFair.stages.we_tried_to_be_cheap.description>Nous avons essayé d'organiser une foire commerciale sans dépenser d'argent. C'est honteux d'être si radin.</VME_CheapTradingFair.stages.we_tried_to_be_cheap.description>
+
+<VME_AwkwardViolentConversion.stages.awkward_violent_conversion.label>conversion violente maladroite</VME_AwkwardViolentConversion.stages.awkward_violent_conversion.label>
+<VME_AwkwardViolentConversion.stages.awkward_violent_conversion.description>Cette conversion violente était maladroite. Les mots étaient vagues et peu convaincants.</VME_AwkwardViolentConversion.stages.awkward_violent_conversion.description>
+
+<VME_SatisfyingViolentConversion.stages.satisfying_violent_conversion.label>conversion violente satisfaisante</VME_SatisfyingViolentConversion.stages.satisfying_violent_conversion.label>
+<VME_SatisfyingViolentConversion.stages.satisfying_violent_conversion.description>Cette conversion violente était satisfaisante. Le discours était émouvant et agréable à écouter.</VME_SatisfyingViolentConversion.stages.satisfying_violent_conversion.description>
+
+<VME_SpectacularViolentConversion.stages.spectacular_violent_conversion.label>conversion violente spectaculaire</VME_SpectacularViolentConversion.stages.spectacular_violent_conversion.label>
+<VME_SpectacularViolentConversion.stages.spectacular_violent_conversion.description>Cette conversion violente était électrisante ! Il est certain que nos convictions l'emporteront sur toutes les autres !</VME_SpectacularViolentConversion.stages.spectacular_violent_conversion.description>
+
+<VME_TerribleWickerManBurning.stages.terrible_wicker_man_burning.label>brûler l'homme d'osier horrible</VME_TerribleWickerManBurning.stages.terrible_wicker_man_burning.label>
+<VME_TerribleWickerManBurning.stages.terrible_wicker_man_burning.description>Tout le rituel sentait le bacon pourri. Et, inexplicablement, le prisonnier n'arrêtait pas de crier "Non ! Pas les abeilles !". Qu'est-ce que ça veut dire ?</VME_TerribleWickerManBurning.stages.terrible_wicker_man_burning.description>
+
+<VME_LacklusterWickerManBurning.stages.lackluster_wicker_man_burning.label>brûler l'homme d'osier terne</VME_LacklusterWickerManBurning.stages.lackluster_wicker_man_burning.label>
+<VME_LacklusterWickerManBurning.stages.lackluster_wicker_man_burning.description>Le prisonnier est mort trop vite, et le feu ne nous a pas beaucoup remonté le moral.</VME_LacklusterWickerManBurning.stages.lackluster_wicker_man_burning.description>
+
+<VME_GoodWickerManBurning.stages.good_wicker_man_burning.label>brûler l'homme d'osier bon</VME_GoodWickerManBurning.stages.good_wicker_man_burning.label>
+<VME_GoodWickerManBurning.stages.good_wicker_man_burning.description>Les cris d'angoisse du prisonnier résonneront longtemps en nous, une autre âme consumée par les flammes.</VME_GoodWickerManBurning.stages.good_wicker_man_burning.description>
+
+<VME_GloriousWickerManBurning.stages.glorious_wicker_man_burning.label>brûler l'homme d'osier glorieux</VME_GloriousWickerManBurning.stages.glorious_wicker_man_burning.label>
+<VME_GloriousWickerManBurning.stages.glorious_wicker_man_burning.description>Nous nous souviendrons toujours de la brutalité du prisonnier, du crescendo effrayant des cris alors qu'une autre âme était consumée par les flammes sacrées.</VME_GloriousWickerManBurning.stages.glorious_wicker_man_burning.description>
 
 
 </LanguageData>
