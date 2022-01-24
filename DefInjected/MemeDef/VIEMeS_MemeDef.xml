@@ -1769,68 +1769,68 @@
 	<li>alienistProphecy(tag=meme_Healthcare)->These wayward creatures are poor, innocent beings. We should take care of them and show compassion and empathy.</li>
 </VME_Healthcare.descriptionMaker.rules.rulesStrings>
 <VME_Healthcare.generalRules.rulesStrings>
-	<li>memeAdjective->healthy</li>
-	<li>memeAdjective->medical</li>
-	<li>memeAdjective->preventive</li>
-	<li>memeCreed->healthcare</li>
-	<li>memeCreed->wellness</li>
-	<li>memeHyphenPrefix->fit</li>
-	<li>memeConcept->hospitals</li>
-	<li>memeLeaderNoun->surgeon</li>
-	<li>memeMoralist->doctor</li>
+	<li>memeAdjective->sain</li>
+	<li>memeAdjective->médical</li>
+	<li>memeAdjective->préventif</li>
+	<li>memeCreed->soins</li>
+	<li>memeCreed->bien-être</li>
+	<li>memeHyphenPrefix->forme</li>
+	<li>memeConcept->hôpitaux</li>
+	<li>memeLeaderNoun->chirurgien</li>
+	<li>memeMoralist->docteur</li>
 </VME_Healthcare.generalRules.rulesStrings>
-<VME_Healthcare.symbolPacks.0.adjective>medical</VME_Healthcare.symbolPacks.0.adjective>
-<VME_Healthcare.symbolPacks.0.ideoName>Healthcare</VME_Healthcare.symbolPacks.0.ideoName>
-<VME_Healthcare.symbolPacks.0.member>medic</VME_Healthcare.symbolPacks.0.member>
-<VME_Healthcare.symbolPacks.0.theme>healthcare</VME_Healthcare.symbolPacks.0.theme>
+<VME_Healthcare.symbolPacks.0.adjective>médical</VME_Healthcare.symbolPacks.0.adjective>
+<VME_Healthcare.symbolPacks.0.ideoName>Sécurité sociale</VME_Healthcare.symbolPacks.0.ideoName>
+<VME_Healthcare.symbolPacks.0.member>médecin</VME_Healthcare.symbolPacks.0.member>
+<VME_Healthcare.symbolPacks.0.theme>santé</VME_Healthcare.symbolPacks.0.theme>
 
 
 		<!-- +++++ Memes_Structures_Basic +++++ -->
 <VME_Structure_Serketist.label>insectoïsme</VME_Structure_Serketist.label>
 <VME_Structure_Serketist.description>Le vrai visage des dieux se trouve dans la morsure d'une mégaraignée, la piqûre de spélopède. Que ceux aux nombreuses pattes rampent sur nous.</VME_Structure_Serketist.description>
 <VME_Structure_Serketist.generalRules.rulesStrings>
-	<li>memeAdjective->serketic</li>
-	<li>memeAdjective->insectoid</li>
-	<li>memeAdjective->verminous</li>
-	<li>memeLeaderNoun->scarab lord</li>
-	<li>memeLeaderNoun->high speaker</li>
-	<li>memeLeaderAdjective->buzzing</li>
-	<li>memeLeaderAdjective->gregarious</li>
-	<li>memeLeaderAdjective->crawling</li>
-	<li>memeMoralist->shaman</li>
-	<li>memeMoralist->moth priest</li>
-	<li>memeMoralist->plague advocate</li>
+	<li>memeAdjective->insectoïque</li>
+	<li>memeAdjective->insectoïde</li>
+	<li>memeAdjective->vermineux</li>
+	<li>memeLeaderNoun->seigneur scarabée</li>
+	<li>memeLeaderNoun->haut parleur</li>
+	<li>memeLeaderAdjective->bourdonnement</li>
+	<li>memeLeaderAdjective->grégaire</li>
+	<li>memeLeaderAdjective->rampant</li>
+	<li>memeMoralist->chaman</li>
+	<li>memeMoralist->prêtre papillon</li>
+	<li>memeMoralist->défenseur de la peste</li>
 </VME_Structure_Serketist.generalRules.rulesStrings>
-<VME_Structure_Serketist.symbolPacks.0.adjective>serketist</VME_Structure_Serketist.symbolPacks.0.adjective>
-<VME_Structure_Serketist.symbolPacks.0.member>serketist</VME_Structure_Serketist.symbolPacks.0.member>
-<VME_Structure_Serketist.symbolPacks.0.theme>serketism</VME_Structure_Serketist.symbolPacks.0.theme>
-<VME_Structure_Serketist.worshipRoomLabel>hive</VME_Structure_Serketist.worshipRoomLabel>
+<VME_Structure_Serketist.symbolPacks.0.adjective>insectoïste</VME_Structure_Serketist.symbolPacks.0.adjective>
+<VME_Structure_Serketist.symbolPacks.0.member>insectoïste</VME_Structure_Serketist.symbolPacks.0.member>
+<VME_Structure_Serketist.symbolPacks.0.theme>insectoïsme</VME_Structure_Serketist.symbolPacks.0.theme>
+<VME_Structure_Serketist.worshipRoomLabel>ruche</VME_Structure_Serketist.worshipRoomLabel>
 
 
 <VME_Structure_Esotericism.label>ésotérisme</VME_Structure_Esotericism.label>
 <VME_Structure_Esotericism.description>Les forces qui guident ce monde ne sont pas pour les faibles de cœur ni les faibles de volonté. Ce n'est qu'à travers des textes interdits, des pactes obscurs et une initiation appropriée que l'on peut vraiment voir au-delà du voile.</VME_Structure_Esotericism.description>
 <VME_Structure_Esotericism.generalRules.rulesStrings>
-	<li>memeAdjective->obscure</li>
+	<li>memeAdjective->obscur</li>
 	<li>memeAdjective->secret</li>
-	<li>memeAdjective->occult</li>
-	<li>memeAdjective->mystical</li>
-	<li>memeCreed->mystery</li>
+	<li>memeAdjective->oculte</li>
+	<li>memeAdjective->mystique</li>
+	<li>memeCreed->mystère</li>
 	<li>memeCreed->secrets</li>
-	<li>memeCreed->arcana</li>
+	<li>memeCreed->arcanes</li>
 	<li>memeCreed->divinations</li>
-	<li>memeLeaderNoun->grand magus</li>
-	<li>memeLeaderNoun->enlightened one</li>
-	<li>memeLeaderAdjective->esoteric</li>
-	<li>memeLeaderAdjective->mystical</li>
-	<li>memeLeaderAdjective->secretive</li>
-	<li>memeMoralist->practitioner</li>
-	<li>memeMoralist->philosopher</li>
-	<li>memeMoralist->wizard</li>
+	<li>memeLeaderNoun->grand mage</li>
+	<li>memeLeaderNoun->l'éclairé</li>
+	<li>memeLeaderAdjective->esotérique</li>
+	<li>memeLeaderAdjective->mystique</li>
+	<li>memeLeaderAdjective->secret</li>
+	<li>memeMoralist->praticien</li>
+	<li>memeMoralist->philosophe</li>
+	<li>memeMoralist->magicien</li>
 </VME_Structure_Esotericism.generalRules.rulesStrings>
-<VME_Structure_Esotericism.symbolPacks.0.adjective>esoteric</VME_Structure_Esotericism.symbolPacks.0.adjective>
-<VME_Structure_Esotericism.symbolPacks.0.member>practitioner</VME_Structure_Esotericism.symbolPacks.0.member>
-<VME_Structure_Esotericism.symbolPacks.0.theme>esotericism</VME_Structure_Esotericism.symbolPacks.0.theme>
-<VME_Structure_Esotericism.worshipRoomLabel>sanctum</VME_Structure_Esotericism.worshipRoomLabel>
+<VME_Structure_Esotericism.symbolPacks.0.adjective>esotérique</VME_Structure_Esotericism.symbolPacks.0.adjective>
+<VME_Structure_Esotericism.symbolPacks.0.member>praticien</VME_Structure_Esotericism.symbolPacks.0.member>
+<VME_Structure_Esotericism.symbolPacks.0.theme>ésotéricisme</VME_Structure_Esotericism.symbolPacks.0.theme>
+<VME_Structure_Esotericism.worshipRoomLabel>sanctuaire</VME_Structure_Esotericism.worshipRoomLabel>
 
 
 
