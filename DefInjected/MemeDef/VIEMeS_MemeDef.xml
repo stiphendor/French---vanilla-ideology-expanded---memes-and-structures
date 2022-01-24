@@ -1259,20 +1259,20 @@
 	<li>alienistProphecy(tag=meme_Nomad)->These wayward creatures can be our companions on the road, forever looking for a place where they can fit in.</li>
 </VME_Nomad.descriptionMaker.rules.rulesStrings>
 <VME_Nomad.generalRules.rulesStrings>
-	<li>memeAdjective->nomad</li>
-	<li>memeAdjective->itinerant</li>
-	<li>memeAdjective->travelling</li>
-	<li>memeAdjective->transient</li>
-	<li>memeHyphenPrefix->rover</li>
-	<li>memeConcept->wandering</li>
-	<li>memeConcept->travelling</li>
-	<li>memeLeaderNoun->wayfarer</li>
-	<li>memeLeaderNoun->wanderer</li>
+	<li>memeAdjective->nomade</li>
+	<li>memeAdjective->itinérant</li>
+	<li>memeAdjective->voyageant</li>
+	<li>memeAdjective->transitoire</li>
+	<li>memeHyphenPrefix->vagabondage</li>
+	<li>memeConcept->errance</li>
+	<li>memeConcept->voyage</li>
+	<li>memeLeaderNoun->passager</li>
+	<li>memeLeaderNoun->vagabond</li>
 </VME_Nomad.generalRules.rulesStrings>
-<VME_Nomad.symbolPacks.0.adjective>nomadic</VME_Nomad.symbolPacks.0.adjective>
-<VME_Nomad.symbolPacks.0.ideoName>Nomadism</VME_Nomad.symbolPacks.0.ideoName>
-<VME_Nomad.symbolPacks.0.member>nomad</VME_Nomad.symbolPacks.0.member>
-<VME_Nomad.symbolPacks.0.theme>nomadism</VME_Nomad.symbolPacks.0.theme>
+<VME_Nomad.symbolPacks.0.adjective>nomadique</VME_Nomad.symbolPacks.0.adjective>
+<VME_Nomad.symbolPacks.0.ideoName>Nomadisme</VME_Nomad.symbolPacks.0.ideoName>
+<VME_Nomad.symbolPacks.0.member>nomade</VME_Nomad.symbolPacks.0.member>
+<VME_Nomad.symbolPacks.0.theme>nomadisme</VME_Nomad.symbolPacks.0.theme>
 
 
 <VME_BloodCourt.label>tribunal du sang</VME_BloodCourt.label>
@@ -1315,16 +1315,16 @@
 	<li>alienistProphecy(tag=meme_BloodCourt)->These wayward creatures can show us what strength looks like, and by overpowering them we might prove to ourselves that we are deserving of it.</li>
 </VME_BloodCourt.descriptionMaker.rules.rulesStrings>
 <VME_BloodCourt.generalRules.rulesStrings>
-	<li>memeAdjective->bloody</li>
+	<li>memeAdjective->sanglant</li>
 	<li>memeAdjective->brutal</li>
-	<li>memeConcept->strength</li>
-	<li>memeConcept->strife</li>
-	<li>memeLeaderNoun->bloodletter</li>
-	<li>memeLeaderNoun->gladiator</li>
+	<li>memeConcept->force</li>
+	<li>memeConcept->conflit</li>
+	<li>memeLeaderNoun->lettre de sang</li>
+	<li>memeLeaderNoun->gladiateur</li>
 </VME_BloodCourt.generalRules.rulesStrings>
 <VME_BloodCourt.symbolPacks.0.adjective>violent</VME_BloodCourt.symbolPacks.0.adjective>
-<VME_BloodCourt.symbolPacks.0.ideoName>Blood Court</VME_BloodCourt.symbolPacks.0.ideoName>
-<VME_BloodCourt.symbolPacks.0.member>fighter</VME_BloodCourt.symbolPacks.0.member>
+<VME_BloodCourt.symbolPacks.0.ideoName>Soif de sang</VME_BloodCourt.symbolPacks.0.ideoName>
+<VME_BloodCourt.symbolPacks.0.member>combattant</VME_BloodCourt.symbolPacks.0.member>
 <VME_BloodCourt.symbolPacks.0.theme>violence</VME_BloodCourt.symbolPacks.0.theme>
 
 
@@ -1368,16 +1368,16 @@
 	<li>alienistProphecy(tag=meme_CityBuilders)->These wayward creatures can be useful when building our glorious cities.</li>
 </VME_CityBuilders.descriptionMaker.rules.rulesStrings>
 <VME_CityBuilders.generalRules.rulesStrings>
-	<li>memeAdjective->building</li>
-	<li>memeAdjective->industrious</li>
-	<li>memeLeaderNoun->great builder</li>
-	<li>memeLeaderNoun->architect</li>
-	<li>memeConcept->cities</li>
+	<li>memeAdjective->construction</li>
+	<li>memeAdjective->industriel</li>
+	<li>memeLeaderNoun->grand constructeur</li>
+	<li>memeLeaderNoun->architecte</li>
+	<li>memeConcept->villes</li>
 </VME_CityBuilders.generalRules.rulesStrings>
-<VME_CityBuilders.symbolPacks.0.adjective>builder</VME_CityBuilders.symbolPacks.0.adjective>
-<VME_CityBuilders.symbolPacks.0.ideoName>Builders</VME_CityBuilders.symbolPacks.0.ideoName>
-<VME_CityBuilders.symbolPacks.0.member>builder</VME_CityBuilders.symbolPacks.0.member>
-<VME_CityBuilders.symbolPacks.0.theme>building</VME_CityBuilders.symbolPacks.0.theme>
+<VME_CityBuilders.symbolPacks.0.adjective>construction</VME_CityBuilders.symbolPacks.0.adjective>
+<VME_CityBuilders.symbolPacks.0.ideoName>Constructions</VME_CityBuilders.symbolPacks.0.ideoName>
+<VME_CityBuilders.symbolPacks.0.member>constructeur</VME_CityBuilders.symbolPacks.0.member>
+<VME_CityBuilders.symbolPacks.0.theme>construction</VME_CityBuilders.symbolPacks.0.theme>
 
 
 <VME_MechanoidSupremacy.label>suprématie mécanoïde</VME_MechanoidSupremacy.label>
