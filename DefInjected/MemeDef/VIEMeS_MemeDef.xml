@@ -1420,25 +1420,25 @@
 	<li>alienistProphecy(tag=meme_MechanoidSupremacy)->These wayward creatures are faulty, mere biological machines that pale in comparison to any mechanoid, but they are a step in the right direction.</li>
 </VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings>
 <VME_MechanoidSupremacy.generalRules.rulesStrings>
-	<li>memeAdjective->mechanoid</li>
+	<li>memeAdjective->mécanoïde</li>
 	<li>memeAdjective->machine</li>
-	<li>memeAdjective->cybernetic</li>
+	<li>memeAdjective->cybernetique</li>
 	<li>memeCreed->perfection</li>
-	<li>memeCreed->mechanoids</li>
+	<li>memeCreed->mécanoïdes</li>
 	<li>memeHyphenPrefix->techno</li>
 	<li>memeHyphenPrefix->cyber</li>
-	<li>memeHyphenPrefix->mecha</li>
-	<li>memeConcept->technology</li>
-	<li>memeConcept->silicon</li>
-	<li>memeConcept->mechanoids</li>
+	<li>memeHyphenPrefix->méca</li>
+	<li>memeConcept->technologie</li>
+	<li>memeConcept->silicium</li>
+	<li>memeConcept->mécanoïdes</li>
 	<li>memeLeaderNoun->cyborg</li>
 	<li>memeLeaderAdjective->techno</li>
-	<li>memeLeaderAdjective->mecha</li>
+	<li>memeLeaderAdjective->méca</li>
 </VME_MechanoidSupremacy.generalRules.rulesStrings>
-<VME_MechanoidSupremacy.symbolPacks.0.adjective>mechanoid</VME_MechanoidSupremacy.symbolPacks.0.adjective>
-<VME_MechanoidSupremacy.symbolPacks.0.ideoName>Mechanoid</VME_MechanoidSupremacy.symbolPacks.0.ideoName>
-<VME_MechanoidSupremacy.symbolPacks.0.member>mechanoid worshipper</VME_MechanoidSupremacy.symbolPacks.0.member>
-<VME_MechanoidSupremacy.symbolPacks.0.theme>mechanoids</VME_MechanoidSupremacy.symbolPacks.0.theme>
+<VME_MechanoidSupremacy.symbolPacks.0.adjective>mécanoïde</VME_MechanoidSupremacy.symbolPacks.0.adjective>
+<VME_MechanoidSupremacy.symbolPacks.0.ideoName>Mécanoïde</VME_MechanoidSupremacy.symbolPacks.0.ideoName>
+<VME_MechanoidSupremacy.symbolPacks.0.member>adorateur de mécanoïdes</VME_MechanoidSupremacy.symbolPacks.0.member>
+<VME_MechanoidSupremacy.symbolPacks.0.theme>mécanoïdes</VME_MechanoidSupremacy.symbolPacks.0.theme>
 
 
 <VME_InsectoidSupremacy.label>suprématie insectoïde</VME_InsectoidSupremacy.label>
@@ -1481,19 +1481,19 @@
 	<li>alienistProphecy(tag=meme_InsectoidSupremacy)->Among these genetically modified animals lies the insectoid geneline that was developed at Sorne, and that brought us the perfect lifeform.</li>
 </VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings>
 <VME_InsectoidSupremacy.generalRules.rulesStrings>
-	<li>memeAdjective->insectoid</li>
-	<li>memeAdjective->chitinous</li>
-	<li>memeAdjective->insectile</li>
+	<li>memeAdjective->insectoïde</li>
+	<li>memeAdjective->chitineux</li>
+	<li>memeAdjective->insectoïde</li>
 	<li>memeCreed->perfection</li>
-	<li>memeCreed->insectoids</li>
-	<li>memeHyphenPrefix->bug</li>
-	<li>memeHyphenPrefix->fly</li>
-	<li>memeConcept->insects</li>
+	<li>memeCreed->insectoïdes</li>
+	<li>memeHyphenPrefix->cafard</li>
+	<li>memeHyphenPrefix->mouche</li>
+	<li>memeConcept->insectes</li>
 </VME_InsectoidSupremacy.generalRules.rulesStrings>
-<VME_InsectoidSupremacy.symbolPacks.0.adjective>insectoid</VME_InsectoidSupremacy.symbolPacks.0.adjective>
-<VME_InsectoidSupremacy.symbolPacks.0.ideoName>Insectoid</VME_InsectoidSupremacy.symbolPacks.0.ideoName>
-<VME_InsectoidSupremacy.symbolPacks.0.member>insect worshipper</VME_InsectoidSupremacy.symbolPacks.0.member>
-<VME_InsectoidSupremacy.symbolPacks.0.theme>insectoids</VME_InsectoidSupremacy.symbolPacks.0.theme>
+<VME_InsectoidSupremacy.symbolPacks.0.adjective>insectoïde</VME_InsectoidSupremacy.symbolPacks.0.adjective>
+<VME_InsectoidSupremacy.symbolPacks.0.ideoName>Insectoïde</VME_InsectoidSupremacy.symbolPacks.0.ideoName>
+<VME_InsectoidSupremacy.symbolPacks.0.member>adorateur des insectesr</VME_InsectoidSupremacy.symbolPacks.0.member>
+<VME_InsectoidSupremacy.symbolPacks.0.theme>insectoïdes</VME_InsectoidSupremacy.symbolPacks.0.theme>
 
 
 <VME_PartyLife.label>vie de fête</VME_PartyLife.label>
@@ -1536,14 +1536,14 @@
 	<li>alienistProphecy(tag=meme_PartyLife)->I have heard there is even some weird lizard that turns plants into alcohol. Ohhh, man, I could hug that lizard right now.</li>
 </VME_PartyLife.descriptionMaker.rules.rulesStrings>
 <VME_PartyLife.generalRules.rulesStrings>
-	<li>memeCreed->party</li>
-	<li>memeAdjective->revelling</li>
-	<li>memeAdjective->dancing</li>
-	<li>memeAdjective->enjoying</li>
-	<li>memeConcept->celebration</li>
-	<li>memeConcept->festivity</li>
-	<li>memeLeaderNoun->merrymaker</li>
-	<li>memeMoralist->reveler</li>
+	<li>memeCreed->fête</li>
+	<li>memeAdjective->délectable</li>
+	<li>memeAdjective->dansant</li>
+	<li>memeAdjective->appréciant</li>
+	<li>memeConcept->célébrations</li>
+	<li>memeConcept->festivités</li>
+	<li>memeLeaderNoun->fêtard</li>
+	<li>memeMoralist->bambocheur</li>
 </VME_PartyLife.generalRules.rulesStrings>
 <VME_PartyLife.symbolPacks.0.adjective>partying</VME_PartyLife.symbolPacks.0.adjective>
 <VME_PartyLife.symbolPacks.0.ideoName>Party Life</VME_PartyLife.symbolPacks.0.ideoName>
@@ -1592,18 +1592,18 @@
 </VME_Anonymity.descriptionMaker.rules.rulesStrings>
 <VME_Anonymity.generalRules.rulesStrings>
 	<li>memeCreed->anonymity</li>
-	<li>memeAdjective->anonymous</li>
-	<li>memeAdjective->mysterious</li>
-	<li>memeAdjective->nameless</li>
-	<li>memeAdjective->inconspicuous</li>
-	<li>memeConcept->privacy</li>
-	<li>memeConcept->anonymity</li>
-	<li>memeLeaderNoun->anon</li>
+	<li>memeAdjective->anonyme</li>
+	<li>memeAdjective->mystérieux</li>
+	<li>memeAdjective->sans nom</li>
+	<li>memeAdjective->discret</li>
+	<li>memeConcept->intimité</li>
+	<li>memeConcept->anonymat</li>
+	<li>memeLeaderNoun->anonyme</li>
 </VME_Anonymity.generalRules.rulesStrings>
-<VME_Anonymity.symbolPacks.0.adjective>anonymous</VME_Anonymity.symbolPacks.0.adjective>
-<VME_Anonymity.symbolPacks.0.ideoName>Anonymity</VME_Anonymity.symbolPacks.0.ideoName>
-<VME_Anonymity.symbolPacks.0.member>anon</VME_Anonymity.symbolPacks.0.member>
-<VME_Anonymity.symbolPacks.0.theme>anonymity</VME_Anonymity.symbolPacks.0.theme>
+<VME_Anonymity.symbolPacks.0.adjective>anonyme</VME_Anonymity.symbolPacks.0.adjective>
+<VME_Anonymity.symbolPacks.0.ideoName>Anonymat</VME_Anonymity.symbolPacks.0.ideoName>
+<VME_Anonymity.symbolPacks.0.member>anonyme</VME_Anonymity.symbolPacks.0.member>
+<VME_Anonymity.symbolPacks.0.theme>anonymat</VME_Anonymity.symbolPacks.0.theme>
 
 
 <VME_Emancipation.label>émancipation</VME_Emancipation.label>
@@ -1646,19 +1646,19 @@
 	<li>alienistProphecy(tag=meme_Emancipation)->These wayward creatures embody the concept of freedom that we espouse, and we'd do well to learn from them.</li>
 </VME_Emancipation.descriptionMaker.rules.rulesStrings>
 <VME_Emancipation.generalRules.rulesStrings>
-	<li>memeAdjective->emancipating</li>
-	<li>memeAdjective->liberating</li>
-	<li>memeAdjective->free</li>
-	<li>memeAdjective->independent</li>
-	<li>memeLeaderNoun->emancipator</li>
-	<li>memeCreed->emancipation</li>
-	<li>memeHyphenPrefix->free</li>
-	<li>memeConcept->freedom</li>
+	<li>memeAdjective->émancipation</li>
+	<li>memeAdjective->libération</li>
+	<li>memeAdjective->libre</li>
+	<li>memeAdjective->indépendant</li>
+	<li>memeLeaderNoun->émancipateur</li>
+	<li>memeCreed->émancipation</li>
+	<li>memeHyphenPrefix->libre</li>
+	<li>memeConcept->liberté</li>
 </VME_Emancipation.generalRules.rulesStrings>
-<VME_Emancipation.symbolPacks.0.adjective>emancipator</VME_Emancipation.symbolPacks.0.adjective>
+<VME_Emancipation.symbolPacks.0.adjective>émancipateur</VME_Emancipation.symbolPacks.0.adjective>
 <VME_Emancipation.symbolPacks.0.ideoName>Emancipation</VME_Emancipation.symbolPacks.0.ideoName>
-<VME_Emancipation.symbolPacks.0.member>rescuer</VME_Emancipation.symbolPacks.0.member>
-<VME_Emancipation.symbolPacks.0.theme>emancipation</VME_Emancipation.symbolPacks.0.theme>
+<VME_Emancipation.symbolPacks.0.member>libérateur</VME_Emancipation.symbolPacks.0.member>
+<VME_Emancipation.symbolPacks.0.theme>émancipation</VME_Emancipation.symbolPacks.0.theme>
 
 
 <VME_Nationalist.label>nationaliste</VME_Nationalist.label>
