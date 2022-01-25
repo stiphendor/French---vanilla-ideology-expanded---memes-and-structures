@@ -519,16 +519,16 @@
 	<li>alienistProphecy(tag=meme_Progressive)->All these wayward creations of humanity shows us what humanity can achieve through automated technology, wondrous genetic laboratories sampling the genome at breakneck speeds.</li>
 </VME_Progressive.descriptionMaker.rules.rulesStrings>
 <VME_Progressive.generalRules.rulesStrings>
-	<li>memeAdjective->automated</li>
-	<li>memeAdjective->progressive</li>
+	<li>memeAdjective->automatique</li>
+	<li>memeAdjective->progressif</li>
 	<li>memeHyphenPrefix->auto</li>
-	<li>memeConcept->automation</li>
-	<li>memeLeaderNoun->great automancer</li>
+	<li>memeConcept->automatisation</li>
+	<li>memeLeaderNoun->grand automancien</li>
 </VME_Progressive.generalRules.rulesStrings>
-<VME_Progressive.symbolPacks.0.adjective>automatic</VME_Progressive.symbolPacks.0.adjective>
-<VME_Progressive.symbolPacks.0.ideoName>Automation</VME_Progressive.symbolPacks.0.ideoName>
-<VME_Progressive.symbolPacks.0.member>automation engineer</VME_Progressive.symbolPacks.0.member>
-<VME_Progressive.symbolPacks.0.theme>automation</VME_Progressive.symbolPacks.0.theme>
+<VME_Progressive.symbolPacks.0.adjective>automatique</VME_Progressive.symbolPacks.0.adjective>
+<VME_Progressive.symbolPacks.0.ideoName>Automatisation</VME_Progressive.symbolPacks.0.ideoName>
+<VME_Progressive.symbolPacks.0.member>ingénieur en automatisation</VME_Progressive.symbolPacks.0.member>
+<VME_Progressive.symbolPacks.0.theme>automatisation</VME_Progressive.symbolPacks.0.theme>
 
 
 <VME_Aristocratic.label>aristocratique</VME_Aristocratic.label>
@@ -569,26 +569,26 @@
 	<li>alienistProphecy(tag=tag=meme_Aristocratic)->We will create wondrous royal menageries with all of these creatures, a veritable display of our power and might.</li>
 </VME_Aristocratic.descriptionMaker.rules.rulesStrings>
 <VME_Aristocratic.generalRules.rulesStrings>
-	<li>memeAdjective->kingly</li>
 	<li>memeAdjective->royal</li>
-	<li>memeAdjective->monarchal</li>
-	<li>memeAdjective->princely</li>
-	<li>memeAdjective->sovereign</li>
+	<li>memeAdjective->royal</li>
+	<li>memeAdjective->monarchique</li>
+	<li>memeAdjective->princier</li>
+	<li>memeAdjective->souverain</li>
 	<li>memeHyphenPrefix->noble</li>
-	<li>memeConcept->aristocracy</li>
-	<li>memeConcept->nobility</li>
-	<li>memeConcept->blue blood</li>
+	<li>memeConcept->aristocratie</li>
+	<li>memeConcept->noblesse</li>
+	<li>memeConcept->sang bleu</li>
 	<li>memeLeaderNoun->baron</li>
-	<li>memeLeaderNoun->count</li>
+	<li>memeLeaderNoun->comte</li>
 </VME_Aristocratic.generalRules.rulesStrings>
 <VME_Aristocratic.symbolPacks.0.adjective>noble</VME_Aristocratic.symbolPacks.0.adjective>
-<VME_Aristocratic.symbolPacks.0.ideoName>Nobility</VME_Aristocratic.symbolPacks.0.ideoName>
-<VME_Aristocratic.symbolPacks.0.member>subject</VME_Aristocratic.symbolPacks.0.member>
-<VME_Aristocratic.symbolPacks.0.theme>nobility</VME_Aristocratic.symbolPacks.0.theme>
-<VME_Aristocratic.symbolPacks.1.adjective>aristocratic</VME_Aristocratic.symbolPacks.1.adjective>
-<VME_Aristocratic.symbolPacks.1.ideoName>Aristocracy</VME_Aristocratic.symbolPacks.1.ideoName>
-<VME_Aristocratic.symbolPacks.1.member>subject</VME_Aristocratic.symbolPacks.1.member>
-<VME_Aristocratic.symbolPacks.1.theme>aristocracy</VME_Aristocratic.symbolPacks.1.theme>
+<VME_Aristocratic.symbolPacks.0.ideoName>Noblesse</VME_Aristocratic.symbolPacks.0.ideoName>
+<VME_Aristocratic.symbolPacks.0.member>sujet</VME_Aristocratic.symbolPacks.0.member>
+<VME_Aristocratic.symbolPacks.0.theme>noblesse</VME_Aristocratic.symbolPacks.0.theme>
+<VME_Aristocratic.symbolPacks.1.adjective>aristocratique</VME_Aristocratic.symbolPacks.1.adjective>
+<VME_Aristocratic.symbolPacks.1.ideoName>Aristocratie</VME_Aristocratic.symbolPacks.1.ideoName>
+<VME_Aristocratic.symbolPacks.1.member>sujet</VME_Aristocratic.symbolPacks.1.member>
+<VME_Aristocratic.symbolPacks.1.theme>aristocratie</VME_Aristocratic.symbolPacks.1.theme>
 
 
 <VME_Republic.label>république</VME_Republic.label>
@@ -629,20 +629,20 @@
 	<li>alienistProphecy(tag=meme_Republic)->Our three triumvir will decide the fate of all these wayward human creations, for we trust their wisdom in such matters.</li>
 </VME_Republic.descriptionMaker.rules.rulesStrings>
 <VME_Republic.generalRules.rulesStrings>
-	<li>memeAdjective->republican</li>
+	<li>memeAdjective->républicain</li>
 	<li>memeAdjective->triumviral</li>
-	<li>memeConcept->republic</li>
+	<li>memeConcept->république</li>
 	<li>memeConcept->triumvirate</li>
 	<li>memeLeaderNoun->triumvir</li>
-	<li>memeLeaderNoun->senator</li>
+	<li>memeLeaderNoun->sénateur</li>
 </VME_Republic.generalRules.rulesStrings>
-<VME_Republic.symbolPacks.0.adjective>republican</VME_Republic.symbolPacks.0.adjective>
-<VME_Republic.symbolPacks.0.ideoName>Republic</VME_Republic.symbolPacks.0.ideoName>
-<VME_Republic.symbolPacks.0.member>citizen</VME_Republic.symbolPacks.0.member>
-<VME_Republic.symbolPacks.0.theme>republic</VME_Republic.symbolPacks.0.theme>
+<VME_Republic.symbolPacks.0.adjective>républicain</VME_Republic.symbolPacks.0.adjective>
+<VME_Republic.symbolPacks.0.ideoName>République</VME_Republic.symbolPacks.0.ideoName>
+<VME_Republic.symbolPacks.0.member>citoyen</VME_Republic.symbolPacks.0.member>
+<VME_Republic.symbolPacks.0.theme>république</VME_Republic.symbolPacks.0.theme>
 <VME_Republic.symbolPacks.1.adjective>triumviral</VME_Republic.symbolPacks.1.adjective>
 <VME_Republic.symbolPacks.1.ideoName>Triumvirate</VME_Republic.symbolPacks.1.ideoName>
-<VME_Republic.symbolPacks.1.member>citizen</VME_Republic.symbolPacks.1.member>
+<VME_Republic.symbolPacks.1.member>citoyen</VME_Republic.symbolPacks.1.member>
 <VME_Republic.symbolPacks.1.theme>triumvirate</VME_Republic.symbolPacks.1.theme>
 
 
@@ -809,28 +809,28 @@
 	<li>alienistProphecy(tag=meme_Trader)->These wayward creations, born of human creativity, represent a boundless potential wealth that we'd do well to exploit.</li>
 </VME_Trader.descriptionMaker.rules.rulesStrings>
 <VME_Trader.generalRules.rulesStrings>
-	<li>memeAdjective->trading</li>
-	<li>memeAdjective->wealthy</li>
-	<li>memeAdjective->profitting</li>
-	<li>memeAdjective->greedy</li>
-	<li>memeAdjective->materialistic</li>
-	<li>memeHyphenPrefix->trade</li>
-	<li>memeConcept->trade</li>
-	<li>memeLeaderNoun->trader</li>
-	<li>memeLeaderNoun->merchant</li>
+	<li>memeAdjective->commerce</li>
+	<li>memeAdjective->riche</li>
+	<li>memeAdjective->profitant</li>
+	<li>memeAdjective->cupide</li>
+	<li>memeAdjective->matérialiste</li>
+	<li>memeHyphenPrefix->commerce</li>
+	<li>memeConcept->commerce</li>
+	<li>memeLeaderNoun->commerçant</li>
+	<li>memeLeaderNoun->marchand</li>
 </VME_Trader.generalRules.rulesStrings>
-<VME_Trader.symbolPacks.0.adjective>trading</VME_Trader.symbolPacks.0.adjective>
-<VME_Trader.symbolPacks.0.ideoName>Trader</VME_Trader.symbolPacks.0.ideoName>
-<VME_Trader.symbolPacks.0.member>trader</VME_Trader.symbolPacks.0.member>
-<VME_Trader.symbolPacks.0.theme>trading</VME_Trader.symbolPacks.0.theme>
-<VME_Trader.symbolPacks.1.adjective>economic</VME_Trader.symbolPacks.1.adjective>
-<VME_Trader.symbolPacks.1.ideoName>Economics</VME_Trader.symbolPacks.1.ideoName>
-<VME_Trader.symbolPacks.1.member>economist</VME_Trader.symbolPacks.1.member>
-<VME_Trader.symbolPacks.1.theme>economy</VME_Trader.symbolPacks.1.theme>
-<VME_Trader.symbolPacks.2.adjective>wealthy</VME_Trader.symbolPacks.2.adjective>
-<VME_Trader.symbolPacks.2.ideoName>Wealth</VME_Trader.symbolPacks.2.ideoName>
-<VME_Trader.symbolPacks.2.member>investor</VME_Trader.symbolPacks.2.member>
-<VME_Trader.symbolPacks.2.theme>wealth</VME_Trader.symbolPacks.2.theme>
+<VME_Trader.symbolPacks.0.adjective>commerce</VME_Trader.symbolPacks.0.adjective>
+<VME_Trader.symbolPacks.0.ideoName>Commerce</VME_Trader.symbolPacks.0.ideoName>
+<VME_Trader.symbolPacks.0.member>commerçant</VME_Trader.symbolPacks.0.member>
+<VME_Trader.symbolPacks.0.theme>commerce</VME_Trader.symbolPacks.0.theme>
+<VME_Trader.symbolPacks.1.adjective>économique</VME_Trader.symbolPacks.1.adjective>
+<VME_Trader.symbolPacks.1.ideoName>Economie</VME_Trader.symbolPacks.1.ideoName>
+<VME_Trader.symbolPacks.1.member>économiste</VME_Trader.symbolPacks.1.member>
+<VME_Trader.symbolPacks.1.theme>économie</VME_Trader.symbolPacks.1.theme>
+<VME_Trader.symbolPacks.2.adjective>riche</VME_Trader.symbolPacks.2.adjective>
+<VME_Trader.symbolPacks.2.ideoName>Richesse</VME_Trader.symbolPacks.2.ideoName>
+<VME_Trader.symbolPacks.2.member>investisseur</VME_Trader.symbolPacks.2.member>
+<VME_Trader.symbolPacks.2.theme>richesse</VME_Trader.symbolPacks.2.theme>
 
 
 <VME_Elders.label>aînés</VME_Elders.label>
@@ -873,19 +873,19 @@
 	<li>alienistProphecy(tag=meme_Elders)->These wayward creations, born of human creativity, hold a treasure trove of ancient wisdom, a window to the forgotten techniques of our ancestors.</li>
 </VME_Elders.descriptionMaker.rules.rulesStrings>
 <VME_Elders.generalRules.rulesStrings>
-	<li>memeAdjective->elderly</li>
-	<li>memeAdjective->ancient</li>
-	<li>memeAdjective->old</li>
-	<li>memeAdjective->wise</li>
-	<li>memeConcept->age</li>
-	<li>memeAdjective->geriatric</li>
-	<li>memeHyphenPrefix->old</li>
-	<li>memeLeaderNoun->elder</li>
+	<li>memeAdjective->âgé</li>
+	<li>memeAdjective->ancien</li>
+	<li>memeAdjective->vieux</li>
+	<li>memeAdjective->sage</li>
+	<li>memeConcept->âge</li>
+	<li>memeAdjective->gériatrique</li>
+	<li>memeHyphenPrefix->vieux</li>
+	<li>memeLeaderNoun->aîné</li>
 </VME_Elders.generalRules.rulesStrings>
-<VME_Elders.symbolPacks.0.adjective>elderly</VME_Elders.symbolPacks.0.adjective>
-<VME_Elders.symbolPacks.0.ideoName>Elders</VME_Elders.symbolPacks.0.ideoName>
-<VME_Elders.symbolPacks.0.member>elder</VME_Elders.symbolPacks.0.member>
-<VME_Elders.symbolPacks.0.theme>elders</VME_Elders.symbolPacks.0.theme>
+<VME_Elders.symbolPacks.0.adjective>âgé</VME_Elders.symbolPacks.0.adjective>
+<VME_Elders.symbolPacks.0.ideoName>Aînés</VME_Elders.symbolPacks.0.ideoName>
+<VME_Elders.symbolPacks.0.member>aîné</VME_Elders.symbolPacks.0.member>
+<VME_Elders.symbolPacks.0.theme>aînés</VME_Elders.symbolPacks.0.theme>
 
 
 <VME_Vegan.label>végan</VME_Vegan.label>
