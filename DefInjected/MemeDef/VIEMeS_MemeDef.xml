@@ -928,22 +928,22 @@
 	<li>alienistProphecy(tag=meme_Vegan)->These wayward creatures are poor, innocent beings. It would be a grave mistake to mistreat them in any way.</li>
 </VME_Vegan.descriptionMaker.rules.rulesStrings>
 <VME_Vegan.generalRules.rulesStrings>
-	<li>memeAdjective->vegan</li>
-	<li>memeAdjective->vegetarian</li>
-	<li>memeAdjective->ethical</li>
+	<li>memeAdjective->végan</li>
+	<li>memeAdjective->végétarien</li>
+	<li>memeAdjective->éthique</li>
 	<li>memeAdjective->veggie</li>
-	<li>memeCreed->veganism</li>
+	<li>memeCreed->véganisme</li>
 	<li>memeHyphenPrefix->bio</li>
-	<li>memeConcept->animal rights</li>
+	<li>memeConcept->droit des animaux</li>
 </VME_Vegan.generalRules.rulesStrings>
-<VME_Vegan.symbolPacks.0.adjective>vegan</VME_Vegan.symbolPacks.0.adjective>
-<VME_Vegan.symbolPacks.0.ideoName>Vegan</VME_Vegan.symbolPacks.0.ideoName>
-<VME_Vegan.symbolPacks.0.member>vegan</VME_Vegan.symbolPacks.0.member>
-<VME_Vegan.symbolPacks.0.theme>veganism</VME_Vegan.symbolPacks.0.theme>
-<VME_Vegan.symbolPacks.1.adjective>vegetarian</VME_Vegan.symbolPacks.1.adjective>
-<VME_Vegan.symbolPacks.1.ideoName>Vegetarian</VME_Vegan.symbolPacks.1.ideoName>
-<VME_Vegan.symbolPacks.1.member>vegetarian</VME_Vegan.symbolPacks.1.member>
-<VME_Vegan.symbolPacks.1.theme>vegetarianism</VME_Vegan.symbolPacks.1.theme>
+<VME_Vegan.symbolPacks.0.adjective>végan</VME_Vegan.symbolPacks.0.adjective>
+<VME_Vegan.symbolPacks.0.ideoName>Végan</VME_Vegan.symbolPacks.0.ideoName>
+<VME_Vegan.symbolPacks.0.member>végan</VME_Vegan.symbolPacks.0.member>
+<VME_Vegan.symbolPacks.0.theme>véganisme</VME_Vegan.symbolPacks.0.theme>
+<VME_Vegan.symbolPacks.1.adjective>végétarien</VME_Vegan.symbolPacks.1.adjective>
+<VME_Vegan.symbolPacks.1.ideoName>Végetarien</VME_Vegan.symbolPacks.1.ideoName>
+<VME_Vegan.symbolPacks.1.member>végetarien</VME_Vegan.symbolPacks.1.member>
+<VME_Vegan.symbolPacks.1.theme>végetarisem</VME_Vegan.symbolPacks.1.theme>
 
 
 <VME_Egalitarian.label>égalitarisme</VME_Egalitarian.label>
@@ -986,19 +986,19 @@
 	<li>alienistProphecy(tag=meme_Egalitarian)->These wayward creatures are a point of contention among many people. Are they to be protected, or destroyed? We'd do well to listen to all points of view before deciding.</li>
 </VME_Egalitarian.descriptionMaker.rules.rulesStrings>
 <VME_Egalitarian.generalRules.rulesStrings>
-	<li>memeAdjective->egalitarian</li>
-	<li>memeAdjective->equal</li>
-	<li>memeAdjective->free</li>
-	<li>memeAdjective->just</li>
-	<li>memeLeaderNoun->peer</li>
-	<li>memeCreed->equality</li>
-	<li>memeHyphenPrefix->free</li>
-	<li>memeConcept->equality</li>
+	<li>memeAdjective->égalitaire</li>
+	<li>memeAdjective->égal</li>
+	<li>memeAdjective->libre</li>
+	<li>memeAdjective->juste</li>
+	<li>memeLeaderNoun->pair</li>
+	<li>memeCreed->égalité</li>
+	<li>memeHyphenPrefix->libre</li>
+	<li>memeConcept->égalité</li>
 </VME_Egalitarian.generalRules.rulesStrings>
-<VME_Egalitarian.symbolPacks.0.adjective>egalitarian</VME_Egalitarian.symbolPacks.0.adjective>
-<VME_Egalitarian.symbolPacks.0.ideoName>Egalitarianism</VME_Egalitarian.symbolPacks.0.ideoName>
-<VME_Egalitarian.symbolPacks.0.member>egalitarian</VME_Egalitarian.symbolPacks.0.member>
-<VME_Egalitarian.symbolPacks.0.theme>equality</VME_Egalitarian.symbolPacks.0.theme>
+<VME_Egalitarian.symbolPacks.0.adjective>égalitariste</VME_Egalitarian.symbolPacks.0.adjective>
+<VME_Egalitarian.symbolPacks.0.ideoName>Égalitarisme</VME_Egalitarian.symbolPacks.0.ideoName>
+<VME_Egalitarian.symbolPacks.0.member>égalitariste</VME_Egalitarian.symbolPacks.0.member>
+<VME_Egalitarian.symbolPacks.0.theme>égalité</VME_Egalitarian.symbolPacks.0.theme>
 
 
 <VME_Pacifist.label>pacifisme</VME_Pacifist.label>
@@ -1041,16 +1041,16 @@
 	<li>alienistProphecy(tag=meme_Pacifist)->These wayward creatures are innocent beings. We are not killers, and perhaps we'd better leave them alone.</li>
 </VME_Pacifist.descriptionMaker.rules.rulesStrings>
 <VME_Pacifist.generalRules.rulesStrings>
-	<li>memeAdjective->pacifist</li>
-	<li>memeAdjective->peace-monger</li>
-	<li>memeAdjective->appeasing</li>
-	<li>memeLeaderNoun->peacemaker</li>
-	<li>memeConcept->peace</li>
+	<li>memeAdjective->pacifiste</li>
+	<li>memeAdjective->pacificateur</li>
+	<li>memeAdjective->apaisant</li>
+	<li>memeLeaderNoun->faiseur de paix</li>
+	<li>memeConcept->paix</li>
 </VME_Pacifist.generalRules.rulesStrings>
-<VME_Pacifist.symbolPacks.0.adjective>pacifist</VME_Pacifist.symbolPacks.0.adjective>
-<VME_Pacifist.symbolPacks.0.ideoName>Pacifism</VME_Pacifist.symbolPacks.0.ideoName>
-<VME_Pacifist.symbolPacks.0.member>pacifist</VME_Pacifist.symbolPacks.0.member>
-<VME_Pacifist.symbolPacks.0.theme>pacifism</VME_Pacifist.symbolPacks.0.theme>
+<VME_Pacifist.symbolPacks.0.adjective>pacifiste</VME_Pacifist.symbolPacks.0.adjective>
+<VME_Pacifist.symbolPacks.0.ideoName>Pacifisme</VME_Pacifist.symbolPacks.0.ideoName>
+<VME_Pacifist.symbolPacks.0.member>pacifiste</VME_Pacifist.symbolPacks.0.member>
+<VME_Pacifist.symbolPacks.0.theme>pacifisme</VME_Pacifist.symbolPacks.0.theme>
 
 
 <VME_FireWorship.label>culte du feu</VME_FireWorship.label>
@@ -1093,21 +1093,21 @@
 	<li>alienistProphecy(tag=meme_FireWorship)->All these wayward creatures, forgotten creations of humanity, will serve as kindling for the flames.</li>
 </VME_FireWorship.descriptionMaker.rules.rulesStrings>
 <VME_FireWorship.generalRules.rulesStrings>
-	<li>memeAdjective->burning</li>
-	<li>memeAdjective->firey</li>
-	<li>memeAdjective->blazing</li>
-	<li>memeAdjective->flaming</li>
-	<li>memeAdjective->smouldering</li>
-	<li>memeHyphenPrefix->burned</li>
-	<li>memeLeaderNoun->fire-starter</li>
-	<li>memeLeaderNoun->torcher</li>
-	<li>memeLeaderNoun->great arsonist</li>
-	<li>memeConcept->fire</li>
+	<li>memeAdjective->brûlant</li>
+	<li>memeAdjective->fougueux</li>
+	<li>memeAdjective->brûlant</li>
+	<li>memeAdjective->flamboyant</li>
+	<li>memeAdjective->fumant</li>
+	<li>memeHyphenPrefix->brûlé</li>
+	<li>memeLeaderNoun->allume feu</li>
+	<li>memeLeaderNoun->torche</li>
+	<li>memeLeaderNoun->grand pyromane</li>
+	<li>memeConcept->feu</li>
 </VME_FireWorship.generalRules.rulesStrings>
-<VME_FireWorship.symbolPacks.0.adjective>fire worshipping</VME_FireWorship.symbolPacks.0.adjective>
-<VME_FireWorship.symbolPacks.0.ideoName>Fire Worship</VME_FireWorship.symbolPacks.0.ideoName>
-<VME_FireWorship.symbolPacks.0.member>fire worshipper</VME_FireWorship.symbolPacks.0.member>
-<VME_FireWorship.symbolPacks.0.theme>fire worshipping</VME_FireWorship.symbolPacks.0.theme>
+<VME_FireWorship.symbolPacks.0.adjective>adoration du feu</VME_FireWorship.symbolPacks.0.adjective>
+<VME_FireWorship.symbolPacks.0.ideoName>Culte du feu</VME_FireWorship.symbolPacks.0.ideoName>
+<VME_FireWorship.symbolPacks.0.member>adorateur du feu</VME_FireWorship.symbolPacks.0.member>
+<VME_FireWorship.symbolPacks.0.theme>adoration du feu</VME_FireWorship.symbolPacks.0.theme>
 
 
 <VME_Bushido.label>bushido</VME_Bushido.label>
@@ -1150,16 +1150,16 @@
 	<li>alienistProphecy(tag=meme_Bushido)->These wayward creatures, forgotten and discarded creations of humanity's hubris, remind us that only a life lived with honour, courage and skill is worth living.</li>
 </VME_Bushido.descriptionMaker.rules.rulesStrings>
 <VME_Bushido.generalRules.rulesStrings>
-	<li>memeAdjective->honourable</li>
-	<li>memeAdjective->courageous</li>
-	<li>memeAdjective->skilled</li>
+	<li>memeAdjective->honorable</li>
+	<li>memeAdjective->courageux</li>
+	<li>memeAdjective->qualifié</li>
 	<li>memeAdjective->loyal</li>
 	<li>memeLeaderNoun->daimyo</li>
 	<li>memeConcept->courage</li>
 </VME_Bushido.generalRules.rulesStrings>
 <VME_Bushido.symbolPacks.0.adjective>bushido</VME_Bushido.symbolPacks.0.adjective>
 <VME_Bushido.symbolPacks.0.ideoName>Bushido</VME_Bushido.symbolPacks.0.ideoName>
-<VME_Bushido.symbolPacks.0.member>samurai</VME_Bushido.symbolPacks.0.member>
+<VME_Bushido.symbolPacks.0.member>samourai</VME_Bushido.symbolPacks.0.member>
 <VME_Bushido.symbolPacks.0.theme>bushido</VME_Bushido.symbolPacks.0.theme>
 
 
@@ -1203,20 +1203,20 @@
 	<li>alienistProphecy(tag=meme_Light)->These wayward creatures have veered too far from the light, and wander into darkness.</li>
 </VME_Light.descriptionMaker.rules.rulesStrings>
 <VME_Light.generalRules.rulesStrings>
-	<li>memeAdjective->light</li>
-	<li>memeAdjective->bright</li>
-	<li>memeHyphenPrefix->light</li>
-	<li>memeHyphenPrefix->bright</li>
-	<li>memeConcept->light</li>
-	<li>memeLeaderNoun->lightforged</li>
+	<li>memeAdjective->lumière</li>
+	<li>memeAdjective->brillant</li>
+	<li>memeHyphenPrefix->lumière</li>
+	<li>memeHyphenPrefix->brillant</li>
+	<li>memeConcept->lumière</li>
+	<li>memeLeaderNoun->forgeur de lumière</li>
 	<li>memeLeaderNoun->paladin</li>
-	<li>memeLeaderAdjective->light</li>
-	<li>memeMoralist->enlightener</li>
+	<li>memeLeaderAdjective->lumière</li>
+	<li>memeMoralist->éclaireur</li>
 </VME_Light.generalRules.rulesStrings>
-<VME_Light.symbolPacks.0.adjective>light</VME_Light.symbolPacks.0.adjective>
-<VME_Light.symbolPacks.0.ideoName>Light</VME_Light.symbolPacks.0.ideoName>
-<VME_Light.symbolPacks.0.member>lightbringer</VME_Light.symbolPacks.0.member>
-<VME_Light.symbolPacks.0.theme>light</VME_Light.symbolPacks.0.theme>
+<VME_Light.symbolPacks.0.adjective>lumineux</VME_Light.symbolPacks.0.adjective>
+<VME_Light.symbolPacks.0.ideoName>Lumière</VME_Light.symbolPacks.0.ideoName>
+<VME_Light.symbolPacks.0.member>apporteur de lumière</VME_Light.symbolPacks.0.member>
+<VME_Light.symbolPacks.0.theme>luminosité</VME_Light.symbolPacks.0.theme>
 
 
 <VME_Nomad.label>nomadisme</VME_Nomad.label>
