@@ -177,37 +177,37 @@
 <VME_HardcoreIndustrialism.description>Le travail donne de la dignité à l'homme. Ce n'est qu'en travaillant dur et en étant productif qu'une personne peut vraiment grandir.</VME_HardcoreIndustrialism.description>
 <VME_HardcoreIndustrialism.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_HardcoreIndustrialis)        ->[deity0_name] spurned [deity0_possessive] followers to work, for there is nothing holier than perseverance.</li>
-	<li>episode(uses=1,tag=meme_HardcoreIndustrialis)  ->[deity0_name] said to all the [memberNamePlural], "There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</li>
+	<li>creation(tag=meme_HardcoreIndustrialis)        ->[deity0_name] a incité ses disciples à travailler, car il n'y a rien de plus saint que la persévérance.</li>
+	<li>episode(uses=1,tag=meme_HardcoreIndustrialis)  ->[deity0_name] a dit à tous les [memberNamePlural], "Il n'y a pas de secrets pour le succès. C'est le résultat de la préparation, du travail acharné et de l'apprentissage de l'échec."</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_HardcoreIndustrialis)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], a magnificent centerpiece for the factories that churned out a myriad finished products.</li>
-	<li>conflict(tag=meme_HardcoreIndustrialis)        ->A coward [foeLeader], seeking to deny the will of [deity0_name], tried to sabotage our factory lines, but our resilience was unnending.</li>
-	<li>founderJoin(tag=meme_HardcoreIndustrialis)     ->[deity0_name] blessed a [place_job] named [founderName] with [foeLeader_possessive] divine power, and he became the greatest industrialist ever known.</li>
+	<li>intro(tag=meme_HardcoreIndustrialis)           ->[memberNamePlural] ont construit un grand [altarName] sur la [place_summary] [place_name], une magnifique pièce maîtresse pour les usines qui fabriquaient une myriade de produits finis.</li>
+	<li>conflict(tag=meme_HardcoreIndustrialis)        ->Un [foeLeader] lâche, cherchant à nier la volonté de [deity0_name], a essayé de saboter nos lignes d'usine, mais notre résilience était inépuisable.</li>
+	<li>founderJoin(tag=meme_HardcoreIndustrialis)     ->[deity0_name] a béni un [place_job] nommé [founderName] avec son pouvoir divin, et il est devenu le plus grand industriel jamais connu.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_HardcoreIndustrialis)           ->Our founder [founderName] was a genius. An industrialist and philanthropist like the Oil Barons of antiquity.</li>
-	<li>story(uses=1,tag=meme_HardcoreIndustrialis)    ->There were endless factories built by [founder_possessive] hand. A single motto hang in a sign over their entrance: "With hard work and effort, you can achieve anything."</li>
+	<li>setup(tag=meme_HardcoreIndustrialis)           ->Notre fondateur [founderName] était un génie. Un industriel et un philanthrope comme les barons du pétrole de l'Antiquité.</li>
+	<li>story(uses=1,tag=meme_HardcoreIndustrialis)    ->Il y avait des usines sans fin construites par sa main. Une seule devise était accrochée sur un panneau au-dessus de l'entrée : "Avec du travail et des efforts, on peut tout réussir."</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_HardcoreIndustrialis)         ->A single vital lesson was ingrained in all of us:</li>
-	<li>lesson(tag=meme_HardcoreIndustrialis)              ->the moment we believe that success is determined by an ingrained level of ability as opposed to resilience and hard work, we will be brittle in the face of adversity</li>
-	<li>lessonReinforcement(tag=meme_HardcoreIndustrialis) ->And that is why hard work always pays off, whatever you do.</li>
+	<li>lessonIntro(tag=meme_HardcoreIndustrialis)         ->Une seule leçon vitale a été inculquée à chacun d'entre nous :</li>
+	<li>lesson(tag=meme_HardcoreIndustrialis)              ->dès lors que nous croyons que le succès est déterminé par un niveau d'aptitude inné plutôt que par la résilience et le travail acharné, nous serons fragiles face à l'adversité</li>
+	<li>lessonReinforcement(tag=meme_HardcoreIndustrialis) ->Et c'est pourquoi le travail acharné est toujours payant, quoi que vous fassiez.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_HardcoreIndustrialis)    ->The archotechs are the pinnacle of technology, and only through hard work we may even beging to approach their prowess.</li>
-	<li>archistFact(tag=meme_HardcoreIndustrialis)     ->From our factories will pour a hundred thousand tons of plasteel and exochrome. The victory of industry over nature.</li>
-	<li>archistProphecy(tag=meme_HardcoreIndustrialis) ->[inTheEnd], we may be able to replicate the advanced technological secrets of the [relic0_name].</li>
+	<li>archistBasis(tag=meme_HardcoreIndustrialis)    ->Les archotechs sont le summum de la technologie, et ce n'est qu'en travaillant dur que nous pourrons approcher leurs prouesses.</li>
+	<li>archistFact(tag=meme_HardcoreIndustrialis)     ->De nos usines sortiront cent mille tonnes de plastacier et d'exochrome. La victoire de l'industrie sur la nature.</li>
+	<li>archistProphecy(tag=meme_HardcoreIndustrialis) ->[inTheEnd], nous pourrions être en mesure de reproduire les secrets technologiques avancés de [relic0_name].</li>
 	<!-- animist -->
-	<li>animistFact(tag=meme_HardcoreIndustrialis)     ->If there are spirits of nature, it stands to reason that there must also be spirits of machinery.</li>
+	<li>animistFact(tag=meme_HardcoreIndustrialis)     ->S'il existe des esprits de la nature, il est logique qu'il y ait aussi des esprits des machines.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_HardcoreIndustrialis)->[itIsSaid] we will acquire the resilience and productivity of our beloved insects.</li>
+	<li>serketistProphecy(tag=meme_HardcoreIndustrialis)->[itIsSaid] nous allons acquérir la résilience et la productivité de nos chers insectes.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_HardcoreIndustrialis)->Only through hard work we can be saved from these eldritch demons. Our perseverance will be their downfall.</li>
+	<li>chthonianProphecy(tag=meme_HardcoreIndustrialis)->Ce n'est qu'en travaillant dur que nous pourrons être sauvés de ces démons eldritch. Notre persévérance sera leur perte.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_HardcoreIndustrialis)->Our machinery will be infused with occult magics, a powerful engine of creation that will usher in a new world of plenty.</li>
+	<li>esotericismProphecy(tag=meme_HardcoreIndustrialis)->Nos machines seront imprégnées de magies occultes, un puissant moteur de création qui ouvrira la voie à un nouveau monde d'abondance.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_HardcoreIndustrialis)->Our factories will bloat the sky and suffocate all life. Their skin will dissolve from their bones, and be consumed in the fires of industry.</li>
+	<li>eschatologismFact(tag=meme_HardcoreIndustrialis)->Nos usines vont envahir le ciel et étouffer toute vie. Leur peau se dissoudra de leurs os, et sera consumée dans les feux des industries.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_HardcoreIndustrialis)->It has come to my attention that our production quotas have fallen 4.56% compared to last quarter. This is unnaceptable, and I trust that you will labour harder than ever to increase our throughput to desireable levels.</li>
+	<li>introMemo(tag=meme_HardcoreIndustrialis)->Il a été porté à mon attention que nos quotas de production ont chuté de 4,56% par rapport au dernier trimestre. C'est inadmissible, et j'espère que vous allez travailler plus dur que jamais pour augmenter notre productivité à des niveaux acceptables.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_HardcoreIndustrialis)->All these wondrous creatures show us what the ingenuity of humanity can do through hard work and careful experimentation.</li>
+	<li>alienistProphecy(tag=meme_HardcoreIndustrialis)->Toutes ces créatures merveilleuses nous montrent ce que l'ingéniosité de l'humanité peut faire grâce à un travail acharné et une expérimentation minutieuse.</li>
 </VME_HardcoreIndustrialism.descriptionMaker.rules.rulesStrings>
 <VME_HardcoreIndustrialism.generalRules.rulesStrings>
 	<li>memeAdjective->haut rendement</li>
