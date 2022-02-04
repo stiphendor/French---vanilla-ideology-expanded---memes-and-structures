@@ -69,7 +69,7 @@
 	<li>creation(tag=meme_Astrology)        ->[deity0_name] nous a montré que le chemin de la vraie sagesse passe par la compréhension des étoiles.</li>
 	<li>episode(uses=1,tag=meme_Astrology)  ->[deity0_name] a dit à tous les [memberNamePlural], "Dans le firmament, vous verrez le reflet de ma volonté."</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_Astrology)           ->[memberNamePlural] ont construit un grand [altarName] sur [place_summary] [place_name], pour que tout le monde puisse regarder vers les étoiles.</li>
+	<li>intro(tag=meme_Astrology)           ->[memberNamePlural] ont construit un grand [altarName] sur la [place_summary] [place_name], pour que tout le monde puisse regarder vers les étoiles.</li>
 	<li>conflict(tag=meme_Astrology)        ->Un [foeLeader] lâche, cherchant à nier la volonté de [deity0_name], a essayé d'obscurcir le firmament pour que nous ne puissions pas observer la magnificence des étoiles.</li>
 	<li>founderJoin(tag=meme_Astrology)     ->[deity0_name] a béni un [place_job] nommé [founderName] pour sa détermination inébranlable, et un signe du zodiaque a été créé à ce moment-là.</li>
 	<li>victory(tag=meme_Astrology)         ->[founderName] a lu le destin astrologique des [foeSoldiers] et s'en est servi pour les convaincre de la puissance de [deity0_name].</li>
