@@ -126,37 +126,37 @@
 <VME_GodEmperor.description>Notre chef doit être adoré comme un Dieu vivant, une manifestation physique de nos idéaux et préceptes.</VME_GodEmperor.description>
 <VME_GodEmperor.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_GodEmperor)        ->[deity0_name] annointed [deity0_possessive] Chosen One to lead us through this life, our God Emperor.</li>
-	<li>episode(uses=1,tag=meme_GodEmperor)  ->[deity0_name] said to all the [memberNamePlural], "For you shall follow my Chosen One, the God Emperor, and prostrate yourselves in humility, submission and adoration."</li>
+	<li>creation(tag=meme_GodEmperor)        ->[deity0_name] a nommé son élu pour nous guider dans cette vie, notre Dieu Empereur.</li>
+	<li>episode(uses=1,tag=meme_GodEmperor)  ->[deity0_name] a dit à tous les [memberNamePlural], "Vous allez suivre mon élu, le Dieu Empereur, et vous prosterner en toute humilité, soumission et adoration."</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_GodEmperor)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], a huge monument to their God Emperor.</li>
-	<li>conflict(tag=meme_GodEmperor)        ->A coward [foeLeader], seeking to deny the will of [deity0_name], tried to slay our God Emperor, finding only ruin.</li>
-	<li>founderJoin(tag=meme_GodEmperor)     ->[deity0_name] blessed a [place_job] named [founderName] with [foeLeader_possessive] divine power, and this sacred place empowers our eternal God Emperor.</li>
+	<li>intro(tag=meme_GodEmperor)           ->[memberNamePlural] built a great [altarName] sur la [place_summary] [place_name], un énorme monument à leur Dieu Empereur.</li>
+	<li>conflict(tag=meme_GodEmperor)        ->Un [foeLeader] lâche, cherchant à nier la volonté de [deity0_name], a essayé de tuer notre Dieu Empereur, ne trouvant que la ruine.</li>
+	<li>founderJoin(tag=meme_GodEmperor)     ->[deity0_name] a béni un [place_job] nommé [founderName] avec son pouvoir divin, et ce lieu sacré donne du pouvoir à notre éternel Dieu Empereur.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_GodEmperor)           ->Our founder [founderName] was the greatest of the disciples of our God Emperor, a true servant.</li>
-	<li>story(uses=1,tag=meme_GodEmperor)    ->The believers will spread the wisdom of unwavering loyalty to the decreeds of our God Emperor.</li>
+	<li>setup(tag=meme_GodEmperor)           ->Notre fondateur [founderName] était le plus grand des disciples de notre Dieu Empereur, un vrai serviteur.</li>
+	<li>story(uses=1,tag=meme_GodEmperor)    ->Les croyants répandront la sagesse de la loyauté inébranlable aux décrets de notre Dieu Empereur.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_GodEmperor)         ->In all my years serving our God Emperor, I learned one lesson that stands over all:</li>
-	<li>lesson(tag=meme_GodEmperor)              ->only through absolute subservience to our leader will we achieve our goals</li>
-	<li>lessonReinforcement(tag=meme_GodEmperor) ->It is only through the Divine Will of our God Emperor that we will uncover the secrets of the Cosmos.</li>
+	<li>lessonIntro(tag=meme_GodEmperor)         ->Durant toutes mes années au service de notre Dieu Empereur, j'ai appris une leçon qui prime sur toutes les autres :</li>
+	<li>lesson(tag=meme_GodEmperor)              ->ce n'est que par une soumission absolue à notre chef que nous atteindrons nos objectifs</li>
+	<li>lessonReinforcement(tag=meme_GodEmperor) ->Ce n'est que par la volonté divine de notre Dieu Empereur que nous découvrirons les secrets du Cosmos.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_GodEmperor)    ->The archotechs announce their presence from the sky, and in the mind, our God Emperor is their Chosen One.</li>
-	<li>archistFact(tag=meme_GodEmperor)     ->Archotechs are wise beyond all reason, it stands to logic that their paragon is also the epitome of wisdom.</li>
-	<li>archistProphecy(tag=meme_GodEmperor) ->[inTheEnd], the archotechs will voice their final wisdom to our God Emperor, holder of the [relic0_name].</li>
+	<li>archistBasis(tag=meme_GodEmperor)    ->Les archotechs annoncent leur présence depuis le ciel, et dans l'esprit, notre Dieu Empereur est leur élu.</li>
+	<li>archistFact(tag=meme_GodEmperor)     ->Les archotechs sont des sages au-delà de toute raison, il est logique que leur parangon soit aussi l'incarnation de la sagesse.</li>
+	<li>archistProphecy(tag=meme_GodEmperor) ->[inTheEnd], les archotechs exprimeront leur sagesse finale à notre Dieu Empereur, détenteur de [relic0_name].</li>
 	<!-- animist -->
-	<li>animistFact(tag=meme_GodEmperor)     ->The spirits want to be known, and they manifest themselves in the body of our God Emperor.</li>
+	<li>animistFact(tag=meme_GodEmperor)     ->Les esprits veulent être connus, et ils se manifestent dans le corps de notre Dieu Empereur.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_GodEmperor)->[itIsSaid] our God Emperor will bathe in the blood of a thousand insects, annointed by their sacrifice.</li>
+	<li>serketistProphecy(tag=meme_GodEmperor)->[itIsSaid] notre Dieu Empereur se baignera dans le sang de mille insectes, oint de leur sacrifice.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_GodEmperor)->Our God Emperor is the guardian of madness, the one who keeps our minds safe from the cruel insanity of the Cosmos.</li>
+	<li>chthonianProphecy(tag=meme_GodEmperor)->Notre Dieu Empereur est le gardien de la folie, celui qui préserve nos esprits de la folie cruelle du Cosmos.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_GodEmperor)->Our God Emperor is wise beyond reckoning in the occult ways, and will guide us in devising new ways to use this hidden knowledge.</li>
+	<li>esotericismProphecy(tag=meme_GodEmperor)->Notre Dieu Empereur est d'une sagesse inouïe dans les voies occultes, et il nous guidera pour concevoir de nouvelles façons d'utiliser ces connaissances cachées.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_GodEmperor)->Our God Emperor will bring forth the End Times. In servitude, we will participate in this divine glory.</li>
+	<li>eschatologismFact(tag=meme_GodEmperor)->Notre Dieu Empereur va faire naître la fin des temps. Dans la servitude, nous participerons à cette gloire divine.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_GodEmperor)->Now, I know there have been rummors of the CEO of the Company being a God. Yes, a God Emperor, in fact. But that doesn't mean anything unless each and any of you acts PROACTIVELY. We need to leverage our assets!</li>
+	<li>introMemo(tag=meme_GodEmperor)->Je sais qu'il y a eu des rumeurs selon lesquelles le PDG de la compagnie serait un Dieu. Oui, un Dieu Empereur, en fait. Mais cela ne veut rien dire si chacun d'entre vous n'agit pas de manière PROACTIVE. Nous devons tirer parti de nos atouts !</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_GodEmperor)->All these wondrous animals will be a great trophy for our beloved God Emperor.</li>
+	<li>alienistProphecy(tag=meme_GodEmperor)->Tous ces animaux merveilleux seront un grand trophée pour notre Dieu Empereur bien-aimé.</li>
 </VME_GodEmperor.descriptionMaker.rules.rulesStrings>
 <VME_GodEmperor.generalRules.rulesStrings>
 	<li>memeAdjective->absolu</li>
