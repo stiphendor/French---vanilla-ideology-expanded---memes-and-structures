@@ -229,38 +229,38 @@
 <VME_Gestalt.description>Il ne devrait même pas y avoir d'individualisme. En agissant en parfaite synchronie, notre société sera plus que la somme de ses parties.</VME_Gestalt.description>
 <VME_Gestalt.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_Gestalt)        ->[deity0_name] made all men and women into a single consciousness, and only through our foolisness have we drifted apart.</li>
-	<li>episode(uses=1,tag=meme_Gestalt)  ->[deity0_name] said to all, "The only frontier that has ever existed is the self. [deity0_name] has spoken."</li>
+	<li>creation(tag=meme_Gestalt)        ->[deity0_name] a fait de tous les hommes et de toutes les femmes une seule et même conscience, et ce n'est que par notre bêtise que nous nous sommes éloignés.</li>
+	<li>episode(uses=1,tag=meme_Gestalt)  ->[deity0_name] a dit à tous, "La seule frontière qui ait jamais existé est le soi-même. [deity0_name] a parlé."</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_Gestalt)           ->The people of the [place_summary] [place_name] worked together in unison, and built a great [altarName] to honor [deity0_name]. They learned that all consciousness is one, separated only by a thin veil of the physical.</li>
-	<li>conflict(tag=meme_Gestalt)        ->The [foeLeader] could not abide the unity of [memberNamePlural], and sent [foeLeader_possessive] [foeSoldiers] to the [place_community] to destroy their gestalt conciousness.</li>
-	<li>founderJoin(tag=meme_Gestalt)     ->A [place_job] named [founderName] threw [founder_objective]self into a fire to protest the [foeLeader]. [founderName] perished in the flames, but it didn't matter, for he was but a cog in the eternal machinery that is [memberNamePlural].</li>
-	<li>victory(tag=meme_Gestalt)         ->[founderName]'s actions united the people. Acting as a single organism they stormed the home of the [foeLeader]. The [foeSoldiers] could do nothing against such a superior hive mind, and the [foeLeader] was mercilessly slaughtered.</li>
+	<li>intro(tag=meme_Gestalt)           ->Les personnes de la [place_summary] [place_name] ont travaillé ensemble à l'unisson, et ont construit un grand [altarName] pour honorer [deity0_name]. Ils ont appris que toute conscience est une, séparée seulement par le voile fin du physique.</li>
+	<li>conflict(tag=meme_Gestalt)        ->Le [foeLeader] n'a pas pu supporter l'unité des [memberNamePlural], et a envoyé ses [foeSoldiers] à la [place_community] pour détruire leur conscience gestalt.</li>
+	<li>founderJoin(tag=meme_Gestalt)     ->Un [place_job] nommé [founderName] s'est jeté dans le feu pour protester contre le [foeLeader]. [founderName] périt dans les flammes, mais cela n'avait pas d'importance, car [founderName_pronoun] n'était qu'un rouage de la machine éternelle que sont les [memberNamePlural].</li>
+	<li>victory(tag=meme_Gestalt)         ->Les actions de [founderName] ont uni le peuple. Agissant comme un seul organisme, ils ont pris d'assaut la maison du [foeLeader]. Les [foeSoldiers] n'ont rien pu faire contre un esprit de ruche aussi supérieur, et le [foeLeader] a été impitoyablement massacré.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_Gestalt)           ->In a world of every man for himself, [founderName] spoke a single truth: "For you aren't individuals, you are part of a larger organism."</li>
-	<li>story(uses=1,tag=meme_Gestalt)    ->[founderName] taught us to extend our awareness outward, beyond the self of body, to embrace the self of group and the self of humanity. The goals of the group and the greater race are transcendent, and to embrace them is to achieve enlightenment.</li>
+	<li>setup(tag=meme_Gestalt)           ->Dans un monde de chacun pour soi, [founderName] a dit une seule vérité : " Vous n'êtes pas des individus, vous faites partie d'un organisme plus vaste."</li>
+	<li>story(uses=1,tag=meme_Gestalt)    ->[founderName] nous a appris à étendre notre conscience vers l'extérieur, au-delà de notre corps, pour embrasser l'individu du groupe et l'individu de l'humanité. Les objectifs du groupe et de la grande race sont transcendants, et les embrasser, c'est atteindre l'illumination.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_Gestalt)     ->They were amazed at our uniformness of thought. I explained to them that there is nothing more important than</li>
-	<li>lesson(tag=meme_Gestalt)              ->a harmony of purpose and thought; no indecision, no doubts; the security and strength of a unified will</li>
-	<li>lessonReinforcement(tag=meme_Gestalt) ->We are Many, and you... are one. How can you hope to prevail against us?</li>
+	<li>lessonIntro(tag=meme_Gestalt)     ->Ils étaient stupéfaits de l'uniformité de notre pensée. Je leur ai expliqué qu'il n'y avait rien de plus important que</li>
+	<li>lesson(tag=meme_Gestalt)              ->une harmonie des objectifs et des pensées ; aucune indécision, aucun doute ; la sécurité et la force d'une volonté unifiée</li>
+	<li>lessonReinforcement(tag=meme_Gestalt) ->Nous sommes nombreux, et vous... êtes un. Comment pouvez-vous espérer l'emporter sur nous ?</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_Gestalt)    ->Every thought and action, every spark of intelligence in the Archotechs is bound and interlinked into a single mind, into a single great entity which stretches over light years of space.</li>
-	<li>archistFact(tag=meme_Gestalt)     ->A multiply-embodied consciousness. All of them but one node of a distributed network.</li>
-	<li>archistProphecy(tag=meme_Gestalt) ->[inTheEnd], we may never approach the perfection achieved by them, shackled as we are by our flesh bodies, but we will certainly try.</li>
+	<li>archistBasis(tag=meme_Gestalt)    ->Chaque pensée et action, chaque étincelle d'intelligence dans les Archotechs est liée et interconnectée en un seul esprit, en une seule grande entité qui s'étend sur des années-lumière de l'espace.</li>
+	<li>archistFact(tag=meme_Gestalt)     ->Une conscience multi-incarnée. Tous, mais un seul nœud d'un réseau distribué.</li>
+	<li>archistProphecy(tag=meme_Gestalt) ->[inTheEnd], nous n'atteindrons peut-être jamais la perfection qu'ils ont atteinte, enchaînés que nous sommes par nos corps de chair, mais nous essaierons certainement.</li>
 	<!-- animist -->
-	<li>animistFact(tag=meme_Gestalt)     ->Humanity itself is represented by a single, overencompasing spirit, and only by liberating ourselves of our individuality will we be able to embrace it.</li>
+	<li>animistFact(tag=meme_Gestalt)     ->L'humanité elle-même est représentée par un seul et même esprit qui englobe tout, et ce n'est qu'en nous libérant de notre individualité que nous pourrons l'embrasser.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_Gestalt)->[itIsSaid] we can study the insectoid hive minds and emulate their perfection. A true synchronicity, a harmony of purpose and thought; no indecision, no doubts; the security and strength of a unified will.</li>
+	<li>serketistProphecy(tag=meme_Gestalt)->[itIsSaid] nous pouvons étudier les esprits de ruche insectoïdes et imiter leur perfection. Une véritable synchronicité, une harmonie d'objectifs et de pensées ; aucune indécision, aucun doute ; la sécurité et la force d'une volonté unifiée.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_Gestalt)->Only by unifying our minds in a harmony of purpose and thought; no indecision, no doubts; will we stand a chance against the madness that haunts us from outer space.</li>
+	<li>chthonianProphecy(tag=meme_Gestalt)->Ce n'est qu'en unifiant nos esprits dans une harmonie d'objectifs et de pensées, sans indécision, sans doute, que nous aurons une chance contre la folie qui nous hante depuis l'espace.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_Gestalt)->We will unify our minds in a harmony of purpose and thought; no indecision, no doubts. The secret knowlegde will be ours.</li>
+	<li>esotericismProphecy(tag=meme_Gestalt)->Nous unifierons nos esprits dans une harmonie d'objectifs et de pensées ; pas d'indécision, pas de doutes. Le savoir secret sera le nôtre.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_Gestalt)->We will unify our minds in a harmony of purpose and thought; no indecision, no doubts. A single purpose, a single will: to destroy.</li>
+	<li>eschatologismFact(tag=meme_Gestalt)->Nous unifierons nos esprits dans une harmonie de buts et de pensées ; pas d'indécision, pas de doutes. Un seul but, une seule volonté : détruire.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_Gestalt)->There have been some unsavoury rumours about an "employee appreciation" award. Let me remind you that in this Company we all act as One. We strive for a harmony of purpose and thought; no indecision, no doubts; the security and strength of a unified will. This is what our clients want, this is what out clients DESERVE.</li>
+	<li>introMemo(tag=meme_Gestalt)->Il y a eu des rumeurs peu recommandables au sujet d'un prix "appréciation des employés". Permettez-moi de vous rappeler que dans cette entreprise, nous agissons tous comme un seul homme. Nous recherchons l'harmonie des objectifs et des pensées ; pas d'indécision, pas de doutes ; la sécurité et la force d'une volonté unifiée. C'est ce que nos clients veulent, c'est ce que nos clients MÉRITENT.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_Gestalt)->If we have to judge whether all these genetically modified creations are good or bad, we will need to do it together.</li>
+	<li>alienistProphecy(tag=meme_Gestalt)->Si nous devons juger si toutes ces créations génétiquement modifiées sont bonnes ou mauvaises, nous devrons le faire ensemble.</li>
 </VME_Gestalt.descriptionMaker.rules.rulesStrings>
 <VME_Gestalt.generalRules.rulesStrings>
 	<li>memeAdjective->unifié</li>
