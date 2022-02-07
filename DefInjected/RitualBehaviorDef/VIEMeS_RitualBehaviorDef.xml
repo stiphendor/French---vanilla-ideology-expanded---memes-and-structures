@@ -40,7 +40,7 @@
 <VME_OrgyRitualBehaviour.spectatorGerund>participe</VME_OrgyRitualBehaviour.spectatorGerund>
 <VME_OrgyRitualBehaviour.spectatorsLabel>Participants</VME_OrgyRitualBehaviour.spectatorsLabel>
 
-<VME_PlagueFestivalRitualBehaviour.roles.0.label>cutter</VME_PlagueFestivalRitualBehaviour.roles.0.label>
+<VME_PlagueFestivalRitualBehaviour.roles.0.label>sacrificateur</VME_PlagueFestivalRitualBehaviour.roles.0.label>
 <VME_PlagueFestivalRitualBehaviour.roles.1.label>sacrifice</VME_PlagueFestivalRitualBehaviour.roles.1.label>
 <VME_PlagueFestivalRitualBehaviour.roles.1.missingDesc>un animal dont la taille corporelle est d'au moins 0.8</VME_PlagueFestivalRitualBehaviour.roles.1.missingDesc>
 <VME_PlagueFestivalRitualBehaviour.spectatorGerund>participe</VME_PlagueFestivalRitualBehaviour.spectatorGerund>
