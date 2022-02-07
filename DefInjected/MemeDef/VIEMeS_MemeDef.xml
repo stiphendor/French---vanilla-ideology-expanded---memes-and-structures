@@ -419,38 +419,38 @@
 <VME_CraftCulture.description>Il faut aspirer à ressentir la douleur dans les doigts après une longue journée de bricolage. Un forgeron ou un tailleur talentueux doit être digne.</VME_CraftCulture.description>
 <VME_CraftCulture.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_CraftCulture)        ->[deity0_name] is the Great Artificer, [deity0_pronoun] created the Universe and crafted the first humans from the primordial clay.</li>
-	<li>episode(uses=1,tag=meme_CraftCulture)  ->[deity0_name] said to all the [memberNamePlural]: "There is no greater gift than Making, for you are following my footsteps."</li>
+	<li>creation(tag=meme_CraftCulture)        ->[deity0_name] est le Grand Artisan, [deity0_pronoun] a créé l'Univers et a façonné les premiers humains à partir de l'argile primordiale.</li>
+	<li>episode(uses=1,tag=meme_CraftCulture)  ->[deity0_name] a dit à tous les [memberNamePlural] : "Il n'y a pas de plus grand cadeau que de Fabriquer, car vous suivez mes traces."</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_CraftCulture)           ->[memberNamePlural] crafted a great [altarName] on the [place_summary] [place_name], a monument to [deity0_name]'s glory and a testament to the ability of our crafters.</li>
-	<li>conflict(tag=meme_CraftCulture)        ->A coward [foeLeader], seeking to deny the crafting of [deity0_name], tried to destroy the creations of the [memberNamePlural].</li>
-	<li>founderJoin(tag=meme_CraftCulture)     ->[deity0_name] blessed [founderName] with a wondrous crafting relic, the [relic0_name], which allowed [founderName_objective] to repair and mend the damage created by [foeLeader] before it could be undone.</li>
-	<li>victory(tag=meme_CraftCulture)         ->[founderName] looked at the exhausted [foeLeader] before him, with a smirk in [founderName_possessive] face: "Fool, you can't destroy the creations of [deity0_name]'s followers, for we are blessed by [deity0_possessive] prowess, and so are therefore our inventions".</li>
+	<li>intro(tag=meme_CraftCulture)           ->[memberNamePlural] ont créé un grand [altarName] sur la [place_summary] [place_name], un monument à la gloire de [deity0_name] et un témoignage de l'habileté de nos artisans.</li>
+	<li>conflict(tag=meme_CraftCulture)        ->Un [foeLeader] lâche, cherchant à nier l'artisanat de [deity0_name], a essayé de détruire les créations des [memberNamePlural].</li>
+	<li>founderJoin(tag=meme_CraftCulture)     ->[deity0_name] a béni [founderName] avec une relique d'artisanat merveilleuse, [relic0_name], qui lui a permis de réparer et de rétablir les dégâts créés par [foeLeader] avant qu'ils ne puissent être défaits.</li>
+	<li>victory(tag=meme_CraftCulture)         ->[founderName] regarda le [foeLeader] épuisé devant lui, avec un sourire en coin : "Imbécile, tu ne peux pas détruire les créations des disciples de [deity0_name], car nous sommes bénis par ses prouesses, et donc nos inventions le sont aussi".</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_CraftCulture)           ->Our founder [founderName] was a great crafter, there was no art or machine beyond the capabilities of [founder_possessive] hands.</li>
-	<li>story(uses=1,tag=meme_CraftCulture)    ->[founder_possessive] followers came to love and cherish [founder_possessive] techniques and [founder_possessive] exquisite creations.</li>
+	<li>setup(tag=meme_CraftCulture)           ->Notre fondateur [founderName] était un grand artisan, il n'y avait aucun art ou machine au-delà des capacités de ses mains.</li>
+	<li>story(uses=1,tag=meme_CraftCulture)    ->Ses disciples ont appris à aimer et à chérir ses techniques et ses créations exquises.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_CraftCulture)         ->In all my years crafting wondrous inventions, I learned one lesson that stands over all:</li>
-	<li>lesson(tag=meme_CraftCulture)              ->it is only by creating that we can impress our souls upon this uncaring Universe</li>
-	<li>lessonReinforcement(tag=meme_CraftCulture) ->No one will care about you when you are dead, but you will be kept alive as long as someone can look upon what you created and rejoice.</li>
+	<li>lessonIntro(tag=meme_CraftCulture)         ->Pendant toutes mes années de création d'inventions merveilleuses, j'ai appris une leçon qui prime sur toutes les autres :</li>
+	<li>lesson(tag=meme_CraftCulture)              ->c'est seulement en créant que nous pouvons imprimer nos âmes sur cet Univers insensible</li>
+	<li>lessonReinforcement(tag=meme_CraftCulture) ->Personne ne se souciera de vous lorsque vous serez mort, mais vous serez maintenu en vie tant que quelqu'un pourra regarder ce que vous avez créé et s'en réjouir.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_CraftCulture)    ->The archotechs are not a natural phenomena of the Universe. They were created, they were crafted. And it was by human hands.</li>
-	<li>archistFact(tag=meme_CraftCulture)     ->Archotechs are wise beyond all reason, and their wisdom must have been seeded from the very moment of their creation.</li>
-	<li>archistProphecy(tag=meme_CraftCulture) ->[inTheEnd], by crafting and perfecting such wondrous creations as the mighty [relic0_name], we will be as skilled as the forgotten makers who uncovered the secrets of archotechnology.</li>
+	<li>archistBasis(tag=meme_CraftCulture)    ->Les archotechs ne sont pas un phénomène naturel de l'univers. Ils ont été créés, ils ont été façonnés. Et c'était par des mains humaines.</li>
+	<li>archistFact(tag=meme_CraftCulture)     ->Les archotechs ont une sagesse qui dépasse toute raison, et leur sagesse doit avoir été semée dès le moment de leur création.</li>
+	<li>archistProphecy(tag=meme_CraftCulture) ->[inTheEnd], en fabriquant et en perfectionnant des créations aussi merveilleuses que le puissant [relic0_name], nous serons aussi compétents que les fabricants oubliés qui ont découvert les secrets de l'archéotechnologie.</li>
 	<!-- animist -->
-	<li>animistFact(tag=meme_CraftCulture)     ->The spirits need a vessel to manifest in the mundane world, and by creating wondrous inventions we will be able to provide them with a suitable recipient.</li>
+	<li>animistFact(tag=meme_CraftCulture)     ->Les esprits ont besoin d'un vaisseau pour se manifester dans le monde terrestre, et en créant des inventions merveilleuses, nous serons en mesure de leur fournir un réceptacle approprié.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_CraftCulture)->[itIsSaid] by emulating the industriousness of the insects we will craft and create thousands of might wondrous inventions.</li>
+	<li>serketistProphecy(tag=meme_CraftCulture)->[itIsSaid] en imitant l'assiduité des insectes, nous créerons des milliers d'inventions merveilleuses.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_CraftCulture)->Only an arcane invention of unearthly provenance may perhaps shield us from such insanity. We shall craft our way to salvation.</li>
+	<li>chthonianProphecy(tag=meme_CraftCulture)->Seule une invention mystérieuse d'origine surnaturelle peut peut-être nous protéger d'une telle folie. Nous devons créer notre propre chemin vers le salut.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_CraftCulture)->By studying the mechanisms of wondrous creations we may uncover some of these ancient secrets, and perhaps gaze into the unknown.</li>
+	<li>esotericismProphecy(tag=meme_CraftCulture)->En étudiant les mécanismes de ces créations merveilleuses, nous pourrons peut-être découvrir certains de ces anciens secrets, et peut-être regarder vers l'inconnu.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_CraftCulture)->Mark my words: the world will end, and we shall be the crafters of its demise.</li>
+	<li>eschatologismFact(tag=meme_CraftCulture)->Retenez bien ce que je dis : le monde va disparaître, et nous serons les artisans de sa disparition.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_CraftCulture)->Starting next Tuesday, we are introducing production quotas on each crafting station. Bear in mind that straying too far from these quotas might result in immediate admonishment from Upper Management. Guys, this is not a charity, we are here to PRODUCE.</li>
+	<li>introMemo(tag=meme_CraftCulture)->A partir de mardi prochain, nous introduisons des quotas de production sur chaque station d'artisanat. Gardez à l'esprit que si vous vous éloignez trop de ces quotas, vous risquez de recevoir des remontrances immédiates de la part de la direction. On n'est pas une œuvre de charité, nous sommes ici pour PRODUIRE.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_CraftCulture)->All these wayward creations of humanity provide us with infinite inspiration for our own creations.</li>
+	<li>alienistProphecy(tag=meme_CraftCulture)->Toutes ces créations dévoyées de l'humanité nous fournissent une inspiration infinie pour nos propres créations.</li>
 </VME_CraftCulture.descriptionMaker.rules.rulesStrings>
 <VME_CraftCulture.generalRules.rulesStrings>
 	<li>memeAdjective->artificing</li>
