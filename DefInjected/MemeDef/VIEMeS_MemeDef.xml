@@ -356,40 +356,40 @@
 <VME_HolyDiseases.description>Être touché par la peste est une aubaine à convoiter. Au fur et à mesure que les maladies se propagent, notre influence se répandra également.</VME_HolyDiseases.description>
 <VME_HolyDiseases.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_HolyDiseases)        ->[deity0_name] filled the Universe with all kinds of viruses and bacteria, diminutive organisms that are the bearers of [deity0_possessive] gifts.</li>
-	<li>episode(uses=1,tag=meme_HolyDiseases)  ->We accepted [deity0_name]'s bounty, offering our bodies as vessels for [deity0_possessive] myriad diseases, which pleased [deity0_objective].</li>
+	<li>creation(tag=meme_HolyDiseases)        ->[deity0_name] a rempli l'Univers de toutes sortes de virus et de bactéries, des organismes minuscules qui sont les porteurs de ses dons.</li>
+	<li>episode(uses=1,tag=meme_HolyDiseases)  ->Nous avons accepté la générosité de [deity0_name], offrant nos corps comme vaisseaux pour ses myriades de maladies, ce qui lui a fait plaisir.</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_HolyDiseases)           ->On the [place_summary] [place_name], the [memberNamePlural] found a sealed tomb with a huge holy symbol of [deity0_name].</li>
-	<li>conflict(tag=meme_HolyDiseases)        ->An archeologist directed the [memberNamePlural] to open the ancient tomb, and within it were found the microbiological archives of a long lost civilization: a panoply of contagious diseases as the world hadn't seen in millenia.</li>
-	<li>founderJoin(tag=meme_HolyDiseases)     ->A most revered priest named [founderName] infected himself with one of the diseases from the archive, showing the [memberNamePlural] that they were actually a gift from [deity0_name].</li>
-	<li>victory(tag=meme_HolyDiseases)         ->[founderName] received [deity0_name]'s blessing, and to this day we offer our bodies as vessels for [deity0_possessive] myriad diseases.</li>
+	<li>intro(tag=meme_HolyDiseases)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont trouvé une tombe scellée avec un énorme symbole sacré de [deity0_name].</li>
+	<li>conflict(tag=meme_HolyDiseases)        ->Un archéologue a demandé aux [memberNamePlural] d'ouvrir l'ancienne tombe, et à l'intérieur se trouvaient les archives microbiologiques d'une civilisation perdue depuis longtemps : une panoplie de maladies contagieuses comme le monde n'en avait pas vu depuis des millénaires.</li>
+	<li>founderJoin(tag=meme_HolyDiseases)     ->Un prêtre très vénéré du nom de [founderName] s'est infecté lui-même avec l'une des maladies de l'archive, montrant ainsi aux [memberNamePlural] qu'elles étaient en fait un cadeau de [deity0_name].</li>
+	<li>victory(tag=meme_HolyDiseases)         ->[founderName] a reçu la bénédiction de [deity0_name], et depuis ce jour, nous offrons nos corps comme vaisseaux pour ses myriades de maladies.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_HolyDiseases)           ->[founderName] was a bio-scientist in the early days of human planetary colonization. Seeing the soft, complacent behavior of the colonies, [founder_pronoun] took a small ship to found [founder_possessive] own movement.</li>
-	<li>story(uses=1,tag=meme_HolyDiseases)    ->[founderName] assembled a team of great geneticists to modify the human body, making it more resistant to diseases by gradually inflicting healthy bodies with them.</li>
+	<li>setup(tag=meme_HolyDiseases)           ->[founderName] était un bio-scientifique au début de la colonisation des planètes par les humains. Voyant le comportement mou et complaisant des colonies, [founder_pronoun] a pris un petit vaisseau pour fonder son propre mouvement.</li>
+	<li>story(uses=1,tag=meme_HolyDiseases)    ->[founderName] a réuni une équipe de grands généticiens pour modifier le corps humain, le rendant plus résistant aux maladies en les transmettant progressivement aux corps sains.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_HolyDiseases)         ->The oldest doctor in my hospital taught me the history of disease, how humanity had always feared sickness and death. He was really leading me to understand that</li>
-	<li>lesson(tag=meme_HolyDiseases)              ->microorganisms are also part of nature, and by not embracing disease we are only making ourselves weaker to it</li>
-	<li>lessonReinforcement(tag=meme_HolyDiseases) ->Only by accepting disease as an integral part of life may we truly realize our potential.</li>
+	<li>lessonIntro(tag=meme_HolyDiseases)         ->Le plus vieux médecin de mon hôpital m'a enseigné l'histoire de la maladie, comment l'humanité avait toujours craint la maladie et la mort. Il m'a vraiment amené à comprendre que</li>
+	<li>lesson(tag=meme_HolyDiseases)              ->les micro-organismes font également partie de la nature et, en refusant d'accepter la maladie, nous ne faisons que nous rendre plus faibles face à elle</li>
+	<li>lessonReinforcement(tag=meme_HolyDiseases) ->Ce n'est qu'en acceptant la maladie comme faisant partie intégrante de la vie que nous pouvons vraiment réaliser notre potentiel.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_HolyDiseases)    ->As we are like insignificant microbes to the archotechs, we need to ask ourselves: do we want to be handled as microbes usually are?</li>
-	<li>archistFact(tag=meme_HolyDiseases)     ->If the archotechs treated us as we treat the creatures that seem insignificant to us, they'd have wiped us from existance a long time ago.</li>
-	<li>archistProphecy(tag=meme_HolyDiseases) ->Therefore, it stands to reason to treat diseases as we'd like to be treated by entities who are so far above us in the evolutionary scale as we are to microorganisms.</li>
+	<li>archistBasis(tag=meme_HolyDiseases)    ->Comme nous sommes comme des microbes insignifiants pour les archotechs, nous devons nous demander : voulons-nous être traités comme le sont habituellement les microbes ?</li>
+	<li>archistFact(tag=meme_HolyDiseases)     ->Si les archotechs nous traitaient comme nous traitons les créatures qui nous semblent insignifiantes, ils nous auraient fait disparaître il y a longtemps.</li>
+	<li>archistProphecy(tag=meme_HolyDiseases) ->Il est donc logique de traiter les maladies comme nous aimerions être traités par des entités qui sont tellement supérieures à nous dans l'échelle de l'évolution que nous le sommes aux micro-organismes.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_HolyDiseases)    ->In the world of spirits, everything has a corresponding entity that guards it and protects it.</li>
-	<li>animistFact(tag=meme_HolyDiseases)     ->It stands to reason that even the most insignificant and smallest of beings have a corresponding spirit, too.</li>
-	<li>animistProphecy(tag=meme_HolyDiseases) ->By offering our mortal bodies as vessels for the spirits of disease, we will ensure to always be on their good graces.</li>
+	<li>animistBasis(tag=meme_HolyDiseases)    ->Dans le monde des esprits, chaque chose a une entité correspondante qui la garde et la protège.</li>
+	<li>animistFact(tag=meme_HolyDiseases)     ->Il va de soi que même le plus insignifiant et le plus petit des êtres a aussi un esprit correspondant.</li>
+	<li>animistProphecy(tag=meme_HolyDiseases) ->En offrant nos corps mortels comme vaisseaux pour les esprits de la maladie, nous nous assurerons d'être toujours dans leurs bonnes grâces.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_HolyDiseases)->[itIsSaid] the greatest plagues will descend upon us brought by fearsome insects, and we will embrace them with glee, for their touch will be holy and reign supreme.</li>
+	<li>serketistProphecy(tag=meme_HolyDiseases)->[itIsSaid] les plus grands fléaux s'abattront sur nous, apportés par des insectes redoutables, et nous les embrasserons avec joie, car leur contact sera sacré et régnera en maître.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_HolyDiseases)->Only by subjecting our mortal bodies to the most dangerous of diseases will we strengthen our minds to resist the onslaught of these absolutely insane extra-normal entities.</li>
+	<li>chthonianProphecy(tag=meme_HolyDiseases)->Ce n'est qu'en soumettant nos corps mortels aux maladies les plus dangereuses que nous renforcerons nos esprits pour résister aux assauts de ces entités extra-normales absolument insensées.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_HolyDiseases)->We believe that through the suffering brought on by flesh corrupting diseases we will focus our minds into deciphering the greatest of secrets.</li>
+	<li>esotericismProphecy(tag=meme_HolyDiseases)->Nous croyons qu'à travers la souffrance engendrée par les maladies corruptrices de la chair, nous concentrerons nos esprits pour déchiffrer le plus grand des secrets.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_HolyDiseases)->There will be four signs of the impending Apocalypse: Disease, Famine, War and Death, and we shall embrace the first horseman with glee.</li>
+	<li>eschatologismFact(tag=meme_HolyDiseases)->Il y aura quatre signes de l'apocalypse imminente : la maladie, la famine, la guerre et la mort, et nous embrasserons le premier cavalier avec joie.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_HolyDiseases)->Regarding the issue of paid sick leave, the company is OK with it, as long as you work from home, and work harder. A few degrees of fever never killed anyone! And if they did, it was in service to the company, so everything worked out in hindsight! Think proactively!</li>
+	<li>introMemo(tag=meme_HolyDiseases)->En ce qui concerne la question des congés de maladie payés, la société est d'accord, à condition que vous travailliez à domicile et que vous fassiez plus d'efforts. Quelques degrés de fièvre n'ont jamais tué personne ! Et s'ils l'ont fait, c'était au service de l'entreprise, donc tout s'est arrangé avec le recul ! Pensez de manière proactive !</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_HolyDiseases)->All these wayward creations of humanity provide us with an infinite reservoir of holy diseases, a cornucopia of plagues.</li>
+	<li>alienistProphecy(tag=meme_HolyDiseases)->Toutes ces créations dévoyées de l'humanité nous fournissent un réservoir infini de maladies sacrées, une corne d'abondance de fléaux.</li>
 </VME_HolyDiseases.descriptionMaker.rules.rulesStrings>
 <VME_HolyDiseases.generalRules.rulesStrings>
 	<li>memeAdjective->malade</li>
