@@ -595,38 +595,38 @@
 <VME_Republic.description>Le pouvoir doit être équilibré entre quelques privilégiés, de peur qu'une colonie ou un empire ne tombe dans une inévitable corruption.</VME_Republic.description>
 <VME_Republic.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_Republic)        ->[deity0_name] saw that some of the [memberNamePlural] were more fit to rule than others, and spoke to them: "Your governance shall be split between three leaders, and they will lead you to unimaginable glory".</li>
-	<li>episode(uses=1,tag=meme_Republic)  ->[deity0_name] said to all the [memberNamePlural]: "Understand that the dignity of the republic is of first importance and preferable to life".</li>
+	<li>creation(tag=meme_Republic)        ->[deity0_name] vit que certains des [memberNamePlural] étaient plus aptes à gouverner que d'autres, et leur parla : "Votre gouvernance sera partagée entre trois chefs, et ils vous mèneront vers une gloire inimaginable".</li>
+	<li>episode(uses=1,tag=meme_Republic)  ->[deity0_name] a dit à tous les [memberNamePlural] : "Comprenez que la dignité de la république est de première importance et préférable à la vie".</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_Republic)           ->[memberNamePlural] built a huge senate house on the [place_summary] [place_name], a testament to [deity0_name]'s glory.</li>
-	<li>conflict(tag=meme_Republic)        ->A powerful [foeLeader] took advantage of the frailness of the old Empire of the [memberNamePlural], and [foeLeader_pronoun] used its ingrained corruption to dismantle it from inside.</li>
-	<li>founderJoin(tag=meme_Republic)     ->[deity0_name] instructed [founderName] to look for two other triumvirs, and thus created the First Republic of the [memberNamePlural].</li>
-	<li>victory(tag=meme_Republic)         ->Thus united, [foeLeader] was defeated, and the [memberNamePlural] have enjoyed the prosperity of the republican system ever since.</li>
+	<li>intro(tag=meme_Republic)           ->[memberNamePlural] ont construit une énorme maison de sénateur sur la [place_summary] [place_name], un témoignage de la gloire de [deity0_name].</li>
+	<li>conflict(tag=meme_Republic)        ->Un puissant [foeLeader] a profité de la fragilité de l'ancien Empire des [memberNamePlural], et [foeLeader_pronoun] a utilisé sa corruption bien ancrée pour le démanteler de l'intérieur.</li>
+	<li>founderJoin(tag=meme_Republic)     ->[deity0_name] chargea [founderName] de chercher deux autres triumvirs, et ainsi fut créée la Première République des [memberNamePlural].</li>
+	<li>victory(tag=meme_Republic)         ->Ainsi uni, [foeLeader] fut vaincu, et les [memberNamePlural] jouissent depuis lors de la prospérité du système républicain.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_Republic)           ->Our founder [founderName] was a great politician, who saw the corruption in the govermenets of [founder_possessive] native world and found them incredibly inadequate. There he founded the First Republic of the [memberNamePlural], an institution that has held triumphant for hundreds of years.</li>
-	<li>story(uses=1,tag=meme_Republic)    ->[founderName]'s followers studied [founder_possessive] writings and created a social structure that has always brought stability to us all.</li>
+	<li>setup(tag=meme_Republic)           ->Notre fondateur [founderName] était un grand politicien, qui a vu la corruption dans les gouvernements de son monde natal et les a trouvés incroyablement inadéquats. C'est là qu'[founder_pronoun} a fondé la Première République des [memberNamePlural], une institution qui a triomphé pendant des centaines d'années.</li>
+	<li>story(uses=1,tag=meme_Republic)    ->Les disciples de [founderName] ont étudié ses écrits et ont créé une structure sociale qui a toujours apporté la stabilité à nous tous.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_Republic)         ->In all our years ruling over the masses, we three have learned one lesson that stands over all:</li>
-	<li>lesson(tag=meme_Republic)              ->a single leader cannot be expected to be incorruptible, for we are mere men, with out temptations and faults</li>
-	<li>lessonReinforcement(tag=meme_Republic) ->As triumvirs, it is our solemn duty to take care and look for one another, not letting any of us fall into temptation and corruption.</li>
+	<li>lessonIntro(tag=meme_Republic)         ->Pendant toutes nos années de domination du peuple, nous avons tous les trois appris une leçon qui prévaut sur toutes les autres :</li>
+	<li>lesson(tag=meme_Republic)              ->on ne peut pas attendre d'un seul dirigeant qu'il soit incorruptible, car nous ne sommes que des hommes, avec nos tentations et nos fautes</li>
+	<li>lessonReinforcement(tag=meme_Republic) ->En tant que triumvirs, il est de notre devoir solennel de prendre soin et de veiller les uns sur les autres, en ne laissant aucun d'entre nous tomber dans la tentation et la corruption.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_Republic)    ->It is believed that three supreme archotechs bring a world into transcendence.</li>
-	<li>archistFact(tag=meme_Republic)     ->By the incomprehensible will of these three, all human followers are allowed to transcend. We must emulate this in our societies, for the numbre three seems to be of special significance.</li>
-	<li>archistProphecy(tag=meme_Republic) ->[inTheEnd], our three triumvirs will become archotechs themselves, and the endless cycle of ascension will continue.</li>
+	<li>archistBasis(tag=meme_Republic)    ->On croit que trois archotechs suprêmes amènent un monde à la transcendance.</li>
+	<li>archistFact(tag=meme_Republic)     ->Par la volonté incompréhensible de ces trois-là, tous les adeptes humains sont autorisés à se transcender. Nous devons imiter cela dans nos sociétés, car le chiffre trois semble avoir une signification particulière.</li>
+	<li>archistProphecy(tag=meme_Republic) ->[inTheEnd], nos trois triumvirs deviendront eux-mêmes des archotechs, et le cycle sans fin de l'ascension continuera.</li>
 	<!-- animist -->
-	<li>animistFact(tag=meme_Republic)     ->The number three is sacred to the spìrits. We model our society after the republican triumvirate to appease and honour them.</li>
+	<li>animistFact(tag=meme_Republic)     ->Le chiffre trois est sacré pour les esprits. Nous modelons notre société sur le triumvirat républicain pour les apaiser et les honorer.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_Republic)->Three great leaders will govern our society: The Beetle, the Spider and the Ant. This triumvirate will gide us in the greatest times of need.</li>
+	<li>serketistProphecy(tag=meme_Republic)->Trois grands leaders vont gouverner notre société : Le Scarabée, l'Araignée et la Fourmi. Ce triumvirat nous guidera dans les moments les plus difficiles.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_Republic)->Obscure stories tell of the Triumvirate of the Abyssal Depths, a particularly vicious group of eldritch entities bent on subjugating our mortal minds. We shall create our own triumvirate to protect us from them.</li>
+	<li>chthonianProphecy(tag=meme_Republic)->Des récits obscurs parlent du Triumvirat des Profondeurs Abyssales, un groupe particulièrement vicieux d'entités eldritch qui cherchent à subjuguer nos esprits mortels. Nous allons créer notre propre triumvirat pour nous protéger d'eux.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_Republic)->It is said that the ancient Greeks of Earth considered the number three as the perfect number, the number of harmony, wisdom and understanding. The number of the divine.</li>
+	<li>esotericismProphecy(tag=meme_Republic)->On dit que les anciens Grecs de la Terre considéraient le nombre trois comme le nombre parfait, le nombre de l'harmonie, de la sagesse et de la compréhension. Le nombre du divin.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_Republic)->Lead by three heralds of the end of times, we will usher in a new era of darkness.</li>
+	<li>eschatologismFact(tag=meme_Republic)->Menés par trois hérauts de la fin des temps, nous allons inaugurer une nouvelle ère de ténèbres.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_Republic)->We are aware that some new employees are confused with our somewhat unorthodox three-winged corporate structure... It's simple, really, we consider our company to be a post-modern form of government, based on efficiency and economical robustness.</li>
+	<li>introMemo(tag=meme_Republic)->Nous sommes conscients que certains nouveaux employés sont déroutés par notre structure d'entreprise peu orthodoxe à trois ailes... C'est simple, vraiment, nous considérons notre entreprise comme une forme post-moderne de gouvernement, basée sur l'efficacité et la robustesse économique.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_Republic)->Our three triumvir will decide the fate of all these wayward human creations, for we trust their wisdom in such matters.</li>
+	<li>alienistProphecy(tag=meme_Republic)->Nos trois triumvirs décideront du sort de toutes ces créations humaines dévoyées, car nous faisons confiance à leur sagesse en la matière.</li>
 </VME_Republic.descriptionMaker.rules.rulesStrings>
 <VME_Republic.generalRules.rulesStrings>
 	<li>memeAdjective->républicain</li>
