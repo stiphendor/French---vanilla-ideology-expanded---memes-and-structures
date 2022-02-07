@@ -485,38 +485,38 @@
 <VME_Progressive.description>Machines, usines, drones, un objectif pour toute communauté qui réussit devrait être d'optimiser ces appareils et d'éviter l'idée que des êtres sensibles exécutent des tâches qui leur sont normalement destinées.</VME_Progressive.description>
 <VME_Progressive.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_Progressive)        ->[deity0_name] saw the [memberNamePlural] struggling with their machines, and laughed good-naturedly at them: "Haven't I given you the tools to make the machines do the work for you? It's senseless to struggle".</li>
-	<li>episode(uses=1,tag=meme_Progressive)  ->[deity0_name] said to all the [memberNamePlural]: "Manual labour is not sacred to me. Indeed you are honouring me by freeing your time by automating your tasks".</li>
+	<li>creation(tag=meme_Progressive)        ->[deity0_name] vit les [memberNamePlural] se débattre avec leurs machines, et se moqua d'eux avec bonhomie : "Ne vous ai-je pas donné les outils pour que les machines fassent le travail à votre place ? C'est insensé de se battre".</li>
+	<li>episode(uses=1,tag=meme_Progressive)  ->[deity0_name] dit à tous les [memberNamePlural] : "Le travail manuel n'est pas sacré pour moi. En fait, vous m'honorez en libérant votre temps par l'automatisation de vos tâches".</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_Progressive)           ->[memberNamePlural] used automated factories to craft a great [altarName] on the [place_summary] [place_name], a monument to [deity0_name]'s glory.</li>
-	<li>conflict(tag=meme_Progressive)        ->A rampaging mechanoid hive, seeking to destroy the automated machines of [deity0_name], tried to destroy the creations of the [memberNamePlural].</li>
-	<li>founderJoin(tag=meme_Progressive)     ->[deity0_name] instructed [founderName] to repurpose the factories to create a holy relic, the [relic0_name], which allowed [founderName_objective] to repel the mechanoids' attack before it was too late.</li>
-	<li>victory(tag=meme_Progressive)         ->[founderName] crushed the ancient machines before him, and scavenged their army for parts to build the next improved factories.</li>
+	<li>intro(tag=meme_Progressive)           ->[memberNamePlural] ont utilisé des usines automatisées pour fabriquer un grand [altarName] sur la [place_summary] [place_name], un monument à la gloire de [deity0_name].</li>
+	<li>conflict(tag=meme_Progressive)        ->Une ruche mécanoïde déchaînée, cherchant à détruire les machines automatisées de [deity0_name], a essayé de détruire les créations des [memberNamePlural].</li>
+	<li>founderJoin(tag=meme_Progressive)     ->[deity0_name] a demandé à [founderName] de réutiliser les usines pour créer une relique sacrée, [relic0_name], ce qui lui a permis de repousser l'attaque des mécanoïdes avant qu'il ne soit trop tard.</li>
+	<li>victory(tag=meme_Progressive)         ->[founderName] a écrasé les anciennes machines devant lui, et a récupéré les pièces de leur armée pour construire les prochaines usines améliorées.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_Progressive)           ->Our founder [founderName] was a great engineer, a renowned expert in the art of factory line automation. There was no process that couldn't be automated by [founder_possessive] hands.</li>
-	<li>story(uses=1,tag=meme_Progressive)    ->[founder_possessive] followers studied [founder_possessive] automation techniques for decades, scrutinizing [founder_possessive] insights and applying them to their own factories.</li>
+	<li>setup(tag=meme_Progressive)           ->Notre fondateur [founderName] était un grand ingénieur, un expert renommé dans l'art de l'automatisation des lignes d'usines. Il n'y avait aucun processus qui ne pouvait pas être automatisé par ses mains.</li>
+	<li>story(uses=1,tag=meme_Progressive)    ->Ses disciples ont étudié ses techniques d'automatisation pendant des décennies, examinant ses idées et les appliquant à leurs propres usines.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_Progressive)         ->In all my years optimizing the throughput of factory lines, I learned one lesson that stands over all:</li>
-	<li>lesson(tag=meme_Progressive)              ->the first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency</li>
-	<li>lessonReinforcement(tag=meme_Progressive) ->Automation is such an incredible idea that if we could continue to improve this capability, the applications are really quite boundless.</li>
+	<li>lessonIntro(tag=meme_Progressive)         ->Au cours de toutes mes années passées à optimiser le débit des chaînes de production, j'ai appris une leçon qui prime sur toutes les autres :</li>
+	<li>lesson(tag=meme_Progressive)              ->la première règle de toute technologie utilisée dans une entreprise est que l'automatisation appliquée à une opération efficace amplifiera cette efficacité</li>
+	<li>lessonReinforcement(tag=meme_Progressive) ->L'automatisation est une idée tellement incroyable que si nous pouvions continuer à améliorer cette capacité, les applications seraient vraiment illimitées.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_Progressive)    ->The archotechs are flawless. They have perfected ways to manipulate the Universe that are far beyond our understanding.</li>
-	<li>archistFact(tag=meme_Progressive)     ->Do you really think an archotech would create anything by hand?</li>
-	<li>archistProphecy(tag=meme_Progressive) ->[inTheEnd], the only way to approach their capabilities would be to achieve a level of automation that allows us to focus on ascension.</li>
+	<li>archistBasis(tag=meme_Progressive)    ->Les archotechs sont sans défaut. Ils ont mis au point des moyens de manipuler l'Univers qui sont bien au-delà de notre compréhension.</li>
+	<li>archistFact(tag=meme_Progressive)     ->Vous pensez vraiment qu'un archotech créerait quelque chose à la main ?</li>
+	<li>archistProphecy(tag=meme_Progressive) ->[inTheEnd], la seule façon d'approcher leurs capacités serait d'atteindre un niveau d'automatisation qui nous permette de nous concentrer sur l'ascension.</li>
 	<!-- animist -->
-	<li>animistFact(tag=meme_Progressive)     ->The spirits are pure mind. Supreme intelligences that are far beyond the mundane and the physical. As such, they frown upon manual labour. Why create things by hand, when a soulless machine can do it for you?</li>
+	<li>animistFact(tag=meme_Progressive)     ->Les esprits sont des esprits purs. Des intelligences suprêmes qui sont bien au-delà du terrestre et du physique. En tant que tels, ils désapprouvent le travail manuel. Pourquoi créer des choses à la main, quand une machine sans âme peut le faire pour vous ?</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_Progressive)->[itIsSaid] a factory's production line is like a great insect, its multiple parts moving in a single coordinated melody, not unlike the teamwork present in an ant hive.</li>
+	<li>serketistProphecy(tag=meme_Progressive)->[itIsSaid] la chaîne de production d'une usine est comme un grand insecte, ses multiples parties se déplaçant dans une seule mélodie coordonnée, qui n'est pas sans rappeler le travail d'équipe présent dans une ruche de fourmis.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_Progressive)->We can't waste our precious lives toiling away in mindless manual labour. We shall design wondrous automated machines that will remove our need to work, and allow us to focus on the realities of the transmundane.</li>
+	<li>chthonianProphecy(tag=meme_Progressive)->Nous ne pouvons pas gaspiller nos précieuses vies à travailler manuellement sans réfléchir. Nous concevrons de merveilleuses machines automatisées qui supprimeront notre besoin de travailler et nous permettront de nous concentrer sur les réalités du monde ordinaire.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_Progressive)->By studying the mechanisms and processes of our automated factories we may uncover some of these ancient secrets, and perhaps gaze into the unknown.</li>
+	<li>esotericismProphecy(tag=meme_Progressive)->En étudiant les mécanismes et les processus de nos usines automatisées, nous pourrons peut-être découvrir certains de ces anciens secrets, et peut-être regarder vers l'inconnu.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_Progressive)->We won't stop at a single world. Our automated orbital factories will fill the Cosmos with a myriad destructive machines. We shall bring the end of everything.</li>
+	<li>eschatologismFact(tag=meme_Progressive)->Nous ne nous arrêterons pas à un seul monde. Nos usines orbitales automatisées rempliront le Cosmos d'une myriade de machines destructrices. Nous apporterons la fin de tout.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_Progressive)->We have received complaints from Steve in tech support concerning the reluctance of some of you to adopt the new process automation policies. Some people were overhead saying "I spent 30 hours automating a process that I could do in half an hour by hand!". This is SO SHORTSIGHTED!</li>
+	<li>introMemo(tag=meme_Progressive)->Nous avons reçu des plaintes de Steve, du support technique, concernant la réticence de certains d'entre vous à adopter les nouvelles politiques d'automatisation des processus. Certaines personnes ont déclaré : "J'ai passé 30 heures à automatiser un processus que je pouvais faire à la main en une demi-heure". C'est une VISION À COURT TERME !</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_Progressive)->All these wayward creations of humanity shows us what humanity can achieve through automated technology, wondrous genetic laboratories sampling the genome at breakneck speeds.</li>
+	<li>alienistProphecy(tag=meme_Progressive)->Toutes ces créations dévoyées de l'humanité nous montrent ce que l'humanité peut réaliser grâce à la technologie automatisée, aux merveilleux laboratoires génétiques qui échantillonnent le génome à une vitesse vertigineuse.</li>
 </VME_Progressive.descriptionMaker.rules.rulesStrings>
 <VME_Progressive.generalRules.rulesStrings>
 	<li>memeAdjective->automatique</li>
