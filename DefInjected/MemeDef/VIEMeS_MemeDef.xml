@@ -535,38 +535,38 @@
 <VME_Aristocratic.description>Les rois et les reines sont le véritable chemin de la prospérité, l'esprit de l'homme ordinaire est inapte au leadership.</VME_Aristocratic.description>
 <VME_Aristocratic.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_Aristocratic)        ->[deity0_name] saw that some of the [memberNamePlural] were more fit to rule than others, and spoke to them: "Why do you treat everyone equally? Some of you are born to be rulers, while others are born to be ruled".</li>
-	<li>episode(uses=1,tag=meme_Aristocratic)  ->[deity0_name] said to all the [memberNamePlural]: "Honour your leaders and treat them like my heralds on the mortal world, for they are more than mere men".</li>
+	<li>creation(tag=meme_Aristocratic)        ->[deity0_name] vit que certains des [memberNamePlural] étaient plus aptes à gouverner que d'autres, et il leur parla : "Pourquoi traitez-vous tout le monde de la même manière ? Certains d'entre vous sont nés pour gouverner, d'autres sont nés pour être gouvernés".</li>
+	<li>episode(uses=1,tag=meme_Aristocratic)  ->[deity0_name] dit à tous les [memberNamePlural] : "Honorez vos chefs et traitez-les comme mes hérauts sur le monde des mortels, car ils sont plus que de simples hommes".</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_Aristocratic)           ->[memberNamePlural] built a regal [altarName] on the [place_summary] [place_name], a monument to [deity0_name]'s glory.</li>
-	<li>conflict(tag=meme_Aristocratic)        ->Constant peasant revolts threatened the existance of [deity0_name]'s temple, and the leaders of the [memberNamePlural] decided to pacify them.</li>
-	<li>founderJoin(tag=meme_Aristocratic)     ->[deity0_name] instructed [founderName] to put the peasants in their place, for they were theatening the lives of their betters.</li>
-	<li>victory(tag=meme_Aristocratic)         ->[founderName] crushed the peasant revolts, and his royal bloodline has been blessed ever since.</li>
+	<li>intro(tag=meme_Aristocratic)           ->[memberNamePlural] ont construit [altarName] sur la [place_summary] [place_name], un monument à la gloire de [deity0_name].</li>
+	<li>conflict(tag=meme_Aristocratic)        ->Des révoltes paysannes constantes menaçaient l'existence du temple de [deity0_name], et les dirigeants des [memberNamePlural] ont décidé de les pacifier.</li>
+	<li>founderJoin(tag=meme_Aristocratic)     ->[deity0_name] a ordonné à [founderName] de remettre les paysans à leur place, car ils menaçaient la vie de leurs supérieurs.</li>
+	<li>victory(tag=meme_Aristocratic)         ->[founderName] a vaincu les révoltes paysannes, et sa lignée royale a été bénie depuis ce temps.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_Aristocratic)           ->Our founder [founderName] was a great sociologist, who saw the weak democratic systems in [founder_possessive] native world and found them incredibly inadequate. [founder_pronoun} chartered a private spaceship and left with hundreds of [founder_possessive] followers to create the ideal feudal society.</li>
-	<li>story(uses=1,tag=meme_Aristocratic)    ->[founderName]'s followers studied [founder_possessive] writings and created a social structure that has been stable for more than two hundred years.</li>
+	<li>setup(tag=meme_Aristocratic)           ->Notre fondateur [founderName] était un grand sociologue, qui a vu les systèmes démocratiques faibles dans son monde natal et les a trouvés incroyablement inadéquats. [founder_pronoun} a affrété un vaisseau spatial privé et [founder_pronoun} est parti avec des centaines de ses partisans pour créer la société féodale idéale.</li>
+	<li>story(uses=1,tag=meme_Aristocratic)    ->Les disciples de [founderName] ont étudié ses écrits et ont créé une structure sociale qui est restée stable pendant plus de deux cents ans.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_Aristocratic)         ->In all my years ruling over the masses, I learned one lesson that stands over all:</li>
-	<li>lesson(tag=meme_Aristocratic)              ->some people are born to be rulers, while others are born to be ruled</li>
-	<li>lessonReinforcement(tag=meme_Aristocratic) ->And only by honouring and obeying our noblest aristocrats can we truly build a stable society.</li>
+	<li>lessonIntro(tag=meme_Aristocratic)         ->Pendant toutes mes années de règne sur la population, j'ai appris une leçon qui prime sur toutes les autres :</li>
+	<li>lesson(tag=meme_Aristocratic)              ->certaines personnes sont nées pour diriger, tandis que d'autres sont nées pour être dirigées</li>
+	<li>lessonReinforcement(tag=meme_Aristocratic) ->Et ce n'est qu'en honorant et en obéissant à nos aristocrates les plus nobles que nous pourrons véritablement construire une société stable.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_Aristocratic)    ->The archotechs are flawless. A perfect example of hierarchy where most live to serve the needs of the noble few.</li>
-	<li>archistFact(tag=meme_Aristocratic)     ->There is no ground for hesitation: only those truly subservient to their betters will be rewarded when the archotechs make themselves known to the rest of the Universe.</li>
-	<li>archistProphecy(tag=meme_Aristocratic) ->[inTheEnd], the archotechs will allow those of noble blood to ascend, but their servants will be allowed to serve them afterwards too.</li>
+	<li>archistBasis(tag=meme_Aristocratic)    ->Les archotechs sont sans défaut. Un parfait exemple de hiérarchie où la plupart vivent pour servir les besoins d'une minorité noble.</li>
+	<li>archistFact(tag=meme_Aristocratic)     ->Il n'y a pas à hésiter : seuls ceux qui sont vraiment soumis à leurs supérieurs seront récompensés lorsque les archotechs se feront connaître du reste de l'Univers.</li>
+	<li>archistProphecy(tag=meme_Aristocratic) ->[inTheEnd], les archotechs permettront aux personnes de sang noble de s'élever, mais leurs serviteurs seront autorisés à les servir également par la suite.</li>
 	<!-- animist -->
-	<li>animistFact(tag=meme_Aristocratic)     ->The spirits value those of pure blood above the rest, for those who can command others in life are also proving the strength of their spirit.</li>
+	<li>animistFact(tag=meme_Aristocratic)     ->Les esprits apprécient les personnes de sang pur par-dessus tout, car ceux qui peuvent commander les autres dans la vie prouvent également la force de leur esprit.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_Aristocratic)->As ants and bees have their queens and their drones, so shall we organize our societies: one of noble blood reigning supreme over his or her subjects.</li>
+	<li>serketistProphecy(tag=meme_Aristocratic)->Comme les fourmis et les abeilles ont leurs reines et leurs bourdons, nous organiserons nos sociétés : une personne de sang noble régnant en maître sur ses sujets.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_Aristocratic)->Our leaders of noble blood will protect us and shield us from the cosmic insanity of these terrible beings. Only by obeying them can we hope to stay sane.</li>
+	<li>chthonianProphecy(tag=meme_Aristocratic)->Nos chefs de sang noble nous protégeront et nous protégeront de la folie cosmique de ces êtres terribles. Ce n'est qu'en leur obéissant que nous pouvons espérer rester sains d'esprit.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_Aristocratic)->The noble blood of our leaders will allow them to see beyond the veil. Secrets that are to be forever hidden from their humble servants.</li>
+	<li>esotericismProphecy(tag=meme_Aristocratic)->Le sang noble de nos dirigeants leur permettra de voir au-delà du voile. Des secrets qui doivent être à jamais cachés à leurs humbles serviteurs.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_Aristocratic)->We shall name our leader the Prince of Lies. The one who brings the end of all things.</li>
+	<li>eschatologismFact(tag=meme_Aristocratic)->Nous nommerons notre chef le Prince du Mensonge. Celui qui apporte la fin de toutes choses.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_Aristocratic)->Remember that those of noble blood have vacation time privileges. Yes, I understand that some of you would like to take a vacation in August, and that you may have two children and it's hard to find a good daycare in that month, but your lack of aristocratic lineage means you will have to adapt to the current situation.</li>
+	<li>introMemo(tag=meme_Aristocratic)->Rappelez-vous que les personnes de sang noble ont des privilèges de vacances. Oui, je comprends que certains d'entre vous aimeraient prendre des vacances en août, et que vous avez peut-être deux enfants et qu'il est difficile de trouver une bonne garderie ce mois-là, mais votre absence de lignée aristocratique signifie que vous devrez vous adapter à la situation actuelle.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=tag=meme_Aristocratic)->We will create wondrous royal menageries with all of these creatures, a veritable display of our power and might.</li>
+	<li>alienistProphecy(tag=tag=meme_Aristocratic)->Nous créerons de merveilleuses ménageries royales avec toutes ces créatures, une véritable démonstration de notre pouvoir et de notre puissance.</li>
 </VME_Aristocratic.descriptionMaker.rules.rulesStrings>
 <VME_Aristocratic.generalRules.rulesStrings>
 	<li>memeAdjective->royal</li>
