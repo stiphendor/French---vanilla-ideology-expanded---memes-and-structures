@@ -650,38 +650,38 @@
 <VME_ExaltedPriesthood.description>Notre leader doit aussi être notre prophète, et il est important que nous écoutions ses conseils.</VME_ExaltedPriesthood.description>
 <VME_ExaltedPriesthood.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_ExaltedPriesthood)        ->[deity0_name] munified our faith by appointing our dear founder, [founderName], as the head of [deity0_possessive] church.</li>
-	<li>episode(uses=1,tag=meme_ExaltedPriesthood)  ->[deity0_name] said to all the [memberNamePlural], "[founderName] shall be my steward, so that [founderName_pronoun] may be able both to preach with sound doctrine and to refute those who contradict it."</li>
+	<li>creation(tag=meme_ExaltedPriesthood)        ->[deity0_name] a enrichi notre foi en nommant notre cher fondateur, [founderName], à la tête de son église.</li>
+	<li>episode(uses=1,tag=meme_ExaltedPriesthood)  ->[deity0_name] dit à tous les [memberNamePlural], "[founderName] sera mon intendant, afin qu'[founderName_pronoun] soit capable de prêcher une saine doctrine et de réfuter ceux qui la contredisent."</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_ExaltedPriesthood)           ->[memberNamePlural] built a great [altarName] on the [place_summary] [place_name], so that anyone may join [founderName] to exalt the virtues of [deity0_name].</li>
-	<li>conflict(tag=meme_ExaltedPriesthood)        ->A coward [foeLeader], seeking to deny the holiness of [founderName], tried to destroy the [altarName] with a torch.</li>
-	<li>founderJoin(tag=meme_ExaltedPriesthood)     ->Praying to [deity0_name], a huge bolt of pure light spread from [founderName]'s hands, smiting the [foeLeader] in an instant.</li>
-	<li>victory(tag=meme_ExaltedPriesthood)         ->All the [foeSoldiers] immediately fell to their knees, humbled by the display of power of [founderName] and begged to be accepted into our faith.</li>
+	<li>intro(tag=meme_ExaltedPriesthood)           ->[memberNamePlural] ont construit un grand [altarName] sur la [place_summary] [place_name], afin que chacun puisse rejoindre [founderName] pour exalter les vertus de [deity0_name].</li>
+	<li>conflict(tag=meme_ExaltedPriesthood)        ->Un [foeLeader]lâche, cherchant à nier la sainteté de [founderName], a essayé de détruire [altarName] avec une torche.</li>
+	<li>founderJoin(tag=meme_ExaltedPriesthood)     ->En priant [deity0_name], un énorme éclair de lumière pure est sorti des mains de [founderName], frappant le [foeLeader] instantanément.</li>
+	<li>victory(tag=meme_ExaltedPriesthood)         ->Tous les [foeSoldiers] se sont immédiatement mis à genoux, humiliés par la démonstration de puissance de [founderName] et ont demandé à être acceptés dans notre foi.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_ExaltedPriesthood)           ->Our founder [founderName] was a great theologian. [founderName_possessive] studies of the myriad gods of humanity made [founderName_objective] come to the conclusion that religion was not exactly the truth, but a life without faith woucl also be entirely meaningless.</li>
-	<li>story(uses=1,tag=meme_ExaltedPriesthood)    ->As [founderName_possessive] followers, we will continue the study of theology, and try to discern the deepest secrets of the Cosmos.</li>
+	<li>setup(tag=meme_ExaltedPriesthood)           ->Notre fondateur [founderName] était un grand théologien. Ses études sur les innombrables dieux de l'humanité l'ont amené à la conclusion que la religion n'était pas exactement la vérité, mais qu'une vie sans foi n'avait aucun sens.</li>
+	<li>story(uses=1,tag=meme_ExaltedPriesthood)    ->En tant que ses disciples, nous poursuivrons l'étude de la théologie, et tenterons de discerner les secrets les plus profonds du Cosmos.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_ExaltedPriesthood)         ->In all my years studying religion, I learned one lesson that stands over all:</li>
-	<li>lesson(tag=meme_ExaltedPriesthood)              ->we need priests to guide the human spirit, even if it turns out there are no gods</li>
-	<li>lessonReinforcement(tag=meme_ExaltedPriesthood) ->After all, even if we don't believe in the transcendental it is clear that we don't understand the whole picture.</li>
+	<li>lessonIntro(tag=meme_ExaltedPriesthood)         ->Au cours de toutes mes années d'étude de la religion, j'ai appris une leçon qui prime sur toutes les autres :</li>
+	<li>lesson(tag=meme_ExaltedPriesthood)              ->nous avons besoin de prêtres pour guider l'esprit humain, même s'il s'avère qu'il n'y a pas de dieux</li>
+	<li>lessonReinforcement(tag=meme_ExaltedPriesthood) ->Après tout, même si nous ne croyons pas au transcendantal, il est clair que nous ne comprenons pas l'ensemble du portrait.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_ExaltedPriesthood)    ->The archotechs value a strong leadership above all. If a group of people are disunited, they are weak.</li>
-	<li>archistFact(tag=meme_ExaltedPriesthood)     ->Our dear leader, the highest of all our priests, will be the conduit through which we will communicate with the archotechs, and beg for our Transcendence.</li>
-	<li>archistProphecy(tag=meme_ExaltedPriesthood) ->[inTheEnd], the archotechs will voice their final wisdom to our leader, the holder of the [relic0_name], and we will reverently stand by his or her side in that final moment.</li>
+	<li>archistBasis(tag=meme_ExaltedPriesthood)    ->Les archotechs apprécient par-dessus tout un dirigeant fort. Si un groupe de personnes est désuni, il est faible.</li>
+	<li>archistFact(tag=meme_ExaltedPriesthood)     ->Notre cher chef, le plus haut de tous nos prêtres, sera le conduit par lequel nous communiquerons avec les archotechs, et implorerons notre Transcendance.</li>
+	<li>archistProphecy(tag=meme_ExaltedPriesthood) ->[inTheEnd], les archotechs exprimeront leur sagesse finale à notre chef, le détenteur de [relic0_name], et nous nous tiendrons respectueusement à ses côtés en ce dernier moment..</li>
 	<!-- animist -->
-	<li>animistFact(tag=meme_ExaltedPriesthood)     ->Our dear leader, the highest among our priests, is the Voice of the Spirits. Only through him or her will the spirits make their wishes be known among the true believers.</li>
+	<li>animistFact(tag=meme_ExaltedPriesthood)     ->Notre cher chef, le plus haut parmi nos prêtres, est la Voix des Esprits. Ce n'est que par son intermédiaire que les esprits feront connaître leurs souhaits aux vrais croyants.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_ExaltedPriesthood)->[itIsSaid] the highest among our priests will transcend the mortal shell, and become one with the insects.</li>
+	<li>serketistProphecy(tag=meme_ExaltedPriesthood)->[itIsSaid] le plus grand de nos prêtres transcendera la carapace mortelle, et ne fera plus qu'un avec les insectes.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_ExaltedPriesthood)->The Dark Pope, highest among our priests, will protect us from the insanity from beyond the stars, acting as a psychic beacon of hope bathed in the darkness of the void.</li>
+	<li>chthonianProphecy(tag=meme_ExaltedPriesthood)->Le Pape Noir, le plus élevé de nos prêtres, nous protégera de la folie d'au-delà des étoiles, agissant comme une balise psychique d'espoir baignant dans l'obscurité du vide.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_ExaltedPriesthood)->The Dark Pope, highest among our priests, will venture into a world of rasping whispers and half-forgotten promises. He alone can discern the greatest of all misteries.</li>
+	<li>esotericismProphecy(tag=meme_ExaltedPriesthood)->Le Pape Noir, le plus haut placé parmi nos prêtres, s'aventurera dans un monde de murmures rauques et de promesses à moitié oubliées. Lui seul peut discerner le plus grand de tous les mystères.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_ExaltedPriesthood)->The Dark Pope, highest among our priests, will usher in the end of times. The herald of this world's destruction.</li>
+	<li>eschatologismFact(tag=meme_ExaltedPriesthood)->Le Pape Noir, le plus haut parmi nos prêtres, inaugurera la fin des temps. Le héraut de la destruction de ce monde.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_ExaltedPriesthood)->If you look at the calendar, you have certainly noticed that the birthday of our Dear Leader and CEO is in two weeks. Now, it is of course an optional thing, but in the name of good team spirit I expect each and every one of you to look for a gift of at least two months salary equivalent price. It's the least we can do!</li>
+	<li>introMemo(tag=meme_ExaltedPriesthood)->Si vous regardez le calendrier, vous avez certainement remarqué que l'anniversaire de notre cher chef et PDG est dans deux semaines. Maintenant, c'est bien sûr une chose facultative, mais au nom d'un bon esprit d'équipe, j'attends de chacun d'entre vous qu'il cherche un cadeau d'un prix équivalent à au moins deux mois de salaire. C'est le moins que l'on puisse faire !</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_ExaltedPriesthood)->Our dear leader, the highest among our priests, will decide the fate of all these wayward human creations, for we trust his wisdom in such matters.</li>
+	<li>alienistProphecy(tag=meme_ExaltedPriesthood)->Notre cher chef, le plus élevé de nos prêtres, décidera du sort de toutes ces créations humaines dévoyées, car nous avons confiance en sa sagesse en la matière.</li>
 </VME_ExaltedPriesthood.descriptionMaker.rules.rulesStrings>
 <VME_ExaltedPriesthood.generalRules.rulesStrings>
 	<li>memeAdjective->exalted</li>
