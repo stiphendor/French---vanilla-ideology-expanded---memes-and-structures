@@ -684,23 +684,23 @@
 	<li>alienistProphecy(tag=meme_ExaltedPriesthood)->Notre cher chef, le plus élevé de nos prêtres, décidera du sort de toutes ces créations humaines dévoyées, car nous avons confiance en sa sagesse en la matière.</li>
 </VME_ExaltedPriesthood.descriptionMaker.rules.rulesStrings>
 <VME_ExaltedPriesthood.generalRules.rulesStrings>
-	<li>memeAdjective->exalted</li>
-	<li>memeAdjective->theocratic</li>
-	<li>memeAdjective->holy</li>
-	<li>memeHyphenPrefix->holy</li>
-	<li>memeConcept->papacy</li>
-	<li>memeLeaderNoun->pope</li>
+	<li>memeAdjective->exalté</li>
+	<li>memeAdjective->théocratique</li>
+	<li>memeAdjective->saint</li>
+	<li>memeHyphenPrefix->saint</li>
+	<li>memeConcept->papauté</li>
+	<li>memeLeaderNoun->pape</li>
 	<li>memeMoralist->cardinal</li>
-	<li>memeMoralist->archbishop</li>
+	<li>memeMoralist->archevêque</li>
 </VME_ExaltedPriesthood.generalRules.rulesStrings>
-<VME_ExaltedPriesthood.symbolPacks.0.adjective>papal</VME_ExaltedPriesthood.symbolPacks.0.adjective>
-<VME_ExaltedPriesthood.symbolPacks.0.ideoName>Papacy</VME_ExaltedPriesthood.symbolPacks.0.ideoName>
-<VME_ExaltedPriesthood.symbolPacks.0.member>follower</VME_ExaltedPriesthood.symbolPacks.0.member>
-<VME_ExaltedPriesthood.symbolPacks.0.theme>papacy</VME_ExaltedPriesthood.symbolPacks.0.theme>
-<VME_ExaltedPriesthood.symbolPacks.1.adjective>theocratic</VME_ExaltedPriesthood.symbolPacks.1.adjective>
-<VME_ExaltedPriesthood.symbolPacks.1.ideoName>Theocracy</VME_ExaltedPriesthood.symbolPacks.1.ideoName>
-<VME_ExaltedPriesthood.symbolPacks.1.member>follower</VME_ExaltedPriesthood.symbolPacks.1.member>
-<VME_ExaltedPriesthood.symbolPacks.1.theme>theocracy</VME_ExaltedPriesthood.symbolPacks.1.theme>
+<VME_ExaltedPriesthood.symbolPacks.0.adjective>pontifical</VME_ExaltedPriesthood.symbolPacks.0.adjective>
+<VME_ExaltedPriesthood.symbolPacks.0.ideoName>Papauté</VME_ExaltedPriesthood.symbolPacks.0.ideoName>
+<VME_ExaltedPriesthood.symbolPacks.0.member>adepte</VME_ExaltedPriesthood.symbolPacks.0.member>
+<VME_ExaltedPriesthood.symbolPacks.0.theme>papauté</VME_ExaltedPriesthood.symbolPacks.0.theme>
+<VME_ExaltedPriesthood.symbolPacks.1.adjective>théocratique</VME_ExaltedPriesthood.symbolPacks.1.adjective>
+<VME_ExaltedPriesthood.symbolPacks.1.ideoName>Théocratie</VME_ExaltedPriesthood.symbolPacks.1.ideoName>
+<VME_ExaltedPriesthood.symbolPacks.1.member>adepte</VME_ExaltedPriesthood.symbolPacks.1.member>
+<VME_ExaltedPriesthood.symbolPacks.1.theme>théocratie</VME_ExaltedPriesthood.symbolPacks.1.theme>
 
 
 <VME_Scrapper.label>ferrailleur</VME_Scrapper.label>
