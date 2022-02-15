@@ -892,40 +892,40 @@
 <VME_Vegan.description>Manger de la viande est barbare et grossier, mieux mangés sont les fruits d'un dur labeur et d'une terre toujours généreuse.</VME_Vegan.description>
 <VME_Vegan.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_Vegan)        ->[deity0_name] spoke to [deity0_possessive] followers: "Shun the flesh, for it is sinful and impure."</li>
-	<li>episode(uses=1,tag=meme_Vegan)  ->As [deity0_name] commanded, we banned the ingestion of meat. Our bodies will not be a tomb for other creatures.</li>
+	<li>creation(tag=meme_Vegan)        ->[deity0_name] a parlé à ses disciples : "Fuis la chair, car elle est pécheresse et impure."</li>
+	<li>episode(uses=1,tag=meme_Vegan)  ->Comme [deity0_name] l'a ordonné, nous avons interdit toute consommation de viande. Nos corps ne seront pas une tombe pour d'autres créatures.</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_Vegan)           ->On the [place_summary] [place_name], the [memberNamePlural] built a gigantic farm, where all sorts of juicy fruits and plump vegetables were grown.</li>
-	<li>conflict(tag=meme_Vegan)        ->An evil industrial farmer, seeing [foeLeader_possessive] profits evaporate due to most [memberNamePlural]s shunning meat, wanted to sabotage the farm by any means necessary.</li>
-	<li>founderJoin(tag=meme_Vegan)     ->Our founder, [founderName], firmly spoke to [foeLeader_objective]: "Could you look an animal in the eyes and say to it, ‘My appetite is more important than your suffering’?".</li>
-	<li>victory(tag=meme_Vegan)         ->Eventually, everyone was convinced of [founderName_possessive] arguments, and the [memberNamePlural] will forever respect the natural world around us.</li>
+	<li>intro(tag=meme_Vegan)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont construit une gigantesque ferme, où toutes sortes de fruits juteux et de légumes dodus étaient cultivés.</li>
+	<li>conflict(tag=meme_Vegan)        ->Un fermier industriel maléfique, voyant ses profits s'évaporer du fait que la plupart des [memberNamePlural] rejettent la viande, a voulu saboter la ferme par tous les moyens.</li>
+	<li>founderJoin(tag=meme_Vegan)     ->Notre fondateur, [founderName], lui a parlé fermement : "Pourriez-vous regarder un animal dans les yeux et lui dire : "Mon appétit est plus important que ta souffrance" ?".</li>
+	<li>victory(tag=meme_Vegan)         ->Finalement, tout le monde a été convaincu de ses arguments, et les [memberNamePlural] respecteront toujours le monde naturel qui nous entoure.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_Vegan)           ->[founderName] was an ecologist in one of the Glitterworlds, on the brink of climate collapse. [founder_pronoun] found that many planets that had heavily relied on meat consumption as a way to feed their populace eventually sucumbed to ecological disaster. Meat was just not efficient enough to feed a large population.</li>
-	<li>story(uses=1,tag=meme_Vegan)    ->Seeking a better way, [founderName] became a vegan, and shunned meat forever. The rest of society, however, was far too entrenched in their old customs, and [founder_pronoun] and [founderName_possessive] followers has to escape the doomed planet, trying to find a new home among the stars.</li>
+	<li>setup(tag=meme_Vegan)           ->[founderName] était écologiste dans le Glitterworld, au bord de l'effondrement climatique. [founder_pronoun] a constaté que de nombreuses planètes qui s'étaient fortement appuyées sur la consommation de viande pour nourrir leur population ont fini par sombrer dans un désastre écologique. La viande n'était tout simplement pas assez efficace pour nourrir une grande population.</li>
+	<li>story(uses=1,tag=meme_Vegan)    ->À la recherche d'une meilleure solution, [founderName] est devenu végan et a renoncé à la viande pour toujours. Cependant, le reste de la société est bien trop ancré dans ses vieilles coutumes, et [founderName] et ses partisans doivent s'échapper de la planète condamnée pour tenter de trouver un nouveau foyer parmi les étoiles.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_Vegan)         ->The oldest ecologist in my caravan taught me the history of veganism, how many societies collapse because of their insistence on consuming meat. He was leading me to understand that</li>
-	<li>lesson(tag=meme_Vegan)              ->becoming vegan is the most important and direct change we can immediately make to save a planet and its species</li>
-	<li>lessonReinforcement(tag=meme_Vegan) ->All life deserves respect, dignity, and compassion. All life.</li>
+	<li>lessonIntro(tag=meme_Vegan)         ->Le plus vieil écologiste de ma caravane m'a enseigné l'histoire du régime végan, comment de nombreuses sociétés s'effondrent à cause de leur insistance à consommer de la viande. Il m'a amené à comprendre que</li>
+	<li>lesson(tag=meme_Vegan)              ->devenir végan est le changement le plus important et le plus direct que nous puissions faire immédiatement pour sauver la planète et ses espèces</li>
+	<li>lessonReinforcement(tag=meme_Vegan) ->Toute vie mérite le respect, la dignité et la compassion. Toute vie.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_Vegan)    ->Archotechs are wise beyond measure. Do you think they would condone cruelty to others? Humans have victimized animals to such a degree that they are not even considered victims. They are not even considered at all. They are nothing; they don’t count; they don’t matter.</li>
-	<li>archistFact(tag=meme_Vegan)     ->There is no fundamental difference between man and animals in their ability to feel pleasure and pain, happiness, and misery. And to an archotech, we are all the same.</li>
-	<li>archistProphecy(tag=meme_Vegan) ->[inTheEnd], non-violence leads to the highest ethics, which is the goal of all evolution. Until we stop harming all other living beings, we are still savages.</li>
+	<li>archistBasis(tag=meme_Vegan)    ->Les archotechs sont d'une sagesse sans pareille. Pensez-vous qu'ils toléreraient la cruauté envers les autres ? Les humains ont victimisé les animaux à un tel point qu'ils ne sont même pas considérés comme des victimes. Ils ne sont même pas considérés du tout. Ils ne sont rien ; ils ne comptent pas ; ils n'ont pas d'importance.</li>
+	<li>archistFact(tag=meme_Vegan)     ->Il n'y a pas de différence fondamentale entre l'homme et les animaux dans leur capacité à ressentir le plaisir et la douleur, le bonheur et la misère. Et pour un archotech, nous sommes tous pareils.</li>
+	<li>archistProphecy(tag=meme_Vegan) ->[inTheEnd], la non-violence conduit à l'éthique la plus élevée, qui est le but de toute évolution. Tant que nous ne cesserons pas de nuire à tous les autres êtres vivants, nous resterons des sauvages.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_Vegan)    ->Until one has loved an animal, a part of one’s soul remains unawakened, hidden to the spirit world.</li>
-	<li>animistFact(tag=meme_Vegan)     ->The soul is the same in all living creatures, although the body of each is different.</li>
-	<li>animistProphecy(tag=meme_Vegan) ->[itIsSaid] that vegan food is soul food in its truest form. Your soul is your intent. If your intent is pure, you are pure.</li>
+	<li>animistBasis(tag=meme_Vegan)    ->Tant que l'on n'a pas aimé un animal, une partie de notre âme reste inaccessible, cachée au monde des esprits.</li>
+	<li>animistFact(tag=meme_Vegan)     ->L'âme est la même dans toutes les créatures vivantes, bien que le corps de chacune soit différent.</li>
+	<li>animistProphecy(tag=meme_Vegan) ->[itIsSaid] que la nourriture végan est la nourriture de l'âme dans sa forme la plus vraie. Votre âme est votre intention. Si votre intention est pure, vous êtes pur.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_Vegan)->[itIsSaid] we will understand that our sacred diet is actually a gift from the holiest of creatures.</li>
+	<li>serketistProphecy(tag=meme_Vegan)->[itIsSaid] nous comprendrons que notre régime alimentaire sacré est en fait un cadeau de la plus sacrée des créatures.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_Vegan)->These eldritch entities would devour our flesh and rip it from our bones, feasting on our entrails. Are we not better than them?</li>
+	<li>chthonianProphecy(tag=meme_Vegan)->Ces entités eldritch dévoreraient notre chair et l'arracheraient de nos os, se régalant de nos entrailles. Ne sommes-nous pas meilleurs qu'eux ?</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_Vegan)->Such occult knowledge will require a pure mind to fathom. A pure mind that realizes that its desires do not entitle it to add to another’s suffering.</li>
+	<li>esotericismProphecy(tag=meme_Vegan)->Une telle connaissance occulte nécessitera un esprit pur pour la déchiffrer. Un esprit pur qui réalise que ses désirs ne lui donnent pas le droit d'ajouter à la souffrance d'autrui.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_Vegan)->We will shun the devouring of corrupt, rotting, sickening meat, for it is a symbol of why this world and its cruel inhabitants must be purged.</li>
+	<li>eschatologismFact(tag=meme_Vegan)->Nous éviterons de dévorer de la viande corrompue, pourrie et répugnante, car elle est le symbole de la raison pour laquelle ce monde et ses cruels habitants doivent être purgés.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_Vegan)->Starting from now, we will only offer vegan alternatives in our cattering services. Simply put, meat is too expensive, and we need to streamline our expenses to keep being competitive.</li>
+	<li>introMemo(tag=meme_Vegan)->À partir de maintenant, nous ne proposerons plus que des alternatives végan dans nos services de restauration. Pour faire simple, la viande est trop chère, et nous devons rationaliser nos dépenses pour rester compétitifs.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_Vegan)->These wayward creatures are poor, innocent beings. It would be a grave mistake to mistreat them in any way.</li>
+	<li>alienistProphecy(tag=meme_Vegan)->Ces créatures errantes sont des êtres pauvres et innocents. Ce serait une grave erreur de les maltraiter de quelque façon que ce soit.</li>
 </VME_Vegan.descriptionMaker.rules.rulesStrings>
 <VME_Vegan.generalRules.rulesStrings>
 	<li>memeAdjective->végan</li>
