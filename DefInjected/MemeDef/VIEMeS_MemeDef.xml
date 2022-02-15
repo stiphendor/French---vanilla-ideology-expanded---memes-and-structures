@@ -837,40 +837,40 @@
 <VME_Elders.description>L'âge et la sagesse vont souvent de pair, nos sages et personnes âgées devraient être respectés sur cette seule prémisse et ne devraient pas être tenus de travailler dur.</VME_Elders.description>
 <VME_Elders.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_Elders)        ->[deity0_name] spoke to [deity0_possessive] followers: "Respect and obey your elders, for wisdom comes only from experience."</li>
-	<li>episode(uses=1,tag=meme_Elders)  ->Following [deity0_name]'s teachings, we honoured our elders, putting their needs above those of others.</li>
+	<li>creation(tag=meme_Elders)        ->[deity0_name] a parlé à ses disciples : "Respectez et obéissez à vos aînés, car la sagesse ne vient que de l'expérience."</li>
+	<li>episode(uses=1,tag=meme_Elders)  ->En suivant les enseignements de [deity0_name], nous avons honoré nos aînés, en faisant passer leurs besoins avant ceux des autres.</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_Elders)           ->On the [place_summary] [place_name], the [memberNamePlural] built a gigantic retirement home, so that the elders could spend their twilight years.</li>
-	<li>conflict(tag=meme_Elders)        ->A young [foeLeader], jealous of the wisdom of [deity0_name]'s followers, tried to spread a deadly plague that only affected the elderly.</li>
-	<li>founderJoin(tag=meme_Elders)     ->[founderName], a great scientist, developed a cure in a record time, saving many lives in the process.</li>
-	<li>victory(tag=meme_Elders)         ->[foeLeader] was imprisoned, and [foeLeader_possessive] tale will forever be used as a cautinary tale against those who try to deny the wisdom of our elders.</li>
+	<li>intro(tag=meme_Elders)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont construit une gigantesque maison de retraite, pour que les anciens puissent y passer leurs vieux jours.</li>
+	<li>conflict(tag=meme_Elders)        ->Un jeune [foeLeader], jaloux de la sagesse des disciples de [deity0_name], a tenté de répandre une peste mortelle qui ne touchait que les personnes âgées.</li>
+	<li>founderJoin(tag=meme_Elders)     ->[founderName], un grand scientifique, a mis au point un remède en un temps record, sauvant ainsi de nombreuses vies.</li>
+	<li>victory(tag=meme_Elders)         ->[foeLeader] a été emprisonné, et son histoire servira à jamais de cautèle contre ceux qui tentent de nier la sagesse de nos aînés.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_Elders)           ->[founderName] was a social scientist in one of the Glitterworlds. [founder_pronoun] posited that wisdom is accumulated through experience, and only a person who has experienced a lot can truly be considered wise.</li>
-	<li>story(uses=1,tag=meme_Elders)    ->[founderName] thus created a great school of thought, where the wisdom of our elders is always respected and considered.</li>
+	<li>setup(tag=meme_Elders)           ->[founderName] était un scientifique social dans le Glitterworld. [founder_pronoun] affirmait que la sagesse s'acquiert par l'expérience, et que seule une personne ayant beaucoup d'expérience peut être considérée comme sage.</li>
+	<li>story(uses=1,tag=meme_Elders)    ->[founderName] a ainsi créé une grande école de pensée, où la sagesse de nos aînés est toujours respectée et considérée.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_Elders)         ->The oldest man in our community taught me the history of civilization, how the youth have always recklessly thrown themselves into conflicts without pondering all the alternatives. He was leading me to understand that</li>
-	<li>lesson(tag=meme_Elders)              ->age brings experience, and experience brings wisdom</li>
-	<li>lessonReinforcement(tag=meme_Elders) ->Without wisdom, any decision is raw and wild, and prone to cause unwanted consequences.</li>
+	<li>lessonIntro(tag=meme_Elders)         ->Le plus vieil homme de notre communauté m'a enseigné l'histoire de la civilisation, comment les jeunes se sont toujours jetés imprudemment dans les conflits sans réfléchir à toutes les alternatives. Il me conduisait à comprendre que</li>
+	<li>lesson(tag=meme_Elders)              ->l'âge apporte l'expérience, et l'expérience apporte la sagesse</li>
+	<li>lessonReinforcement(tag=meme_Elders) ->Sans sagesse, toute décision est brute et sauvage, et susceptible d'entraîner des conséquences indésirables.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_Elders)    ->The archotechs are supreme beings, existing beyond concepts like age and time.</li>
-	<li>archistFact(tag=meme_Elders)     ->Whirling through a vortex of infinite time, their wisdom grows far larger than anything possible for a mere human.</li>
-	<li>archistProphecy(tag=meme_Elders) ->[inTheEnd], the archotechs will allow only the wisest of us to transcend, and thus we must honour our elders as they will be the heralds of our ascendancy.</li>
+	<li>archistBasis(tag=meme_Elders)    ->Les archotechs sont des êtres suprêmes, existant au-delà de concepts comme l'âge et le temps.</li>
+	<li>archistFact(tag=meme_Elders)     ->En tourbillonnant dans un vortex de temps infini, leur sagesse s'accroît bien au-delà de tout ce qui est possible pour un simple humain.</li>
+	<li>archistProphecy(tag=meme_Elders) ->[inTheEnd], les archotechs ne permettront qu'aux plus sages d'entre nous de transcender, et donc nous devons honorer nos aînés car ils seront les hérauts de notre ascension.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_Elders)    ->The spirits value wisdom above anything else, for only those who are truly wise can properly communicate with them.</li>
-	<li>animistFact(tag=meme_Elders)     ->Our elders, in their infinite wisdom, will act as a conduit to the world of the spirits.</li>
-	<li>animistProphecy(tag=meme_Elders) ->[itIsSaid] the wisest of our elders will one day commune fully with the spirits, becoming one with them.</li>
+	<li>animistBasis(tag=meme_Elders)    ->Les esprits apprécient la sagesse par-dessus tout, car seuls ceux qui sont vraiment sages peuvent communiquer correctement avec eux.</li>
+	<li>animistFact(tag=meme_Elders)     ->Nos aînés, dans leur infinie sagesse, agiront comme un conduit vers le monde des esprits.</li>
+	<li>animistProphecy(tag=meme_Elders) ->[itIsSaid] les plus sages de nos aînés communieront un jour pleinement avec les esprits, ne faisant plus qu'un avec eux.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_Elders)->[itIsSaid] we will become as eternal as the greatest ant colony. Old and wise beyond measure.</li>
+	<li>serketistProphecy(tag=meme_Elders)->[itIsSaid] nous deviendrons aussi éternels que la plus grande colonie de fourmis. Vieux et sages au-delà de toute mesure.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_Elders)->Perhaps we should accumulate wisdom, as the eldritch entities are old and wise beyond all imagining.</li>
+	<li>chthonianProphecy(tag=meme_Elders)->Peut-être devrions-nous accumuler de la sagesse, car les entités eldritch sont vieilles et sages au-delà de toute imagination.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_Elders)->Such occult knowledge can only be acquired with time and study. Only the eldest among us will be wise enough to pierce the barrier between reality and the realms beyond.</li>
+	<li>esotericismProphecy(tag=meme_Elders)->De telles connaissances occultes ne peuvent être acquises qu'avec le temps et l'étude. Seuls les plus anciens d'entre nous seront assez sages pour percer la barrière entre la réalité et les royaumes de l'au-delà.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_Elders)->We shall honour our elders, for they have been labouring the longest to bring about the end of days.</li>
+	<li>eschatologismFact(tag=meme_Elders)->Nous honorerons nos aînés, car ce sont eux qui ont travaillé le plus longtemps à l'avènement de la fin des temps.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_Elders)->Hear me out on this: it is time to retire retirement. Retirement only causes a severe shortage of talented workers, people who have been bringing expertise and wisdom to our company for decades. Why are we just letting them go? It's absurd!</li>
+	<li>introMemo(tag=meme_Elders)->Écoutez-moi bien : il est temps de prendre votre retraite. La retraite ne fait que provoquer une grave pénurie de travailleurs talentueux, des personnes qui apportent leur expertise et leur sagesse à notre entreprise depuis des décennies. Pourquoi les laissons-nous simplement partir ? C'est absurde !</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_Elders)->These wayward creations, born of human creativity, hold a treasure trove of ancient wisdom, a window to the forgotten techniques of our ancestors.</li>
+	<li>alienistProphecy(tag=meme_Elders)->Ces créations erratiques, nées de la créativité humaine, recèlent un trésor de sagesse ancienne, une fenêtre sur les techniques oubliées de nos ancêtres.</li>
 </VME_Elders.descriptionMaker.rules.rulesStrings>
 <VME_Elders.generalRules.rulesStrings>
 	<li>memeAdjective->âgé</li>
