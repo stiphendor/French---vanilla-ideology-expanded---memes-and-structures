@@ -707,41 +707,41 @@
 <VME_Scrapper.description>Rien ne doit jamais être gaspillé, pas même des vêtements ensanglantés ou déchirés. Les restes abandonnés des anciennes civilisations doivent être conservés comme trésors et rappels.</VME_Scrapper.description>
 <VME_Scrapper.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_Scrapper)        ->[deity0_name] taught us to never leave anything to waste: "Squandering is a great sin, for I created the world in my image, and by letting things unused your are also insulting me."</li>
-	<li>episode(uses=1,tag=meme_Scrapper)  ->Following the teachings of [deity0_name], we learned to reuse and recycle things to make better use of them.</li>
+	<li>creation(tag=meme_Scrapper)        ->[deity0_name] nous a appris à ne jamais rien gaspiller : "Gaspiller est un grand péché, car j'ai créé le monde à mon image, et en laissant les choses inutilisées, vous m'insultez aussi."</li>
+	<li>episode(uses=1,tag=meme_Scrapper)  ->En suivant les enseignements de [deity0_name], nous avons appris à réutiliser et recycler les choses pour en faire un meilleur usage.</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_Scrapper)           ->On the [place_summary] [place_name], the [memberNamePlural] found the words of [deity0_name], technical instructions to disassemble and reuse the mighty machines of our ancestors.</li>
-	<li>conflict(tag=meme_Scrapper)        ->An envious [foeLeader] saw the progress of the [memberNamePlural], and sought to destroy our repurposed machines.</li>
-	<li>founderJoin(tag=meme_Scrapper)     ->[founderName], known as the Great Scavenger, put together a makeshift weapon, the [relic0_name], and managed to stop the [foeLeader] before it was too late.</li>
-	<li>victory(tag=meme_Scrapper)         ->Seeing the resourcefulness of [founderName], [founderName_possessive] followers named [founderName_objective] a teacher, and learned from [founderName_objective] the secrets of scavenging ancient tech.</li>
+	<li>intro(tag=meme_Scrapper)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont trouvé les paroles de [deity0_name], les instructions techniques pour démonter et réutiliser les puissantes machines de nos ancêtres.</li>
+	<li>conflict(tag=meme_Scrapper)        ->Un [foeLeader] envieux a vu les progrès des [memberNamePlural], et a cherché à détruire nos machines recyclées.</li>
+	<li>founderJoin(tag=meme_Scrapper)     ->[founderName], connu sous le nom de Grand Charognard, a mis au point une arme de fortune, [relic0_name], aet a réussi à arrêter le [foeLeader] avant qu'il ne soit trop tard.</li>
+	<li>victory(tag=meme_Scrapper)         ->Voyant la débrouillardise de [founderName], ses disciples l'ont nommé professeur et ont appris de lui les secrets de la récupération des technologies anciennes.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_Scrapper)           ->[founderName] was an engineer in one of the Glitterworlds. [founder_pronoun] noticed that long ranged exploration vessels sent to the Rim always told of ancient technology littered around the myriad worlds. Could this ancient tech perhaps be studied, reversed engineered, and repurposed?</li>
-	<li>story(uses=1,tag=meme_Scrapper)    ->[founderName] assembled a team of interstellar explorers, and decided to see for [founderName_objective]self what could be done with this mysterious forgotten technology. Unfortunately, [founderName_pronoun] didn't survive the dangerous trip.</li>
+	<li>setup(tag=meme_Scrapper)           ->[founderName] était un ingénieur dans le Glitterworld. [founder_pronoun] a remarqué que les vaisseaux d'exploration à longue portée envoyés dans les Limbes parlaient toujours d'anciennes technologies éparpillées dans les myriades de mondes. Ces technologies anciennes pourraient-elles être étudiées, modifiées et réutilisées ?</li>
+	<li>story(uses=1,tag=meme_Scrapper)    ->[founderName] a réuni une équipe d'explorateurs interstellaires et a décidé de voir par [founderName_objective]-même ce qu'il était possible de faire avec cette mystérieuse technologie oubliée. Malheureusement, [founderName_pronoun] n'a pas survécu à ce dangereux voyage.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_Scrapper)         ->The oldest scavenger in my division taught me the history of ancient tech, how all the myriad worlds in the Rim are filled with discarded ancient tech. He was leading me to understand that</li>
-	<li>lesson(tag=meme_Scrapper)              ->humanity has been around for a long time, and it is absurd to not repurpose the discarded technology of our ancestors</li>
-	<li>lessonReinforcement(tag=meme_Scrapper) ->Perhaps ancient technology is junk, or perhaps it is the key to our survival.</li>
+	<li>lessonIntro(tag=meme_Scrapper)         ->Le plus vieux charognard de ma division m'a enseigné l'histoire des technologies anciennes, comment les myriades de mondes de la Bordure sont remplis de technologies anciennes abandonnées. Il m'a amené à comprendre que</li>
+	<li>lesson(tag=meme_Scrapper)              ->l'humanité existe depuis longtemps, et il est absurde de ne pas réutiliser les technologies abandonnées par nos ancêtres.</li>
+	<li>lessonReinforcement(tag=meme_Scrapper) ->Peut-être que les technologies anciennes sont des déchets, ou peut-être qu'elles sont la clé de notre survie.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_Scrapper)    ->It is a fact that archotechs were originally of human creation, we created the next step in the development of consciousness.</li>
-	<li>archistFact(tag=meme_Scrapper)     ->The discarded ancient technology of our ancestor might be just forgotten junk. But what if this isn't the case? What if this waste is in reality something that will prove essential to our Transcendence?</li>
-	<li>archistProphecy(tag=meme_Scrapper) ->[inTheEnd], we shall not let an ounce of ancient technology go to waste. We will scrounge every piece of technology laying around, and hopefully discover its secrets.</li>
+	<li>archistBasis(tag=meme_Scrapper)    ->C'est un fait que les archotechs étaient à l'origine de la création humaine, nous avons créé l'étape suivante dans le développement de la conscience.</li>
+	<li>archistFact(tag=meme_Scrapper)     ->La technologie ancienne mise au rebut par nos ancêtres pourrait n'être que de la camelote oubliée. Mais si ce n'était pas le cas ? Et si ces déchets étaient en réalité quelque chose qui s'avérerait essentiel à notre Transcendance ?</li>
+	<li>archistProphecy(tag=meme_Scrapper) ->[inTheEnd], nous ne laisserons pas une once de technologie ancienne se perdre. Nous allons dénicher chaque pièce de technologie qui traîne, et nous espérons découvrir ses secrets.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_Scrapper)    ->The pieces of ancient debris found around the world are relics of the Ancients.</li>
-	<li>animistFact(tag=meme_Scrapper)     ->The spirits will guide us to recover all the ancient tech that our ancestors left discarded.</li>
-	<li>animistFact(tag=meme_Scrapper)     ->When we have recovered and reused the technology of our forefathers, we will truly make their spirits at peace.</li>
-	<li>animistProphecy(tag=meme_Scrapper) ->[itIsSaid] one day we will be as intelligent as the ancients were, and their discarded machinery will hold no secrets for us.</li>
+	<li>animistBasis(tag=meme_Scrapper)    ->Les morceaux de débris anciens trouvés dans le monde entier sont des reliques des Anciens.</li>
+	<li>animistFact(tag=meme_Scrapper)     ->Les esprits nous guideront pour récupérer toutes les technologies anciennes que nos ancêtres ont laissées au rebut.</li>
+	<li>animistFact(tag=meme_Scrapper)     ->Lorsque nous aurons récupéré et réutilisé la technologie de nos ancêtres, nous apaiserons vraiment leurs esprits.</li>
+	<li>animistProphecy(tag=meme_Scrapper) ->[itIsSaid] un jour, nous serons aussi intelligents que les anciens, et leurs machines hors d'usage n'auront plus de secrets pour nous.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_Scrapper)->[itIsSaid] we will learn that scavenging the ancient technology that litters the landscape is as sacred as termites using soil to build their nests.</li>
+	<li>serketistProphecy(tag=meme_Scrapper)->[itIsSaid] nous apprendrons que la récupération des technologies anciennes qui jonchent le paysage est aussi sacrée que les termites qui utilisent le sol pour construire leurs nids.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_Scrapper)->The Rim is littered with the technological corpses of those who failed to appease these inhuman entities: only by repurposing this ancient technology may we hope to resist their onslaught where so many others failed.</li>
+	<li>chthonianProphecy(tag=meme_Scrapper)->La Bordure est jonchée des cadavres technologiques de ceux qui n'ont pas réussi à apaiser ces entités inhumaines : ce n'est qu'en réutilisant cette technologie ancienne que nous pouvons espérer résister à leur assaut là où tant d'autres ont échoué.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_Scrapper)->The Rim is littered with technological remains of those who came long before us. We will study and repurpose these fragments of the past, and learn all of their secrets.</li>
+	<li>esotericismProphecy(tag=meme_Scrapper)->La Bordure est jonchée de vestiges technologiques de ceux qui sont venus bien avant nous. Nous allons étudier et réutiliser ces fragments du passé, et apprendre tous leurs secrets.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_Scrapper)->The Rim is littered with the technological corpses of those who have fallen before, and we will use their own forgotten technology to bring the end of times.</li>
+	<li>eschatologismFact(tag=meme_Scrapper)->La Bordure est jonchée des cadavres technologiques de ceux qui sont tombés avant, et nous utiliserons leur propre technologie oubliée pour amener la fin des temps.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_Scrapper)->In this week's recommended reading I'd like to point you to: "Reassess, reduce, reuse, recycle – how to be a sustainable modern business". Please read it at your leisure and we will discuss the finer points in tomorrow's meeting.</li>
+	<li>introMemo(tag=meme_Scrapper)->Dans les lectures recommandées de cette semaine, j'aimerais vous indiquer : "Réévaluer, réduire, réutiliser, recycler - comment être une entreprise moderne et durable". Lisez-le à loisir et nous discuterons des points les plus délicats lors de la réunion de demain.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_Scrapper)->Perhaps all these wayward human creations can be repurposed somehow, as they are nothing but living pieces of ancient technology.</li>
+	<li>alienistProphecy(tag=meme_Scrapper)->Peut-être que toutes ces créations humaines capricieuses peuvent être réutilisées d'une manière ou d'une autre, car elles ne sont rien d'autre que des pièces vivantes d'une technologie ancienne.</li>
 </VME_Scrapper.descriptionMaker.rules.rulesStrings>
 <VME_Scrapper.generalRules.rulesStrings>
 	<li>memeAdjective->scrapping</li>
