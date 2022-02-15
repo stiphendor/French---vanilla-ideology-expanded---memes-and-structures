@@ -750,14 +750,14 @@
 	<li>memeHyphenPrefix->scrap</li>
 	<li>memeHyphenPrefix->junk</li>
 	<li>memeConcept->scrap</li>
-	<li>memeLeaderNoun->scavenger</li>
+	<li>memeLeaderNoun->charognard</li>
 	<li>memeLeaderNoun->scrapper</li>
 	<li>memeLeaderNoun->scrounger</li>
 	<li>memeMoralist->junk rat</li>
 </VME_Scrapper.generalRules.rulesStrings>
 <VME_Scrapper.symbolPacks.0.adjective>scavenging</VME_Scrapper.symbolPacks.0.adjective>
 <VME_Scrapper.symbolPacks.0.ideoName>Scavenging</VME_Scrapper.symbolPacks.0.ideoName>
-<VME_Scrapper.symbolPacks.0.member>scavenger</VME_Scrapper.symbolPacks.0.member>
+<VME_Scrapper.symbolPacks.0.member>charognard</VME_Scrapper.symbolPacks.0.member>
 <VME_Scrapper.symbolPacks.0.theme>scavenging</VME_Scrapper.symbolPacks.0.theme>
 <VME_Scrapper.symbolPacks.1.adjective>scrapper</VME_Scrapper.symbolPacks.1.adjective>
 <VME_Scrapper.symbolPacks.1.ideoName>Scrapping</VME_Scrapper.symbolPacks.1.ideoName>
