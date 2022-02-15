@@ -773,40 +773,40 @@
 <VME_Trader.description>Avec la richesse vient le pouvoir, aller trop longtemps sans profit signifie aller trop longtemps sans assurer sa position de pouvoir.</VME_Trader.description>
 <VME_Trader.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_Trader)        ->[deity0_name] spoke to [deity0_possessive] followers: "Poverty is the greatest sin. Amassing wealth is the true measure of humanity."</li>
-	<li>episode(uses=1,tag=meme_Trader)  ->Following the teachings of [deity0_name], we struggled to become the richest faction of all. Poets will sing about prosperity and opulence long after we are gone.</li>
+	<li>creation(tag=meme_Trader)        ->[deity0_name] a parlé à ses disciples : "La pauvreté est le plus grand des péchés. Amasser des richesses est la vraie mesure de l'humanité."</li>
+	<li>episode(uses=1,tag=meme_Trader)  ->Suivant les enseignements de [deity0_name], nous avons lutté pour devenir la faction la plus riche de toutes. Les poètes chanteront la prospérité et l'opulence longtemps après notre disparition.</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_Trader)           ->On the [place_summary] [place_name], the [memberNamePlural] built a gigantic vault to store all the riches consecrated to [deity0_name].</li>
-	<li>conflict(tag=meme_Trader)        ->An envious [foeLeader] wanted all these riches for [foeLeader_objective]self, and sought to steal our hard-earned wealth.</li>
-	<li>founderJoin(tag=meme_Trader)     ->[founderName], known as the Great Merchant, bought a powerful neutron bomb from an allied nation's traders, and used it against the [foeLeader]'s soldiers.</li>
-	<li>victory(tag=meme_Trader)         ->The terrible weapon decimated their ranks, their flesh melting from their bones, but left the vault unaffected, as it was built sparing no expenses and prepared to withstand even the fury of atomic fire.</li>
+	<li>intro(tag=meme_Trader)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont construit une voûte gigantesque pour stocker toutes les richesses consacrées à [deity0_name].</li>
+	<li>conflict(tag=meme_Trader)        ->Un [foeLeader] envieux voulait toutes ces richesses pour [foeLeader_objective]-même, et cherchait à voler notre richesse durement gagnée.</li>
+	<li>founderJoin(tag=meme_Trader)     ->[founderName], connu sous le nom de Grand Marchand, a acheté une puissante bombe à neutrons aux commerçants d'une nation alliée, et l'a utilisée contre les soldats de [foeLeader].</li>
+	<li>victory(tag=meme_Trader)         ->L'arme terrible a décimé leurs rangs, leur chair fondant sur leurs os, mais n'a pas affecté le coffre-fort, qui a été construit sans compter et préparé pour résister même à la fureur du feu atomique.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_Trader)           ->[founderName] was an economist in one of the Glitterworlds. [founder_pronoun] looked at the apparent prosperity surrounding [foeLeader_objective] and saw only decadence. The stagnation of a false post-scarcity economy that has forgotten what makes life worth living.</li>
-	<li>story(uses=1,tag=meme_Trader)    ->Seeking the thrill of making his own fortune, [founderName] assembled a team of merchants and chartered a ship to travel to the Rim. Unfortunately, [founderName_pronoun] didn't survive the dangerous trip.</li>
+	<li>setup(tag=meme_Trader)           ->[founderName] était un économiste dans le Glitterworld. [founder_pronoun] regardait l'apparente prospérité qui l'entourait et ne voyait que la décadence. La stagnation d'une fausse économie de pénurie qui a oublié ce qui fait que la vie vaut la peine d'être vécue.</li>
+	<li>story(uses=1,tag=meme_Trader)    ->A la recherche de l'excitation de faire sa propre fortune, [founderName] a réuni une équipe de marchands et a affrété un navire pour se rendre dans la Bordure. Malheureusement, [founderName_pronoun] n'a pas survécu à ce dangereux voyage.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_Trader)         ->The oldest trader in my caravan taught me the history of wealth, how humanity has always sought to increase its prosperity. He was leading me to understand that</li>
-	<li>lesson(tag=meme_Trader)              ->the true measure and power of a man lies in profit</li>
-	<li>lessonReinforcement(tag=meme_Trader) ->A poor man is a defenseless man, and the Rim is not a place for weaklings.</li>
+	<li>lessonIntro(tag=meme_Trader)         ->Le plus vieux commerçant de ma caravane m'a enseigné l'histoire de la richesse, comment l'humanité a toujours cherché à accroître sa prospérité. Il m'a amené à comprendre que</li>
+	<li>lesson(tag=meme_Trader)              ->la vraie mesure et la puissance d'un homme réside dans le profit</li>
+	<li>lessonReinforcement(tag=meme_Trader) ->Un pauvre homme est un homme sans défense, et la Bordure n'est pas un endroit pour les faibles.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_Trader)    ->Picture a world entering transcendence. Do you really think the masses of poor, filthy, unwashed beggars have any place in such a process?</li>
-	<li>archistFact(tag=meme_Trader)     ->The archotechs can't ascend everyone, and it stands to reason that they will choose the most prosperous and capable of us all.</li>
-	<li>archistProphecy(tag=meme_Trader) ->[inTheEnd], only those who can buy their way to transcendence will be chosen.</li>
+	<li>archistBasis(tag=meme_Trader)    ->Imaginez un monde qui entre dans la transcendance. Pensez-vous vraiment que les masses de mendiants pauvres, sales et sans habits ont une place quelconque dans un tel processus ?</li>
+	<li>archistFact(tag=meme_Trader)     ->Les archotechs ne peuvent pas élever tout le monde, et il est logique qu'ils choisissent les plus prospères et les plus capables d'entre nous.</li>
+	<li>archistProphecy(tag=meme_Trader) ->[inTheEnd], seuls ceux qui peuvent acheter leur chemin vers la transcendance seront choisis.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_Trader)    ->As there are spirits of nature and mechanisms, so there are spirits that govern the abstract concepts that guide the future of humanity.</li>
-	<li>animistFact(tag=meme_Trader)     ->Among the spirits, the spirit of wealth has unrivaled power among them all, for it controls the sphere of prosperity, of power.</li>
-	<li>animistProphecy(tag=meme_Trader) ->[itIsSaid] only those who amass incredible wealth can truly appease the spirits.</li>
+	<li>animistBasis(tag=meme_Trader)    ->De même qu'il existe des esprits de la nature et des mécanismes, de même qu'il existe des esprits qui régissent les concepts abstraits qui guident l'avenir de l'humanité.</li>
+	<li>animistFact(tag=meme_Trader)     ->Parmi les esprits, l'esprit de la richesse a un pouvoir inégalé, car il contrôle la sphère de la prospérité, du pouvoir.</li>
+	<li>animistProphecy(tag=meme_Trader) ->[itIsSaid] seuls ceux qui amassent d'incroyables richesses peuvent vraiment apaiser les esprits.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_Trader)->[itIsSaid] as ants store food for the long winter, we will accumulate wealth beyond all imagining, and with it, incredible prosperity.</li>
+	<li>serketistProphecy(tag=meme_Trader)->[itIsSaid] comme les fourmis stockent la nourriture pour un long hiver, nous accumulerons des richesses au-delà de toute imagination, et avec elles, une incroyable prospérité.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_Trader)->Only the truly prosperous can hope to evade the gaze of such eldritch entities. We will amass wealth beyond all imagining, and with it hopefully buy our way out of their insanity.</li>
+	<li>chthonianProphecy(tag=meme_Trader)->Seuls les plus prospères peuvent espérer échapper au regard de telles entités eldritch. Nous allons amasser des richesses au-delà de tout ce que l'on peut imaginer, et avec cela, nous espérons acheter notre chemin hors de leur folie.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_Trader)->Such occult knowledge will be expensive. We will amass wealth beyond all imagining, and with it hopefully buy all the secrets that remain hidden.</li>
+	<li>esotericismProphecy(tag=meme_Trader)->Ces connaissances occultes seront coûteuses. Nous amasserons des richesses au-delà de toute imagination, et avec elles, nous espérons acheter tous les secrets qui restent cachés.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_Trader)->We will amass wealth beyond all imagining, and with it hopefully buy the doomsday devices that will bring the end of days.</li>
+	<li>eschatologismFact(tag=meme_Trader)->Nous amasserons des richesses au-delà de tout ce que nous pouvons imaginer, et avec elles, nous espérons acheter les dispositifs apocalyptiques qui amèneront la fin des temps.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_Trader)->Regarding employee incentives, please remember that this is not a charity. As the saying goes: "it is wealth that moves the world, and profit that rules it".</li>
+	<li>introMemo(tag=meme_Trader)->En ce qui concerne les incitations pour les employés, n'oubliez pas qu'il ne s'agit pas d'une organisation caritative. Comme le dit le proverbe : "C'est la richesse qui fait bouger le monde, et le profit qui le gouverne".</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_Trader)->These wayward creations, born of human creativity, represent a boundless potential wealth that we'd do well to exploit.</li>
+	<li>alienistProphecy(tag=meme_Trader)->Ces créations errantes, nées de la créativité humaine, représentent une richesse potentiellement illimitée que nous ferions bien d'exploiter.</li>
 </VME_Trader.descriptionMaker.rules.rulesStrings>
 <VME_Trader.generalRules.rulesStrings>
 	<li>memeAdjective->commerce</li>
