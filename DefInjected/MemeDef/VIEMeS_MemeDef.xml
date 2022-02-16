@@ -950,40 +950,40 @@
 <VME_Egalitarian.description>Le sectarisme ne doit absolument jamais être toléré, aider les personnes dans le besoin et respecter leurs croyances sont des récompenses en soi.</VME_Egalitarian.description>
 <VME_Egalitarian.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_Egalitarian)        ->[deity0_name] showed us that the path to true wisdom lies in tolerance and equality.</li>
-	<li>episode(uses=1,tag=meme_Egalitarian)  ->[deity0_name] said to all the [memberNamePlural], "You were all created in my own image, and you are all equal to my eyes."</li>
+	<li>creation(tag=meme_Egalitarian)        ->[deity0_name] nous a montré que la voie de la vraie sagesse passe par la tolérance et l'égalité.</li>
+	<li>episode(uses=1,tag=meme_Egalitarian)  ->[deity0_name] a dit à tous les [memberNamePlural], "Vous avez tous été créés à mon image, et vous êtes tous égaux à mes yeux."</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_Egalitarian)           ->On the [place_summary] [place_name], a tradition began at the [altarRoomLabel] of [deity0_name] where people would accept the beliefs of their neighbours, and revel in the sharing of different perspectives.</li>
-	<li>conflict(tag=meme_Egalitarian)           ->A bigot [foeLeader] looked at this with scorn, for [foeLeader_pronoun] was intolerant of any belief different from [foeLeader_possessive] own.</li>
-	<li>founderJoin(tag=meme_Egalitarian)        ->[deity0_name]'s truest follower [founderName] stood before the [place_powerCenter], and gave a long, passionate speech about the need for respect and tolerance.</li>
-	<li>victory(tag=meme_Egalitarian)            ->Even if the [foeLeader] wasn't convinced by the arguments, everyone else applauded [founderName]'s words, and [founderName_pronoun] was considered from that moment to be [deity0_name]'s speaker.</li>
+	<li>intro(tag=meme_Egalitarian)           ->Sur la [place_summary] [place_name], une tradition a vu le jour à [altarRoomLabel] de [deity0_name], où les gens acceptaient les croyances de leurs voisins et se délectaient du partage de perspectives différentes.</li>
+	<li>conflict(tag=meme_Egalitarian)           ->Un [foeLeader] bigot regardait cela avec mépris, car [foeLeader_pronoun] était intolérant à toute croyance différente de la sienne.</li>
+	<li>founderJoin(tag=meme_Egalitarian)        ->[founderName], le plus fidèle disciple de [deity0_name], s'est tenu devant [place_powerCenter], et a prononcé un long discours passionné sur la nécessité du respect et de la tolérance.</li>
+	<li>victory(tag=meme_Egalitarian)            ->Même si le [foeLeader] n'était pas convaincu par les arguments, tous les autres ont applaudi les paroles de [founderName], et [founderName_pronoun] a été considéré à partir de ce moment comme l'orateur de [deity0_name].</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_Egalitarian)           ->From [founderName_possessive] early life, [founderName] was persecuted and imprisoned. [founderName_possessive] ideas were so radically different that [founderName_pronoun] could never fit anywhere. Perhaps [founderName_pronoun] could have reacted to this scorn with more hatred of [founderName_possessive] own, but instead [founderName_pronoun] decided to embrace the opposite.</li>
-	<li>story(uses=1,tag=meme_Egalitarian)    ->[founderName]'s ideas of tolerance and equality deeply resonated with some people, and a new school of thought was born: Light knows no bigotry, wind knows no discrimination, rain knows no snobbery, crops know no segregation.</li>
+	<li>setup(tag=meme_Egalitarian)           ->Dès son plus jeune âge, [founderName] a été persécuté et emprisonné. Ses idées étaient si radicalement différentes qu'[founderName_pronoun] n'a jamais pu trouver sa place nulle part. [founderName_pronoun] aurait peut-être pu réagir à ce mépris par plus de haine, mais [founderName_pronoun] a décidé d'embrasser le contraire.</li>
+	<li>story(uses=1,tag=meme_Egalitarian)    ->Les idées de tolérance et d'égalité de [founderName] ont trouvé un écho profond chez certaines personnes, et une nouvelle école de pensée est née : La lumière ne connaît pas le sectarisme, le vent ne connaît pas la discrimination, la pluie ne connaît pas le snobisme, les cultures ne connaissent pas la ségrégation.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_Egalitarian)         ->Bigotry, hate, bullying, perversion and discrimination must never be considered to be human rights. It took so long to understand that</li>
-	<li>lesson(tag=meme_Egalitarian)              ->a human without a strong sense of justice, is no human - a human without a strong sense of acceptance, is no human - a human without a strong sense of egalitarianism, is no human</li>
-	<li>lessonReinforcement(tag=meme_Egalitarian) ->To be human, is to act human, and to act human, is to stand up to all forms of inhumanity.</li>
+	<li>lessonIntro(tag=meme_Egalitarian)         ->Le sectarisme, la haine, l'intimidation, la perversion et la discrimination ne doivent jamais être considérés comme des droits de l'homme. Il a fallu si longtemps pour comprendre que</li>
+	<li>lesson(tag=meme_Egalitarian)              ->un humain sans un fort sentiment de justice n'est pas un humain - un humain sans un fort sentiment d'acceptation n'est pas un humain - un humain sans un fort sentiment d'égalitarisme n'est pas un humain</li>
+	<li>lessonReinforcement(tag=meme_Egalitarian) ->Être humain, c'est agir humainement, et agir humainement, c'est s'opposer à toutes les formes d'inhumanité.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_Egalitarian)    ->Archotechs are the pinnacle of ethical development. Beings so wise and so advanced that they have achieved perfection in their thoughts.</li>
-	<li>archistFact(tag=meme_Egalitarian)     ->To an archotech, there must be no differences between two human beings. We are all the same in their eyes.</li>
-	<li>archistProphecy(tag=meme_Egalitarian) ->Only by forgetting our differences and focusing on what makes us all human can we become worthy of transcendence.</li>
+	<li>archistBasis(tag=meme_Egalitarian)    ->Les archotechs sont l'apogée du développement éthique. Des êtres si sages et si avancés qu'ils ont atteint la perfection dans leurs pensées.</li>
+	<li>archistFact(tag=meme_Egalitarian)     ->Pour un archotech, il ne doit y avoir aucune différence entre deux êtres humains. Nous sommes tous pareils à leurs yeux.</li>
+	<li>archistProphecy(tag=meme_Egalitarian) ->Ce n'est qu'en oubliant nos différences et en nous concentrant sur ce qui nous rend tous humains que nous pouvons devenir dignes de la transcendance.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_Egalitarian)    ->As spirits are but a shadow to us, pervading the hidden corners behind reality, so are we similarly hidden to them.</li>
-	<li>animistFact(tag=meme_Egalitarian)     ->To the spirits, we are a blurred impression upon the ethereal plane. The differences that seem so striking to us are not as noticeable to them.</li>
-	<li>animistProphecy(tag=meme_Egalitarian) ->[itIsSaid] only by forgetting our differences and focusing on what makes us all human can we make the spirits truly listen to us.</li>
+	<li>animistBasis(tag=meme_Egalitarian)    ->De même que les esprits ne sont qu'une ombre pour nous, pénétrant dans les recoins cachés de la réalité, de même nous sommes cachés pour eux.</li>
+	<li>animistFact(tag=meme_Egalitarian)     ->Pour les esprits, nous sommes une impression floue sur le plan éthéré. Les différences qui nous semblent si frappantes ne sont pas aussi perceptibles pour eux.</li>
+	<li>animistProphecy(tag=meme_Egalitarian) ->[itIsSaid] ce n'est qu'en oubliant nos différences et en nous concentrant sur ce qui nous rend tous humains que nous pourrons faire en sorte que les esprits nous écoutent vraiment.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_Egalitarian)->[itIsSaid] we will form a society in which our differences do not matter. Accepting and tolerant, as all insects are.</li>
+	<li>serketistProphecy(tag=meme_Egalitarian)->[itIsSaid] nous formerons une société dans laquelle nos différences n'ont pas d'importance. Acceptant et tolérant, comme le sont tous les insectes.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_Egalitarian)->In the face of such cosmic depravity our quarrels and differences are moot. Death does not care about the creed of those it collects.</li>
+	<li>chthonianProphecy(tag=meme_Egalitarian)->Face à une telle dépravation cosmique, nos querelles et nos différences sont sans objet. La mort ne se soucie pas de la croyance de ceux qu'elle recueille.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_Egalitarian)->Such occult knowledge will require an open mind. We'll need to welcome all sorts of creeds and beliefs into our fold.</li>
+	<li>esotericismProphecy(tag=meme_Egalitarian)->Ces connaissances occultes nécessiteront une ouverture d'esprit. Nous devrons accueillir toutes sortes de croyances dans notre bercail.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_Egalitarian)->A narrow mind won't be able to bring the end of days. We'll need to expand our minds if we want to get the job done.</li>
+	<li>eschatologismFact(tag=meme_Egalitarian)->Un esprit étroit ne pourra pas amener la fin des temps. Nous devrons élargir nos esprits si nous voulons que le travail soit fait.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_Egalitarian)->This coming week we are instating the new multifaith policies to ensure all our employees are free to express their own beliefs in peace. The Human Resources department will handle reservations and timetables for the scheduled multifaith masses.</li>
+	<li>introMemo(tag=meme_Egalitarian)->La semaine prochaine, nous mettrons en place les nouvelles politiques multiconfessionnelles afin de garantir que tous nos employés soient libres d'exprimer leurs propres croyances en toute tranquillité. Le département des ressources humaines s'occupera des réservations et des horaires pour les messes multiconfessionnelles programmées.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_Egalitarian)->These wayward creatures are a point of contention among many people. Are they to be protected, or destroyed? We'd do well to listen to all points of view before deciding.</li>
+	<li>alienistProphecy(tag=meme_Egalitarian)->Ces créatures capricieuses sont un sujet de discorde pour beaucoup de gens. Doit-on les protéger ou les détruire ? Nous ferions bien d'écouter tous les points de vue avant de prendre une décision.</li>
 </VME_Egalitarian.descriptionMaker.rules.rulesStrings>
 <VME_Egalitarian.generalRules.rulesStrings>
 	<li>memeAdjective->égalitaire</li>
