@@ -1005,40 +1005,40 @@
 <VME_Pacifist.description>Bien que se défendre soit acceptable, nous sommes allés trop loin et avons trop évolué pour approuver le principe de la guerre ou de l'esclavage. Même les crises de colère ne devraient se manifester que sous des formes qui ne nuisent pas aux autres ou à la propriété.</VME_Pacifist.description>
 <VME_Pacifist.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_Pacifist)        ->[deity0_name] saw the violence in the human heart, and recoiled in disgust.</li>
-	<li>episode(uses=1,tag=meme_Pacifist)  ->Speaking to the believers, [deity0_name] said: "There are many causes worth dying for, but certainly, there are none worth killing for".</li>
+	<li>creation(tag=meme_Pacifist)        ->[deity0_name] a vu la violence dans le cœur humain, et a reculé avec dégoût.</li>
+	<li>episode(uses=1,tag=meme_Pacifist)  ->S'adressant aux croyants, [deity0_name] a dit : "Il y a beaucoup de causes qui valent la peine de mourir, mais il n'y en a certainement aucune qui vaille la peine de tuer."</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_Pacifist)           ->[place_summary] [place_name] was always fraught with conflict. The [memberNamePlural] were no strangers to war and violence, and this deeply saddened [deity0_name].</li>
-	<li>conflict(tag=meme_Pacifist)        ->[deity0_name] saw the constant machinations of a terrible [foeLeader], a warmonger, and how [foeLeader_pronoun] was always fanning the flames of war.</li>
-	<li>founderJoin(tag=meme_Pacifist)     ->In a show of divine inspiration, [deity0_name] infused the [foeLeader] with the thoughts and experiences of all those [foeLeader_pronoun] had maimed and killed, and [foeLeader_pronoun] immediately had a change of heart. From that point on, the [foeLeader] took [foeLeader_possessive] new name as the [deity0_name]'s speaker: [founderName] the Peacemaker.</li>
-	<li>victory(tag=meme_Pacifist)         ->[founderName] made us all understand that no one is beyond redemption and that eternal wisdom lies in meeting hatred with non-hatred.</li>
+	<li>intro(tag=meme_Pacifist)           ->[place_summary] [place_name] a toujours été marquée par des conflits. Les [memberNamePlural] n'étaient pas étrangers à la guerre et à la violence, et cela attristait profondément [deity0_name].</li>
+	<li>conflict(tag=meme_Pacifist)        ->[deity0_name] a vu les machinations constantes d'un terrible [foeLeader], un belliciste, et comment [foeLeader_pronoun] attisait toujours les flammes de la guerre.</li>
+	<li>founderJoin(tag=meme_Pacifist)     ->Dans un élan d'inspiration divine, [deity0_name] a insufflé au [foeLeader] les pensées et les expériences de tous ceux qu'[foeLeader_pronoun] avait mutilés et tués, et [foeLeader_pronoun] a immédiatement changé d'avis. À partir de ce moment-là, le [foeLeader] a pris son nouveau nom en tant que porte-parole de [deity0_name] : [founderName] le pacificateur.</li>
+	<li>victory(tag=meme_Pacifist)         ->[founderName] nous a fait comprendre que personne n'est irrécupérable et que la sagesse éternelle consiste à répondre à la haine par la non-haine.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_Pacifist)           ->[founderName] was a former warlord. Hundreds of thousands had fallen before [founderName_possessive] armies. After years of fighting, [founder_pronoun] looked at [founderName_objective]self in the mirror one day and could only see the blood of all [founderName_possessive] victims, and then and there [founder_pronoun] decided to preach the cause of total pacifism. [founderName_possessive] tale of redemption would resonate through the centuries.</li>
-	<li>story(uses=1,tag=meme_Pacifist)    ->[founderName] understood better than anyone else that nothing will end war unless the people themselves refuse to go to war.</li>
+	<li>setup(tag=meme_Pacifist)           ->[founderName] était un ancien chef de guerre. Des centaines de milliers de personnes étaient tombées devant ses armées. Après des années de combat, [founder_pronoun] s'est regardé un jour dans le miroir et a vu le sang de toutes ses victimes. C'est alors qu'[founder_pronoun] a décidé de prêcher la cause du pacifisme total. Son histoire de rédemption résonnera à travers les siècles.</li>
+	<li>story(uses=1,tag=meme_Pacifist)    ->[founderName] a compris mieux que quiconque que rien ne mettra fin à la guerre si le peuple lui-même ne refuse pas de faire la guerre.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_Pacifist)         ->Military lessons were part of our school education, but our teacher was what he called a militant pacifist. He tried to instill into us that</li>
-	<li>lesson(tag=meme_Pacifist)              ->nothing will end war unless the people themselves refuse to go to war</li>
-	<li>lessonReinforcement(tag=meme_Pacifist) ->Never do anything against conscience even if the state demands it.</li>
+	<li>lessonIntro(tag=meme_Pacifist)         ->Les leçons militaires faisaient partie de notre éducation scolaire, mais notre professeur était ce qu'il appelait un pacifiste militant. Il a essayé de nous inculquer que</li>
+	<li>lesson(tag=meme_Pacifist)              ->rien ne mettra fin à la guerre si les gens eux-mêmes ne refusent pas de faire la guerre</li>
+	<li>lessonReinforcement(tag=meme_Pacifist) ->Ne faites jamais rien qui va à l'encontre de votre conscience, même si l'État l'exige.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_Pacifist)    ->Can you imagine how archotechs view such a primitive thing as war?</li>
-	<li>archistFact(tag=meme_Pacifist)     ->War is inherently wasteful. Dedicating resources to kill each other only serves to deplete those resources, which could have been better used to improve the lives of everyone involved. To an archotech this senseless squandering is abhorrent.</li>
-	<li>archistProphecy(tag=meme_Pacifist) ->[inTheEnd], only those who can resist their most basic violent urges will be ready to transcend.</li>
+	<li>archistBasis(tag=meme_Pacifist)    ->Pouvez-vous imaginer comment les archotechs voient une chose aussi primitive que la guerre ?</li>
+	<li>archistFact(tag=meme_Pacifist)     ->La guerre est par nature un gaspillage. Consacrer des ressources à s'entre-tuer ne sert qu'à épuiser ces ressources, qui auraient pu être mieux utilisées pour améliorer la vie de toutes les personnes impliquées. Pour un archotech, ce gaspillage insensé est odieux.</li>
+	<li>archistProphecy(tag=meme_Pacifist) ->[inTheEnd], seuls ceux qui peuvent résister à leurs pulsions violentes les plus fondamentales seront prêts à les transcender.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_Pacifist)    ->The spirit of war is immensely powerful, fed by thousands of years of violent human expansion through the stars. It is, however, not a spirit of love, nor it has any sympathy for the humanity that feeds it with suffering.</li>
-	<li>animistFact(tag=meme_Pacifist)     ->Feeding the spirit of war with strife is senseless and wasteful. We should instead cultivate and feed a spirit of peace, of concordance.</li>
-	<li>animistProphecy(tag=meme_Pacifist) ->[itIsSaid] only those who can resist their most basic violent urges will be ready to commune with the spirits.</li>
+	<li>animistBasis(tag=meme_Pacifist)    ->L'esprit de la guerre est immensément puissant, nourri par des milliers d'années d'expansion humaine violente à travers les étoiles. Ce n'est cependant pas un esprit d'amour, et il n'a aucune sympathie pour l'humanité qui le nourrit de souffrances.</li>
+	<li>animistFact(tag=meme_Pacifist)     ->Nourrir l'esprit de guerre par des querelles est insensé et inutile. Nous devrions plutôt cultiver et nourrir un esprit de paix, de concordance.</li>
+	<li>animistProphecy(tag=meme_Pacifist) ->[itIsSaid] seuls ceux qui peuvent résister à leurs pulsions violentes les plus primaires seront prêts à communier avec les esprits.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_Pacifist)->[itIsSaid] we will understand that insects are not intrinsically violent, and don't kill for sport like humans do. We should strive to be more like them.</li>
+	<li>serketistProphecy(tag=meme_Pacifist)->[itIsSaid] nous comprendrons que les insectes ne sont pas intrinsèquement violents et qu'ils ne tuent pas pour le sport comme le font les humains. Nous devrions nous efforcer de leur ressembler davantage.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_Pacifist)->Violence will not be the key to overcoming these ancient entities, for you cannot fight terror with terror. Only by shunning the violence that arises from their cosmic insanity can we hope to save ourselves truly.</li>
+	<li>chthonianProphecy(tag=meme_Pacifist)->La violence ne sera pas la clé pour vaincre ces entités anciennes, car on ne peut pas combattre la terreur par la terreur. Ce n'est qu'en évitant la violence qui découle de leur folie cosmique que nous pouvons espérer nous sauver véritablement.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_Pacifist)->Occult knowledge is subtle, and cannot be acquired by force. We shall hone our minds without violence to discover the hidden truths of the Universe.</li>
+	<li>esotericismProphecy(tag=meme_Pacifist)->La connaissance occulte est subtile, et ne peut être acquise par la force. Nous devons aiguiser notre esprit sans violence pour découvrir les vérités cachées de l'Univers.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_Pacifist)->As much as the world deserves to burn, we are not killers. If we become murderers, how are we any better than this cursed Universe? No, the Apocalypse must be brought without bloodshed, cleanly. It's the only way.</li>
+	<li>eschatologismFact(tag=meme_Pacifist)->Autant que le monde mérite de brûler, nous ne sommes pas des tueurs. Si nous devenons des meurtriers, en quoi serions-nous meilleurs que cet Univers maudit ? Non, l'Apocalypse doit être amenée sans effusion de sang, proprement. C'est le seul moyen.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_Pacifist)->We are writing to inform you that the two employees (who shall remain unnamed per the company's privacy clauses) who caused a violent altercation yesterday have had their contracts terminated, and are no longer part of our staff. Such violence in the workplace is abhorrent and we will NOT let it go unpunished.</li>
+	<li>introMemo(tag=meme_Pacifist)->Nous vous écrivons pour vous informer que les deux employés (dont nous tairons le nom conformément aux clauses de confidentialité de la société) qui ont provoqué une violente altercation hier ont vu leur contrat résilié et ne font plus partie de notre personnel. Une telle violence sur le lieu de travail est odieuse et nous ne la laisserons PAS impunie.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_Pacifist)->These wayward creatures are innocent beings. We are not killers, and perhaps we'd better leave them alone.</li>
+	<li>alienistProphecy(tag=meme_Pacifist)->Ces créatures rebelles sont des êtres innocents. Nous ne sommes pas des tueurs, et nous ferions peut-être mieux de les laisser tranquilles.</li>
 </VME_Pacifist.descriptionMaker.rules.rulesStrings>
 <VME_Pacifist.generalRules.rulesStrings>
 	<li>memeAdjective->pacifiste</li>
