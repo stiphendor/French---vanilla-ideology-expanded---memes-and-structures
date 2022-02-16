@@ -1057,40 +1057,40 @@
 <VME_FireWorship.description>La flamme sacrée insuffle la vie à cette planète et à beaucoup d'autres comme elle, qu'elle nous guide vers le salut et qu'elle réduise nos ennemis en cendres.</VME_FireWorship.description>
 <VME_FireWorship.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_FireWorship)        ->[deity0_name] infused [deity0_possessive] followers with a holy flame: "The hero and the coward both feel exactly the same fear, only the hero confronts his fear and converts it into fire."</li>
-	<li>episode(uses=1,tag=meme_FireWorship)  ->Following the teachings of [deity0_name], we understood that what fire does not destroy, it hardens</li>
+	<li>creation(tag=meme_FireWorship)        ->[deity0_name] a insufflé à ses disciples une flamme sacrée : "Le héros et le lâche ressentent exactement la même peur, seul le héros affronte sa peur et la convertit en feu."</li>
+	<li>episode(uses=1,tag=meme_FireWorship)  ->En suivant les enseignements de [deity0_name], nous avons compris que ce que le feu ne détruit pas, il le durcit.</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_FireWorship)           ->On the [place_summary] [place_name], the [memberNamePlural] built an enormous bonfire, dedicated to [deity0_name].</li>
-	<li>conflict(tag=meme_FireWorship)        ->An envious [foeLeader] saw the bonfire in the horizon, and wanted to quench its fire.</li>
-	<li>founderJoin(tag=meme_FireWorship)     ->At great peril [founderName], an acolyte of [deity0_name], infiltrated the encampment of the [foeLeader]'s soldiers during the night, and set their tents ablaze.</li>
-	<li>victory(tag=meme_FireWorship)         ->The [memberNamePlural] will never forget the anguished cries of the burning soldiers. Their charred corpses were added to the bonfire, a warning to all who would attempt to defy the Will of [deity0_name] again.</li>
+	<li>intro(tag=meme_FireWorship)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont construit un énorme feu de joie, dédié à [deity0_name].</li>
+	<li>conflict(tag=meme_FireWorship)        ->Un [foeLeader] envieux a vu le feu de joie à l'horizon, et a voulu éteindre son feu.</li>
+	<li>founderJoin(tag=meme_FireWorship)     ->Au péril de sa vie, [founderName], un acolyte de [deity0_name], infiltrated s'est infiltré pendant la nuit dans le campement des soldats du [foeLeader] et a mis le feu à leurs tentes.</li>
+	<li>victory(tag=meme_FireWorship)         ->Les [memberNamePlural] n'oublieront jamais les cris d'angoisse des soldats en feu. Leurs corps carbonisés furent ajoutés au bûcher, un avertissement à tous ceux qui tenteraient de défier à nouveau la volonté de [deity0_name].</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_FireWorship)           ->[founderName] was imprisoned from [founderName_possessive] youth for [founderName_possessive] supposed crimes. Arsonist, [founderName_pronoun] was called. What they failed to see is that [founderName_pronoun] was instead a visionary, a prophet. [founderName_pronoun] saw the hidden patterns that are inside all flames.</li>
-	<li>story(uses=1,tag=meme_FireWorship)    ->A small spark can start a great fire, and the philosophy of [founderName] became a dominant school of thought that spread across the stars.</li>
+	<li>setup(tag=meme_FireWorship)           ->[founderName] a été emprisonné dès sa jeunesse pour ses crimes supposés. On l'appelait "pyromane". Ce qu'ils n'ont pas vu, c'est qu'[founderName_pronoun] était plutôt un visionnaire, un prophète. [founderName_pronoun] a vu les formes cachées qui sont à l'intérieur de toutes les flammes.</li>
+	<li>story(uses=1,tag=meme_FireWorship)    ->Une petite étincelle peut déclencher un grand feu, et la philosophie de [founderName] devenue une école de pensée dominante qui s'est répandue à travers les étoiles.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_FireWorship)         ->I found them among the ashes: blackened, charred remains that were disfigured beyond recognition. It was sad, but I had warned them that</li>
-	<li>lesson(tag=meme_FireWorship)              ->fire is never a gentle master</li>
-	<li>lessonReinforcement(tag=meme_FireWorship) ->The deepest lessons come out of the deepest waters and the hottest fires.</li>
+	<li>lessonIntro(tag=meme_FireWorship)         ->Je les ai trouvés parmi les cendres : des restes noircis, carbonisés, défigurés au point d'être méconnaissables. C'était triste, mais je les avais prévenus que</li>
+	<li>lesson(tag=meme_FireWorship)              ->le feu n'est jamais un maître doux</li>
+	<li>lessonReinforcement(tag=meme_FireWorship) ->Les leçons les plus profondes viennent des eaux les plus profondes et des feux les plus chauds.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_FireWorship)    ->The archotechs are wise, pure. They manifest themselves to us in the most tangible of all visible mysteries – fire.</li>
-	<li>archistFact(tag=meme_FireWorship)     ->It is said that a world entering transcendence is engulfed in continent-wide wildfires. A mystical fire that doesn't consume, but instead gathers souls to allow them to ascend.</li>
-	<li>archistProphecy(tag=meme_FireWorship) ->[inTheEnd], only those who are worthy of the sacred fire will be allowed to evolve beyond their human selves.</li>
+	<li>archistBasis(tag=meme_FireWorship)    ->Les archotechs sont sages, purs. Ils se manifestent à nous dans le plus tangible de tous les mystères visibles - le feu.</li>
+	<li>archistFact(tag=meme_FireWorship)     ->Il est dit qu'un monde entrant dans la transcendance est englouti par des feux de forêt à l'échelle du continent. Un feu mystique qui ne consume pas, mais rassemble les âmes pour leur permettre de s'élever.</li>
+	<li>archistProphecy(tag=meme_FireWorship) ->[inTheEnd], seuls ceux qui sont dignes du feu sacré seront autorisés à évoluer au-delà de leur nature humaine.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_FireWorship)    ->There is no stronger spirit than the spirit of fire. All other spirits are subservient to it.</li>
-	<li>animistFact(tag=meme_FireWorship)     ->The wavering flames offer us an insight into the world of spirits, for they represent the transmogrification of wood into ashes.</li>
-	<li>animistProphecy(tag=meme_FireWorship) ->[itIsSaid] only those who venerate fire will be able to appease the spirits.</li>
+	<li>animistBasis(tag=meme_FireWorship)    ->Il n'y a pas d'esprit plus fort que l'esprit du feu. Tous les autres esprits lui sont subordonnés.</li>
+	<li>animistFact(tag=meme_FireWorship)     ->Les flammes vacillantes nous donnent un aperçu du monde des esprits, car elles représentent la transformation du bois en cendres.</li>
+	<li>animistProphecy(tag=meme_FireWorship) ->[itIsSaid] seuls ceux qui vénèrent le feu pourront apaiser les esprits.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_FireWorship)->[itIsSaid] we will be like a fire-chaser beetle, drawn to flames as the source of all life.</li>
+	<li>serketistProphecy(tag=meme_FireWorship)->[itIsSaid] nous serons comme un scarabée chasseur de feu, attiré par les flammes comme source de toute vie.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_FireWorship)->By mastering and controlling the holy fire we might be able to evade these cosmic monstrosities, and perhaps burn them to ashes if they decide to end us.</li>
+	<li>chthonianProphecy(tag=meme_FireWorship)->En maîtrisant et en contrôlant le feu sacré, nous pourrons peut-être échapper à ces monstruosités cosmiques, et peut-être les réduire en cendres si elles décident d'en finir avec nous.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_FireWorship)->Studying the holy flame will bring precious insights into the nature of the Universe, for fire is the ultimate, purest expression of entropy.</li>
+	<li>esotericismProphecy(tag=meme_FireWorship)->L'étude de la flamme sacrée apportera de précieuses informations sur la nature de l'Univers, car le feu est l'expression ultime et la plus pure de l'entropie.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_FireWorship)->We will watch it all burn.</li>
+	<li>eschatologismFact(tag=meme_FireWorship)->Nous regarderons tout brûler.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_FireWorship)->Let me remind you all that this week's fire evacuation drill has been scheduled one hour earlier than usual. We take safety measures very seriously here: fire may be sacred, but a burned employee harms profits.</li>
+	<li>introMemo(tag=meme_FireWorship)->Permettez-moi de vous rappeler que l'exercice d'évacuation en cas d'incendie de cette semaine a été programmé une heure plus tôt que d'habitude. Nous prenons les mesures de sécurité très au sérieux ici : le feu est peut-être sacré, mais un employé brûlé nuit aux profits.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_FireWorship)->All these wayward creatures, forgotten creations of humanity, will serve as kindling for the flames.</li>
+	<li>alienistProphecy(tag=meme_FireWorship)->Toutes ces créatures errantes, créations oubliées de l'humanité, serviront de combustible pour les flammes.</li>
 </VME_FireWorship.descriptionMaker.rules.rulesStrings>
 <VME_FireWorship.generalRules.rulesStrings>
 	<li>memeAdjective->brûlant</li>
