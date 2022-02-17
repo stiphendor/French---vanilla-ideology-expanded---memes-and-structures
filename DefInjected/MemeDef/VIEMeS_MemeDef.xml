@@ -1167,40 +1167,40 @@
 <VME_Light.description>L'obscurité obscurcit la vision ainsi que l'esprit, la lumière noire est un événement méchant et ne doit pas être tolérée.</VME_Light.description>
 <VME_Light.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_Light)        ->In the beginning [deity0_name] created the heaven and the earth. And [deity0_pronoun] said: "Let there be light". And there was light.</li>
-	<li>episode(uses=1,tag=meme_Light)  ->[deity0_name] saw the light, that it was good: and [deity0_name] divided the light from the darkness. And [deity0_name] called the light Day, and the darkness [deity0_pronoun] called Night.</li>
+	<li>creation(tag=meme_Light)        ->Au commencement, [deity0_name] créa le ciel et la terre. Et [deity0_pronoun] dit : "Que la lumière soit." Et la lumière fut.</li>
+	<li>episode(uses=1,tag=meme_Light)  ->[deity0_name] vit la lumière, et elle était bonne ; et [deity0_name] sépara la lumière des ténèbres. Et [deity0_name] appela la lumière Jour, et [deity0_pronoun] appela les ténèbres Nuit.</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_Light)           ->And [deity0_name] said: "Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years". A temple was erected by the [memberNamePlural] to commemorate [deity0_name]'s words.</li>
-	<li>conflict(tag=meme_Light)        ->An envious [foeLeader] looked at these wonders, and wanted to plunge the Universe into darkness.</li>
-	<li>founderJoin(tag=meme_Light)     ->[founderName], the greatest prophet of [deity0_name], prayed for help, and [deity0_name] made two great lights; the greater light to rule the day, and the lesser light to rule the night: [deity0_pronoun] made the stars also. And [deity0_name] set them in the firmament of the heaven to give light upon the world.</li>
-	<li>victory(tag=meme_Light)         ->The [foeLeader] was humbled, and fled in terror, for the light of the sun was stronger than his will.</li>
+	<li>intro(tag=meme_Light)           ->Et [deity0_name] dit : " Que les lumières soient dans l'étendue du ciel pour séparer le jour de la nuit, et qu'elles servent de signes, de saisons, de jours et d'années ". Un temple fut érigé par les [memberNamePlural] pour commémorer les paroles de [deity0_name].</li>
+	<li>conflict(tag=meme_Light)        ->Un [foeLeader] envieux regardait ces merveilles, et voulait plonger l'Univers dans les ténèbres.</li>
+	<li>founderJoin(tag=meme_Light)     ->[founderName], le plus grand prophète de [deity0_name], pria pour qu'on l'aide, et [deity0_name] fit deux grandes lumières, la plus grande pour régir le jour, et la plus petite pour régir la nuit : [deity0_pronoun] fit aussi les étoiles. Et [deity0_name] les plaça dans le firmament du ciel pour éclairer le monde.</li>
+	<li>victory(tag=meme_Light)         ->Le [foeLeader] fut humilié et s'enfuit, terrorisé, car la lumière du soleil était plus forte que sa volonté.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_Light)           ->[founderName] was a relief worker in a forgotten Rim world. [founder_pronoun] looked at the poverty and the squalor of the regressed tribes, and understood that only purity of heart and thought can overcome the challenges faced by humanity.</li>
-	<li>story(uses=1,tag=meme_Light)    ->[founderName] created the largest NGO known to man, and volunteers spread across the stars to share [founder_possessive] message of concord and peace.</li>
+	<li>setup(tag=meme_Light)           ->[founderName] était un travailleur humanitaire dans un monde oublié de la Bordure. [founder_pronoun] a observé la pauvreté et la misère des tribus en régression et a compris que seule la pureté du cœur et de la pensée peut permettre de surmonter les défis auxquels l'humanité est confrontée.</li>
+	<li>story(uses=1,tag=meme_Light)    ->[founderName] a créé la plus grande ONG connue de l'homme, et des volontaires se sont répandus à travers les étoiles pour partager son message de concorde et de paix.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_Light)         ->Volunteering is at the very core of being a human. No one has made it through life without someone else’s help. I want you to understand that</li>
-	<li>lesson(tag=meme_Light)              ->the best way to find yourself is to lose yourself in the service of others</li>
-	<li>lessonReinforcement(tag=meme_Light) ->That's what dispelling the darkness means.</li>
+	<li>lessonIntro(tag=meme_Light)         ->Le bénévolat est au cœur même de l'être humain. Personne n'a réussi à traverser la vie sans l'aide de quelqu'un d'autre. Je veux que vous compreniez que</li>
+	<li>lesson(tag=meme_Light)              ->le meilleur moyen de se trouver est de se perdre au service des autres</li>
+	<li>lessonReinforcement(tag=meme_Light) ->C'est ce que signifie dissiper les ténèbres.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_Light)    ->The archotechs, from their beginning, perceived the universe using senses beyond the physical. Their clarity of thought bathes the Universe in light.</li>
-	<li>archistFact(tag=meme_Light)     ->By clouding our senses with darkness, all we are doing is stopping us from understanding the universe the way the archotechs do.</li>
-	<li>archistProphecy(tag=meme_Light) ->[inTheEnd], we will banish darkness forever and unlock the wisdom of the archotechs for all humanity.</li>
+	<li>archistBasis(tag=meme_Light)    ->Les archotechs, dès leur origine, ont perçu l'univers en utilisant des sens au-delà du physique. La clarté de leur pensée baigne l'Univers de lumière.</li>
+	<li>archistFact(tag=meme_Light)     ->En obscurcissant nos sens avec les ténèbres, nous ne faisons que nous empêcher de comprendre l'univers comme le font les archotechs.</li>
+	<li>archistProphecy(tag=meme_Light) ->[inTheEnd], nous bannirons les ténèbres à jamais et libérerons la sagesse des archotechs pour toute l'humanité.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_Light)    ->The world of the spirits is a world covered in darkness, blocking them from interacting directly with the material world.</li>
-	<li>animistFact(tag=meme_Light)     ->We must banish the darkness of the spirit realm, and bathe it with light so that the spirits can truly see us for what we are.</li>
-	<li>animistProphecy(tag=meme_Light) ->[itIsSaid] only those who can peer unblinded into the spirit realm can truly communicate with the spirits.</li>
+	<li>animistBasis(tag=meme_Light)    ->Le monde des esprits est un monde couvert d'obscurité, qui les empêche d'interagir directement avec le monde matériel.</li>
+	<li>animistFact(tag=meme_Light)     ->Nous devons bannir l'obscurité du royaume des esprits et le baigner de lumière afin que les esprits puissent vraiment nous voir tels que nous sommes.</li>
+	<li>animistProphecy(tag=meme_Light) ->[itIsSaid] seuls ceux qui peuvent regarder sans être aveuglés dans le royaume des esprits peuvent vraiment communiquer avec les esprits.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_Light)->[itIsSaid] we will stare unblinking with multi-faceted eyes into an Universe of pure radiance, feee from the darkness that binds us to our fragile mammal shells.</li>
+	<li>serketistProphecy(tag=meme_Light)->[itIsSaid] nous fixerons sans sourciller, avec des yeux à multiples facettes, un Univers de pure radiance, loin de l'obscurité qui nous lie à nos fragiles coquilles de mammifères.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_Light)->These eldritch entities revel in darkness. A sentient, tenebrous darkness of spiral black-vortices that seeps into your very being. Thus we shall embrace the light to forever banish their void of madness.</li>
+	<li>chthonianProphecy(tag=meme_Light)->Ces entités eldritch se délectent des ténèbres. Une obscurité sensible, ténébreuse, faite de vortex noirs en spirale, qui s'infiltre dans votre propre être. Ainsi nous embrasserons la lumière pour bannir à jamais leur vide de folie.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_Light)->Such occult knowledge lies in the dark. Thus we shall embrace the light to banish the secrets that scheme to keep hidden from us.</li>
+	<li>esotericismProphecy(tag=meme_Light)->De telles connaissances occultes se trouvent dans l'obscurité. Ainsi, nous embrasserons la lumière pour bannir les secrets que l'on cherche à nous cacher.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_Light)->A blinding light will herald the end of days, bathing the world in a deadly, annihilating brilliance.</li>
+	<li>eschatologismFact(tag=meme_Light)->Une lumière aveuglante annoncera la fin des temps, baignant le monde dans un éclat mortel et annihilant.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_Light)->As scheduled, the new blue-coloured neon light fixtures will be installed on all our offices beginning next Tuesday. These are energy-efficient lights, so good for the environment!</li>
+	<li>introMemo(tag=meme_Light)->Comme prévu, les nouveaux néons de couleur bleue seront installés dans tous nos bureaux à partir de mardi prochain. Ce sont des lampes à faible consommation d'énergie, donc bonnes pour l'environnement !</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_Light)->These wayward creatures have veered too far from the light, and wander into darkness.</li>
+	<li>alienistProphecy(tag=meme_Light)->Ces créatures rebelles se sont trop éloignées de la lumière et s'égarent dans les ténèbres.</li>
 </VME_Light.descriptionMaker.rules.rulesStrings>
 <VME_Light.generalRules.rulesStrings>
 	<li>memeAdjective->lumière</li>
