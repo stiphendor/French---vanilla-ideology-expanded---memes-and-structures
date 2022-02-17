@@ -1114,40 +1114,40 @@
 <VME_Bushido.description>Un code d'honneur des guerriers signifie abattre ses ennemis jusqu'à la mort elle-même. Si l'esprit faiblit et que la lâcheté l'emporte, le pardon ne peut être trouvé que dans l'au-delà.</VME_Bushido.description>
 <VME_Bushido.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_Bushido)        ->[deity0_name] spoke to [deity0_possessive] followers: "Act with the heart of the warrior."</li>
-	<li>episode(uses=1,tag=meme_Bushido)  ->The teachings of [deity0_name] to his followers emphasized honour, courage and skill: "All men make mistakes, but a good man yields when he knows his course is wrong, and repairs the evil".</li>
+	<li>creation(tag=meme_Bushido)        ->[deity0_name] a parlé à ses disciples : "Agis avec le cœur d'un guerrier."</li>
+	<li>episode(uses=1,tag=meme_Bushido)  ->Les enseignements de [deity0_name] à ses disciples mettaient l'accent sur l'honneur, le courage et habileté : "Tous les hommes font des erreurs, mais un homme bon cède lorsqu'il sait que sa voie est mauvaise, et répare le mal."</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_Bushido)           ->On the [place_summary] [place_name], the [memberNamePlural] built a gigantic dōjō, a sacred hall where [deity0_name]'s ways were taught.</li>
-	<li>conflict(tag=meme_Bushido)        ->Judging it wasteful, the magistrates wanted to demolish the dōjō, using the land for more mundane purposes. They considered [deity0_name]'s ways to be obsolete.</li>
-	<li>founderJoin(tag=meme_Bushido)     ->[founderName], a scholar and master of the martial arts, gathered [founderName_possessive] followers around, and asked them to show the ways of [deity0_name] to the magistrates, preaching their truth by example. They'd show them that only a life lived with honour, courage and skill is worth living.</li>
-	<li>victory(tag=meme_Bushido)         ->The magistrates were humbled by the incredible display of virtue, and their hearts were changed. [founderName] gained great acclaim and [founderName_possessive] teachings spread across the stars.</li>
+	<li>intro(tag=meme_Bushido)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont construit un gigantesque dōjō, une salle sacrée où les voies de [deity0_name] étaient enseignées.</li>
+	<li>conflict(tag=meme_Bushido)        ->Jugeant qu'il s'agissait d'un gaspillage, les magistrats voulaient démolir le dōjō, en utilisant le terrain à des fins plus mondaines. Ils considéraient que les méthodes de [deity0_name] étaient obsolètes.</li>
+	<li>founderJoin(tag=meme_Bushido)     ->[founderName], un érudit et un maître des arts martiaux, a rassemblé ses disciples et leur a demandé de montrer les voies de [deity0_name] aux magistrats, en prêchant leur vérité par l'exemple. Ils leur montreraient que seule une vie vécue avec honneur, courage et habileté vaut la peine d'être vécue.</li>
+	<li>victory(tag=meme_Bushido)         ->Les magistrats ont été humiliés par l'incroyable démonstration de vertu, et leur cœur a changé. [founderName] a été acclamé et ses enseignements se sont répandus à travers les étoiles.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_Bushido)           ->[founderName] was a renowned martial artist in one of the Glitterworlds. [founder_pronoun] posited that only a life lived with honour, courage and skill is worth living. By setting one's heart right every morning and evening, he gains freedom in the Way. His whole life will be without blame, and he will succeed in his calling.</li>
-	<li>story(uses=1,tag=meme_Bushido)    ->Seeking inner peace, [founderName] gathered [founderName_possessive] followers and chartered a ship to travel to the Rim.</li>
+	<li>setup(tag=meme_Bushido)           ->[founderName] était un artiste martial renommé dans le Glitterworld. [founder_pronoun] affirmait que seule une vie vécue avec honneur, courage et habileté vaut la peine d'être vécue. En mettant son cœur à l'endroit chaque matin et chaque soir, on gagne la liberté dans la Voie. Sa vie entière sera sans reproche, et [founder_pronoun] réussira dans sa vocation.</li>
+	<li>story(uses=1,tag=meme_Bushido)    ->À la recherche d'une paix intérieure, [founderName] a rassemblé ses partisans et a affrété un vaisseau pour se rendre dans la Bordure.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_Bushido)         ->It is thus that we learn one single truth: "you must live being true to the single purpose of the present moment". The most important thing I've learned is that</li>
-	<li>lesson(tag=meme_Bushido)              ->only a life lived with honour, courage and skill is worth living</li>
-	<li>lessonReinforcement(tag=meme_Bushido) ->The best fighter is never angry.</li>
+	<li>lessonIntro(tag=meme_Bushido)         ->C'est ainsi que nous apprenons une seule vérité : "vous devez vivre en étant fidèle à l'unique but du moment présent". La chose la plus importante que j'ai apprise est que</li>
+	<li>lesson(tag=meme_Bushido)              ->seule une vie vécue avec honneur, courage et habileté vaut la peine d'être vécue</li>
+	<li>lessonReinforcement(tag=meme_Bushido) ->Le meilleur combattant n'est jamais en colère.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_Bushido)    ->The archotechs are ascended beings, free of the basic instincts that plague humanity.</li>
-	<li>archistFact(tag=meme_Bushido)     ->As supreme ethical beings, the archotechs show us that only a life lived with honour, courage and skill is worth living.</li>
-	<li>archistProphecy(tag=meme_Bushido) ->[inTheEnd], only those warriors who are pure of heart will be allowed to transcend.</li>
+	<li>archistBasis(tag=meme_Bushido)    ->Les archotechs sont des êtres élevés, libérés des instincts primaires qui affligent l'humanité.</li>
+	<li>archistFact(tag=meme_Bushido)     ->En tant qu'êtres éthiques suprêmes, les archotechs nous montrent que seule une vie vécue avec honneur, courage et habileté vaut la peine d'être vécue.</li>
+	<li>archistProphecy(tag=meme_Bushido) ->[inTheEnd], seuls les guerriers au cœur pur seront autorisés à la transcendance.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_Bushido)    ->There are many spirits of War, but the greatest among them all is the spirit of honour.</li>
-	<li>animistFact(tag=meme_Bushido)     ->The greatest among the spirits teaches us that only a life lived with honour, courage and skill is worth living.</li>
-	<li>animistProphecy(tag=meme_Bushido) ->[itIsSaid] only those warriors who are pure of heart can truly appease the spirits.</li>
+	<li>animistBasis(tag=meme_Bushido)    ->Il existe de nombreux esprits de la guerre, mais le plus grand d'entre eux est l'esprit de l'honneur.</li>
+	<li>animistFact(tag=meme_Bushido)     ->Le plus grand des esprits nous enseigne que seule une vie vécue avec honneur, courage et habileté vaut la peine d'être vécue.</li>
+	<li>animistProphecy(tag=meme_Bushido) ->[itIsSaid] seuls les guerriers au cœur pur peuvent vraiment apaiser les esprits.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_Bushido)->[itIsSaid] we will understand that insects teach us that only a life lived with honour, courage and skill is worth living.</li>
+	<li>serketistProphecy(tag=meme_Bushido)->[itIsSaid] nous comprendrons que les insectes nous enseignent que seule une vie vécue avec honneur, courage et habileté vaut la peine d'être vécue.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_Bushido)->They are the epitome of iniquity. Innately evil, immoral. They are a dark mirror that shows us that only a life lived with honour, courage and skill is worth living.</li>
+	<li>chthonianProphecy(tag=meme_Bushido)->Ils sont la quintessence de l'iniquité. Innocemment mauvais, immoraux. Ils sont un miroir sombre qui nous montre que seule une vie vécue avec honneur, courage et habileté vaut la peine d'être vécue.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_Bushido)->Such occult knowledge can't be acquired through dishonourable means, for only a life lived with honour, courage and skill is worth living.</li>
+	<li>esotericismProphecy(tag=meme_Bushido)->De telles connaissances occultes ne peuvent être acquises par des moyens déshonorants, car seule une vie vécue avec honneur, courage et habileté vaut la peine d'être vécue.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_Bushido)->Through the very end, we will keep ourselves pure, for only a life lived with honour, courage and skill is worth living.</li>
+	<li>eschatologismFact(tag=meme_Bushido)->Jusqu'au bout, nous nous garderons purs, car seule une vie vécue avec honneur, courage et habileté vaut la peine d'être vécue.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_Bushido)->Remember our motto! "Only a life lived with honour, courage and skill is worth living". We encourage printing this on stickers to decorate your offices.</li>
+	<li>introMemo(tag=meme_Bushido)->Rappelez-vous notre devise ! "Seule une vie vécue avec honneur, courage et habileté vaut la peine d'être vécue". Nous vous encourageons à l'imprimer sur des autocollants pour décorer vos bureaux.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_Bushido)->These wayward creatures, forgotten and discarded creations of humanity's hubris, remind us that only a life lived with honour, courage and skill is worth living.</li>
+	<li>alienistProphecy(tag=meme_Bushido)->Ces créatures errantes, créations oubliées et rejetées de l'orgueil de l'humanité, nous rappellent que seule une vie vécue avec honneur, courage et habileté vaut la peine d'être vécue.</li>
 </VME_Bushido.descriptionMaker.rules.rulesStrings>
 <VME_Bushido.generalRules.rulesStrings>
 	<li>memeAdjective->honorable</li>
