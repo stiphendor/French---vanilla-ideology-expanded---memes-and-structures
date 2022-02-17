@@ -1223,40 +1223,40 @@
 <VME_Nomad.description>La stagnation, c'est la mort et comme pour toutes choses dans ce monde, les maisons ne sont que temporaires. Voyager dans ce monde et marcher sur des routes non empruntées mène toujours à de plus grandes choses.</VME_Nomad.description>
 <VME_Nomad.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_Nomad)        ->[deity0_name] wrote [deity0_possessive] commandments in seven clay tablets. The third commandment read: "A nomad I will remain for life, in love with distant and uncharted places."</li>
-	<li>episode(uses=1,tag=meme_Nomad)  ->In accordance with [deity0_name]'s precepts, we shunned the building of cities and spent our lives on the move, free from the shackles of sedentism.</li>
+	<li>creation(tag=meme_Nomad)        ->[deity0_name] a écrit ses commandements sur sept tablettes d'argile. Le troisième commandement dit : "Je resterai nomade toute ma vie, amoureux des lieux lointains et inexplorés."</li>
+	<li>episode(uses=1,tag=meme_Nomad)  ->Conformément aux préceptes de [deity0_name], nous avons évité de construire des villes et avons passé notre vie en mouvement, libérés des chaînes de la sédentarité.</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_Nomad)           ->The [memberNamePlural] were restless, for [deity0_name] had commanded them not to build a city and settle, and they were tired of roaming around living off the land.</li>
-	<li>conflict(tag=meme_Nomad)        ->One of the elders wanted to defy [deity0_name]'s commandments, lured by the promises of fertile fields and high walls to defend ourselves from enemies.</li>
-	<li>founderJoin(tag=meme_Nomad)     ->[founderName], the Great Khan, grew tired of the insolence of the elders, and had them all hanged. From that point on, the [memberNamePlural] would be the most skilled nomads in the land, never staying in the same spot for long.</li>
-	<li>victory(tag=meme_Nomad)         ->It was thus that we became enamoured with wanderlust, and traveled the whole world without setting roots.</li>
+	<li>intro(tag=meme_Nomad)           ->Les [memberNamePlural] étaient inquiets, car [deity0_name] leur avait ordonné de ne pas construire de ville et de ne pas s'établir, et ils étaient fatigués de vivre dans la nature.</li>
+	<li>conflict(tag=meme_Nomad)        ->L'un des anciens voulait transgresser les commandements de [deity0_name], attiré par les promesses de champs fertiles et de hauts murs pour se défendre des ennemis.</li>
+	<li>founderJoin(tag=meme_Nomad)     ->Le [founderName], le Grand Khan, se lassa de l'insolence des anciens, et les fit tous pendre. A partir de ce moment, les [memberNamePlural] seront les nomades les plus habiles du pays, ne restant jamais longtemps au même endroit.</li>
+	<li>victory(tag=meme_Nomad)         ->C'est ainsi que nous sommes tombés amoureux du vagabondage et que nous avons parcouru le monde entier sans prendre racine.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_Nomad)           ->[founderName] was a skilled survivalist, tired of the smothering multitudes in huge cities. [founder_pronoun] longed for a return to simple times, smaller communities, where people were free to roam the countryside without having to worry about settling down.</li>
-	<li>story(uses=1,tag=meme_Nomad)    ->Seeking the thrill of adventure, [founderName] assembled a small group of [founder_possessive] followers and chartered a ship to travel to the Rim. Unfortunately, [founderName_pronoun] died a few years later in the wilderness, for the Rim is far more savage than [founder_pronoun] could ever imagine, but [founder_possessive] descendants carried on with [founder_possessive] nomadic ways.</li>
+	<li>setup(tag=meme_Nomad)           ->[founderName] était un survivant expérimenté, fatigué des multitudes étouffantes des grandes villes. [founder_pronoun] aspirait à un retour aux temps simples, aux petites communautés, où les gens étaient libres de parcourir la campagne sans avoir à se soucier de s'installer.</li>
+	<li>story(uses=1,tag=meme_Nomad)    ->En quête d'aventure, [founderName] rassembla un petit groupe de disciples et affréta un vaisseau pour se rendre dans la Bordure. Malheureusement, [founderName_pronoun] mourut quelques années plus tard dans le désert, car la Bordure est bien plus sauvage qu'[founder_pronoun] ne pouvait l'imaginer, mais ses descendants continuèrent à suivre son mode de vie de nomade.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_Nomad)         ->Have you ever been to a crowded city? Even the greatest human cities are cesspools of disease, violence, corruption. It is abundantly clear that</li>
-	<li>lesson(tag=meme_Nomad)              ->the true nature of humans is to live in small, nomadic communities</li>
-	<li>lessonReinforcement(tag=meme_Nomad) ->It is obscene to settle in a given place and multiply like pests.</li>
+	<li>lessonIntro(tag=meme_Nomad)         ->Avez-vous déjà été dans une ville surpeuplée ? Même les plus grandes villes humaines sont des cloaques de maladies, de violence, de corruption. Il est tout à fait clair que</li>
+	<li>lesson(tag=meme_Nomad)              ->la vraie nature des humains est de vivre en petites communautés nomades</li>
+	<li>lessonReinforcement(tag=meme_Nomad) ->Il est obscène de s'installer dans un lieu donné et de se multiplier comme des parasites.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_Nomad)    ->Cities are obscene to the archotechs. After transcendence there is no need to phisically occupy such huge spaces, drowning nature in a cacophony of tortured metal and bricks.</li>
-	<li>archistFact(tag=meme_Nomad)     ->The archotechs teach us that the proper way to live is to form small, nomadic communities, respectful of their environment.</li>
-	<li>archistProphecy(tag=meme_Nomad) ->[inTheEnd], those who spend their whole lives holed in a city won't transcend, while those who are infused by wanderlust will join the archotechs.</li>
+	<li>archistBasis(tag=meme_Nomad)    ->Les villes sont obscènes pour les archotechs. Après la transcendance, il n'est pas nécessaire d'occuper physiquement des espaces aussi immenses, noyant la nature dans une cacophonie de métal et de briques torturés.</li>
+	<li>archistFact(tag=meme_Nomad)     ->Les archotechs nous apprennent que la bonne façon de vivre est de former de petites communautés nomades, respectueuses de leur environnement.</li>
+	<li>archistProphecy(tag=meme_Nomad) ->[inTheEnd], ceux qui passent toute leur vie terrés dans une ville ne se transcenderont pas, tandis que ceux qui sont animés par la soif de voyager rejoindront les archotechs.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_Nomad)    ->Spirits govern everything, from the most abstract concepts to concrete ones. Specifically, each place has its own spirit, and that's why settling a bustling, noisy, dirty city in a given spot is harmful to the spirit of that place.</li>
-	<li>animistFact(tag=meme_Nomad)     ->The spirit of wanderlust is a powerful one, and instills one with a passion for freedom, for exploration: you never know what the road ahead may bring.</li>
-	<li>animistProphecy(tag=meme_Nomad) ->[itIsSaid] only those who are able to live without roots and roam free can truly appease the spirits.</li>
+	<li>animistBasis(tag=meme_Nomad)    ->Les esprits régissent tout, des concepts les plus abstraits aux plus concrets. Plus précisément, chaque lieu possède son propre esprit, et c'est pourquoi l'installation d'une ville grouillante, bruyante et sale à un endroit donné est néfaste pour l'esprit de ce lieu.</li>
+	<li>animistFact(tag=meme_Nomad)     ->L'esprit de l'errance est puissant, il insuffle une passion pour la liberté, pour l'exploration : on ne sait jamais ce que la route peut apporter.</li>
+	<li>animistProphecy(tag=meme_Nomad) ->[itIsSaid] seuls ceux qui sont capables de vivre sans racines et de vagabonder librement peuvent vraiment apaiser les esprits.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_Nomad)->[itIsSaid] we will live free, like insects roaming across the whole land searching for whatever the road brings next.</li>
+	<li>serketistProphecy(tag=meme_Nomad)->[itIsSaid] nous vivrons libres, comme des insectes errant sur toute la terre à la recherche de ce que la route nous apportera.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_Nomad)->Staying in a single place will attract the ire of these eldritch entities. It is better to constantly be on the run, and never, never look behind you, for comic horrors await.</li>
+	<li>chthonianProphecy(tag=meme_Nomad)->Rester dans un seul endroit attirera l'ire de ces entités eldritch. Il vaut mieux être constamment en fuite, et ne jamais, jamais regarder derrière soi, car des horreurs comiques vous attendent.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_Nomad)->Such occult knowledge will be extremely difficult to find, and we must roam free, searching every corner of the world.</li>
+	<li>esotericismProphecy(tag=meme_Nomad)->Ces connaissances occultes seront extrêmement difficiles à trouver, et nous devons errer librement, en fouillant tous les coins du monde.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_Nomad)->We will scour every corner of the world, never resting, never slowing down, until we bring the end of days.</li>
+	<li>eschatologismFact(tag=meme_Nomad)->Nous allons parcourir tous les coins du monde, sans jamais nous reposer, sans jamais ralentir, jusqu'à ce que nous amenions la fin des temps.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_Nomad)->In the interest of dedication, flexibility, and resolve, we have decided to implement a new policy of "mobile offices" that will greatly increase our productivity. Thank you for trusting in our ability to find new ways to continue to provide the best goods and services for our customers, all the while caring for our employees.</li>
+	<li>introMemo(tag=meme_Nomad)->Dans un souci de dévouement, de flexibilité et de détermination, nous avons décidé de mettre en place une nouvelle politique de "bureaux mobiles" qui augmentera considérablement notre productivité. Nous vous remercions de votre confiance dans notre capacité à trouver de nouveaux moyens pour continuer à fournir les meilleurs biens et services à nos clients, tout en prenant soin de nos employés.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_Nomad)->These wayward creatures can be our companions on the road, forever looking for a place where they can fit in.</li>
+	<li>alienistProphecy(tag=meme_Nomad)->Ces créatures capricieuses peuvent être nos compagnons de route, toujours à la recherche d'un endroit où elles pourront s'intégrer.</li>
 </VME_Nomad.descriptionMaker.rules.rulesStrings>
 <VME_Nomad.generalRules.rulesStrings>
 	<li>memeAdjective->nomade</li>
