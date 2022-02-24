@@ -1332,40 +1332,40 @@
 <VME_CityBuilders.description>Notre maison doit comporter tous les logements d'une grande ville, les maisons, les ateliers et les lieux de loisirs doivent tous être présents et accessibles par tous.</VME_CityBuilders.description>
 <VME_CityBuilders.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_CityBuilders)        ->[deity0_name] thus spoke to us: "Build these cities and surround them with walls and towers, gates and bars. The land is yours because you have sought me; On every lofty mountain and on every high hill there will be streams running with water, until the towers fall".</li>
-	<li>episode(uses=1,tag=meme_CityBuilders)  ->Following the teachings of [deity0_name], we struggled to become the richest faction of all. Poets will sing about prosperity and opulence long after we are gone.</li>
+	<li>creation(tag=meme_CityBuilders)        ->[deity0_name] nous a ainsi parlé : "Construisez ces villes et entourez-les de murs et de tours, de portes et de barrages. Le pays est à vous parce que vous m'avez cherché. Sur toute montagne élevée et sur toute colline élevée, il y aura des ruisseaux qui couleront avec de l'eau, jusqu'à ce que les tours tombent".</li>
+	<li>episode(uses=1,tag=meme_CityBuilders)  ->Suivant les enseignements de [deity0_name], nous avons lutté pour devenir la faction la plus riche de toutes. Les poètes chanteront la prospérité et l'opulence longtemps après notre disparition.</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_CityBuilders)           ->On the [place_summary] [place_name], the [memberNamePlural] built the greatest city, with a grand temple dedicated to [deity0_name].</li>
-	<li>conflict(tag=meme_CityBuilders)        ->An envious [foeLeader] wanted to conquer this city, for he was jealous of the leisure its inhabitants enjoyed. [foeLeader_possessive] assembled a huge army, and laid siege to the city.</li>
-	<li>founderJoin(tag=meme_CityBuilders)     ->[founderName], known as the Great Magistrate, laughed at this temerity. Didn't the [foeLeader] know that the city was sacred to [deity0_name]? Its walls were tall as mountains, and impenetrable.</li>
-	<li>victory(tag=meme_CityBuilders)         ->After several months, the [foeLeader] was forced to retreat, as most of [foeLeader_possessive] men were dying of starvation and exposure. The city had't fallen, and it would stand proud for millenia to come.</li>
+	<li>intro(tag=meme_CityBuilders)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont construit la plus grande ville, avec un grand temple dédié à [deity0_name].</li>
+	<li>conflict(tag=meme_CityBuilders)        ->Un [foeLeader] envieux voulait conquérir cette ville, car il était jaloux des loisirs dont jouissaient ses habitants. Il a rassemblé une énorme armée et a assiégé la ville.</li>
+	<li>founderJoin(tag=meme_CityBuilders)     ->[founderName], connu sous le nom de Grand Magistrat, s'est moqué de cette témérité. Le [foeLeader] ne savait-il pas que la ville était sacrée pour [deity0_name] ? Ses murs étaient hauts comme des montagnes, et impénétrables.</li>
+	<li>victory(tag=meme_CityBuilders)         ->Après plusieurs mois, le [foeLeader] fut contraint de battre en retraite, car la plupart de ses hommes mouraient de faim et de froid. La ville n'était pas tombée, et elle resterait fièrement debout pour les millénaires à venir.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_CityBuilders)           ->[founderName] was a magistrate in a small settlement in the Rim. [founder_pronoun] believed that a squalid settlement stood little chance in the face of constant external threats, and he proposed a series of monumental construction projects that would turn the small hamlet into a sprawling metropolis.</li>
-	<li>story(uses=1,tag=meme_CityBuilders)    ->[founderName] is remembered as ther Great Architect, and [founder_possessive] city would stand proud for millenia to come.</li>
+	<li>setup(tag=meme_CityBuilders)           ->[founderName] était magistrat dans une petite colonie de la Bordure. [founder_pronoun] pensait qu'une colonie sordide avait peu de chances de survivre face aux menaces extérieures constantes, et [founder_pronoun] a proposé une série de projets de construction monumentaux qui transformeraient le petit hameau en une métropole tentaculaire.</li>
+	<li>story(uses=1,tag=meme_CityBuilders)    ->[founderName] restera dans les mémoires comme le grand architecte, et sa ville sera fière pour les millénaires à venir.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_CityBuilders)         ->In the oldest tomes I studied the forgotten art of siege warfare. If we want to make our cities stand proud we must understand that</li>
-	<li>lesson(tag=meme_CityBuilders)              ->the tallest, sturdiest walls are built not with stone, but with the work and sweat of men</li>
-	<li>lessonReinforcement(tag=meme_CityBuilders) ->A well-defended city is resilient. A city built with love is invincible.</li>
+	<li>lessonIntro(tag=meme_CityBuilders)         ->Dans les plus vieux tomes, j'ai étudié l'art oublié de la guerre de siège. Si nous voulons que nos villes soient fières, nous devons comprendre que</li>
+	<li>lesson(tag=meme_CityBuilders)              ->les murs les plus hauts et les plus solides ne sont pas construits avec des pierres, mais avec le travail et la sueur des hommes</li>
+	<li>lessonReinforcement(tag=meme_CityBuilders) ->Une ville bien défendue est résiliente. Une ville construite avec amour est invincible.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_CityBuilders)    ->The archotechs are the ultimate builders. The whole planet is transformed and adapted to suit their needs.</li>
-	<li>archistFact(tag=meme_CityBuilders)     ->We will mimic the construction prowess of the archotechs in our own cities, creating marvels of engineering that will stand the test of time.</li>
-	<li>archistProphecy(tag=meme_CityBuilders) ->[inTheEnd], the greatest builders among us will be chosen and allowed to transcend.</li>
+	<li>archistBasis(tag=meme_CityBuilders)    ->Les archotechs sont les bâtisseurs ultimes. La planète entière est transformée et adaptée pour répondre à leurs besoins.</li>
+	<li>archistFact(tag=meme_CityBuilders)     ->Nous imiterons les prouesses de construction des archotechs dans nos propres villes, en créant des merveilles d'ingénierie qui résisteront à l'épreuve du temps.</li>
+	<li>archistProphecy(tag=meme_CityBuilders) ->[inTheEnd], les plus grands bâtisseurs parmi nous seront choisis et autorisés à la transcendance.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_CityBuilders)    ->There is no greater spirit than the spirit of creation. It manifests itself in anything that is built by a skilled crafter.</li>
-	<li>animistFact(tag=meme_CityBuilders)     ->We will erect incredible marvels of engineering. Sprawling cities that will be a testament to the power of the spirit of creation.</li>
-	<li>animistProphecy(tag=meme_CityBuilders) ->[itIsSaid] the greatest builders among us will be chosen and allowed to commune with the spirits.</li>
+	<li>animistBasis(tag=meme_CityBuilders)    ->Il n'y a pas de plus grand esprit que l'esprit de création. Il se manifeste dans tout ce qui est construit par un artisan compétent.</li>
+	<li>animistFact(tag=meme_CityBuilders)     ->Nous allons ériger d'incroyables merveilles d'ingénierie. Des villes tentaculaires qui seront un testament à la puissance de l'esprit de création.</li>
+	<li>animistProphecy(tag=meme_CityBuilders) ->[itIsSaid] les plus grands bâtisseurs parmi nous seront choisis et autorisés à communier avec les esprits.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_CityBuilders)->[itIsSaid] we will build enormous hive-cities, like human termite mounds that will bloat the sun.</li>
+	<li>serketistProphecy(tag=meme_CityBuilders)->[itIsSaid] nous construirons d'énormes cités-ruches, comme des termitières humaines qui feront gonfler le soleil.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_CityBuilders)->The raw, brutal power of these eldritch entities is so immense that only by holing up in well-defended, armoured cities can we hope to withstand their corrosive influence.</li>
+	<li>chthonianProphecy(tag=meme_CityBuilders)->La puissance brute et brutale de ces entités eldritch est si immense que ce n'est qu'en se retranchant dans des villes bien défendues et blindées que nous pouvons espérer résister à leur influence corrosive.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_CityBuilders)->Such occult knowledge will only be unlocked with extensive experimentation. We will build majestic libraries and laboratories, sprawling cities where science is analyzed and disected.</li>
+	<li>esotericismProphecy(tag=meme_CityBuilders)->Ces connaissances occultes ne seront dévoilées qu'au prix d'expériences poussées. Nous construirons des bibliothèques et des laboratoires majestueux, des villes tentaculaires où la science sera analysée et disséquée.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_CityBuilders)->We will build gigantic, spawling cities, from which our forces will pour like molten lead and burn the whole world.</li>
+	<li>eschatologismFact(tag=meme_CityBuilders)->Nous construirons des villes gigantesques et rampantes, d'où nos forces se déverseront comme du plomb fondu et brûleront le monde entier.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_CityBuilders)->I'm happy to announce that we are opening seven new branches of the company. If you'd like to request a transference to any of them, please let me know ASAP.</li>
+	<li>introMemo(tag=meme_CityBuilders)->J'ai le plaisir de vous annoncer que nous ouvrons sept nouvelles succursales de l'entreprise. Si vous souhaitez demander un transfert vers l'une d'entre elles, faites-le moi savoir dès que possible.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_CityBuilders)->These wayward creatures can be useful when building our glorious cities.</li>
+	<li>alienistProphecy(tag=meme_CityBuilders)->Ces créatures capricieuses peuvent être utiles pour construire nos glorieuses cités.</li>
 </VME_CityBuilders.descriptionMaker.rules.rulesStrings>
 <VME_CityBuilders.generalRules.rulesStrings>
 	<li>memeAdjective->construction</li>
