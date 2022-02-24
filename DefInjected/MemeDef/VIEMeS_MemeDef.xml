@@ -1384,40 +1384,40 @@
 <VME_MechanoidSupremacy.description>Ne jamais se fatiguer, ne jamais se faner, jamais besoin de subsistance. Les mécanoïdes sont l'humanité perfectionnée et devraient être vénérés comme nos supérieurs.</VME_MechanoidSupremacy.description>
 <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_MechanoidSupremacy)        ->[deity0_name] spoke to [deity0_possessive] followers: "Mechanoids were created in my image. Their form is sacred, and you must aspire to become more like them."</li>
-	<li>episode(uses=1,tag=meme_MechanoidSupremacy)  ->Following the teachings of [deity0_name], we built countless mechanoid statues with their divine forms.</li>
+	<li>creation(tag=meme_MechanoidSupremacy)        ->[deity0_name] a parlé à ses disciples : "Les mécanoïdes ont été créés à mon image. Leur forme est sacrée, et vous devez aspirer à leur ressembler davantage."</li>
+	<li>episode(uses=1,tag=meme_MechanoidSupremacy)  ->Suivant les enseignements de [deity0_name], nous avons construit d'innombrables statues mécanoïdes avec leurs formes divines.</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_MechanoidSupremacy)           ->On the [place_summary] [place_name], the [memberNamePlural] built a gigantic statue of a biped mechanoid, its surface covered in a myriad vicious scythes, said to resemble the divine image of [deity0_name].</li>
-	<li>conflict(tag=meme_MechanoidSupremacy)        ->An apostate [foeLeader] saw the image as blasphemous, as [foeLeader_pronoun] venerated a false deity [foeLeader_objective]self, and sought to topple the statue and imprison [deity0_name]'s followers.</li>
-	<li>founderJoin(tag=meme_MechanoidSupremacy)     ->[founderName], Great Mechanopriest of [deity0_name], prayed to [deity0_objective] to fight against the fearsome enemy, and [deity0_name] summoned from the skies the vessels of a mechanoid hive.</li>
-	<li>victory(tag=meme_MechanoidSupremacy)         ->The mechanoids slaughtered the [foeLeader] and [foeLeader_possessive] soldiers, forever cemmenting the power of [deity0_name].</li>
+	<li>intro(tag=meme_MechanoidSupremacy)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont construit une gigantesque statue d'un méchanoïde bipède, dont la surface est couverte d'une myriade de faux vicieuses, censée ressembler à l'image divine de [deity0_name].</li>
+	<li>conflict(tag=meme_MechanoidSupremacy)        ->Un [foeLeader] apostat a considéré l'image comme blasphématoire, car [foeLeader_pronoun] vénérait [foeLeader_objective]-même une fausse divinité, et chercha à renverser la statue et à emprisonner les adeptes de [deity0_name].</li>
+	<li>founderJoin(tag=meme_MechanoidSupremacy)     ->[founderName], Grand Mécanoprêtre de [deity0_name], le pria de lutter contre le redoutable ennemi, et [deity0_name] fit venir des cieux les vaisseaux d'une ruche mécanoïde.</li>
+	<li>victory(tag=meme_MechanoidSupremacy)         ->Les mécanoïdes ont massacré le [foeLeader] et ses soldats, scellant à jamais le pouvoir de [deity0_name].</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_MechanoidSupremacy)           ->[founderName] spent most of [founder_possessive] life studying mechanoids. [founder_pronoun] came to believe that mechanoids were humanity perfected, the next stage of evolution.</li>
-	<li>story(uses=1,tag=meme_MechanoidSupremacy)    ->Seeking to continue [founder_possessive] studies, [founderName] assembled a team of scientists and chartered a ship to travel to the Rim, where [founder_possessive] experiments wouldn't be seen with fear and suspicion.</li>
+	<li>setup(tag=meme_MechanoidSupremacy)           ->[founderName] a passé la plupart de sa vie à étudier les mécanoïdes. [founder_pronoun] en est venu à croire que les mécanoïdes étaient le perfectionnement de l'humanité, le stade suivant de l'évolution.</li>
+	<li>story(uses=1,tag=meme_MechanoidSupremacy)    ->Cherchant à poursuivre ses études, [founderName] a réuni une équipe de scientifiques et a affrété un vaisseau pour se rendre dans la Bordure, où ses expériences ne seraient pas vues avec crainte et suspicion.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_MechanoidSupremacy)         ->My experiments with mechanoids were extensive and thorough. After many years of toiling I came to the conclusion that</li>
-	<li>lesson(tag=meme_MechanoidSupremacy)              ->mechanoids are humanity perfected, the next stage of evolution</li>
-	<li>lessonReinforcement(tag=meme_MechanoidSupremacy) ->Mechanoids never tire, never wither, never need for sustenance. They are simply superior to us organic beings in all respects.</li>
+	<li>lessonIntro(tag=meme_MechanoidSupremacy)         ->Mes expériences avec les mécanoïdes étaient vastes et approfondies. Après de nombreuses années de labeur, je suis arrivé à la conclusion que</li>
+	<li>lesson(tag=meme_MechanoidSupremacy)              ->les mechanoids sont l'humanité perfectionnée, la prochaine étape de l'évolution</li>
+	<li>lessonReinforcement(tag=meme_MechanoidSupremacy) ->Les mécanoïdes ne se fatiguent jamais, ne dépérissent jamais, n'ont jamais besoin de se nourrir. Ils sont tout simplement supérieurs à nous, des êtres organiques, à tous égards.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_MechanoidSupremacy)    ->Archotechs build innumerable mechanoids in their own image. Wondrous machines that are far beyond our capabilities.</li>
-	<li>archistFact(tag=meme_MechanoidSupremacy)     ->The mechanoids that are created by archotechs are perfect machines, never tiring, never withering, never needing for sustenance.</li>
-	<li>archistProphecy(tag=meme_MechanoidSupremacy) ->[inTheEnd], only by studying and revering the mechanoids can we hope to get closer to the archotechs, and perhaps participate in transcendence.</li>
+	<li>archistBasis(tag=meme_MechanoidSupremacy)    ->Les archotechs construisent d'innombrables mécanoïdes à leur image. Des machines merveilleuses qui sont bien au-delà de nos capacités.</li>
+	<li>archistFact(tag=meme_MechanoidSupremacy)     ->Les mécanoïdes créés par les archotechs sont des machines parfaites, qui ne se fatiguent jamais, ne se flétrissent jamais et n'ont jamais besoin de se nourrir.</li>
+	<li>archistProphecy(tag=meme_MechanoidSupremacy) ->[inTheEnd], ce n'est qu'en étudiant et en vénérant les mécanoïdes que nous pouvons espérer nous rapprocher des archotechs, et peut-être participer à la transcendance.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_MechanoidSupremacy)    ->Mechanoids are animated by the most powerful spirits of all. The ravening spirits of machines that hate all life.</li>
-	<li>animistFact(tag=meme_MechanoidSupremacy)     ->Only by appeasing the machine spirits can we hope to evade their ire, for they are blind to the material world.</li>
-	<li>animistProphecy(tag=meme_MechanoidSupremacy) ->[itIsSaid] only those who venerate and revere the mechanoids can truly commune with the spirits.</li>
+	<li>animistBasis(tag=meme_MechanoidSupremacy)    ->Les mécanoïdes sont animés par les esprits les plus puissants de tous. Les esprits voraces des machines qui détestent toute vie.</li>
+	<li>animistFact(tag=meme_MechanoidSupremacy)     ->Ce n'est qu'en apaisant les esprits de la machine que nous pouvons espérer échapper à leur colère, car ils sont aveugles au monde matériel.</li>
+	<li>animistProphecy(tag=meme_MechanoidSupremacy) ->[itIsSaid] seuls ceux qui vénèrent et révèrent les mécanoïdes peuvent vraiment communier avec les esprits.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_MechanoidSupremacy)->[itIsSaid] we will create the perfect being, a mechanoid insect infused with archotech technology that will bring a new era of prosperity.</li>
+	<li>serketistProphecy(tag=meme_MechanoidSupremacy)->[itIsSaid] nous créerons l'être parfait, un insecte méchanoïde infusé de technologie archotech qui apportera une nouvelle ère de prospérité.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_MechanoidSupremacy)->We are nothing to these eldritch entities, and only by fusing our bodies with those of the most powerful machines can we hope to stand a chance against them.</li>
+	<li>chthonianProphecy(tag=meme_MechanoidSupremacy)->Nous ne sommes rien pour ces entités eldritch, et ce n'est qu'en fusionnant nos corps avec ceux des machines les plus puissantes que nous pouvons espérer avoir une chance contre elles.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_MechanoidSupremacy)->Such occult knowledge will be hard to find. We will study the bodies of the mechanoids, for they are perfect beings and the key to unlocking the secrets of the Cosmos.</li>
+	<li>esotericismProphecy(tag=meme_MechanoidSupremacy)->De telles connaissances occultes seront difficiles à trouver. Nous étudierons les corps des mécanoïdes, car ce sont des êtres parfaits et la clé pour percer les secrets du Cosmos.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_MechanoidSupremacy)->We will emulate the rage and ferocity of the mechanoids, perfect beings who are hell-bent on eradicating humanity.</li>
+	<li>eschatologismFact(tag=meme_MechanoidSupremacy)->Nous allons imiter la rage et la férocité des méchanoïdes, des êtres parfaits qui sont déterminés à éradiquer l'humanité.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_MechanoidSupremacy)->Starting next quarter, we will provide a helpful mechanoid companion to each of our employees. They will come pre-configured with a brand new productivity suite that I think most of you will find super useful to increase your proactivity and ROI.</li>
+	<li>introMemo(tag=meme_MechanoidSupremacy)->À partir du prochain trimestre, nous fournirons à chacun de nos employés un compagnon mécanique utile. Ils seront livrés pré-configurés avec une toute nouvelle suite de productivité qui, je pense, sera très utile à la plupart d'entre vous pour accroître votre proactivité et votre retour sur investissement.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_MechanoidSupremacy)->These wayward creatures are faulty, mere biological machines that pale in comparison to any mechanoid, but they are a step in the right direction.</li>
+	<li>alienistProphecy(tag=meme_MechanoidSupremacy)->Ces créatures errantes sont défectueuses, de simples machines biologiques qui font pâle figure face à n'importe quel mécanoïde, mais elles constituent un pas dans la bonne direction.</li>
 </VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings>
 <VME_MechanoidSupremacy.generalRules.rulesStrings>
 	<li>memeAdjective->mécanoïde</li>
