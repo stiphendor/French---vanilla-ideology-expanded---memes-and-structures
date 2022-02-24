@@ -1279,40 +1279,40 @@
 <VME_BloodCourt.description>Notre chef devrait être un combattant de mêlée talentueux et un guerrier brutal, seulement remplacé par un plus puissant. Les effusions de sang, les cadavres, les cicatrices font partie de la vie et une démonstration de force sur cette planète.</VME_BloodCourt.description>
 <VME_BloodCourt.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_BloodCourt)        ->[deity0_name] had slain the majority of the other gods, and [deity0_possessive] followers cowered in fear: "Strength comes from an indomitable will. Only those of you who prove themselves in bloody combat will be worthy of my respect."</li>
-	<li>episode(uses=1,tag=meme_BloodCourt)  ->Following the teachings of [deity0_name], we learned the most important lesson: "Don't wait for extraordinary opportunities. Seize common occasions and make them great. Weak men wait for opportunities; strong men make them".</li>
+	<li>creation(tag=meme_BloodCourt)        ->[deity0_name] avait tué la majorité des autres dieux, et ses adeptes tremblaient de peur : "La force vient d'une volonté indomptable. Seuls ceux d'entre vous qui feront leurs preuves dans un combat sanglant seront dignes de mon respect."</li>
+	<li>episode(uses=1,tag=meme_BloodCourt)  ->En suivant les enseignements de [deity0_name], nous avons appris la leçon la plus importante : "N'attendez pas les occasions extraordinaires. Saisissez les occasions ordinaires et faites-en des superbes. Les hommes faibles attendent les occasions ; les hommes forts les créent".</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_BloodCourt)           ->The [memberNamePlural] were renowned for their gladiatorial ring, dedicated to [deity0_name]. Bloody matches to the death were fought there to decide who would be the next leader.</li>
-	<li>conflict(tag=meme_BloodCourt)        ->[founderName] was challenged to a duel. A joyous occasion for which the whole community set aside their differences. The winner would be the next leader and guide us to greatness.</li>
-	<li>founderJoin(tag=meme_BloodCourt)     ->[founderName], however, knew that [founder_possessive] opponent was going to cheat, for [deity0_name] had whispered the truth in [founder_possessive] dreams.</li>
-	<li>victory(tag=meme_BloodCourt)         ->While combat outside the ring was prohibited between adult members of the community, [deity0_name] allowed [founderName] to behead [founder_possessive] on his sleep, a complete humiliation and a disgrace for his family, thus consolidating [founderName]'s rule.</li>
+	<li>intro(tag=meme_BloodCourt)           ->Les [memberNamePlural] étaient renommés pour leur ring de gladiateurs, dédié à [deity0_name]. Des combats sanglants jusqu'à la mort s'y déroulaient pour décider qui serait le prochain chef.</li>
+	<li>conflict(tag=meme_BloodCourt)        ->[founderName] a été défié en duel. Une occasion joyeuse pour laquelle toute la communauté a mis de côté ses différences. Le gagnant deviendra le prochain chef et nous guidera vers la grandeur.</li>
+	<li>founderJoin(tag=meme_BloodCourt)     ->[founderName], en revanche, savait que son adversaire allait tricher, car [deity0_name] lui avait murmuré la vérité dans ses rêves.</li>
+	<li>victory(tag=meme_BloodCourt)         ->Alors que le combat en dehors du ring était interdit entre les membres adultes de la communauté, [deity0_name] a permis à [founderName] de décapiter les siens pendant leur sommeil, une humiliation totale et un déshonneur pour sa famille, consolidant ainsi la domination de [founderName].</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_BloodCourt)           ->[founderName] was a rampaging warlord, constantly fighting the remnants of a fallen star empire. [founder_pronoun] understood that conflict and strife are what guides a civilization. Complacency brings stagnation.</li>
-	<li>story(uses=1,tag=meme_BloodCourt)    ->[founder_pronoun] taught us that a strong, successful man is not the victim of his environment. He creates favorable conditions. His own inherent force and energy compel things to turn out as he desires.</li>
+	<li>setup(tag=meme_BloodCourt)           ->[founderName] était un seigneur de guerre déchaîné, combattant constamment les restes d'un empire stellaire déchu. [founder_pronoun] a compris que les conflits et les luttes sont ce qui guide une civilisation. La complaisance amène la stagnation.</li>
+	<li>story(uses=1,tag=meme_BloodCourt)    ->[founder_pronoun] nous a appris qu'un homme fort, qui réussit, n'est pas victime de son environnement. Il crée des conditions favorables. Sa propre force et son énergie inhérentes font que les choses se déroulent comme il le souhaite.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_BloodCourt)         ->It was incredibly tough to grow up in that place, and not all of us made it. Even so, those who perished in the struggle made clear that</li>
-	<li>lesson(tag=meme_BloodCourt)              ->difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict</li>
-	<li>lessonReinforcement(tag=meme_BloodCourt) ->You have power over your mind - not outside events. Realize this, and you will find strength.</li>
+	<li>lessonIntro(tag=meme_BloodCourt)         ->Il était incroyablement difficile de grandir dans cet endroit, et nous n'y sommes pas tous parvenus. Malgré cela, ceux qui ont péri dans la lutte ont clairement montré que</li>
+	<li>lesson(tag=meme_BloodCourt)              ->les difficultés sont destinées à réveiller, pas à décourager. L'esprit humain doit se renforcer par le conflit</li>
+	<li>lessonReinforcement(tag=meme_BloodCourt) ->Vous avez le pouvoir sur votre esprit - pas sur les événements extérieurs. Prenez-en conscience, et vous trouverez la force.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_BloodCourt)    ->Archotechs respect strength above all things. For those who are weak and defenseless are not truly human, and indeed worthless.</li>
-	<li>archistFact(tag=meme_BloodCourt)     ->To them, a person worthy of transcendence is an ordinary individual who finds strength to persevere and endure in spite of overwhelming obstacles.</li>
-	<li>archistProphecy(tag=meme_BloodCourt) ->[inTheEnd], only those who impose their will upon others by force will be worthy to ascend.</li>
+	<li>archistBasis(tag=meme_BloodCourt)    ->Les archotechs respectent la force par-dessus tout. Car ceux qui sont faibles et sans défense ne sont pas vraiment humains, et ne valent rien.</li>
+	<li>archistFact(tag=meme_BloodCourt)     ->Pour eux, une personne digne de transcendance est un individu ordinaire qui trouve la force de persévérer et d'endurer malgré des obstacles écrasants.</li>
+	<li>archistProphecy(tag=meme_BloodCourt) ->[inTheEnd], seuls ceux qui imposent leur volonté aux autres par la force seront dignes de s'élever.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_BloodCourt)    ->The spirits respect strength above all things. For those who are weak and defenseless are not truly human, and indeed worthless.</li>
-	<li>animistFact(tag=meme_BloodCourt)     ->To the spirits, a worthy person is an ordinary individual who finds strength to persevere and endure in spite of overwhelming obstacles.</li>
-	<li>animistProphecy(tag=meme_BloodCourt) ->[itIsSaid] only those who impose their will upon others by force will be able to appease the spirits.</li>
+	<li>animistBasis(tag=meme_BloodCourt)    ->Les esprits respectent la force par-dessus tout. Car ceux qui sont faibles et sans défense ne sont pas vraiment humains, et n'ont aucune valeur.</li>
+	<li>animistFact(tag=meme_BloodCourt)     ->Pour les esprits, une personne digne est un individu ordinaire qui trouve la force de persévérer et d'endurer malgré des obstacles écrasants.</li>
+	<li>animistProphecy(tag=meme_BloodCourt) ->[itIsSaid] seuls ceux qui imposent leur volonté aux autres par la force seront capables d'apaiser les esprits.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_BloodCourt)->[itIsSaid] we will crush all opposition that stands in our way.</li>
+	<li>serketistProphecy(tag=meme_BloodCourt)->[itIsSaid] nous écraserons toute opposition qui se tiendra sur notre chemin.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_BloodCourt)->If we want to oppose these cruel eldritch entities, we can't abide weakness. Only by showing true strength do we even stand a chance against cosmic insanity.</li>
+	<li>chthonianProphecy(tag=meme_BloodCourt)->Si nous voulons nous opposer à ces cruelles entités eldritch, nous ne pouvons pas supporter la faiblesse. Ce n'est qu'en faisant preuve d'une véritable force que nous aurons une chance contre la folie cosmique.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_BloodCourt)->Such occult knowledge won't be acquired without violence. Only by showing true strength can we hope to unlock the secrets of the Cosmos.</li>
+	<li>esotericismProphecy(tag=meme_BloodCourt)->De telles connaissances occultes ne s'acquièrent pas sans violence. Ce n'est qu'en faisant preuve d'une véritable force que nous pouvons espérer percer les secrets du Cosmos.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_BloodCourt)->Of course, people will resist, clinging to their pathetic existance in this doomed, cursed world. We will crush them.</li>
+	<li>eschatologismFact(tag=meme_BloodCourt)->Bien sûr, les gens vont résister, s'accrochant à leur pathétique existence dans ce monde maudit et condamné. Nous les écraserons.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_BloodCourt)->Are you interested in a promotion? I'm glad to inform you all that from now on we are scheduling company-approved gladiator fights around the coffee machine. Tired of your boss? Prove it!</li>
+	<li>introMemo(tag=meme_BloodCourt)->Vous êtes intéressé par une promotion ? J'ai le plaisir de vous informer qu'à partir de maintenant, nous organisons des combats de gladiateurs autour de la machine à café, approuvés par l'entreprise. Vous en avez assez de votre patron ? Prouvez-le !</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_BloodCourt)->These wayward creatures can show us what strength looks like, and by overpowering them we might prove to ourselves that we are deserving of it.</li>
+	<li>alienistProphecy(tag=meme_BloodCourt)->Ces créatures capricieuses peuvent nous montrer ce qu'est la force, et en les maîtrisant, nous pouvons nous prouver que nous la méritons.</li>
 </VME_BloodCourt.descriptionMaker.rules.rulesStrings>
 <VME_BloodCourt.generalRules.rulesStrings>
 	<li>memeAdjective->sanglant</li>
