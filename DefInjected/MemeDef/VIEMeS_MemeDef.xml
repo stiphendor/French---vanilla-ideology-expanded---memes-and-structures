@@ -1665,40 +1665,40 @@
 <VME_Nationalist.description>L'insubordination et la dissidence doivent être éteintes pour faire place à un fort sentiment de fierté nationaliste.</VME_Nationalist.description>
 <VME_Nationalist.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_Nationalist)        ->[deity0_name] showed us that plutocratic and reactionary democracies have blocked the march and frequently plotted against the existence of the [memberNamePlural].</li>
-	<li>episode(uses=1,tag=meme_Nationalist)  ->[deity0_name] shouted to all the [memberNamePlural], "The hour destined by fate is sounding for us. The hour of irrevocable decision has come."</li>
+	<li>creation(tag=meme_Nationalist)        ->[deity0_name] nous a montré que les démocraties ploutocratiques et réactionnaires ont bloqué la progression et ont souvent comploté contre l'existence des [memberNamePlural].</li>
+	<li>episode(uses=1,tag=meme_Nationalist)  ->[deity0_name] a crié à tous les [memberNamePlural] : "L'heure que le destin nous a fixée sonne. L'heure de la décision irrévocable est arrivée."</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_Nationalist)           ->On the [place_summary] [place_name], enormous monolitic statues saluted and extolled the glory of [deity0_name].</li>
-	<li>conflict(tag=meme_Nationalist)           ->A coward [foeLeader] looked at this with scorn, for [foeLeader_pronoun] was a revolutionary who didn't believe in order, justice and honor.</li>
-	<li>founderJoin(tag=meme_Nationalist)        ->[deity0_name]'s truest follower [founderName], a true patriot, stood before the [place_powerCenter], and gave a long, rousing speech about how the [foeLeader] was the most powerful enemy number one against whom the [memberNamePlural] were engaged and against whom they should continue the struggle to the last drop of blood.</li>
-	<li>victory(tag=meme_Nationalist)            ->Emboldened by the [founderName]'s words, [founder_possessive] troops incarcerated the [foeLeader], who was executed a few days later for [deity0_name]'s glory.</li>
+	<li>intro(tag=meme_Nationalist)           ->Sur la [place_summary] [place_name], d'énormes statues monolithiques saluaient et exaltaient la gloire de [deity0_name].</li>
+	<li>conflict(tag=meme_Nationalist)           ->Un [foeLeader] lâche a regardé cela avec mépris, car c'était un révolutionnaire qui ne croyait pas à l'ordre, à la justice et à l'honneur.</li>
+	<li>founderJoin(tag=meme_Nationalist)        ->[founderName], l'adepte le plus fidèle de [deity0_name], un vrai patriote, se tenait devant [place_powerCenter], aet prononçait un long discours enthousiaste sur le fait que le [foeLeader] était l'ennemi numéro un le plus puissant contre lequel les [memberNamePlural] étaient engagés et contre lequel ils devaient poursuivre la lutte jusqu'à la dernière goutte de sang.</li>
+	<li>victory(tag=meme_Nationalist)            ->Encouragées par les paroles de [founderName], les troupes du [foeLeader] l'ont incarcéré, et a été exécuté quelques jours plus tard pour la gloire de [deity0_name].</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_Nationalist)           ->[founderName] was a hero of the people, a true patriot. Everyone was united under [founder_possessive] banner.</li>
-	<li>story(uses=1,tag=meme_Nationalist)    ->[founderName] made us understand that hardships, suffering and sacrifices that are faced with exemplary courage and dignity have their day of compensation when all the enemy forces are crushed on the battlefields by the heroism of our soldiers.</li>
+	<li>setup(tag=meme_Nationalist)           ->[founderName] était le héros du peuple, un vrai patriote. Tout le monde était uni sous sa bannière.</li>
+	<li>story(uses=1,tag=meme_Nationalist)    ->[founderName] nous a fait comprendre que les épreuves, les souffrances et les sacrifices qui sont affrontés avec un courage et avec une dignité exemplaires ont leur jour de gloire lorsque toutes les forces ennemies sont écrasées sur les champs de bataille par l'héroïsme de nos soldats.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_Nationalist)         ->Through you I want to speak to our people, to the authentic, real, great people, who fight with the courage of lions on land, sea and air fronts. It is so important you understand that</li>
-	<li>lesson(tag=meme_Nationalist)              ->they absolutely must not be confused or contaminated by the minority or well-known, anti-social individuals and complainers, who grumble about their suspended comforts</li>
-	<li>lessonReinforcement(tag=meme_Nationalist) ->We are a great people. We deserve and will have victory.</li>
+	<li>lessonIntro(tag=meme_Nationalist)         ->À travers vous, je veux m'adresser à notre peuple, au peuple authentique, réel, grand, qui se bat avec le courage du lion sur les fronts terrestres, maritimes et aériens. Il est si important que vous compreniez que</li>
+	<li>lesson(tag=meme_Nationalist)              ->nous ne devons absolument pas être confondus ou contaminés par la minorité ou les individus antisociaux et râleurs bien connus, qui râlent contre leur confort suspendu</li>
+	<li>lessonReinforcement(tag=meme_Nationalist) ->Nous sommes un grand peuple. Nous méritons et obtiendrons la victoire.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_Nationalist)    ->Archotechs do not respect those who can't defend themselves: We rise as one unified order, under a single banner, and no enemy can destabilize the ideal we represent.</li>
-	<li>archistFact(tag=meme_Nationalist)     ->Our nation will rise triumphant over the rest, proving to the archotechs that we are One people, One voice.</li>
-	<li>archistProphecy(tag=meme_Nationalist) ->Only by standing proud as the only true followers of our ideals can we become worthy of transcendence.</li>
+	<li>archistBasis(tag=meme_Nationalist)    ->Les archotechs ne respectent pas ceux qui ne peuvent pas se défendre : Nous nous élevons comme un ordre unifié, sous une seule bannière, et aucun ennemi ne peut déstabiliser l'idéal que nous représentons.</li>
+	<li>archistFact(tag=meme_Nationalist)     ->Notre nation triomphera des autres, prouvant aux archotechs que nous sommes un peuple, une voix.</li>
+	<li>archistProphecy(tag=meme_Nationalist) ->Ce n'est qu'en nous dressant fièrement comme les seuls véritables adeptes de nos idéaux que nous pouvons devenir dignes de la transcendance.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_Nationalist)    ->The spirits understand the need for an unified will. The preservation of our eternal values, the suppression of which would imply instability and chaos.</li>
-	<li>animistFact(tag=meme_Nationalist)     ->To the spirits, it is clear that our youth prepared itself for fight and engendered a spirit of our crusade that they derived from our soundest traditions of spiritual values and merged them with the social yearnings of our times.</li>
-	<li>animistProphecy(tag=meme_Nationalist) ->[itIsSaid] only by standing proud as the only true followers of our ideals can we make the spirits truly listen to us.</li>
+	<li>animistBasis(tag=meme_Nationalist)    ->Les esprits comprennent la nécessité d'une volonté unifiée. La préservation de nos valeurs éternelles, dont la suppression impliquerait l'instabilité et le chaos.</li>
+	<li>animistFact(tag=meme_Nationalist)     ->Pour les esprits, il est clair que notre jeunesse s'est préparée au combat et a engendré un esprit de croisade qu'elle a tiré de nos plus saines traditions de valeurs spirituelles et a fusionné avec les aspirations sociales de notre époque.</li>
+	<li>animistProphecy(tag=meme_Nationalist) ->[itIsSaid] seul le fait de se dresser fièrement comme les seuls vrais adeptes de nos idéaux peut faire en sorte que les esprits nous écoutent vraiment.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_Nationalist)->[itIsSaid] we will truly stand as One people, with an unified will, standing proud as the only true followers of our ideals.</li>
+	<li>serketistProphecy(tag=meme_Nationalist)->[itIsSaid] nous serons vraiment un seul peuple, avec une volonté unifiée, fiers d'être les seuls vrais adeptes de nos idéaux.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_Nationalist)->These eldritch entities would seek to destroy us, but they lack the vision to understand that we will stand proud against them as the only true followers of our ideals.</li>
+	<li>chthonianProphecy(tag=meme_Nationalist)->Ces entités eldritch chercheraient à nous détruire, mais elles n'ont pas la vision nécessaire pour comprendre que nous nous dresserons fièrement contre elles comme les seuls véritables adeptes de nos idéaux.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_Nationalist)->Such occult knowledge requires an unified, iron will. We will stand proud as the only true followers of our ideals.</li>
+	<li>esotericismProphecy(tag=meme_Nationalist)->De telles connaissances occultes requièrent une volonté unifiée et de fer. Nous serons fiers d'être les seuls vrais adeptes de nos idéaux.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_Nationalist)->Only our nation is strong enough to do what must be done. We will stand proud as the only true followers of our ideals, until the end.</li>
+	<li>eschatologismFact(tag=meme_Nationalist)->Seule notre nation est assez forte pour faire ce qui doit être fait. Nous resterons fiers d'être les seuls vrais adeptes de nos idéaux, jusqu'à la fin.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_Nationalist)->As a reminder, multiple employment is expressly forbidden by the contract you signed. If you think any of your co-workers is engaging in such activities please report it as soon as possible so the proper disciplinary measures can be enacted.</li>
+	<li>introMemo(tag=meme_Nationalist)->Pour rappel, le cumul d'emplois est expressément interdit par votre contrat. Si vous pensez que l'un de vos collègues se livre à de telles activités, veuillez le signaler dès que possible afin que des mesures disciplinaires appropriées puissent être prises.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_Nationalist)->These wayward creatures are ours to do as we please.</li>
+	<li>alienistProphecy(tag=meme_Nationalist)->Ces créatures rebelles sont à nous et nous pouvons en faire ce que nous voulons.</li>
 </VME_Nationalist.descriptionMaker.rules.rulesStrings>
 <VME_Nationalist.generalRules.rulesStrings>
 	<li>memeAdjective->solidifiant</li>
