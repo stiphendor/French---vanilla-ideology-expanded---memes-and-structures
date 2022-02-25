@@ -1555,43 +1555,43 @@
 <VME_Anonymity.description>Connaître les noms, les visages et les antécédents de vos compagnons colons peut être à la fois une bénédiction et une malédiction.</VME_Anonymity.description>
 <VME_Anonymity.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_Anonymity)        ->[deity0_name] didn't speak to [deity0_possessive] followers, and instead just looked at them sternly. They understood the need for complete silence.</li>
-	<li>episode(uses=1,tag=meme_Anonymity)  ->[deity0_name]'s utter silence was interpreted as a portent, and we have stayed silent since then.</li>
+	<li>creation(tag=meme_Anonymity)        ->[deity0_name] ne parlait pas à ses disciples, il se contentait de les regarder sévèrement. Ils comprenaient la nécessité d'un silence complet.</li>
+	<li>episode(uses=1,tag=meme_Anonymity)  ->Le silence total de [deity0_name] a été interprété comme un présage, et nous sommes restés silencieux depuis lors.</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_Anonymity)           ->On the [place_summary] [place_name], the [memberNamePlural] built a giant temple erected in complete silence, a mute testament to [deity0_name]'s will.</li>
-	<li>conflict(tag=meme_Anonymity)        ->An evil [foeLeader] despised this silence, and wanted to plunge the world into a multitudinous cacophony. [foeLeader_pronoun] wanted to tear down the temple and watch it burn.</li>
-	<li>founderJoin(tag=meme_Anonymity)     ->[founderName], the Silent One, would have nothing of this heressy, and plunged a poisoned blade into the heart of the [foeLeader] in the dead of night.</li>
-	<li>victory(tag=meme_Anonymity)         ->[founderName] didn't want any accolades for [founder_possessive] acts, for [founder_pronoun] just wanted to be left alone.</li>
+	<li>intro(tag=meme_Anonymity)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont construit un temple géant érigé dans un silence total, un testament muet de la volonté de [deity0_name].</li>
+	<li>conflict(tag=meme_Anonymity)        ->Un [foeLeader] maléfique méprisait ce silence, et voulant plonger le monde dans une cacophonie multitudinaire. [foeLeader_pronoun] voulait démolir le temple et le regarder brûler.</li>
+	<li>founderJoin(tag=meme_Anonymity)     ->[founderName], le Silencieux, ne voulut rien savoir de cette hérésie et plongea une lame empoisonnée dans le cœur du [foeLeader] au cœur de la nuit.</li>
+	<li>victory(tag=meme_Anonymity)         ->[founderName] ne voulait pas d'accolades pour ses actes, car [founder_pronoun] voulait juste qu'on le laisse tranquille.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_Anonymity)           ->We are not really sure who [founderName] actually was. Perhaps [founder_pronoun] didn't even exist, and we just have a faint recollection of a mythology of sorts. In any case, it is ascribed to [founder_objective] that a solitary life of contemplation and isolation is a goal in and of itself.</li>
-	<li>story(uses=1,tag=meme_Anonymity)    ->Anonymity is a shield from the tyranny of the majority.</li>
+	<li>setup(tag=meme_Anonymity)           ->Nous ne sommes pas vraiment sûrs de qui était réellement [founderName] Peut-être n'a-t-[founder_pronoun] jamais existé, et nous n'avons qu'un faible souvenir d'une sorte de mythologie. En tout cas, on lui attribue le fait qu'une vie solitaire de contemplation et d'isolement est un but en soi.</li>
+	<li>story(uses=1,tag=meme_Anonymity)    ->L'anonymat est un bouclier contre la tyrannie de la majorité.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_Anonymity)         ->Let me put down these words on paper, for relaying them to you by voice is repulsive:</li>
-	<li>lesson(tag=meme_Anonymity)              ->you never appreciate your anonymity until you don't have it anymore</li>
-	<li>lessonReinforcement(tag=meme_Anonymity) ->Wanting to be unknown, unpossessed by others' knowledge of you. That is freedom.</li>
+	<li>lessonIntro(tag=meme_Anonymity)         ->Laissez-moi noter ces mots sur papier, car vous les transmettre de vive voix me répugne :</li>
+	<li>lesson(tag=meme_Anonymity)              ->vous n'appréciez jamais votre anonymat jusqu'à ce que vous ne l'ayez plus</li>
+	<li>lessonReinforcement(tag=meme_Anonymity) ->Vouloir être inconnu, non possédé par la connaissance que les autres ont de vous. C'est ça, la liberté.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_Anonymity)    ->The archotechs are unknown and unknowable, shielded behind the ultimate mask: transcendence.</li>
-	<li>archistFact(tag=meme_Anonymity)     ->The archotechs ask: "What is the purpose of civilization if not to grant the greatest of gifts, anonymity?".</li>
-	<li>archistProphecy(tag=meme_Anonymity) ->[inTheEnd], only those who spend their lives in anonymity will be allowed to transcend.</li>
+	<li>archistBasis(tag=meme_Anonymity)    ->Les archotechs sont inconnus et inconnaissables, protégés par le masque ultime : la transcendance.</li>
+	<li>archistFact(tag=meme_Anonymity)     ->Les archotechs demandent : "Quel est le but de la civilisation si ce n'est d'accorder le plus grand des cadeaux, l'anonymat ?".</li>
+	<li>archistProphecy(tag=meme_Anonymity) ->[inTheEnd], seuls ceux qui passent leur vie dans l'anonymat seront autorisés à la transcendance.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_Anonymity)    ->The spirits do not care about our meaningless identities, and would prefer us to stay anonymous.</li>
-	<li>animistFact(tag=meme_Anonymity)     ->They show us that a solitary life of contemplation and isolation is a goal in and of itself.</li>
-	<li>animistProphecy(tag=meme_Anonymity) ->[itIsSaid] only those who spend their lives in solitude and silence can truly commune with the spirits.</li>
+	<li>animistBasis(tag=meme_Anonymity)    ->Les esprits ne se soucient pas de nos identités insignifiantes, et préféreraient que nous restions anonymes.</li>
+	<li>animistFact(tag=meme_Anonymity)     ->Ils nous montrent qu'une vie solitaire de contemplation et d'isolement est un but en soi.</li>
+	<li>animistProphecy(tag=meme_Anonymity) ->[itIsSaid] seuls ceux qui passent leur vie dans la solitude et le silence peuvent vraiment communier avec les esprits.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_Anonymity)->[itIsSaid] we will fade into anonymity like a myriad ants, part of a whole but insignificant on their own.</li>
+	<li>serketistProphecy(tag=meme_Anonymity)->[itIsSaid] nous nous fondrons dans l'anonymat comme une myriade de fourmis, faisant partie d'un tout mais insignifiantes par elles-mêmes.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_Anonymity)->It is madness to raise our voice in defiance of these entities, and thus we shall remain silent, isolated, lest we attract their unwanted attention.</li>
+	<li>chthonianProphecy(tag=meme_Anonymity)->C'est de la folie d'élever la voix pour défier ces entités, et nous resterons donc silencieux, isolés, de peur d'attirer leur attention indésirable.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_Anonymity)->Such occult knowledge can only be discovered through careful meditation. And perhaps we will discover that a solitary life of contemplation and isolation is a goal in and of itself.</li>
+	<li>esotericismProphecy(tag=meme_Anonymity)->Ces connaissances occultes ne peuvent être découvertes que par une méditation minutieuse. Et peut-être découvrirons-nous qu'une vie solitaire de contemplation et d'isolement est un but en soi.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_Anonymity)->The world will burn, and we shall be the faceless and anonymous bringers of its downfall.</li>
+	<li>eschatologismFact(tag=meme_Anonymity)->Le monde va brûler, et nous serons les artisans anonymes et sans visage de sa chute.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_Anonymity)->Lately we have had multiple instances of people using "Reply All" on company e-mails. Let me remind you that this is unnecessary and leads to confusion.</li>
+	<li>introMemo(tag=meme_Anonymity)->Ces derniers temps, nous avons eu de nombreux cas de personnes qui ont utilisé la fonction "Répondre à tous" dans des courriels d'entreprise. Permettez-moi de vous rappeler que cette pratique est inutile et source de confusion.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_Anonymity)->Animals do not care about human. We can be ourselves with them, as they are not as prone to judgement as humans are.</li>
+	<li>alienistProphecy(tag=meme_Anonymity)->Les animaux ne se soucient pas des humains. Nous pouvons être nous-mêmes avec eux, car ils ne sont pas aussi enclins au jugement que les humains.</li>
 </VME_Anonymity.descriptionMaker.rules.rulesStrings>
 <VME_Anonymity.generalRules.rulesStrings>
-	<li>memeCreed->anonymity</li>
+	<li>memeCreed->anonymat</li>
 	<li>memeAdjective->anonyme</li>
 	<li>memeAdjective->mystérieux</li>
 	<li>memeAdjective->sans nom</li>
