@@ -712,7 +712,7 @@
 	<!-- theist founder -->
 	<li>intro(tag=meme_Scrapper)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont trouvé les paroles de [deity0_name], les instructions techniques pour démonter et réutiliser les puissantes machines de nos ancêtres.</li>
 	<li>conflict(tag=meme_Scrapper)        ->Un [foeLeader] envieux a vu les progrès des [memberNamePlural], et a cherché à détruire nos machines recyclées.</li>
-	<li>founderJoin(tag=meme_Scrapper)     ->[founderName], connu sous le nom de Grand Charognard, a mis au point une arme de fortune, [relic0_name], aet a réussi à arrêter le [foeLeader] avant qu'il ne soit trop tard.</li>
+	<li>founderJoin(tag=meme_Scrapper)     ->[founderName], connu sous le nom de Grand Charognard, a mis au point une arme de fortune, [relic0_name], et a réussi à arrêter le [foeLeader] avant qu'il ne soit trop tard.</li>
 	<li>victory(tag=meme_Scrapper)         ->Voyant la débrouillardise de [founderName], ses disciples l'ont nommé professeur et ont appris de lui les secrets de la récupération des technologies anciennes.</li>
 	<!-- ideological founder -->
 	<li>setup(tag=meme_Scrapper)           ->[founderName] était un ingénieur dans le Glitterworld. [founder_pronoun] a remarqué que les vaisseaux d'exploration à longue portée envoyés dans les Limbes parlaient toujours d'anciennes technologies éparpillées dans les myriades de mondes. Ces technologies anciennes pourraient-elles être étudiées, modifiées et réutilisées ?</li>
@@ -1670,7 +1670,7 @@
 	<!-- theist founder -->
 	<li>intro(tag=meme_Nationalist)           ->Sur la [place_summary] [place_name], d'énormes statues monolithiques saluaient et exaltaient la gloire de [deity0_name].</li>
 	<li>conflict(tag=meme_Nationalist)           ->Un [foeLeader] lâche a regardé cela avec mépris, car c'était un révolutionnaire qui ne croyait pas à l'ordre, à la justice et à l'honneur.</li>
-	<li>founderJoin(tag=meme_Nationalist)        ->[founderName], l'adepte le plus fidèle de [deity0_name], un vrai patriote, se tenait devant [place_powerCenter], aet prononçait un long discours enthousiaste sur le fait que le [foeLeader] était l'ennemi numéro un le plus puissant contre lequel les [memberNamePlural] étaient engagés et contre lequel ils devaient poursuivre la lutte jusqu'à la dernière goutte de sang.</li>
+	<li>founderJoin(tag=meme_Nationalist)        ->[founderName], l'adepte le plus fidèle de [deity0_name], un vrai patriote, se tenait devant [place_powerCenter], et a prononcé un long discours enthousiaste sur le fait que le [foeLeader] était l'ennemi numéro un le plus puissant contre lequel les [memberNamePlural] étaient engagés et contre lequel ils devaient poursuivre la lutte jusqu'à la dernière goutte de sang.</li>
 	<li>victory(tag=meme_Nationalist)            ->Encouragées par les paroles de [founderName], les troupes du [foeLeader] l'ont incarcéré, et a été exécuté quelques jours plus tard pour la gloire de [deity0_name].</li>
 	<!-- ideological founder -->
 	<li>setup(tag=meme_Nationalist)           ->[founderName] était le héros du peuple, un vrai patriote. Tout le monde était uni sous sa bannière.</li>
