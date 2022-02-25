@@ -1733,40 +1733,40 @@
 <VME_Healthcare.description>Le bien-être de notre corps et de notre esprit est quelque chose que nos gens prennent très au sérieux. Il est important que nous prenions soin les uns des autres et soignions les blessures de nos amis et de notre famille.</VME_Healthcare.description>
 <VME_Healthcare.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_Healthcare)        ->[deity0_name] spoke to [deity0_possessive] followers: "Give people what they need: food, medicine, clean air, pure water, trees and grass. Don't ask who deserves it. Every human being deserves it."</li>
-	<li>episode(uses=1,tag=meme_Healthcare)  ->As [deity0_name] commanded, we always took care of one another and pooled our resources so no one has to suffer alone.</li>
+	<li>creation(tag=meme_Healthcare)        ->[deity0_name] a parlé à ses disciples : " Donnez aux gens ce dont ils ont besoin : nourriture, médicaments, air pur, eau pure, arbres et herbe. Ne demandez pas qui le mérite. Chaque être humain le mérite."</li>
+	<li>episode(uses=1,tag=meme_Healthcare)  ->Sur ordre de [deity0_name], nous avons toujours pris soin les uns des autres et mis en commun nos ressources pour que personne n'ait à souffrir seul.</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_Healthcare)           ->On the [place_summary] [place_name], the [memberNamePlural] built a gigantic hospital, where the ill and infirm were taken care of.</li>
-	<li>conflict(tag=meme_Healthcare)        ->An evil insurance seller, seeing [foeLeader_possessive] profits evaporate due to public healthcare, wanted to sabotage the hospital by any means necessary.</li>
-	<li>founderJoin(tag=meme_Healthcare)     ->Our founder, [founderName], firmly spoke to [foeLeader_objective]: "It is hard to talk about a middle ground for something that is a fundamental right".</li>
-	<li>victory(tag=meme_Healthcare)         ->Eventually, everyone was convinced of [founderName_possessive] arguments, and the [memberNamePlural] will forever believe in universal healthcare.</li>
+	<li>intro(tag=meme_Healthcare)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont construit un gigantesque hôpital, où les malades et les infirmes étaient pris en charge.</li>
+	<li>conflict(tag=meme_Healthcare)        ->Un vendeur d'assurance maléfique, voyant ses profits s'évaporer en raison des soins de santé publics, voulait saboter l'hôpital par tous les moyens.</li>
+	<li>founderJoin(tag=meme_Healthcare)     ->Notre fondateur, [founderName], lui a parlé fermement : "Il est difficile de parler d'un juste milieu pour quelque chose qui est un droit fondamental."</li>
+	<li>victory(tag=meme_Healthcare)         ->Finalement, tout le monde a été convaincu de ses arguments, et les [memberNamePlural] croiront toujours aux soins de santé universels.</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_Healthcare)           ->[founderName] was an accomplished surgeon in one of the Glitterworlds, but lost the use of his hands in a traffic accident. That's how he became Sorcerer Supreme and... wait, wrong Universe...</li>
-	<li>story(uses=1,tag=meme_Healthcare)    ->[founderName] argued that health is your warranty seal. It seems quite pointless to waste health relentlessly in order to earn money that we shall spend on recovering health.</li>
+	<li>setup(tag=meme_Healthcare)           ->[founderName] était un chirurgien accompli dans le Glitterworld, mais il a perdu l'usage de ses mains dans un accident de la route. C'est ainsi qu'il est devenu le Sorcier Suprême et... attendez... ce n'est pas le bon Univers...</li>
+	<li>story(uses=1,tag=meme_Healthcare)    ->[founderName] a fait valoir que la santé est votre sceau de garantie. Il semble tout à fait inutile de gaspiller sans cesse la santé pour gagner de l'argent que l'on dépensera pour préserver la santé.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_Healthcare)         ->The oldest doctor in our colony taught me the history of healthcare, how healing those who have no means to heal themselves is the basis of a free society. He was leading me to understand that</li>
-	<li>lesson(tag=meme_Healthcare)              ->every single journey of your life starts with a healthy mind and a healthy journey</li>
-	<li>lessonReinforcement(tag=meme_Healthcare) ->You may not appreciate the presence of good health, but you will definitely regret the absence of good health, because health is happiness.</li>
+	<li>lessonIntro(tag=meme_Healthcare)         ->Le plus vieux médecin de notre colonie m'a enseigné l'histoire des soins de santé, comment soigner ceux qui n'ont pas les moyens de se soigner eux-mêmes est la base d'une société libre. Il m'a amené à comprendre que</li>
+	<li>lesson(tag=meme_Healthcare)              ->chaque voyage de notre vie débute par un esprit sain et un voyage sain</li>
+	<li>lessonReinforcement(tag=meme_Healthcare) ->Vous n'apprécierez peut-être pas la présence d'une bonne santé, mais vous regretterez certainement l'absence d'une bonne santé, car la santé, c'est le bonheur.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_Healthcare)    ->Archotechs are wise beyond measure. The values of compassion and empathy are important to them.</li>
-	<li>archistFact(tag=meme_Healthcare)     ->A society that doesn't take care of those in need is a cruel mockery of civilization. How would the archotechs judge us if we didn't heal those who need it?</li>
-	<li>archistProphecy(tag=meme_Healthcare) ->[inTheEnd], the archotechs will allow only the most compassionate of us to transcend.</li>
+	<li>archistBasis(tag=meme_Healthcare)    ->Les archotechs sont d'une sagesse sans commune mesure. Les valeurs de compassion et d'empathie sont importantes pour eux.</li>
+	<li>archistFact(tag=meme_Healthcare)     ->Une société qui ne prend pas soin de ceux qui en ont besoin est une parodie cruelle de la civilisation. Comment les archotechs nous jugeraient-ils si nous ne soignions pas ceux qui en ont besoin ?</li>
+	<li>archistProphecy(tag=meme_Healthcare) ->[inTheEnd], les archotechs ne permettront qu'aux plus compatissants d'entre nous l'accès à la transcendance.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_Healthcare)    ->The spirits value compassion and empathy above anything else.</li>
-	<li>animistFact(tag=meme_Healthcare)     ->The soul is the same in all living creatures, so it makes sense to make no distinctions when healing others.</li>
-	<li>animistProphecy(tag=meme_Healthcare) ->[itIsSaid] that only those who can truly take care of anyone in need will be able to commune with the spirits.</li>
+	<li>animistBasis(tag=meme_Healthcare)    ->Les esprits valorisent la compassion et l'empathie par-dessus tout.</li>
+	<li>animistFact(tag=meme_Healthcare)     ->L'âme est la même dans toutes les créatures vivantes, il est donc logique de ne faire aucune distinction lorsqu'on soigne les autres.</li>
+	<li>animistProphecy(tag=meme_Healthcare) ->[itIsSaid] que seuls ceux qui peuvent vraiment prendre soin des personnes dans le besoin pourront communier avec les esprits.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_Healthcare)->[itIsSaid] we will take care of each other like insects do. Unified in purpose, will, and compassion for each other.</li>
+	<li>serketistProphecy(tag=meme_Healthcare)->[itIsSaid] nous prendrons soin les uns des autres comme le font les insectes. Unifiés dans le but, la volonté et la compassion les uns envers les autres.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_Healthcare)->These eldritch entities would see us fight and quarrel among ourselves, rip each other apart. We will show them that compassion and empathy are the only goals worth pursuing.</li>
+	<li>chthonianProphecy(tag=meme_Healthcare)->Ces entités eldritch nous verraient nous battre et nous disputer entre nous, nous déchirer les uns les autres. Nous leur montrerons que la compassion et l'empathie sont les seuls buts qui valent la peine d'être poursuivis.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_Healthcare)->Such occult knowledge will require a pure mind to fathom. Through compassion and empathy towards others we will reach a state of mind that will allow us to see the cosmos for what it truly is.</li>
+	<li>esotericismProphecy(tag=meme_Healthcare)->De telles connaissances occultes nécessitent un esprit pur pour les appréhender. Par la compassion et l'empathie envers les autres, nous atteindrons un état d'esprit qui nous permettra de voir le cosmos tel qu'il est vraiment.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_Healthcare)->We will cherish and support each other, for we are a bastion of purity in this obscene world, and by comparison we will see the iniquity of it and why its cruel inhabitants must be purged.</li>
+	<li>eschatologismFact(tag=meme_Healthcare)->Nous nous chérirons et nous nous soutiendrons mutuellement, car nous sommes un bastion de pureté dans ce monde obscène, et par comparaison, nous verrons son iniquité et pourquoi ses cruels habitants doivent être purgés.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_Healthcare)->Let me remind you that the company offers some comprehensive healthcare benefits as part of your employment contract. Feel free to peruse the details on the company's intranet and direct any enquiries to the human resources department.</li>
+	<li>introMemo(tag=meme_Healthcare)->Permettez-moi de vous rappeler que la société offre des prestations de santé complètes dans le cadre de votre contrat de travail. N'hésitez pas à consulter les détails sur l'intranet de l'entreprise et à adresser toute demande de renseignements au service des ressources humaines.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_Healthcare)->These wayward creatures are poor, innocent beings. We should take care of them and show compassion and empathy.</li>
+	<li>alienistProphecy(tag=meme_Healthcare)->Ces créatures errantes sont des êtres pauvres et innocents. Nous devons prendre soin d'elles et faire preuve de compassion et d'empathie.</li>
 </VME_Healthcare.descriptionMaker.rules.rulesStrings>
 <VME_Healthcare.generalRules.rulesStrings>
 	<li>memeAdjective->sain</li>
