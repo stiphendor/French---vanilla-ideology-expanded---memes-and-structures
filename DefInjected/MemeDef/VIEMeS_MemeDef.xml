@@ -1610,40 +1610,40 @@
 <VME_Emancipation.description>Il ne suffit pas de simplement ne pas participer à l'esclavage, nous devons travailler activement pour lutter contre ceux qui osent réduire en esclavage les autres et libérer ceux qui ont subi de telles inhumanités.</VME_Emancipation.description>
 <VME_Emancipation.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_Emancipation)        ->[deity0_name] showed us that slavery is aberrant, and should be stopped at all costs.</li>
-	<li>episode(uses=1,tag=meme_Emancipation)  ->[deity0_name] said to all the [memberNamePlural], "Those who deny freedom to others, deserve it not for themselves."</li>
+	<li>creation(tag=meme_Emancipation)        ->[deity0_name] nous a montré que l'esclavage est aberrant, et qu'il faut y mettre fin à tout prix.</li>
+	<li>episode(uses=1,tag=meme_Emancipation)  ->[deity0_name] dit à tous les [memberNamePlural] : "Ceux qui refusent la liberté aux autres ne la méritent pas pour eux-mêmes."</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_Emancipation)           ->On the [place_summary] [place_name], a tradition began at the [altarRoomLabel] of [deity0_name] where slaves were freed and given a new chance at life.</li>
-	<li>conflict(tag=meme_Emancipation)           ->A bigot [foeLeader] looked at this with scorn, for [foeLeader_pronoun] was a slaver that saw [foeLeader_possessive] profits threatened.</li>
-	<li>founderJoin(tag=meme_Emancipation)        ->[deity0_name]'s truest follower [founderName] stood before the [place_powerCenter], and gave a long, passionate speech about emancipation and the evils of slavery.</li>
-	<li>victory(tag=meme_Emancipation)            ->Even if the [foeLeader] wasn't convinced by the arguments, everyone else applauded [founderName]'s words, and [founder_pronoun] was considered from that moment to be [deity0_name]'s speaker.</li>
+	<li>intro(tag=meme_Emancipation)           ->Sur la [place_summary] [place_name], une tradition née à [altarRoomLabel] de [deity0_name] de GOD où les esclaves étaient libérés et se voyaient offrir une nouvelle chance dans la vie.</li>
+	<li>conflict(tag=meme_Emancipation)           ->Un [foeLeader] bigot regardait cela avec mépris, car [foeLeader_pronoun] était un esclavagiste qui voyait ses profits menacés.</li>
+	<li>founderJoin(tag=meme_Emancipation)        ->[founderName], le plus fidèle disciple de [deity0_name] , s'est tenu devant [place_powerCenter], et a prononcé un long discours passionné sur l'émancipation et les méfaits de l'esclavage.</li>
+	<li>victory(tag=meme_Emancipation)            ->Même si le [foeLeader] n'était pas convaincu par les arguments, tous les autres ont applaudi les paroles de [founderName], et [founder_pronoun] a été considéré à partir de ce moment comme l'orateur de [deity0_name].</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_Emancipation)           ->[founderName] was born in an oppressive urbworld where slavery was commonplace. [founder_pronoun] grew up seeing other human beings being used as property, and this deeply disgusted [founder_objective].</li>
-	<li>story(uses=1,tag=meme_Emancipation)    ->[founderName] set out to abolish slavery in [founder_possessive] native planet, and with [founder_possessive] success [founder_possessive] philosophy spread across the stars.</li>
+	<li>setup(tag=meme_Emancipation)           ->[founderName] est né dans un monde urbain oppressif où l'esclavage était monnaie courante. [founder_pronoun] a grandi en voyant d'autres êtres humains être utilisés comme des biens, et cela l'a profondément dégoûté.</li>
+	<li>story(uses=1,tag=meme_Emancipation)    ->[founderName] a entrepris d'abolir l'esclavage sur sa planète natale et, grâce à son succès, sa philosophie s'est répandue dans les étoiles.</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_Emancipation)         ->Slavery is theft -- theft of a life, theft of work, theft of any property or produce, theft even of the children a slave might have borne. It is so important you understand that</li>
-	<li>lesson(tag=meme_Emancipation)              ->nature made no man a slave</li>
-	<li>lessonReinforcement(tag=meme_Emancipation) ->To subjugate another is to subjugate yourself.</li>
+	<li>lessonIntro(tag=meme_Emancipation)         ->L'esclavage est un vol - le vol d'une vie, le vol du travail, le vol de tout bien ou produit, le vol même des enfants qu'une esclave aurait pu porter. Il est si important que vous compreniez que</li>
+	<li>lesson(tag=meme_Emancipation)              ->la nature n'a pas fait de l'homme un esclave</li>
+	<li>lessonReinforcement(tag=meme_Emancipation) ->Soumettre un autre, c'est se soumettre soi-même.</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_Emancipation)    ->Archotechs are the pinnacle of ethical development. Beings so wise and so advanced that they have achieved perfection in their thoughts.</li>
-	<li>archistFact(tag=meme_Emancipation)     ->To an archotech, slavery is an abhorrent sin. Treating another human like an object.</li>
-	<li>archistProphecy(tag=meme_Emancipation) ->Only by abolishing slavery and fighting against it everywhere we see it can we become worthy of transcendence.</li>
+	<li>archistBasis(tag=meme_Emancipation)    ->Les archotechs sont le summum du développement éthique. Des êtres si sages et si avancés qu'ils ont atteint la perfection dans leurs pensées.</li>
+	<li>archistFact(tag=meme_Emancipation)     ->Pour un archotech, l'esclavage est un péché odieux. Traiter un autre humain comme un objet..</li>
+	<li>archistProphecy(tag=meme_Emancipation) ->Ce n'est qu'en abolissant l'esclavage et en le combattant partout où nous le voyons que nous pouvons devenir dignes de la transcendance.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_Emancipation)    ->The very concept of slavery, of owning another human being as if it were an object, is incomprehensible to the spirits.</li>
-	<li>animistFact(tag=meme_Emancipation)     ->To the spirits, slavery is not only sinful and wrong, but something that should be actively fought against in any way possible.</li>
-	<li>animistProphecy(tag=meme_Emancipation) ->[itIsSaid] only by abolishing slavery and fighting against it everywhere we see it can we make the spirits truly listen to us.</li>
+	<li>animistBasis(tag=meme_Emancipation)    ->Le concept même d'esclavage, le fait de posséder un autre être humain comme s'il s'agissait d'un objet, est incompréhensible pour les esprits.</li>
+	<li>animistFact(tag=meme_Emancipation)     ->Pour les esprits, l'esclavage est non seulement un péché et un mal, mais aussi quelque chose qui doit être activement combattu par tous les moyens possibles.</li>
+	<li>animistProphecy(tag=meme_Emancipation) ->[itIsSaid] seuls l'abolition de l'esclavage et la lutte contre l'esclavage partout où nous le voyons peuvent faire en sorte que les esprits nous écoutent vraiment.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_Emancipation)->[itIsSaid] we will form a society in which no human owns another as if it were a mere object. Accepting and tolerant, as all insects are.</li>
+	<li>serketistProphecy(tag=meme_Emancipation)->[itIsSaid] nous formerons une société dans laquelle aucun humain n'en possède un autre comme s'il s'agissait d'un simple objet. Acceptant et tolérant, comme le sont tous les insectes.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_Emancipation)->These eldritch entities would love nothing more than to enslave the human race to do their bidding.</li>
+	<li>chthonianProphecy(tag=meme_Emancipation)->Ces entités eldritch n'aimeraient rien de plus que d'asservir la race humaine à leurs ordres.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_Emancipation)->Such occult knowledge will require an unshackled mind. As long as the mind is enslaved, the body can never be free.</li>
+	<li>esotericismProphecy(tag=meme_Emancipation)->Une telle connaissance occulte nécessite un esprit libéré. Tant que l'esprit est asservi, le corps ne peut jamais être libre.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_Emancipation)->Only by working together can be bring the end of the world. We will free every shackled slave and recruit them to our cause.</li>
+	<li>eschatologismFact(tag=meme_Emancipation)->Ce n'est qu'en travaillant ensemble que nous pourrons apporter la fin du monde. Nous allons libérer tous les esclaves enchaînés et les recruter à notre cause.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_Emancipation)->We all know some other corporations in the Rim engage in "pseudo-illicit exploitment of human capital", so it is company policy to free these "forced employees" as soon as we can, and offer them an internship with us.</li>
+	<li>introMemo(tag=meme_Emancipation)->Nous savons tous que d'autres entreprises de la Bordure se livrent à une "exploitation pseudo-illicite du capital humain". La politique de l'entreprise consiste donc à libérer ces "employés forcés" dès que possible et à leur proposer un stage chez nous.</li>
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_Emancipation)->These wayward creatures embody the concept of freedom that we espouse, and we'd do well to learn from them.</li>
+	<li>alienistProphecy(tag=meme_Emancipation)->Ces créatures capricieuses incarnent le concept de liberté que nous défendons, et nous ferions bien d'apprendre d'elles.</li>
 </VME_Emancipation.descriptionMaker.rules.rulesStrings>
 <VME_Emancipation.generalRules.rulesStrings>
 	<li>memeAdjective->émancipation</li>
