@@ -1500,40 +1500,40 @@
 <VME_PartyLife.description>Portons un toast aux actes de danse, de boisson et de débauche. Tout temps libre est un bon moment, mais la fête est le meilleur moment.</VME_PartyLife.description>
 <VME_PartyLife.descriptionMaker.rules.rulesStrings>
 	<!-- theist myth -->
-	<li>creation(tag=meme_PartyLife)        ->[deity0_name] spoke to [deity0_possessive] followers: "Mark this day in your calendars as an occasion for revelry, for celebrations are sacred to me."</li>
-	<li>episode(uses=1,tag=meme_PartyLife)  ->From that day on, we celebrated.</li>
+	<li>creation(tag=meme_PartyLife)        ->[deity0_name] a parlé à ses disciples : "Marquez ce jour dans vos calendriers comme une occasion de réjouissance, car les célébrations sont sacrées pour moi."</li>
+	<li>episode(uses=1,tag=meme_PartyLife)  ->Depuis ce jour, nous avons fait la fête.</li>
 	<!-- theist founder -->
-	<li>intro(tag=meme_PartyLife)           ->On the [place_summary] [place_name], the [memberNamePlural] built a gigantic scenario. It would be the perfect place to party, and glorify [deity0_name].</li>
-	<li>conflict(tag=meme_PartyLife)        ->The neighbours, however, weren't happy with the amount of noise, for they wanted their hard earned repose.</li>
-	<li>founderJoin(tag=meme_PartyLife)     ->[founderName], known as the Great Reveler, would have none of that nonsense. Rest is for the weak! Bring more cocktails!</li>
-	<li>victory(tag=meme_PartyLife)         ->So they turned the level of the music even higher. Party on!</li>
+	<li>intro(tag=meme_PartyLife)           ->Sur la [place_summary] [place_name], les [memberNamePlural] ont aménagé un gigantesque lieu. Ce serait l'endroit parfait pour faire la fête, et glorifier [deity0_name].</li>
+	<li>conflict(tag=meme_PartyLife)        ->Cependant, les voisins étaient mécontents du niveau de bruit, et voulaient leur repos durement gagné.</li>
+	<li>founderJoin(tag=meme_PartyLife)     ->[founderName], connu sous le nom de Grand Fêtard, ne voulait pas de ces idioties. Le repos est pour les faibles ! Apportez plus de cocktails !</li>
+	<li>victory(tag=meme_PartyLife)         ->Ils ont donc monté le niveau sonore de la musique d'un cran. C'est la fête !</li>
 	<!-- ideological founder -->
-	<li>setup(tag=meme_PartyLife)           ->[founderName] was a renowned philosopher, [founder_possessive] name heard all across the stars. [founder_pronoun] posited that life is too short to be lived without enjoying oneself, and that only by extolling the virtues of a party life can one hope to be truly fulfilled.</li>
-	<li>story(uses=1,tag=meme_PartyLife)    ->Unfortunately, [founder_pronoun] was found dead of an overdose a few years back. That must have been one hell of a party!</li>
+	<li>setup(tag=meme_PartyLife)           ->[founderName] était un philosophe renommé, dont le nom a été mentionné dans toutes les étoiles. [founder_pronoun] affirmait que la vie est trop courte pour être vécue sans s'amuser, et que ce n'est qu'en vantant les mérites d'une vie de fête que l'on peut espérer être vraiment comblé.</li>
+	<li>story(uses=1,tag=meme_PartyLife)    ->Malheureusement, [founder_pronoun] a été retrouvé mort d'une overdose il y a quelques années. Ça a dû être une sacrée fête !</li>
 	<!-- ideological lesson -->
-	<li>lessonIntro(tag=meme_PartyLife)         ->Listen, listen, come closer. Oh, man, what a hangover... You see, I want to tell you that</li>
-	<li>lesson(tag=meme_PartyLife)              ->I love going out. I love partying. Yeah, that's it</li>
-	<li>lessonReinforcement(tag=meme_PartyLife) ->Now bugger off, and stop shouting. Damn, my poor head...</li>
+	<li>lessonIntro(tag=meme_PartyLife)         ->Écoute, écoute, approche-toi. Oh, mec, quelle gueule de bois... Tu vois, je veux te dire que</li>
+	<li>lesson(tag=meme_PartyLife)              ->j'aime sortir. J'aime faire la fête. Oui, c'est ça.</li>
+	<li>lessonReinforcement(tag=meme_PartyLife) ->Maintenant, va te faire voir, et arrête de crier. Merde, ma pauvre tête...</li>
 	<!-- archist -->
-	<li>archistBasis(tag=meme_PartyLife)    ->Do you really think the archotechs, in their infinite wisdom, care anything for those who don't know how to enjoy themselves?</li>
-	<li>archistFact(tag=meme_PartyLife)     ->The archotechs can't ascend everyone, and it stands to reason that they will choose the funniest, happiest among us.</li>
-	<li>archistProphecy(tag=meme_PartyLife) ->[inTheEnd], only those who spend their lives partying in a thousand reveries will be allowed to transcend.</li>
+	<li>archistBasis(tag=meme_PartyLife)    ->Pensez-vous vraiment que les archotechs, dans leur infinie sagesse, se soucient de ceux qui ne savent pas s'amuser ?</li>
+	<li>archistFact(tag=meme_PartyLife)     ->Les archotechs ne peuvent pas élever tout le monde, et il est logique qu'ils choisissent les plus drôles et les plus heureux d'entre nous.</li>
+	<li>archistProphecy(tag=meme_PartyLife) ->[inTheEnd], seuls ceux qui passent leur vie à faire la fête dans un millier de rêveries seront autorisés à la transcendance.</li>
 	<!-- animist -->
-	<li>animistBasis(tag=meme_PartyLife)    ->The spirits want us to enjoy life. What sense does it make to pass through life like a shadow?</li>
-	<li>animistFact(tag=meme_PartyLife)     ->Among the spirits, the spirit of joy and revelry has unrivaled wisdom. It alone knows how to enjoy itself.</li>
-	<li>animistProphecy(tag=meme_PartyLife) ->[itIsSaid] only those who spend their lives partying in a thousand reveries can truly appease the spirits.</li>
+	<li>animistBasis(tag=meme_PartyLife)    ->Les esprits veulent que nous profitions de la vie. Quel sens cela a-t-il de passer dans la vie comme une ombre ?</li>
+	<li>animistFact(tag=meme_PartyLife)     ->Parmi les esprits, l'esprit de la joie et des réjouissances possède une sagesse inégalée. Lui seul sait comment s'amuser.</li>
+	<li>animistProphecy(tag=meme_PartyLife) ->[itIsSaid] seuls ceux qui passent leur vie à faire la fête dans mille rêveries peuvent vraiment apaiser les esprits.</li>
 	<!-- serketist -->
-	<li>serketistProphecy(tag=meme_PartyLife)->[itIsSaid] we will party. This... actually has nothing to do with insects whatsoever. I guess... a beetle probably would enjoy a beer? Yeah, let's go with that. I'm drunk already anyway.</li>
+	<li>serketistProphecy(tag=meme_PartyLife)->[itIsSaid] nous ferons la fête. Cela... n'a en fait rien à voir avec les insectes. Je suppose... qu'un coléoptère apprécierait probablement une bière ? Ouais, allons-y avec ça. Je suis déjà bourré de toute façon.</li>
 	<!-- eldritch / chthonian -->
-	<li>chthonianProphecy(tag=meme_PartyLife)->Such eldritch entities can't be fought, can't be defeated. We might as well be drunk out of our minds if we have to face them.</li>
+	<li>chthonianProphecy(tag=meme_PartyLife)->De telles entités eldritch ne peuvent pas être combattues, ne peuvent pas être vaincues. Nous pourrions aussi bien être ivres morts si nous devions leur faire face.</li>
 	<!-- esoteric -->
-	<li>esotericismProphecy(tag=meme_PartyLife)->Such occult knowledge can't be faced sober.</li>
+	<li>esotericismProphecy(tag=meme_PartyLife)->Une telle connaissance occulte ne peut être affrontée sobrement.</li>
 	<!-- eschatologism -->
-	<li>eschatologismFact(tag=meme_PartyLife)->The world will burn, and this is something that is better not to face sober.</li>
+	<li>eschatologismFact(tag=meme_PartyLife)->Le monde va brûler, et c'est quelque chose qu'il vaut mieux ne pas affronter sobrement.</li>
 	<!-- corporate -->
-	<li>introMemo(tag=meme_PartyLife)->It's our favourite time of the year already! The company's mandatory team-building exercise will be scheduled for this next Tuesday. Remember to bring your tennis paddles!</li>					
+	<li>introMemo(tag=meme_PartyLife)->C'est déjà notre moment préféré de l'année ! L'exercice obligatoire de consolidation d'équipe de l'entreprise aura lieu mardi prochain. N'oubliez pas d'apporter vos raquettes de tennis !</li>					
 	<!-- alienist -->
-	<li>alienistProphecy(tag=meme_PartyLife)->I have heard there is even some weird lizard that turns plants into alcohol. Ohhh, man, I could hug that lizard right now.</li>
+	<li>alienistProphecy(tag=meme_PartyLife)->J'ai entendu dire qu'il y a même un lézard bizarre qui transforme les plantes en alcool. Ohhh, mec, je pourrais faire un câlin à ce lézard tout de suite.</li>
 </VME_PartyLife.descriptionMaker.rules.rulesStrings>
 <VME_PartyLife.generalRules.rulesStrings>
 	<li>memeCreed->fête</li>
