@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<VME_AutomationEfficiency_Increased.label>augmenté</VME_AutomationEfficiency_Increased.label>
-<VME_AutomationEfficiency_Increased.description>Des boiseries d'un simple arc aux grands factoriums, un maître artisan sait fabriquer avec efficacité.\n\n&lt;color=#E5E54C&gt;Stats :&lt;/color&gt;\n - Vitesse de la table de travail électrique : +50 %.\n - Vanilla Factions Expanded - Vitesse des usines de mécanoïdes : +25%.</VME_AutomationEfficiency_Increased.description>
+<VME_AutomationEfficiency_Increased.label>augmentée</VME_AutomationEfficiency_Increased.label>
+<VME_AutomationEfficiency_Increased.description>Des boiseries d'un simple arc aux grands factoriums, un maître artisan sait fabriquer avec efficacité.\n\n&lt;color=#E5E54C&gt;Stats :&lt;/color&gt;\n - Vitesse des établis électriques : +50 %.\n - Vanilla Factions Expanded - Vitesse des usines de mécanoïdes : +25%.</VME_AutomationEfficiency_Increased.description>
 
-<VME_AutomationEfficiency_Decreased.label>réduit</VME_AutomationEfficiency_Decreased.label>
-<VME_AutomationEfficiency_Decreased.description>Les machines avancées et les usines automatisées sont à éviter, car elles nuisent à la finesse du travail artisanal.\n\n&lt;color=#E5E54C&gt;Stats :&lt;/color&gt;\n - Vitesse de la table de travail électrique : -50%\n - Vanilla Factions Expanded - Vitesse des usines de mécanoïdes : -25%.</VME_AutomationEfficiency_Decreased.description>
+<VME_AutomationEfficiency_Decreased.label>réduite</VME_AutomationEfficiency_Decreased.label>
+<VME_AutomationEfficiency_Decreased.description>Les machines avancées et les usines automatisées sont à éviter, car elles nuisent à la finesse du travail artisanal.\n\n&lt;color=#E5E54C&gt;Stats :&lt;/color&gt;\n - Vitesse des établis électriques : -50%\n - Vanilla Factions Expanded - Vitesse des usines de mécanoïdes : -25%.</VME_AutomationEfficiency_Decreased.description>
 
 
 </LanguageData>
