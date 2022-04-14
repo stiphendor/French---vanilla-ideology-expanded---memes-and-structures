@@ -297,12 +297,12 @@
 <VME_RecentConquest_Abhorrent.stages.no_recent_conquest.label>pas de conquête récente</VME_RecentConquest_Abhorrent.stages.no_recent_conquest.label>
 <VME_RecentConquest_Abhorrent.stages.no_recent_conquest.description>Cela fait longtemps que nous n'avons pas fait de raids. C'est comme ça que ça doit être, nous ne sommes pas des brutes.</VME_RecentConquest_Abhorrent.stages.no_recent_conquest.description>
 
-<VME_Ranching_Disliked.stages.no_pen_markers_around.label>aucun marqueur à plume</VME_Ranching_Disliked.stages.no_pen_markers_around.label>
+<VME_Ranching_Disliked.stages.no_pen_markers_around.label>aucun marqueur d'enclos</VME_Ranching_Disliked.stages.no_pen_markers_around.label>
 <VME_Ranching_Disliked.stages.no_pen_markers_around.description>Nous n'avons pas d'animaux emprisonnés. C'est ainsi que les choses devraient être.</VME_Ranching_Disliked.stages.no_pen_markers_around.description>
-<VME_Ranching_Disliked.stages.pen_marker_around.label>marqueur à plume</VME_Ranching_Disliked.stages.pen_marker_around.label>
-<VME_Ranching_Disliked.stages.pen_marker_around.description>Nous avons un marqueur de plume dans notre colonie. Les animaux ne sont pas nos esclaves et ne devraient pas être gardés en captivité, c'est immoral.</VME_Ranching_Disliked.stages.pen_marker_around.description>
-<VME_Ranching_Disliked.stages.pen_markers_around.label>marqueur à plume</VME_Ranching_Disliked.stages.pen_markers_around.label>
-<VME_Ranching_Disliked.stages.pen_markers_around.description>Nous avons plusieurs marqueurs de plume dans notre colonie. Les animaux ne sont pas nos esclaves et ne devraient pas être gardés en captivité, c'est immoral !</VME_Ranching_Disliked.stages.pen_markers_around.description>
+<VME_Ranching_Disliked.stages.pen_marker_around.label>marqueur d'enclos</VME_Ranching_Disliked.stages.pen_marker_around.label>
+<VME_Ranching_Disliked.stages.pen_marker_around.description>Nous avons un enclos dans notre colonie. Les animaux ne sont pas nos esclaves et ne devraient pas être gardés en captivité, c'est immoral.</VME_Ranching_Disliked.stages.pen_marker_around.description>
+<VME_Ranching_Disliked.stages.pen_markers_around.label>marqueur d'enclos</VME_Ranching_Disliked.stages.pen_markers_around.label>
+<VME_Ranching_Disliked.stages.pen_markers_around.description>Nous avons plusieurs enclos dans notre colonie. Les animaux ne sont pas nos esclaves et ne devraient pas être gardés en captivité, c'est immoral !</VME_Ranching_Disliked.stages.pen_markers_around.description>
 <VME_Ranching_Disliked.stages.factory_farming.label>élevage industriel</VME_Ranching_Disliked.stages.factory_farming.label>
 <VME_Ranching_Disliked.stages.factory_farming.description>Notre colonie a trop d'enclos, remplis de pauvres animaux dans des conditions exiguës, élevés pour l'abattage. Je suis écœuré.</VME_Ranching_Disliked.stages.factory_farming.description>
 <VME_Ranching_Disliked_AttackedAnimal.stages.attacked_an_animal.label>a attaqué un animal</VME_Ranching_Disliked_AttackedAnimal.stages.attacked_an_animal.label>
