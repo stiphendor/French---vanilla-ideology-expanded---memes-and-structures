@@ -2,19 +2,19 @@
 <LanguageData>
 
 <VME_DumbLabor_Exalted.label>exalté</VME_DumbLabor_Exalted.label>
-<VME_DumbLabor_Exalted.description>Un corps douloureux doit être vénéré. Rien n'est plus gratifiant qu'une journée de travail acharné.</VME_DumbLabor_Exalted.description>
+<VME_DumbLabor_Exalted.description>Un corps douloureux doit être vénéré. Rien n'est plus gratifiant qu'une journée de travail acharnée.</VME_DumbLabor_Exalted.description>
 
 <VME_DumbLabor_Liked.label>apprécié</VME_DumbLabor_Liked.label>
-<VME_DumbLabor_Liked.description>Le travail acharné est bon pour votre corps et pour votre esprit.</VME_DumbLabor_Liked.description>
+<VME_DumbLabor_Liked.description>Le travail manuel est bon pour votre corps et pour votre esprit.</VME_DumbLabor_Liked.description>
 
 <VME_DumbLabor_Indifferent.label>indifférent</VME_DumbLabor_Indifferent.label>
 <VME_DumbLabor_Indifferent.description>Les tâches peu qualifiées sont nécessaires. C'est tout ce qu'on peut en dire.</VME_DumbLabor_Indifferent.description>
 
 <VME_DumbLabor_Disliked.label>peu apprécié</VME_DumbLabor_Disliked.label>
-<VME_DumbLabor_Disliked.description>Nous préférons ne pas effectuer de tâches de nettoyage et de transport, car elles sont incroyablement épuisantes, mais elles sont nécessaires.</VME_DumbLabor_Disliked.description>
+<VME_DumbLabor_Disliked.description>Nous préférons ne pas effectuer de tâches de nettoyage et de transport, car bien que nécesaires, elles sont incroyablement épuisantes.</VME_DumbLabor_Disliked.description>
 
 <VME_DumbLabor_Horrible.label>horrible</VME_DumbLabor_Horrible.label>
-<VME_DumbLabor_Horrible.description>Nous ne devons pas subir la dégradation laborieuse de notre corps, ni la dégradation de la sueur qui se forme sur notre front.\n\n&lt;color=#E5E54C&gt;Effet sur le gameplay:&lt;/color&gt;\n - Les rôles de chef et de moraliste seront incapables de faire du travail peu qualifié.</VME_DumbLabor_Horrible.description>
+<VME_DumbLabor_Horrible.description>Notre corps ne doit ne doit pas connaître le dur labeur, et la sueur ne doit pas couler sur notre front.\n\n&lt;color=#E5E54C&gt;Effet sur le jeu:&lt;/color&gt;\n - Les rôles de chef et de moraliste seront incapables de faire du travail peu qualifié.</VME_DumbLabor_Horrible.description>
 
 
 </LanguageData>
