@@ -2,14 +2,12 @@
 <LanguageData>
 
 <VME_CeremonialSuicideRitual.ritualExpectedDesc>Une fois qu'un membre {IDEO} est vaincu deux fois dans un combat honorable avec un ennemi hostile, les autres {MEMBERS} s'attendent à ce que {RITUAL_labelDef} ait lieu pour nettoyer le déshonneur de la colonie.</VME_CeremonialSuicideRitual.ritualExpectedDesc>
-<VME_CeremonialSuicideRitual.ritualExpectedPostfix>{0} {1} souhaite effectuer le suicide cérémonial le plus rapidement possible.</VME_CeremonialSuicideRitual.ritualExpectedPostfix>
 
 <VME_IncantationPattern.ritualExplanation>Le rituel augmentera le besoin de corruption des participants de 10%. Si le besoin dépasse 100%, ils risquent de devenir fous à cause des incantations surnaturelles.</VME_IncantationPattern.ritualExplanation>
 
 <VME_LeaderConversionPattern.ritualExplanation>En cas de succès, leur certitude sera réduite ou ils se convertiront immédiatement. Si cela se retourne contre eux, leur certitude dans leurs propres croyances augmentera.</VME_LeaderConversionPattern.ritualExplanation>
 
 <VME_LeadershipChallengeRitual.ritualExpectedDesc>Un membre {IDEO} a une meilleure compétence de mêlée que le leader actuel, d'autres {MEMBERS} s'attendent à ce que {RITUAL_labelDef} ait lieu afin que seul le leader le plus fort puisse les gouverner.</VME_LeadershipChallengeRitual.ritualExpectedDesc>
-<VME_LeadershipChallengeRitual.ritualExpectedPostfix>{0} {1} souhaite relever le défi du leadership dès que possible.</VME_LeadershipChallengeRitual.ritualExpectedPostfix>
 
 <VME_SlaveEmancipationPattern.ritualExplanation>Le rituel émancipera tous les esclaves participants. Selon le résultat, un pourcentage croissant d'esclaves décidera de rejoindre la colonie ou de partir.</VME_SlaveEmancipationPattern.ritualExplanation>
 
